@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "How does the education system work in Belgium?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The education system in Belgium is divided into different levels: primary, secondary, and higher education."
+        },
+        {
+          "type": "image",
+          "url": "https://example.com/education_image.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Are there any scholarships available for international students?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Several scholarships are available for international students in Belgium..."
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/scholarships_video.mp4"
+        }
+      ]
+    }
+  ]
+}
