@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Comment fonctionne le système éducatif en Belgique ?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Le système éducatif en Belgique est divisé en différents niveaux : l'éducation primaire, secondaire et supérieure."
+        },
+        {
+          "type": "image",
+          "url": "https://example.com/education_image.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Y a-t-il des bourses disponibles pour les étudiants internationaux ?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Plusieurs bourses sont disponibles pour les étudiants internationaux en Belgique..."
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/scholarships_video.mp4"
+        }
+      ]
+    }
+  ]
+}
