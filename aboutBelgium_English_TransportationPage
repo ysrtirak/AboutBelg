@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What are the public transportation options in Belgium?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Belgium has a well-connected public transportation system, including buses, trams, and trains."
+        },
+        {
+          "type": "image",
+          "url": "https://example.com/transportation_image.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "How to get a driver's license in Belgium?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To obtain a driver's license in Belgium, you must pass both theoretical and practical exams."
+        }
+      ]
+    }
+  ]
+}
