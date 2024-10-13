@@ -1,0 +1,50 @@
+{
+  "homePage": {
+    "title": "Explorer la Belgique",
+    "description": "Voici quelques sujets clés à explorer sur la Belgique :",
+    "menu": [
+      {
+        "title": "Éducation",
+        "route": "EducationPage"
+      },
+      {
+        "title": "Emploi",
+        "route": "EmploymentPage"
+      },
+      {
+        "title": "Système de santé",
+        "route": "HealthcarePage"
+      },
+      {
+        "title": "Logement",
+        "route": "HousingPage"
+      },
+      {
+        "title": "Légal",
+        "route": "LegalPage"
+      },
+      {
+        "title": "Transport",
+        "route": "TransportationPage"
+      }
+    ]
+  },
+  "legalPage": {
+    "title": "Informations juridiques"
+  },
+  "educationPage": {
+    "title": "Éducation en Belgique"
+  },
+  "employmentPage": {
+    "title": "Opportunités d'emploi en Belgique"
+  },
+  "healthcarePage": {
+    "title": "Système de santé en Belgique"
+  },
+  "housingPage": {
+    "title": "Informations sur le logement"
+  },
+  "transportationPage": {
+    "title": "Transports"
+  }
+}
