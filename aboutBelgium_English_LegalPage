@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What are the legal requirements for residency?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To legally reside in Belgium, individuals must meet certain residency requirements..."
+        },
+        {
+          "type": "image",
+          "url": "https://www.researchgate.net/publication/349059203/figure/fig7/AS:11431281274253369@1724877175735/Size-of-enrolled-student-group-or-cohort-per-year.tif"
+        },
+        {
+          "type": "paragraph",
+          "text": "The process involves registering with local authorities and ensuring compliance with Belgian law."
+        },
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=GBI-nvyZWeg&t=998s&ab_channel=AhmetKurucan"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is the process of applying for citizenship?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Applying for Belgian citizenship requires fulfilling specific conditions..."
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/citizenship_video.mp4"
+        }
+      ]
+    }
+  ]
+}
