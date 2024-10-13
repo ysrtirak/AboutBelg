@@ -1,0 +1,50 @@
+{
+  "homePage": {
+    "title": "Explore Belgium",
+    "description": "Here are some key topics to explore about Belgium:",
+    "menu": [
+      {
+        "title": "Education",
+        "route": "EducationPage"
+      },
+      {
+        "title": "Employment",
+        "route": "EmploymentPage"
+      },
+      {
+        "title": "Healthcare",
+        "route": "HealthcarePage"
+      },
+      {
+        "title": "Housing",
+        "route": "HousingPage"
+      },
+      {
+        "title": "Legal",
+        "route": "LegalPage"
+      },
+      {
+        "title": "Transportation",
+        "route": "TransportationPage"
+      }
+    ]
+  },
+  "legalPage": {
+    "title": "Legal Information"
+  },
+  "educationPage": {
+    "title": "Education in Belgium"
+  },
+  "employmentPage": {
+    "title": "Employment Opportunities in Belgium"
+  },
+  "healthcarePage": {
+    "title": "Healthcare System in Belgium"
+  },
+  "housingPage": {
+    "title": "Housing Information"
+  },
+  "transportationPage": {
+    "title": "Transportation"
+  }
+}
