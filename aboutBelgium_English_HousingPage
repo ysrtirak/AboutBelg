@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "How to find housing in Belgium?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Finding housing in Belgium can be done through various real estate websites and local agencies."
+        },
+        {
+          "type": "image",
+          "url": "https://example.com/housing_image.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What are the rental regulations in Belgium?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Belgium has specific rental regulations to protect both tenants and landlords."
+        }
+      ]
+    }
+  ]
+}
