@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "How to find a job in Belgium?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Finding a job in Belgium involves using various online platforms and networking opportunities..."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What are the working conditions like in Belgium?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Belgium has a high standard of working conditions, including fair wages, health insurance, and worker rights."
+        },
+        {
+          "type": "image",
+          "url": "https://example.com/working_conditions_image.jpg"
+        }
+      ]
+    }
+  ]
+}
