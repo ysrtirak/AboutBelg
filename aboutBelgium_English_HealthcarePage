@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "How does healthcare insurance work in Belgium?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Belgium has a well-developed healthcare system, with mandatory health insurance for all residents."
+        },
+        {
+          "type": "image",
+          "url": "https://example.com/healthcare_image.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What are the costs associated with healthcare?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Healthcare costs in Belgium are partly covered by insurance, but individuals may need to pay some out-of-pocket expenses."
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/healthcare_costs_video.mp4"
+        }
+      ]
+    }
+  ]
+}
