@@ -33,7 +33,7 @@
     },
     {
           "type": "source",
-          "url": "https://finances.belgium.be"
+          "url": "https://justice.belgium.be"
         }
   ]
 },
@@ -54,7 +54,7 @@
     },
     {
           "type": "source",
-          "url": "https://finances.belgium.be"
+          "url": "https://justice.belgium.be"
         }
   ]
 },
@@ -79,7 +79,7 @@
     },
     {
           "type": "source",
-          "url": "https://finances.belgium.be"
+          "url": "https://justice.belgium.be"
         }
   ]
 },
@@ -96,7 +96,7 @@
       },
 {
           "type": "source",
-          "url": "https://finances.belgium.be"
+          "url": "https://justice.belgium.be"
         }
     ]
   },
@@ -125,7 +125,7 @@
       },
       {
           "type": "source",
-          "url": "https://finances.belgium.be"
+          "url": "https://justice.belgium.be"
         }
     ]
   },
@@ -142,7 +142,7 @@
       },
 {
           "type": "source",
-          "url": "https://finances.belgium.be"
+          "url": "https://justice.belgium.be"
         }
     ]
   },
@@ -162,9 +162,9 @@
         "text": "The necessity of legalization depends on the document's country of origin or destination. Some countries accept an apostille instead."
       },
       {
-        "type": "source",
-        "url": "https://diplomatie.belgium.be",
-      }
+          "type": "source",
+          "url": "https://justice.belgium.be"
+        }
     ]
   },
   {
@@ -179,9 +179,9 @@
         "text": "For foreign use, documents signed by a civil authority require legalization by SPF Foreign Affairs after certification by local authorities."
       },
       {
-        "type": "source",
-        "url": "https://diplomatie.belgium.be",
-      }
+          "type": "source",
+          "url": "https://justice.belgium.be"
+        }
     ]
   },
   {
@@ -200,9 +200,9 @@
         "text": "Translations for foreign use must be legalized by SPF Foreign Affairs unless otherwise stated."
       },
       {
-        "type": "source",
-        "url": "https://justice.belgium.be",
-      }
+          "type": "source",
+          "url": "https://justice.belgium.be"
+        }
     ]
   },
   {
@@ -217,9 +217,9 @@
         "text": "It allows users to submit applications, manage cases, and track updates. Magistrates, lawyers, and notaries also use the system."
       },
       {
-        "type": "source",
-        "url": "https://justice.belgium.be",
-      }
+          "type": "source",
+          "url": "https://justice.belgium.be"
+        }
     ]
   },
   {
@@ -234,9 +234,9 @@
         "text": "The procedure involves submitting a declaration to the civil registry and obtaining approval from the public prosecutor."
       },
       {
-        "type": "source",
-        "url": "https://justice.belgium.be",
-      }
+          "type": "source",
+          "url": "https://justice.belgium.be"
+        }
     ]
   }
 
