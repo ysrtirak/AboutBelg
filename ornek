@@ -38,8 +38,7 @@
         }
       ]
     },
-    
-  {
+    {
     "question": "How long does the procedure take?",
     "content": [
       {
@@ -49,10 +48,10 @@
       {
         "type": "paragraph",
         "text": "Taking into account the formalities of publication and transcription, the total duration of the procedure varies from 6 to 12 months. Simple requests are processed more quickly."
-      }
-    ]
-  },
-  {
+          }
+        ]
+      },
+      {
     "question": "What is the cost of a name change or addition?",
     "content": [
       {
@@ -78,7 +77,6 @@
       {
         "type": "link",
         "url": "https://finances.belgium.be",
-        "text": "More information on payment procedures."
       }
     ]
   },
@@ -113,7 +111,6 @@
       {
         "type": "link",
         "url": "https://diplomatie.belgium.be",
-        "text": "Verify legalization requirements with SPF Foreign Affairs."
       }
     ]
   },
@@ -131,7 +128,6 @@
       {
         "type": "link",
         "url": "https://diplomatie.belgium.be",
-        "text": "Detailed procedures for document use abroad."
       }
     ]
   },
@@ -153,7 +149,6 @@
       {
         "type": "link",
         "url": "https://justice.belgium.be",
-        "text": "Find a sworn translator in Belgium."
       }
     ]
   },
@@ -171,7 +166,6 @@
       {
         "type": "link",
         "url": "https://justice.belgium.be",
-        "text": "Access the RCPP online."
       }
     ]
   },
@@ -189,7 +183,6 @@
       {
         "type": "link",
         "url": "https://justice.belgium.be",
-        "text": "Learn more about transgender rights and procedures."
       }
     ]
   }
