@@ -1,7 +1,6 @@
 {
   "questions": [
     {
-      "id": 1,
       "question": "What are the legal requirements for residency?",
       "content": [
         {
@@ -27,7 +26,6 @@
       ]
     },
     {
-      "id": 2,
       "question": "What is the process of applying for citizenship?",
       "content": [
         {
@@ -39,6 +37,164 @@
           "url": "https://example.com/citizenship_video.mp4"
         }
       ]
-    }
+    },
+    
+  {
+    "question": "How long does the procedure take?",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "The duration of the examination of the application depends on the complexity of each situation and your cooperation during the procedure."
+      },
+      {
+        "type": "paragraph",
+        "text": "Taking into account the formalities of publication and transcription, the total duration of the procedure varies from 6 to 12 months. Simple requests are processed more quickly."
+      }
+    ]
+  },
+  {
+    "question": "What is the cost of a name change or addition?",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "The registration fee is €140. Payments can be made online via MyMinfin.be for yourself and/or other persons."
+      },
+      {
+        "type": "paragraph",
+        "text": "The registration fee must be paid before submitting the application. Within 24 hours of payment, proof of payment is available in PDF format on the MyMinfin.be portal (under 'My Documents'). This proof must be attached to your application."
+      },
+      {
+        "type": "paragraph",
+        "text": "If you reside in Belgium, payment can still be made at a legal security office, although online payment is preferred."
+      },
+      {
+        "type": "paragraph",
+        "text": "If you reside abroad, payment details can be found at the following address: Infocenter SPF Finances, Finance Tower, Boulevard du Jardin Botanique, 1000 Brussels."
+      },
+      {
+        "type": "note",
+        "text": "The registration fee is non-refundable if the application is submitted to SPF Justice, even in cases of refusal, inadmissibility, withdrawal, or dismissal."
+      },
+      {
+        "type": "link",
+        "url": "https://finances.belgium.be",
+        "text": "More information on payment procedures."
+      }
+    ]
+  },
+  {
+    "question": "What are the effects of a name change on family relations?",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "A name change has no effect on family relations. Being allowed to adopt or stop using someone's name does not affect the rights and obligations binding you to that person, such as authority, kinship, alimony, inheritance, etc."
+      },
+      {
+        "type": "paragraph",
+        "text": "Establishing or terminating a link to a person requires judicial actions, which may lead to a name change as an incidental effect."
+      }
+    ]
+  },
+  {
+    "question": "What is legalization, and when is it required?",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Legalization is the procedure by which an official certifies the authenticity of a signature on a document. For public documents, the quality of the signatory and the identity of the seal or official stamp are also confirmed."
+      },
+      {
+        "type": "paragraph",
+        "text": "Legalization is an administrative formality and does not confer authenticity to the document's content. It allows Belgian or foreign documents to have probative value for use either in Belgium or abroad."
+      },
+      {
+        "type": "paragraph",
+        "text": "The necessity of legalization depends on the document's country of origin or destination. Some countries accept an apostille instead."
+      },
+      {
+        "type": "link",
+        "url": "https://diplomatie.belgium.be",
+        "text": "Verify legalization requirements with SPF Foreign Affairs."
+      }
+    ]
+  },
+  {
+    "question": "How to use Belgian documents in Belgium or abroad?",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Civil status documents (e.g., birth, marriage, divorce certificates) issued by a local officer or police commissioner can be used in Belgium without additional legalization."
+      },
+      {
+        "type": "paragraph",
+        "text": "For foreign use, documents signed by a civil authority require legalization by SPF Foreign Affairs after certification by local authorities."
+      },
+      {
+        "type": "link",
+        "url": "https://diplomatie.belgium.be",
+        "text": "Detailed procedures for document use abroad."
+      }
+    ]
+  },
+  {
+    "question": "What are the rules for sworn translations in Belgium?",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Sworn translators must include specific details, such as their identification number and qualified electronic signature, on translations."
+      },
+      {
+        "type": "paragraph",
+        "text": "Translations for use in Belgium do not require additional legalization if signed electronically by a sworn translator."
+      },
+      {
+        "type": "paragraph",
+        "text": "Translations for foreign use must be legalized by SPF Foreign Affairs unless otherwise stated."
+      },
+      {
+        "type": "link",
+        "url": "https://justice.belgium.be",
+        "text": "Find a sworn translator in Belgium."
+      }
+    ]
+  },
+  {
+    "question": "What is the Central Registry for the Protection of Adults (RCPP)?",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "The RCPP is an e-service introduced to simplify the process of judicial protection for adults who are not fully autonomous."
+      },
+      {
+        "type": "paragraph",
+        "text": "It allows users to submit applications, manage cases, and track updates. Magistrates, lawyers, and notaries also use the system."
+      },
+      {
+        "type": "link",
+        "url": "https://justice.belgium.be",
+        "text": "Access the RCPP online."
+      }
+    ]
+  },
+  {
+    "question": "What are the legal requirements for changing sex or name for transgender persons?",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Transgender individuals can modify their sex or name in official documents based on their experienced gender identity. Since October 2023, multiple changes are allowed under the same procedure."
+      },
+      {
+        "type": "paragraph",
+        "text": "The procedure involves submitting a declaration to the civil registry and obtaining approval from the public prosecutor."
+      },
+      {
+        "type": "link",
+        "url": "https://justice.belgium.be",
+        "text": "Learn more about transgender rights and procedures."
+      }
+    ]
+  }
+
+
+
   ]
 }
