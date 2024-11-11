@@ -1,32 +1,756 @@
 {
   "questions": [
     {
-      "id": 1,
-      "question": "How does healthcare insurance work in Belgium?",
+      "question": "What is BE-Alert and how can you register for it in Belgium?",
       "content": [
         {
           "type": "paragraph",
-          "text": "Belgium has a well-developed healthcare system, with mandatory health insurance for all residents."
+          "text": "BE-Alert is a national warning system in Belgium that allows the government to notify citizens in case of emergencies, such as fires, natural disasters, or environmental incidents. It supplements traditional media like radio and television by sending alerts directly to individuals via SMS, email, or spoken messages on landlines."
         },
         {
-          "type": "image",
-          "url": "https://example.com/healthcare_image.jpg"
+          "type": "paragraph",
+          "text": "### Who Can Register?\n- All residents of Belgium can register for BE-Alert.\n- Most municipalities in Flanders participate in the system. Residents of other municipalities can still receive alerts from federal or provincial authorities."
+        },
+        {
+          "type": "paragraph",
+          "text": "### How to Register for BE-Alert\n1. Visit the [BE-Alert website](https://www.be-alert.be/) and complete the registration form.\n2. Provide your email address to receive a confirmation email.\n3. Create a personal password.\n4. Enter your address and verify its accuracy on the map.\n5. Confirm your registration via the email sent by BE-Alert by clicking the provided link.\n6. Complete your profile:\n   - Select your language preference.\n   - Indicate if you are deaf or hard of hearing.\n   - Provide additional contact details (phone, email) or a secondary address for alerts.\n\nIf you do not have internet access, contact your municipality for assistance with registration."
+        },
+        {
+          "type": "paragraph",
+          "text": "### Receiving Alerts\n- Alerts are sent during emergencies by:\n  - The Federal Crisis Center.\n  - Provincial governors.\n  - Local mayors.\n- Notifications include clear instructions and are sent regardless of your physical location at the time of the emergency. Follow the instructions provided in the alert."
+        },
+        {
+          "type": "paragraph",
+          "text": "### Cost\n- Registration and receiving alerts are completely free of charge."
+        },
+        {
+          "type": "source",
+          "url": "https://www.be-alert.be/"
         }
       ]
     },
     {
-      "id": 2,
-      "question": "What are the costs associated with healthcare?",
+      "question": "What are the emergency and assistance numbers available in Belgium?",
       "content": [
         {
           "type": "paragraph",
-          "text": "Healthcare costs in Belgium are partly covered by insurance, but individuals may need to pay some out-of-pocket expenses."
+          "text": "In case of emergencies, you can contact public emergency services and assistance lines in Belgium. Here is a comprehensive list of the main emergency numbers and support hotlines."
         },
         {
-          "type": "video",
-          "url": "https://example.com/healthcare_costs_video.mp4"
+          "type": "paragraph",
+          "text": "### Emergency Numbers\n- **Police:** 101\n- **Ambulance and Fire Department:** 112\n- **European Emergency Number:** 112\n\nWhen you call these numbers, you will first be asked whether you need an ambulance, the fire department, or the police. You can reach these numbers:\n- From a landline.\n- Using a smartphone via the [112 app](https://www.app112.be/).\n- With a mobile phone (a SIM card or active subscription is not required)."
+        },
+        {
+          "type": "paragraph",
+          "text": "### Non-Urgent Firefighter Assistance During Extreme Weather\n- Call **1722** for non-urgent fire brigade assistance during extreme weather.\n- Requests can also be made via:\n  - The [1722 e-loket](https://www.1722.be/).\n  - The paid number **1722**.\n  - Your local fire brigade."
+        },
+        {
+          "type": "paragraph",
+          "text": "### Other Assistance Services and Hotlines\n| **Service**                              | **Number**               |\n|------------------------------------------|--------------------------|\n| Poison Control Center                    | 070 245 245             |\n| General Practitioner on Duty             | 1733                    |\n| Pharmacies on Duty                       | 0903 99 000             |\n| Non-Urgent Medical Transport (Red Cross) | 105                     |\n| Child Focus                              | 116 000                 |\n| Tele-Onthaal (emotional support)         | 106                     |\n| Suicide Hotline                          | 1813 or 02 649 95 55    |\n| Violence and Abuse Helpline              | 1712                    |\n| Awel (helpline for children and youth)   | 102                     |\n| CAW (questions about welfare)            | 0800 13 500             |\n| JAC (youth advisory center)              | Contact online          |\n| Nupraatikerover (chat for minors about abuse) | Online chat only      |"
+        },
+        {
+          "type": "paragraph",
+          "text": "### What to Do in an Emergency?\nFor more information on what to do before, during, and after an emergency, visit the [National Crisis Center](https://crisiscentrum.be/) website."
         }
       ]
+    },
+    {
+      "question": "Is the intervention of an ambulance in Belgium free?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Ambulance services in Belgium are not entirely free. The cost depends on whether the situation involves emergency medical assistance or non-urgent medical transportation."
+        },
+        {
+          "type": "paragraph",
+          "text": "### Emergency Medical Assistance\n- When you call **112** for a person in distress, an ambulance or Medical Emergency Group (MUG) team is dispatched to assess, treat, and transport the patient to the hospital.\n- **Cost:**\n  - Patients pay a legally fixed fee for ambulance interventions, even if they decide not to be transported.\n  - Health insurance does **not** reimburse this fee.\n  - No additional costs may be charged beyond the fixed fee.\n- The MUG team provides life-saving interventions and stabilizes the patient before hospital transport.\n  - The costs for the MUG doctor are fully reimbursed by health insurance.\n  - Some other charges may be partially borne by the patient."
+        },
+        {
+          "type": "paragraph",
+          "text": "### Non-Urgent Medical Transportation\n- Non-urgent medical transportation is planned medical-sanitized transport, such as for kidney dialysis or a scheduled hospital admission.\n- **Cost:**\n  - This service is not reimbursed by health insurance.\n  - Some health insurance funds or hospitalization insurance may partially cover the costs. Check with your insurance provider for details.\n  - Significant price differences exist between transport companies. Companies should disclose a maximum tariff when you book the service, and this tariff should be displayed in the ambulance.\n- If no pricing information is provided, complaints can be filed with the company or your health insurance fund."
+        },
+        {
+          "type": "source",
+          "url": "https://www.belgium.be/en"
+        }
+      ]
+    },
+{
+  "question": "Are fire brigade interventions in Belgium free or paid?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Fire brigade interventions in Belgium are legally regulated. While most services are free, certain interventions may incur costs depending on their nature and the local municipality's regulations."
+    },
+    {
+      "type": "paragraph",
+      "text": "### When Are Fire Brigade Services Free?\nFire brigade services are always free for:\n- Fires.\n- Explosions.\n- Rescuing people in distress (e.g., saving a drowning person)."
+    },
+    {
+      "type": "paragraph",
+      "text": "### When Do You Have to Pay for Fire Brigade Services?\n- Municipalities are required to charge for non-legally mandated interventions performed by their fire brigades.\n- Some legally mandated interventions may also be charged, as specified in the municipality's fee regulations (retributiereglement).\n\nExamples of paid services include:\n- Urgent medical assistance.\n- Environmental pollution (charged to the operator or owner of the polluting materials).\n- Rescuing animals.\n- Pumping water from a basement due to poor maintenance of water pipes.\n- Removing wasp nests."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, contact your municipality or local fire brigade."
+    },
+    {
+      "type": "source",
+      "url": "https://www.belgium.be/en"
     }
+  ]
+},
+{
+  "question": "How can you join the Flemish Social Protection system?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The Flemish Social Protection (Vlaamse Sociale Bescherming) system is mandatory for certain individuals residing in Flanders. It provides support for long-term care and assistance. Here's what you need to know about joining."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Who Must Join?\nYou must join the Flemish Social Protection system if you:\n- Are **26 years or older**.\n- **Live in Flanders**, meaning you are registered in the population or foreigners' register of a Flemish municipality.\n- Maintain an address in Flanders, even if you temporarily reside abroad.\n\nYou are required to join even if you are registered in Flanders for just one day."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Exceptions\n1. **Outgoing Cross-Border Workers:**\n   - Membership is not mandatory but allowed if you:\n     - Are 26 or older.\n     - Live in Flanders.\n     - Are socially insured through work in another EU member state, EEA country, or Switzerland.\n   - Dependents can also voluntarily join.\n\n2. **Employees of International Institutions:**\n   - Joining is not possible if you are insured under the social security system of the EU (e.g., for EU officials) or institutions like NATO or the United Nations.\n   - Membership is allowed if you opt for the Belgian social security system.\n\n3. **Foreign Students:**\n   - **From EU/EEA/Switzerland:** Joining is optional if you are 26 or older.\n   - **From Other Countries:**\n     - Temporary residents with student or researcher permits cannot join.\n     - If you do not have a temporary residence permit, you must join if living in Flanders. Voluntary membership is possible if living in Brussels."
+    },
+    {
+      "type": "paragraph",
+      "text": "### How to Join?\nTo join the Flemish Social Protection system, you must register with one of six recognized care funds (zorgkassen):\n- **Care fund linked to your health insurance:**\n  - Christelijke Mutualiteiten-Zorgkas Vlaanderen\n  - Neutrale Zorgkas Vlaanderen\n  - Solidaris Zorgkas\n  - Liberale Ziekenfondsen Zorgkas\n  - Onafhankelijke Ziekenfondsen Zorgkas\n- **Vlaamse Zorgkas:** Automatically assigned if you are required to join but fail to do so voluntarily.\n\nYou will receive an invitation from your care fund to pay the care premium in the year you turn 26 or move to Flanders. Membership is confirmed upon your first payment. Subsequently, you will receive an annual payment request from your care fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Legal Framework\nThe Flemish Social Protection system is governed by the decree of May 18, 2018."
+    },
+    {
+      "type": "source",
+      "url": "https://www.vlaanderen.be/vlaamse-sociale-bescherming"
+    }
+  ]
+}
+,
+{
+  "question": "What is the annual care premium for the Flemish Social Protection system, and what happens if you do not pay it?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The annual care premium is a mandatory payment for those registered with the Flemish Social Protection system. The premium supports services for long-term care and assistance."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Amount\n- In 2024, the care premium is **€62**.\n- A reduced premium may apply if you meet specific conditions.\n- No premium is required if you:\n  - Are in a collective debt settlement (CSR) or personal bankruptcy.\n  - Are administratively registered but not required to join."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Administrative Registration\nAdministrative registration applies to individuals:\n- Residing in a care center, day care center, or short-stay center.\n- Using a mobility aid (MOHM).\n\nAdministrative registration is not possible for those who are ineligible for the Flemish Social Protection system."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Payment Deadline\nThe care premium must be paid by **April 30** each year. Exceptions include:\n- Turning 26: You have until July 1 of that year to register.\n- Moving to Flanders: You have six months from the registration date in the national register.\n- Moving to Brussels: The same six-month rule applies.\n- Incorrect address: Payment is due by the date on the updated payment request."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Penalties for Non-Payment\n- Missing two annual payments (not necessarily consecutive) results in a **€250 fine**.\n- Steps before a fine:\n  - A reminder is sent by registered mail or via eBox, with payment due by **October 5**.\n  - Failure to pay leads to a final warning from the Flemish Social Protection Agency. Payment must include all arrears and fines within two months.\n  - A bailiff may be involved if payment is not made.\n- The fine is reduced to **€100** if you qualify for increased reimbursement from health insurance."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Appeals\nYou can appeal a fine if:\n- You can prove you were not obligated to pay the premium.\n- You had a valid reason, such as bankruptcy or a debt settlement.\n- The premium was incorrectly charged.\n\nSubmit your appeal using the online form and include supporting documents. The appeal process suspends the fine's payment deadline."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Payment Plans\nIf you cannot pay the full balance at once, you can request a payment plan to spread the balance over 12 months. Contact the Flemish Social Protection Agency to apply for a payment plan."
+    },
+    {
+      "type": "source",
+      "url": "https://www.vlaanderen.be/vlaamse-sociale-bescherming"
+    }
+  ]
+}
+,
+{
+  "question": "How can you obtain, maintain, or replace mobility aids through the Flemish Social Protection system?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Mobility aids, such as wheelchairs, scooters, or walking aids, can be purchased or rented through the Flemish Social Protection system for those with chronic illnesses, disabilities, or age-related mobility issues. These aids are intended for long-term use and must meet specific conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Types of Mobility Aids Available\n- **Manual Wheelchairs:** Standard, modular, or care wheelchairs, including those for children.\n- **Electronic Wheelchairs:** With motors controlled via joysticks, available for indoor and outdoor use.\n- **Electronic Scooters:** For mobility both indoors and outdoors.\n- **Three-Wheel or Four-Wheel Bicycles:** For those unable to use a standard two-wheeler.\n- **Walking Aids:** With or without wheels, providing support for standing or walking.\n- **Standing Systems:** Electrically adjustable standing tables for support in upright positions.\n\nTemporary aids, such as crutches, are not covered under this program."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Conditions for Eligibility\n- **Medical Condition:**\n  - A doctor or wheelchair advisory team must assess your health to determine your eligibility and the appropriate type of aid.\n  - Those with rapidly degenerative conditions, such as ALS, can access expedited rental options upon verification by a neurologist or specialized team.\n\n- **Administrative Requirements:**\n  - You must be registered with the Flemish Social Protection system and pay the annual care premium.\n\n- **Exceptions:**\n  - Temporary residents without a national register number must obtain a BIS number.\n  - Hospitalized individuals cannot apply until their discharge.\n  - Residents of psychiatric facilities or those in Brussels/Flanders can apply if registered with the system."
+    },
+    {
+      "type": "paragraph",
+      "text": "### How to Apply for a Mobility Aid\n1. **Obtain a Prescription:**\n   - Visit your doctor or a specialized advisory team for an assessment and prescription.\n\n2. **Visit a Certified Supplier:**\n   - Present your prescription to a recognized supplier who will propose a suitable aid.\n   - Test the device before purchase, especially for electronic wheelchairs or scooters.\n\n3. **Submit Your Application:**\n   - The supplier will help complete and submit the application, including any required reports.\n\n4. **Wait for Approval:**\n   - Approval typically takes 10-20 working days, though additional reviews may extend this period.\n   - For non-listed aids, approval may take up to 45 working days."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Maintenance and Replacement\n- **Maintenance:**\n  - Costs are partially covered for purchased aids, with a standard maintenance allowance of €150 for wheelchairs and bicycles, and €250 for scooters.\n  - For rented aids, maintenance is included in the rental fee.\n\n- **Replacement:**\n  - Aids can be replaced after a set period, depending on the type of aid and your age.\n  - Early replacement is possible for rapid health deterioration or excessive wear due to frequent use."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Appeals and Financial Support\n- If your application is denied, you can appeal to the labor court.\n- Financial assistance for maintenance, repair, or replacement is available under specific conditions."
+    },
+    {
+      "type": "source",
+      "url": "https://www.vlaanderen.be/vlaamse-sociale-bescherming"
+    }
+  ]
+},
+{
+  "question": "How can you seek help for mental health issues in Belgium?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Mental health problems affect many people at some point in their lives. Seeking help can significantly improve mental well-being. Belgium offers numerous resources and services for mental health care."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Preventing Mental Health Problems\n- **Strengthen resilience** to better handle stress and challenges through initiatives like:\n  - **Zilverwijzer Group Sessions:** For individuals over 60.\n  - **Goed-Gevoel-Stoel:** A program for addressing challenges related to finances, health, and social inclusion.\n  - **Family Platform:** Support for families and friends of people with mental health or addiction issues.\n  - **Youth-Focused Resources:**\n    - Noknok.be for teens aged 12-16.\n    - Familieplatform KOPP for children of parents with mental health issues.\n    - Tweehuizen.be for children and teens dealing with parental separation."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Talking Anonymously About Your Concerns\n- **Tele-Onthaal:** Call 106 or chat anonymously for support.\n- **Awel:** A helpline for youth, available at 102 or via chat.\n- **Werkgroep Verder:** Online support for those affected by suicide.\n- **The Drugline:** Assistance with addiction-related questions at 078 15 10 20 or through chat."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Help for Suicidal Thoughts\n- **Zelfmoordlijn (Suicide Hotline):** Call 1813, chat daily from 17:00 to midnight, or visit www.zelfmoord1813.be.\n- **Thinklife:** An online self-help course for managing suicidal thoughts."
+    },
+    {
+      "type": "paragraph",
+      "text": "### First-Line Help\n- **General Practitioner (GP):** Your GP is often the first point of contact for mental health concerns and can refer you to specialized care.\n- **CAW (General Welfare Centers):** Accessible and supportive centers for psychosocial issues.\n- **CLB (Pupil Guidance Centers):** Support for children and teens with issues like bullying or anxiety.\n- **Self-Help Groups:** Connect with others facing similar challenges through Trefpunt Zelfhulp, which offers groups for various conditions, including eating disorders, autism, and gambling addiction."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Specialized Care\n- **Centers for Mental Health Care (CGG):** Teams of psychiatrists, psychologists, and social workers offer support for severe mental health issues.\n- **Psychiatric Hospitals:** For intensive treatment, with multidisciplinary teams available.\n- **Private Practitioners:** Psychiatrists and psychologists also operate privately and can be accessed through GP referrals."
+    },
+    {
+      "type": "source",
+      "url": "https://www.vlaanderen.be/hulp-bij-psychische-problemen"
+    }
+  ]
+}
+,
+{
+  "question": "What is the Income Guarantee for the Elderly (IGO) in Belgium, and how can you apply for it?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The Income Guarantee for the Elderly (IGO) is a financial benefit provided to individuals who have reached the legal retirement age but do not have sufficient means to support themselves. It ensures a basic level of income for elderly residents in Belgium."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Eligibility Criteria\nTo qualify for the IGO, the following conditions must be met:\n- **Financial Means:** Your total resources, including those of your spouse or legal partner, must fall below a certain threshold. A detailed assessment is conducted to determine this.\n- **Age:** You must have reached the legal retirement age.\n- **Nationality:** You must be a Belgian citizen or in an equivalent situation.\n- **Residence:** Your main residence must be in Belgium, and you must live there continuously without interruption.\n\nFor more details on the calculation of resources and income thresholds, visit the website of the Federal Pension Service."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Application Procedure\nIn most cases, you do not need to apply for the IGO. The process starts automatically if you:\n- Apply for a pension from the Federal Pension Service, and your pension amount is below the minimum threshold.\n- Already receive a pension and reach the legal retirement age.\n- Receive a disability allowance and reach the legal retirement age.\n- Receive social assistance and reach the legal retirement age."
+    },
+    {
+      "type": "paragraph",
+      "text": "If none of the above applies, you must submit an application:\n- **Online:** Through [mypension.be](https://www.mypension.be/). Once submitted, you will receive a confirmation email if you provide your email address. Your application will appear under ‘My File’ during subsequent visits.\n- **Phone:** Call the Pension Line at **1765**, select Dutch, and press 3 and then 1.\n- **In Person:** At your local municipality office."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Payment Timeline\n- Payments start **the month after you reach the legal retirement age** if the process is automatic.\n- If you apply after reaching the retirement age, payments begin **the month following your application.**\n- For those without a recorded birth month, payments start on **August 1st of the year you reach the legal retirement age.**"
+    },
+    {
+      "type": "source",
+      "url": "https://www.mypension.be/"
+    }
+  ]
+}
+,
+{
+  "question": "What are your rights as a patient in Belgium?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "As a patient in Belgium, you have several rights that apply not only to interactions with doctors but also with dentists, pharmacists, midwives, physiotherapists, nurses, and other healthcare providers."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Your Rights\n- **Access to Information:** You have the right to clear information about your health, possible treatments, risks, and costs.\n- **Consent:** You must provide explicit consent for any examination or treatment and have the right to refuse.\n- **Privacy:** Your right to privacy includes knowing what is in your medical file and who has access to it.\n\nFor general questions about patient rights, contact the [Flemish Patient Platform](https://www.vlaamspatientenplatform.be/)."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Complaints\n- **About a healthcare professional working in a hospital:** Contact the hospital's ombudsman service.\n- **About the hospital itself (infrastructure, staff behavior, rights):** Reach out to the hospital's ombudsman service. You can also contact the Department of Care.\n- **About a non-hospital healthcare provider (e.g., general practitioner, dentist, freelance nurse):** Contact the [Federal Ombudsman for Patient Rights](https://www.health.belgium.be/)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ombudsman services aim to resolve questions and complaints efficiently, saving you from a lengthy and costly legal process. However, you retain the right to file a complaint in court."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Medical Errors or Accidents\nIf you or a loved one is a victim of a medical error or accident, you can contact the [Medical Accident Fund (FMO)](https://www.health.belgium.be/). The fund investigates responsibility and provides compensation if conditions are met, such as:\n- Permanent disability of 25% or more.\n- Inability to work for 6 consecutive or non-consecutive months within a year.\n- Significant deterioration in quality of life.\n- Death of the victim."
+    },
+    {
+      "type": "paragraph",
+      "text": "Claims are accepted for incidents occurring after April 2, 2010. For earlier cases, you must pursue legal action. Additionally, you can always seek a friendly resolution or go to court."
+    },
+    {
+      "type": "source",
+      "url": "https://www.health.belgium.be/"
+    }
+  ]
+},
+{
+  "question": "How can you have your disability recognized and apply for support from the VAPH?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The Flemish Agency for Persons with Disabilities (VAPH) provides support to individuals with disabilities, offering assistance such as direct support, allowances for aids, and personal budgets. The VAPH also accredits and subsidizes organizations to provide additional support."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Eligibility Criteria\nTo receive support from the VAPH, you must meet the following conditions:\n- **Recognition of Disability:** Your disability must be officially recognized by an authorized body.\n- **Age Limit:** You must be under 65 years old when applying for the first time.\n- **Residency:** You must reside in Flanders or the Brussels-Capital Region."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Application Process\nFor detailed information about the types of support available and how to apply, visit the [VAPH website](https://www.vaph.be/)."
+    },
+    {
+      "type": "source",
+      "url": "https://www.vaph.be/"
+    }
+  ]
+},
+{
+  "question": "What is the European Disability Card (EDC), and how can you apply for it in Belgium?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The European Disability Card (EDC) is a personal card that provides individuals with disabilities access to benefits in cultural, sports, and leisure activities. It is valid in Belgium and seven other European countries: Cyprus, Estonia, Finland, Italy, Malta, Slovenia, and Romania."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Eligibility\nYou can apply for the EDC if you are recognized as a person with a disability by:\n- The Flemish Agency for Persons with Disabilities (VAPH).\n- The Federal Public Service (FPS) for Social Security.\n- The child allowance system for specific support needs within the Growth Package."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Application Procedure\n#### For Recognitions After January 1, 2024:\n- The EDC is automatically issued when your disability is recognized.\n\n#### For Recognitions Before January 1, 2024:\n- **VAPH:** Apply via [mijnvaph.be](https://www.mijnvaph.be/). Navigate to your profile and select ‘European Disability Card (EDC)’ under attestations. Follow the steps to confirm and track your application.\n- **FPS Social Security:** Use the online contact form from the Directorate-General for Persons with Disabilities.\n- **Growth Package Child Recognition:** Apply via mijnvaph.be using the child’s e-ID, or contact the VAPH provincial office if no e-ID is available."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Processing Time\nThe process typically takes 30 days from application to delivery. This includes approval by the VAPH or FPS and production of the card."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Using the EDC\nThe EDC provides benefits such as:\n- Discounts.\n- Simplified access.\n- Assistance and specialized guides at participating venues (museums, amusement parks, etc.).\n\nCheck the venue's website or contact the organizer for details on available benefits."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Validity\nThe EDC is valid for five years and will be automatically renewed for existing holders."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Photo on the Card\nThe photo on the EDC is the same as on your ID. For children without a Kids ID, the card may not have a photo unless you first obtain a Kids ID."
+    },
+    {
+      "type": "source",
+      "url": "https://eudisabilitycard.be/"
+    }
+  ]
+},
+{
+  "question": "What is the subsistence income (leefloon) in Belgium, and how can you apply for it?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The subsistence income (leefloon) is a minimum income provided to individuals who lack sufficient means of subsistence. It is part of the right to social integration and is managed by the Public Social Welfare Center (OCMW)."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Eligibility Criteria\nTo qualify for the leefloon, you must meet all the following conditions:\n- **Residency:** You must reside and have your main address in Belgium.\n- **Age:** You must be at least 18 years old, except if:\n  - You are married.\n  - You have a dependent child.\n  - You are pregnant.\n- **Legal Status:**\n  - You are Belgian or a family member of an EU citizen.\n  - Recognized as a political refugee, stateless, or a foreigner registered in the population register.\n- **Insufficient Means:** Your household income is below the subsistence threshold, and you cannot acquire sufficient income.\n- **Willingness to Work:** You must be willing to work unless medically or reasonably exempt (e.g., still studying or addressing other issues first).\n- **Claim Other Benefits:** You must apply for any other benefits you may be entitled to (e.g., unemployment benefits or disability allowances)."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Application Procedure\n1. **Contact the OCMW:** Visit the OCMW in the municipality where you reside. If you are a student, apply where you are registered in the population register.\n2. **Initial Meeting:** Meet with a social worker to discuss your situation.\n3. **Social Investigation:** The social worker will conduct an investigation to determine your eligibility. Your cooperation is required.\n4. **Decision:** The OCMW will decide if you are eligible for the leefloon or suggest alternative support.\n5. **Integration Plan:** If approved, a ‘Geïndividualiseerd Project voor Maatschappelijke Integratie’ (GPMI) will be agreed upon within three months to support your social integration."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Required Documents\nBring the following to your first meeting:\n- Identity card.\n- Proof of current income (if any) for yourself and other household members (excluding minor children).\n- Overview of your savings.\n\nAdditional documents may be requested by the social worker."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Amount\nThe monthly leefloon amount depends on your living situation:\n1. **Cohabiting:** Sharing a household with another adult, regardless of the relationship.\n2. **Single:** Living alone.\n3. **Cohabiting with Dependent Child(ren):** Living with a minor child you support. If you have a partner, this amount applies to both of you, provided they meet the same conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The leefloon is reduced by any income you or your household receives. The OCMW may also consider income from your parents or adult children living with you. Notify the OCMW immediately about changes in your family or financial situation."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Repayment\nIn most cases, the leefloon does not need to be repaid. However, the social worker can provide more specific information regarding your situation."
+    },
+    {
+      "type": "source",
+      "url": "https://www.mi-is.be/"
+    }
+  ]
+},
+{
+  "question": "What is the equivalent subsistence income (equivalent leefloon), and how can you apply for it in Belgium?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The equivalent subsistence income (equivalent leefloon) provides financial support for individuals who are not eligible for the regular leefloon due to not meeting one or more conditions but are in a similar situation of insufficient means, preventing societal integration. The amount received under this scheme is equivalent to the leefloon, subject to specific conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Eligibility Criteria\nTo qualify for the equivalent leefloon, you must meet the following conditions:\n- **Residency:** Have an actual residence in Belgium and hold a valid residence permit.\n- **No Leefloon Eligibility:** You are not entitled to the standard leefloon or social integration.\n- **Emergency Situation:** You are unable to secure basic needs such as shelter, food, clothing, hygiene, or access to healthcare.\n\nThe OCMW may impose additional conditions for granting the equivalent leefloon."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Application Procedure\n1. **Contact the OCMW:** Visit the OCMW office in your municipality and express your interest in the equivalent leefloon.\n2. **Initial Interview:** A social worker will discuss your situation to understand your needs.\n3. **Social Investigation:** A detailed investigation will assess your eligibility. Your active cooperation is required.\n4. **Decision:** The OCMW decides whether to grant the equivalent leefloon or suggest alternative support options."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Required Documents\nWhen visiting the OCMW, bring the following:\n- Identity card.\n- Proof of current income (if applicable) for yourself and household members (excluding minor children).\n- An overview of your savings.\n\nThe social worker may request additional documents based on your case."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Financial Support\nThe amount of the equivalent leefloon depends on your household situation and falls into one of three categories:\n1. **Cohabiting:** Sharing household expenses (e.g., rent, utilities) with someone else, not necessarily a partner.\n2. **Single:** Living alone.\n3. **Cohabiting with Dependent Child(ren):** Supporting at least one minor, unmarried child. If you have a partner, the amount applies to both of you."
+    },
+    {
+      "type": "paragraph",
+      "text": "The exact amount is adjusted for your household income and is consistent across all OCMWs in Belgium."
+    },
+    {
+      "type": "source",
+      "url": "https://www.mi-is.be/"
+    }
+  ]
+}
+,
+{
+  "question": "What is an advance directive for euthanasia, and how can it be set up in Belgium?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "An advance directive for euthanasia allows you to request euthanasia if you permanently lose consciousness. Without this directive, euthanasia can only be performed at the explicit request of a patient capable of expressing their will to die."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Conditions\nYou can create an advance directive if you meet the following criteria:\n- **Age:** You are of legal age (or emancipated minor).\n- **Capacity:** You are legally competent to make decisions.\n- **Form Requirements:**\n  - Use the legally prescribed form.\n  - The directive must be signed less than five years before the onset of incapacity.\n  - It must be made voluntarily, without external pressure.\n  - Two adult witnesses must be present, one of whom has no material interest in your death.\n\nEuthanasia based on this directive is only allowed if the patient is in a state of irreversible coma. It is not applicable in cases of acquired incapacity due to conditions like dementia or brain tumors."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Procedure\n1. **Obtain the Form:** Download the form or get it from your local Civil Affairs department.\n2. **Complete and Sign:**\n   - Fill out the directive in the presence of two witnesses (at least one without material benefit from your death).\n   - Optionally, designate one or more trusted persons to inform the treating physician when the directive should be enacted.\n   - Date and sign the form along with the witnesses and any trusted persons.\n3. **Distribute Copies:** Create multiple copies to ensure accessibility for relatives and treating physicians. You may optionally register a copy at your municipal office.\n\n- **Validity:**\n  - Directives dated **from April 2, 2020, onwards** are valid indefinitely.\n  - Directives dated **before April 2, 2020,** are valid for five years and can be updated to an indefinite version.\n\nYou can revise or revoke the directive at any time."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Oversight and Compliance\nThe Federal Commission for Control and Evaluation ensures that euthanasia is carried out under the conditions and procedures specified by law. For more information, visit the [Federal Public Service for Health](https://www.health.belgium.be/)."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Required Documents\nIf registering the directive at your municipal office, bring:\n- The signed directive form.\n- The identity card of the person making the directive."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Cost\nRegistering an advance directive for euthanasia is free of charge."
+    },
+    {
+      "type": "source",
+      "url": "https://www.health.belgium.be/"
+    }
+  ]
+}
+,
+{
+  "question": "What is a negative advance directive, and how can it be set up in Belgium?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "A negative advance directive allows patients to refuse specific medical procedures or treatments in cases where they can no longer express their wishes (e.g., due to dementia or coma). This includes refusing resuscitation, artificial ventilation, radiation therapy, etc."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Procedure\n1. **Draft the Directive:** Write down your refusals clearly. You can use a model document available on the [LEIF website](https://www.leif.be/). Printed versions and LEIF cards listing your advance directives can also be requested.\n2. **Optional Presence of a Physician:** It is recommended to draft the directive in the presence of a doctor to confirm your competence and avoid disputes.\n3. **Designate a Representative:** Optionally, appoint someone to advocate for your rights if you become unable to do so.\n4. **Distribute Copies:** Keep the original directive, provide copies to your trusted representative, and share one with your treating physician to include in your medical file."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Legal Validity\n- The negative advance directive is legally binding, and physicians are required to respect it.\n- It remains valid indefinitely unless you revoke it."
+    },
+    {
+      "type": "source",
+      "url": "https://www.leif.be/"
+    }
+  ]
+}
+,
+{
+  "question": "What are the necessary arrangements after the death of a loved one in Belgium?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The death of a loved one is an emotional time, but it also requires practical arrangements. Here is an overview of steps to take immediately after a death, funeral arrangements, and handling the deceased's estate."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Immediately After Death\n1. **Death Certification:**\n   - A physician must certify the death and issue a medical death certificate. This document will include the date, time, and cause of death.\n2. **Report the Death:**\n   - The death must be reported to the Civil Registry in the municipality where the death occurred. Relatives or a funeral director can handle this.\n3. **Receive a Death Certificate:**\n   - After registration, you will receive an official death certificate."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Arranging the Funeral\n1. **Consider the Deceased's Wishes:**\n   - Check for funeral preferences in a will, a written declaration (wilsbeschikking), or pre-arranged plans with a funeral director.\n   - Note that if preferences are in a will, they might not be known until after the funeral.\n2. **Decide on Burial or Cremation:**\n   - Choose between burial or cremation based on the deceased's wishes or family decisions.\n3. **Special Arrangements:**\n   - If the body needs to be transported abroad, apply for the necessary permits and follow the requirements."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Notify Institutions\nInform the following parties about the death:\n- **Bank:** Notify all banks where the deceased had accounts. Accounts will be frozen until heirs are identified.\n- **Employer:** If the deceased was employed.\n- **Health Insurance:** Notify the deceased's health insurance provider.\n- **DIV (Vehicle Registration):** Return the license plate and update the vehicle registration.\n- **Insurance Companies:** Inform any relevant insurance providers.\n- **Notary:** Consult a notary for matters involving a will, inheritance agreements, or marital contracts.\n- **Family Allowance Fund (Groeipakket):** Notify them to prevent overpayments."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Estate and Inheritance\n1. **Contact a Notary:**\n   - The notary will identify heirs and advise on accepting or renouncing the estate.\n   - They will handle the inventory of the estate and guide you through inheritance decisions.\n2. **Inheritance Taxes:**\n   - Inheritance taxes must be paid based on the value of the deceased’s assets in Belgium.\n   - File a declaration of inheritance to calculate the due taxes for each heir."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Survivor's Pension\nIf the deceased was married, the surviving spouse may be entitled to a survivor’s pension based on the deceased’s career. Check eligibility and apply through the relevant pension scheme."
+    },
+    {
+      "type": "source",
+      "url": "https://www.belgium.be/en/family/death"
+    }
+  ]
+}
+,
+{
+  "question": "How does organ donation after death work in Belgium?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Organ donation after death can save lives for patients with chronic and irreversible conditions. If you pass away due to brain or heart failure, your organs, tissues, and cells can be used for transplantation. In Belgium, you are automatically considered a potential donor unless you explicitly refuse during your lifetime."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Conditions\n1. **Automatic Consent:**\n   - If you are registered in the population register (or have been in the foreigner’s register for at least six months), you are automatically considered a potential donor unless you opt out.\n2. **Explicit Registration:**\n   - To ensure your wishes are respected, you can formally register a 'Declaration of Consent for Human Body Material Donation.'\n3. **Minors and Incapacitated Individuals:**\n   - Competent minors aged 12 and above can register their wishes.\n   - For incompetent minors, parents or guardians can only express opposition to donation.\n   - For incompetent adults, their legal representative, guardian, or closest relative can express opposition."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Procedure\nThe declaration allows you to explicitly consent to, oppose, or withdraw a previous decision for the following:\n- Organ donation for transplantation.\n- Tissue and cell donation for transplantation.\n- Donation of organs, tissues, and cells for the production of medicines.\n- Donation of organs, tissues, and cells for scientific research.\n\n(Note: This is different from donating your body to science.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can register your wishes:\n1. At your **general practitioner’s** office.\n2. At your **municipal office**.\n3. Through **online self-registration** on [mijngezondheid.be](https://www.mijngezondheid.be/).\n\n**Important:** Online self-registration is not available for minors or individuals who cannot express their will."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Cost\nThe registration of your declaration is free of charge."
+    },
+    {
+      "type": "source",
+      "url": "https://www.health.belgium.be/"
+    }
+  ]
+}
+,
+{
+  "question": "What is the procedure for reporting a death in Belgium?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "A death must be registered with the Civil Registry of the municipality where the person passed away. This process, called a 'death declaration,' formalizes the death and creates an official death certificate."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Procedure\n1. **Medical Certification:**\n   - A doctor must confirm the death and issue a death certificate.\n   - If the death occurs at home, contact the general practitioner or on-call doctor.\n   - In hospitals or care facilities, the institution arranges for the certificate.\n   - For accidental or suspicious deaths, the police draft a report in the presence of a doctor.\n2. **Death Declaration:**\n   - The death must be reported as soon as possible to the Civil Registry of the municipality where the person passed away.\n   - Usually, a funeral director handles the declaration and administrative processes, but relatives can do this themselves.\n   - The Civil Registry official issues an official death certificate upon registration."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Required Documents\nBring the following documents for the death declaration:\n- Medical death certificate issued by the doctor.\n- Identity card of the deceased.\n- Identity card of the person reporting the death.\n- Driver's license of the deceased (if applicable).\n- Last will and testament of the deceased (if available).\n\nFor suspicious or violent deaths, also bring:\n- Police report.\n- Burial or cremation authorization from the public prosecutor."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Notify Other Parties\nIn addition to the Civil Registry, inform the following:\n- Bank\n- Notary\n- Insurance companies\n- Health insurance provider\n- Pension service\n- Tax authorities\n- Landlord\n- Utility providers (water, gas, electricity)\n- Employer"
+    },
+    {
+      "type": "source",
+      "url": "https://www.belgium.be/en/family/death/registration"
+    }
+  ]
+}
+,
+{
+  "question": "What are the eligibility criteria and procedures for a survivor's pension in Belgium?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "A survivor's pension provides financial support to the surviving spouse or dependent children of a deceased individual. The pension is available regardless of whether the deceased was already retired or not. It is sometimes referred to as a widow's or widower's pension."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Eligibility Criteria\n**For spouses:**\n- **Minimum age:** You must meet the minimum age requirement at the time of your spouse's death. In 2023, this is 49 years and increases by six months annually. Exceptions apply if you already receive a personal pension.\n- **Marital duration:** You must have been married for at least one year unless exceptions apply (e.g., a child in common, legal cohabitation before marriage lasting at least one year, etc.).\n- **No remarriage:** The pension is suspended if you remarry.\n- **No criminal conviction:** You must not have been convicted of offenses against the deceased.\n\n**For children (orphans):**\n- The deceased must have been a civil servant.\n- Full orphans (both parents deceased) or equivalent status (e.g., a surviving parent without entitlement to a survivor's pension).\n- Must be under 18 years old or eligible for child benefits if older.\n- Must not have been convicted of offenses against the deceased."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Application Procedure\n**For non-civil servants:**\n- Submit your application via:\n  - The municipal administration.\n  - The relevant pension authority.\n  - Online at [mypension.be](https://www.mypension.be).\n- Applications must be submitted within 12 months of the death.\n\n**For civil servants:**\n- If the deceased was an active employee, apply through their last government employer or directly to the Federal Pension Service (FPD).\n- If the deceased was retired, the Federal Pension Service automatically opens a survivor's pension file for the surviving spouse."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Required Documents\n- Identity card with PIN.\n- Bank account details for payment."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Calculation\nThe amount depends on factors such as:\n- The number of eligible recipients.\n- Guaranteed minimum amounts.\n- Income limits (for civil servants).\n- Other income sources (employment or benefits)."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Exceptions and Special Cases\n- **Transitional allowance:** If you meet all criteria except the minimum age, you may qualify for a transitional allowance.\n- **Temporary survivor’s pension:** Available for spouses of civil servants who were not married for at least one year. This is granted for 12 months.\n- **Ex-spouses:** Ex-spouses of civil servants can also apply if they meet specific conditions. The pension may be divided between the ex-spouse and the surviving spouse, with applications required within 12 months of the death."
+    },
+    {
+      "type": "source",
+      "url": "https://www.mypension.be"
+    }
+  ]
+}
+,
+{
+  "question": "What is the Certificate of Burial Method and/or Rituals?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "You can decide what happens to your body after your death. This choice can be documented in the last will declaration (method of burial). This declaration is recorded in the population register."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Certificate of Burial Method and/or Rituals (an extract from the population register) states the following: whether you choose burial or cremation, the religious or philosophical rites for the funeral ceremony, the municipality of your final resting place (in Belgium or abroad), and whether you have a funeral contract."
+    },
+    {
+      "type": "paragraph",
+      "text": "Upon any death, the municipality checks if the deceased has registered a last will declaration."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions: You can only request this certificate if a last will declaration has been registered. The certificate can be requested by the following parties: yourself, your legal representative (e.g., parent or guardian), authorized individuals (e.g., notary or lawyer), third parties (e.g., public or private institutions) if prescribed by law, or a third party with a power of attorney and the applicant's identity card (or a copy)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Procedure: You can request the certificate from your municipality. If you have an electronic identity card (eID), you can also access, download, and print the document via 'My File' (an online application of the National Register), 'My Citizen Profile' (an online application of the Flemish government under 'Certificates and Permits'), or the e-desk of your municipality. Others can only request the certificate at the Civil Affairs counter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Can this certificate be used abroad? In most cases, the document must first be legalized and possibly translated. On the website of the Federal Public Service Foreign Affairs, you can check if your document requires legalization or an apostille. If needed, the document can be requested via the e-Legalisation e-desk. The price for legalization or apostille is always 20 euros per document."
+    },
+    {
+      "type": "paragraph",
+      "text": "Documents required: If you collect the certificate yourself, you need your identity card or residence permit. If you request it for someone else, you need a power of attorney from the individual, a copy of their identity card, and your own identity card."
+    },
+    {
+      "type": "source",
+      "url": "https://www.belgium.be"
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Burial_site_cemetery.jpg"
+    }
+  ]
+},
+{
+  "question": "What is the judicial process for a crime in Belgium?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "An offense is the lightest form of a crime, typically judged by the police court. Examples include noise disturbance at night, public intoxication, and traffic violations."
+    },
+    {
+      "type": "paragraph",
+      "text": "A misdemeanor is a more serious crime than an offense and carries heavier penalties. The correctional court handles misdemeanors. Examples include theft, abuse of trust, fraud, and assault and battery."
+    },
+    {
+      "type": "paragraph",
+      "text": "Felonies are the most severe crimes and are adjudicated by the court of assizes. Examples include sexual assault of a minor, rape, and murder."
+    },
+    {
+      "type": "paragraph",
+      "text": "Several procedures can initiate a criminal prosecution: the police may detect a crime or catch someone in the act, individuals can file complaints with the police or public prosecutor, victims can become civil parties in the case, and injured parties can summon suspected offenders directly to court for minor offenses or misdemeanors."
+    },
+    {
+      "type": "paragraph",
+      "text": "The criminal investigation serves to gather evidence and compile a case file. Two methods are available: an investigative inquiry led by the public prosecutor or a judicial inquiry conducted by an investigating judge."
+    },
+    {
+      "type": "paragraph",
+      "text": "During an investigative inquiry, the prosecutor collaborates with the police. If privacy-invasive measures are required (e.g., a house search), an investigating judge is involved. Afterward, the prosecutor decides on the case: close it, propose a settlement, initiate mediation, or prosecute the suspect."
+    },
+    {
+      "type": "paragraph",
+      "text": "In judicial inquiries, the investigating judge handles complex cases requiring special measures (e.g., wiretapping). The judge may place suspects under temporary detention or release them under specific conditions. A supervisory chamber oversees the process and decides the case's next steps."
+    },
+    {
+      "type": "paragraph",
+      "text": "Criminal trials typically occur in the police court for offenses, the correctional court for misdemeanors, or the court of assizes for felonies. At trial, the prosecutor presents the case, the defendant is represented, and victims may seek damages. The judge or jury determines guilt and issues a verdict."
+    },
+    {
+      "type": "paragraph",
+      "text": "Verdicts can include acquittal, monetary fines, or imprisonment. Sentences may involve electronic monitoring, probation, or suspension under conditions. The court can also rule on insanity, leading to institutionalization."
+    },
+    {
+      "type": "paragraph",
+      "text": "After the verdict, parties can appeal or seek a retrial in higher courts. In cases of legal errors or procedural mistakes, an appeal to the Court of Cassation is possible."
+    },
+    {
+      "type": "source",
+      "url": "https://www.justice.belgium.be"
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Palais_de_Justice_Bruxelles.jpg"
+    },
+
+  ]
+},
+{
+  "question": "What is the 1712 Helpline for violence, abuse, and child abuse?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The 1712 helpline provides support for questions and concerns about all forms of violence, abuse, and child abuse. A professional counselor listens to your story, offers information and advice, and works with you to find the best possible solution."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions: The helpline is available to anyone dealing with violence, abuse, or child abuse or who has questions about these issues."
+    },
+    {
+      "type": "paragraph",
+      "text": "Procedure: You can contact the helpline by calling 1712. It is available every weekday from 9 AM to 6 PM. Alternatively, you can send an email and expect a response within two days. Chat services are available from Monday to Thursday between 1 PM and 5 PM and from 6 PM to 10 PM. Conversations with the helpline are discreet; calls do not appear on your phone bill, and you do not need to disclose your identity."
+    },
+    {
+      "type": "paragraph",
+      "text": "In life-threatening situations, call the police at 101. For urgent medical assistance, call emergency services at 112."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cost: The 1712 helpline is free of charge."
+    },
+    {
+      "type": "source",
+      "url": "https://www.1712.be"
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Child_abuse_helpline.jpg"
+    },
+    {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=example-1712-helpline"
+    }
+  ]
+}
+,
+
+
+
+
+
+
+
+
+
+
+
+
   ]
 }
