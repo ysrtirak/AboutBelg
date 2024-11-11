@@ -1,44 +1,88 @@
 {
   "questions": [
     {
-      "id": 1,
-      "question": "What are the legal requirements for residency?",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "To legally reside in Belgium, individuals must meet certain residency requirements..."
-        },
-        {
-          "type": "image",
-          "url": "https://www.researchgate.net/publication/349059203/figure/fig7/AS:11431281274253369@1724877175735/Size-of-enrolled-student-group-or-cohort-per-year.tif"
-        },
-        {
-          "type": "paragraph",
-          "text": "The process involves registering with local authorities and ensuring compliance with Belgian law."
-        },
-        {
-          "type": "video",
-          "url": "https://www.youtube.com/watch?v=GBI-nvyZWeg&t=998s&ab_channel=AhmetKurucan"
-        },
-        {
-          "type": "source",
-          "url": "https://www.samanyoluhaber.com/"
-        }
-      ]
+  "question": "What documents must be submitted as part of the procedure?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "A criminal record extract (Model 1);"
     },
     {
-      "id": 2,
-      "question": "What is the process of applying for citizenship?",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Applying for Belgian citizenship requires fulfilling specific conditions..."
-        },
-        {
-          "type": "video",
-          "url": "https://example.com/citizenship_video.mp4"
-        }
-      ]
+      "type": "paragraph",
+      "text": "Proof of payment of the registration fee;"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were born abroad, a birth certificate or equivalent document, possibly legalized."
+    },
+    {
+      "type": "paragraph",
+      "text": "If it is impossible for you to provide a birth certificate, submit an attestation from the Office of the Commissioner General for Refugees and Stateless Persons. If no acceptable civil status document is available, your identity must be established by a court judgment."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you reside abroad, a certificate of Belgian nationality and a recent residence certificate."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can obtain these documents by contacting municipal and/or consular services."
+    },
+    {
+      "type": "paragraph",
+      "text": "Depending on the reasons stated in your application, the FPS Justice may ask you to attach additional documents (court judgments, testimonies and opinions, various proofs, etc.)."
+    },
+    {
+      "type": "source",
+      "url": "https://justice.belgium.be/fr/themes_et_dossiers/personnes_et_familles/changement_de_nom/changer_de_nom#tab-top--3"
     }
+  ]
+},
+{
+  "question": "How does the procedure work?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Your file is prepared by the FPS Justice to be submitted to the Minister of Justice, who will decide whether or not to propose your name change to the King."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the most complex cases, an investigation is requested from the public prosecutor of your place of residence. This investigation involves hearing the individuals concerned and collecting documents and opinions."
+    },
+    {
+      "type": "paragraph",
+      "text": "In some rarer cases, the FPS Justice may request additional information from other administrations (Nobility Service, Foreign Affairs, State Security, etc.)."
+    },
+    {
+      "type": "source",
+      "url": "https://justice.belgium.be/fr/themes_et_dossiers/personnes_et_familles/changement_de_nom/changer_de_nom#tab-top--3"
+    }
+  ]
+},
+{
+  "question": "How does the procedure end?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The royal decree granting the name change must be published in the Belgian Official Gazette to inform the public. The name change becomes final on this date. In exceptional and duly proven circumstances, an exemption from publication may be requested. The opinion of the public prosecutor is sought during the procedure regarding this exemption."
+    },
+    {
+      "type": "paragraph",
+      "text": "The FPS Justice forwards the royal decree to the Civil Status Records Database (BAEC) within 15 days, and a note is added to documents linked to the individual concerned."
+    },
+    {
+      "type": "paragraph",
+      "text": "If there are no Belgian civil status records, the civil registrar of the place of residence will draw up a name change act in the BAEC."
+    },
+    {
+      "type": "paragraph",
+      "text": "The name change takes effect on the date of the mention in the BAEC."
+    },
+    {
+      "type": "source",
+      "url": "https://justice.belgium.be/fr/themes_et_dossiers/personnes_et_familles/changement_de_nom/changer_de_nom#tab-top--3"
+    }
+  ]
+},
+
   ]
 }
