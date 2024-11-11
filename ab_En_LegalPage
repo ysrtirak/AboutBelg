@@ -32,9 +32,9 @@
       "text": "Depending on the reasons stated in your application, the FPS Justice may ask you to attach additional documents (court judgments, testimonies and opinions, various proofs, etc.)."
     },
     {
-      "type": "source",
-      "url": "https://justice.belgium.be/fr/themes_et_dossiers/personnes_et_familles/changement_de_nom/changer_de_nom#tab-top--3"
-    }
+          "type": "source",
+          "url": "https://finances.belgium.be"
+        }
   ]
 },
 {
@@ -53,9 +53,9 @@
       "text": "In some rarer cases, the FPS Justice may request additional information from other administrations (Nobility Service, Foreign Affairs, State Security, etc.)."
     },
     {
-      "type": "source",
-      "url": "https://justice.belgium.be/fr/themes_et_dossiers/personnes_et_familles/changement_de_nom/changer_de_nom#tab-top--3"
-    }
+          "type": "source",
+          "url": "https://finances.belgium.be"
+        }
   ]
 },
 {
@@ -78,9 +78,9 @@
       "text": "The name change takes effect on the date of the mention in the BAEC."
     },
     {
-      "type": "source",
-      "url": "https://justice.belgium.be/fr/themes_et_dossiers/personnes_et_familles/changement_de_nom/changer_de_nom#tab-top--3"
-    }
+          "type": "source",
+          "url": "https://finances.belgium.be"
+        }
   ]
 },
 {
@@ -93,7 +93,11 @@
       {
         "type": "paragraph",
         "text": "Taking into account the formalities of publication and transcription, the total duration of the procedure varies from 6 to 12 months. Simple requests are processed more quickly."
-      }
+      },
+{
+          "type": "source",
+          "url": "https://finances.belgium.be"
+        }
     ]
   },
   {
@@ -120,9 +124,9 @@
         "text": "The registration fee is non-refundable if the application is submitted to SPF Justice, even in cases of refusal, inadmissibility, withdrawal, or dismissal."
       },
       {
-        "type": "source",
-        "url": "https://finances.belgium.be",
-      }
+          "type": "source",
+          "url": "https://finances.belgium.be"
+        }
     ]
   },
   {
@@ -135,7 +139,11 @@
       {
         "type": "paragraph",
         "text": "Establishing or terminating a link to a person requires judicial actions, which may lead to a name change as an incidental effect."
-      }
+      },
+{
+          "type": "source",
+          "url": "https://finances.belgium.be"
+        }
     ]
   },
   {
