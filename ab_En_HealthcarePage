@@ -698,8 +698,7 @@
     {
       "type": "image",
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Palais_de_Justice_Bruxelles.jpg"
-    },
-
+    }
   ]
 },
 {
@@ -732,14 +731,10 @@
     {
       "type": "image",
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Child_abuse_helpline.jpg"
-    },
-    {
-      "type": "video",
-      "url": "https://www.youtube.com/watch?v=example-1712-helpline"
     }
   ]
 }
-,
+
 
 
 
