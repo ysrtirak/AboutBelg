@@ -1,0 +1,26 @@
+{
+  "questions": [
+    {
+      "question": "Belçika'da toplu taşıma seçenekleri nelerdir?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Belçika, otobüsler, tramvaylar ve trenleri içeren iyi bağlantılı bir toplu taşıma sistemine sahiptir."
+        },
+        {
+          "type": "image",
+          "url": "https://example.com/transportation_image.jpg"
+        }
+      ]
+    },
+    {
+      "question": "Belçika'da sürücü ehliyeti nasıl alınır?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Belçika'da bir sürücü ehliyeti almak için teorik ve pratik sınavları geçmeniz gerekir."
+        }
+      ]
+    }
+  ]
+}

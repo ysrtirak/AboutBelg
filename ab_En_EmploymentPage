@@ -1,7 +1,6 @@
 {
   "questions": [
     {
-      "id": 1,
       "question": "How to find a job in Belgium?",
       "content": [
         {
@@ -11,7 +10,6 @@
       ]
     },
     {
-      "id": 2,
       "question": "What are the working conditions like in Belgium?",
       "content": [
         {

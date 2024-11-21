@@ -8,6 +8,10 @@
           "text": "BE-Alert is a national warning system in Belgium that allows the government to notify citizens in case of emergencies, such as fires, natural disasters, or environmental incidents. It supplements traditional media like radio and television by sending alerts directly to individuals via SMS, email, or spoken messages on landlines."
         },
         {
+                          "type": "image",
+                          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-XtRRbDsWBSrg-VfDa2NjIRQ2XGkv6VbFA&s"
+                 },
+        {
           "type": "paragraph",
           "text": "### Who Can Register?\n- All residents of Belgium can register for BE-Alert.\n- Most municipalities in Flanders participate in the system. Residents of other municipalities can still receive alerts from federal or provincial authorities."
         },
@@ -37,6 +41,10 @@
           "text": "In case of emergencies, you can contact public emergency services and assistance lines in Belgium. Here is a comprehensive list of the main emergency numbers and support hotlines."
         },
         {
+                          "type": "image",
+                          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTykvHfsJ1JAMiQlPbHX03naVikGUOOgF1MVQ&s"
+                 },
+        {
           "type": "paragraph",
           "text": "### Emergency Numbers\n- **Police:** 101\n- **Ambulance and Fire Department:** 112\n- **European Emergency Number:** 112\n\nWhen you call these numbers, you will first be asked whether you need an ambulance, the fire department, or the police. You can reach these numbers:\n- From a landline.\n- Using a smartphone via the [112 app](https://www.app112.be/).\n- With a mobile phone (a SIM card or active subscription is not required)."
         },
@@ -62,6 +70,10 @@
           "text": "Ambulance services in Belgium are not entirely free. The cost depends on whether the situation involves emergency medical assistance or non-urgent medical transportation."
         },
         {
+                          "type": "image",
+                          "url": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_644w/2024/08/14/node_727555/3775198/public/2024/08/14/ambulance_flandre.jpeg?itok=d5oz_Dms1723621259"
+                 },
+        {
           "type": "paragraph",
           "text": "### Emergency Medical Assistance\n- When you call **112** for a person in distress, an ambulance or Medical Emergency Group (MUG) team is dispatched to assess, treat, and transport the patient to the hospital.\n- **Cost:**\n  - Patients pay a legally fixed fee for ambulance interventions, even if they decide not to be transported.\n  - Health insurance does **not** reimburse this fee.\n  - No additional costs may be charged beyond the fixed fee.\n- The MUG team provides life-saving interventions and stabilizes the patient before hospital transport.\n  - The costs for the MUG doctor are fully reimbursed by health insurance.\n  - Some other charges may be partially borne by the patient."
         },
@@ -82,6 +94,10 @@
       "type": "paragraph",
       "text": "Fire brigade interventions in Belgium are legally regulated. While most services are free, certain interventions may incur costs depending on their nature and the local municipality's regulations."
     },
+    {
+                      "type": "image",
+                      "url": "https://www.mensura.be/uploads/cache/hero/uploads/media/624ae33929048/brandveiligheid-preventie-en-bestrijding.png?v1"
+             },
     {
       "type": "paragraph",
       "text": "### When Are Fire Brigade Services Free?\nFire brigade services are always free for:\n- Fires.\n- Explosions.\n- Rescuing people in distress (e.g., saving a drowning person)."
@@ -107,6 +123,10 @@
       "type": "paragraph",
       "text": "The Flemish Social Protection (Vlaamse Sociale Bescherming) system is mandatory for certain individuals residing in Flanders. It provides support for long-term care and assistance. Here's what you need to know about joining."
     },
+    {
+                      "type": "image",
+                      "url": "https://admin.expatica.com/be/wp-content/uploads/sites/4/2023/11/social-security-belgium.jpg"
+             },
     {
       "type": "paragraph",
       "text": "### Who Must Join?\nYou must join the Flemish Social Protection system if you:\n- Are **26 years or older**.\n- **Live in Flanders**, meaning you are registered in the population or foreigners' register of a Flemish municipality.\n- Maintain an address in Flanders, even if you temporarily reside abroad.\n\nYou are required to join even if you are registered in Flanders for just one day."
@@ -647,93 +667,9 @@
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Burial_site_cemetery.jpg"
     }
   ]
-},
-{
-  "question": "What is the judicial process for a crime in Belgium?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "An offense is the lightest form of a crime, typically judged by the police court. Examples include noise disturbance at night, public intoxication, and traffic violations."
-    },
-    {
-      "type": "paragraph",
-      "text": "A misdemeanor is a more serious crime than an offense and carries heavier penalties. The correctional court handles misdemeanors. Examples include theft, abuse of trust, fraud, and assault and battery."
-    },
-    {
-      "type": "paragraph",
-      "text": "Felonies are the most severe crimes and are adjudicated by the court of assizes. Examples include sexual assault of a minor, rape, and murder."
-    },
-    {
-      "type": "paragraph",
-      "text": "Several procedures can initiate a criminal prosecution: the police may detect a crime or catch someone in the act, individuals can file complaints with the police or public prosecutor, victims can become civil parties in the case, and injured parties can summon suspected offenders directly to court for minor offenses or misdemeanors."
-    },
-    {
-      "type": "paragraph",
-      "text": "The criminal investigation serves to gather evidence and compile a case file. Two methods are available: an investigative inquiry led by the public prosecutor or a judicial inquiry conducted by an investigating judge."
-    },
-    {
-      "type": "paragraph",
-      "text": "During an investigative inquiry, the prosecutor collaborates with the police. If privacy-invasive measures are required (e.g., a house search), an investigating judge is involved. Afterward, the prosecutor decides on the case: close it, propose a settlement, initiate mediation, or prosecute the suspect."
-    },
-    {
-      "type": "paragraph",
-      "text": "In judicial inquiries, the investigating judge handles complex cases requiring special measures (e.g., wiretapping). The judge may place suspects under temporary detention or release them under specific conditions. A supervisory chamber oversees the process and decides the case's next steps."
-    },
-    {
-      "type": "paragraph",
-      "text": "Criminal trials typically occur in the police court for offenses, the correctional court for misdemeanors, or the court of assizes for felonies. At trial, the prosecutor presents the case, the defendant is represented, and victims may seek damages. The judge or jury determines guilt and issues a verdict."
-    },
-    {
-      "type": "paragraph",
-      "text": "Verdicts can include acquittal, monetary fines, or imprisonment. Sentences may involve electronic monitoring, probation, or suspension under conditions. The court can also rule on insanity, leading to institutionalization."
-    },
-    {
-      "type": "paragraph",
-      "text": "After the verdict, parties can appeal or seek a retrial in higher courts. In cases of legal errors or procedural mistakes, an appeal to the Court of Cassation is possible."
-    },
-    {
-      "type": "source",
-      "url": "https://www.justice.belgium.be"
-    },
-    {
-      "type": "image",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Palais_de_Justice_Bruxelles.jpg"
-    }
-  ]
-},
-{
-  "question": "What is the 1712 Helpline for violence, abuse, and child abuse?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "The 1712 helpline provides support for questions and concerns about all forms of violence, abuse, and child abuse. A professional counselor listens to your story, offers information and advice, and works with you to find the best possible solution."
-    },
-    {
-      "type": "paragraph",
-      "text": "Conditions: The helpline is available to anyone dealing with violence, abuse, or child abuse or who has questions about these issues."
-    },
-    {
-      "type": "paragraph",
-      "text": "Procedure: You can contact the helpline by calling 1712. It is available every weekday from 9 AM to 6 PM. Alternatively, you can send an email and expect a response within two days. Chat services are available from Monday to Thursday between 1 PM and 5 PM and from 6 PM to 10 PM. Conversations with the helpline are discreet; calls do not appear on your phone bill, and you do not need to disclose your identity."
-    },
-    {
-      "type": "paragraph",
-      "text": "In life-threatening situations, call the police at 101. For urgent medical assistance, call emergency services at 112."
-    },
-    {
-      "type": "paragraph",
-      "text": "Cost: The 1712 helpline is free of charge."
-    },
-    {
-      "type": "source",
-      "url": "https://www.1712.be"
-    },
-    {
-      "type": "image",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Child_abuse_helpline.jpg"
-    }
-  ]
 }
+
+
 
 
 

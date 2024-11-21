@@ -157,6 +157,10 @@
       "text": "An Apostille is an official certification that verifies the authenticity of a document for international use. This system, established by the 1961 Hague Apostille Convention, allows official documents to be recognized in other member countries."
     },
     {
+                      "type": "image",
+                      "url": "https://diplomatie.belgium.be/sites/default/files/2022-03/l%C3%A9galisation%20de%20documents.jpeg"
+             },
+    {
       "type": "paragraph",
       "text": "### What is an Apostille?\n- An Apostille is a certification issued by the competent authority of a country to verify the authenticity of a document.\n- It confirms that the document is genuine and issued by the designated authority.\n- Apostilles are valid only between countries that are parties to the Hague Apostille Convention."
     },
@@ -182,12 +186,6 @@
     }
   ]
 }
-
-
-
-
-
-
 
 
   ]

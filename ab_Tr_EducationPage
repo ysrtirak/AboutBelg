@@ -1,11 +1,11 @@
 {
   "questions": [
     {
-      "question": "How does the education system work in Belgium?",
+      "question": "Belçika'da eğitim sistemi nasıl işler?",
       "content": [
         {
           "type": "paragraph",
-          "text": "The education system in Belgium is divided into different levels: primary, secondary, and higher education."
+          "text": "Belçika'daki eğitim sistemi farklı seviyelere ayrılmıştır: ilkokul, ortaokul ve yükseköğretim."
         },
         {
           "type": "image",
@@ -14,11 +14,11 @@
       ]
     },
     {
-      "question": "Are there any scholarships available for international students?",
+      "question": "Uluslararası öğrenciler için burslar mevcut mu?",
       "content": [
         {
           "type": "paragraph",
-          "text": "Several scholarships are available for international students in Belgium..."
+          "text": "Belçika'da uluslararası öğrenciler için çeşitli burslar mevcuttur..."
         },
         {
           "type": "video",

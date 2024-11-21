@@ -6,7 +6,7 @@
       "content": [
         {
           "type": "paragraph",
-          "text": "Le système éducatif en Belgique est divisé en différents niveaux : l'éducation primaire, secondaire et supérieure."
+          "text": "Le système éducatif en Belgique est divisé en différents niveaux : enseignement primaire, secondaire et supérieur."
         },
         {
           "type": "image",
@@ -16,7 +16,7 @@
     },
     {
       "id": 2,
-      "question": "Y a-t-il des bourses disponibles pour les étudiants internationaux ?",
+      "question": "Existe-t-il des bourses disponibles pour les étudiants internationaux ?",
       "content": [
         {
           "type": "paragraph",

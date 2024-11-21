@@ -1,8 +1,12 @@
 {
   "homePage": {
-    "title": "Explorer la Belgique",
+    "title": "Explorez la Belgique",
     "description": "Voici quelques sujets clés à explorer sur la Belgique :",
     "menu": [
+        {
+            "title": "Juridique",
+            "route": "LegalPage"
+          },
       {
         "title": "Éducation",
         "route": "EducationPage"
@@ -12,16 +16,12 @@
         "route": "EmploymentPage"
       },
       {
-        "title": "Système de santé",
+        "title": "Santé",
         "route": "HealthcarePage"
       },
       {
-        "title": "Logement",
+        "title": "Vie Quotidienne",
         "route": "HousingPage"
-      },
-      {
-        "title": "Légal",
-        "route": "LegalPage"
       },
       {
         "title": "Transport",
@@ -30,21 +30,21 @@
     ]
   },
   "legalPage": {
-    "title": "Informations juridiques"
+    "title": "Informations Juridiques"
   },
   "educationPage": {
     "title": "Éducation en Belgique"
   },
   "employmentPage": {
-    "title": "Opportunités d'emploi en Belgique"
+    "title": "Opportunités d'Emploi en Belgique"
   },
   "healthcarePage": {
-    "title": "Système de santé en Belgique"
+    "title": "Système de Santé en Belgique"
   },
   "housingPage": {
-    "title": "Informations sur le logement"
+    "title": "Informations sur le Logement"
   },
   "transportationPage": {
-    "title": "Transports"
+    "title": "Transport"
   }
 }

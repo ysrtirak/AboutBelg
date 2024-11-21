@@ -1,0 +1,26 @@
+{
+  "questions": [
+    {
+      "question": "Quelles sont les options de transport public en Belgique ?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La Belgique dispose d'un réseau de transport public bien connecté, comprenant des bus, des trams et des trains."
+        },
+        {
+          "type": "image",
+          "url": "https://example.com/transportation_image.jpg"
+        }
+      ]
+    },
+    {
+      "question": "Comment obtenir un permis de conduire en Belgique ?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Pour obtenir un permis de conduire en Belgique, vous devez réussir les examens théorique et pratique."
+        }
+      ]
+    }
+  ]
+}
