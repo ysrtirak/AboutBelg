@@ -1,0 +1,193 @@
+{
+  "questions": [
+      {
+        "question": "Quelles sont les exigences légales pour changer votre nom ou votre enregistrement de genre en Belgique ?",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Changer votre nom ou votre enregistrement de genre en Belgique implique des procédures et exigences légales spécifiques. Ces processus sont gérés par les autorités locales et varient selon le type de changement demandé."
+          },
+          {
+            "type": "paragraph",
+            "text": "### Changement de prénom\nDans certaines conditions, les citoyens belges, réfugiés reconnus ou apatrides peuvent demander un changement de prénom. Le nouveau prénom ne doit pas causer de confusion, nuire à l'individu ou à autrui. La procédure est initiée au registre de l'état civil de votre commune et dure généralement jusqu'à trois mois. Les frais varient selon la commune, avec un maximum de 10 % du coût municipal pour les personnes transgenres."
+          },
+          {
+            "type": "paragraph",
+            "text": "### Changement de nom de famille\nChanger de nom de famille nécessite une demande écrite au Service des changements de nom du Service Public Fédéral Justice. Les demandeurs doivent fournir une justification solide et démontrer des raisons sérieuses pour le changement. La procédure implique de soumettre des documents tels qu'un acte de naissance, une preuve de résidence et un extrait de casier judiciaire. Le processus dure en moyenne de 6 à 12 mois."
+          },
+          {
+            "type": "paragraph",
+            "text": "### Modification de l'enregistrement de genre\nDepuis 2018, la loi belge permet aux personnes transgenres de modifier leur enregistrement de genre sans exigences médicales. Pour les mineurs âgés de 16 ans et plus, le processus nécessite le soutien parental et une déclaration d'un pédopsychiatre. La procédure comprend une déclaration au registre civil municipal, suivie d'un examen et d'ajustements légaux. Les coûts incluent la mise à jour des documents officiels comme les cartes d'identité, généralement entre 15 € et 25 € selon la commune."
+          },
+          {
+            "type": "paragraph",
+            "text": "### Changement simplifié de nom de famille (à partir du 1er juillet 2024)\nÀ partir du 1er juillet 2024, les adultes citoyens belges, réfugiés reconnus ou apatrides peuvent demander un changement simplifié de nom de famille. Les options incluent l'adoption du nom d'un parent, des deux parents dans un ordre choisi ou du nom d'un parent adoptif. La demande est traitée par la municipalité locale en un à trois mois."
+          },
+          {
+            "type": "source",
+            "url": "https://justitie.belgium.be/nl"
+          }
+        ]
+      },
+      {
+        "question": "Qu'est-ce que la Kids-ID et comment l'obtenir en Belgique ?",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "La Kids-ID est un document d'identification électronique pour les enfants belges de moins de 12 ans. Elle sert à la fois de document d'identification et de voyage, contenant les informations d'identité de l'enfant, sa photo et les noms des parents. Ces informations sont visibles sur la carte et stockées sur une puce électronique. Bien qu'elle ne soit pas obligatoire en Belgique, la Kids-ID est requise pour voyager à l'étranger dans certains cas."
+          },
+          {
+            "type": "paragraph",
+            "text": "### Caractéristiques de la Kids-ID\n- Valable dans la plupart des pays européens et certains pays non européens.\n- Requise dans les pays où les adultes peuvent voyager uniquement avec une carte d'identité au lieu d'un passeport.\n- Inclut le service « Hallo Ouders » pour contacter les parents ou tuteurs en cas d'urgence.\n- Les enfants âgés de six ans et plus peuvent utiliser la carte pour une identification et une communication sécurisées en ligne, mais pas pour signer des documents en ligne."
+          },
+          {
+            "type": "paragraph",
+            "text": "### Conditions\nPour demander une Kids-ID, les conditions suivantes doivent être remplies :\n- Le demandeur doit avoir l'autorité parentale sur l'enfant.\n- Le parent et l'enfant doivent être présents lors de la demande.\n\n**Exigences pour la photo :**\n- Certaines municipalités peuvent prendre une photo pendant la demande. Vérifiez au préalable avec votre autorité locale.\n- Si vous fournissez votre propre photo, elle ne doit pas dater de plus de six mois et doit respecter les normes de l'Organisation de l'aviation civile internationale."
+          },
+          {
+            "type": "paragraph",
+            "text": "### Validité\n- Une Kids-ID est valable trois ans et reste valide même après les 12 ans de l'enfant.\n- À 12 ans, un enfant recevra une invitation à demander une carte d'identité électronique (eID) trois mois avant l'expiration de la Kids-ID.\n- Un déménagement n'exige pas le remplacement de la Kids-ID ; l'adresse sur la puce peut être mise à jour par la commune."
+          },
+          {
+            "type": "paragraph",
+            "text": "### Procédure\n**Demande de Kids-ID :**\n- Les demandes se font à la municipalité où l'enfant est inscrit.\n- Le processus prend 2 à 3 semaines ; faites votre demande au moins un mois avant de voyager pour éviter tout retard.\n- En cas de vol, signalez-le à la police locale et informez votre commune. Les IDs volés ne sont plus valides même s'ils sont retrouvés.\n\n**Collecte de la Kids-ID :**\n- Les codes pour l'activation (PUK, PIN et codes de contact pour le service « Hallo Ouders ») sont envoyés par courrier.\n- Apportez les codes lors de la collecte de la Kids-ID ; l'enfant n'a pas besoin d'être présent pour l'activation des codes."
+          },
+          {
+            "type": "paragraph",
+            "text": "### Kids-ID pour les enfants belges à l'étranger\nLes enfants belges de moins de 12 ans résidant à l'étranger peuvent demander une Kids-ID à leur consulat local. Les délais de traitement sont plus longs pour les demandes consulaires. Depuis le 21 juin 2021, les municipalités belges peuvent également traiter les demandes de Kids-ID pour les enfants inscrits dans un registre consulaire, mais uniquement via une procédure accélérée."
+          },
+          {
+            "type": "paragraph",
+            "text": "### Documents requis\n**Pour la demande :**\n- Carte d'identité électronique (eID) du parent demandeur.\n- Une photo d'identité couleur récente de l'enfant (si la municipalité ne prend pas de photos).\n\n**Pour la collecte de la Kids-ID :**\n- La lettre contenant les codes PIN et PUK.\n- L'ancienne Kids-ID (si applicable)."
+          },
+          {
+            "type": "source",
+            "url": "https://www.belgium.be/en"
+          }
+        ]
+      },
+      {
+        "question": "Comment les apatrides, réfugiés et étrangers peuvent-ils demander un document de voyage en Belgique ?",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "En Belgique, les apatrides, les réfugiés reconnus et les étrangers qui ne peuvent obtenir un passeport national de leur pays d'origine peuvent demander un document de voyage belge auprès de la municipalité où ils résident. Ce document sert de substitut à un passeport national."
+          },
+          {
+            "type": "paragraph",
+            "text": "### Conditions\n**Pour les réfugiés reconnus et apatrides :**\n- Possession de documents de séjour valides.\n\n**Pour les autres étrangers :**\n- Preuve de remplir des conditions spécifiques déterminées par le Service Public Fédéral (SPF) Affaires étrangères."
+          },
+          {
+            "type": "paragraph",
+            "text": "### Procédure\n**Pour les réfugiés reconnus ou apatrides :**\n- Soumettez la demande directement à votre autorité municipale.\n- Fournissez des documents d'identité valides et une photo d'identité récente (datant de moins de six mois).\n- Si vos documents et votre statut sont en ordre, la municipalité traitera immédiatement votre demande.\n\n**Pour les étrangers (non reconnus comme réfugiés ou apatrides) :**\n1. Obtenez l'autorisation du SPF Affaires étrangères avant de faire votre demande à la municipalité.\n2. Utilisez le site du SPF Affaires étrangères pour vérifier l'éligibilité et les documents requis.\n3. Soumettez votre demande à :\n   - Email : passeport@diplobel.fed.be avec l'objet « Demande de document de voyage pour étranger ».\n   - Adresse postale : \n     SPF Affaires étrangères, \n     Direction des documents de voyage et d'identité,\n     Service C2.2 Dossiers individuels & réglementation nationale,\n     Rue des Carmélites 15, 1000 Bruxelles.\n4. Incluez les éléments suivants dans votre email ou courrier :\n   - Nom complet et prénoms.\n   - Lieu de naissance.\n   - Nationalité.\n   - Copie de votre permis de séjour.\n   - Tout autre document pertinent.\n5. Pour les mineurs, les demandes doivent être soumises par les parents ou tuteurs.\n6. L'enquête dure environ six semaines. Une fois l'autorisation accordée, soumettez votre demande dans les deux semaines à la municipalité avec les documents d'identité et une photo récente."
+          },
+          {
+            "type": "paragraph",
+            "text": "### Documents requis\n**Pour les réfugiés reconnus ou apatrides :**\n- Permis de séjour (par exemple, carte A, B, C, D, F(+)). Pour les enfants de moins de 12 ans, une carte d'identité pour mineurs est requise.\n- Une photo d'identité récente (datant de moins de six mois).\n\n**Pour les étrangers (non reconnus comme réfugiés ou apatrides) :**\n- Documents d'identité pertinents selon la situation.\n- Une photo d'identité récente (datant de moins de six mois)."
+          },
+          {
+            "type": "source",
+            "url": "https://www.belgium.be/en"
+          }
+        ]
+      },
+      {
+        "question": "Que faire si votre carte d'identité ou carte bancaire est perdue ou volée en Belgique ?",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Si vous perdez votre carte d'identité, passeport, permis de séjour ou carte bancaire en Belgique, il est crucial de prendre des mesures immédiates pour prévenir la fraude et sécuriser vos informations. La Belgique propose des services dédiés pour vous aider dans de tels cas, notamment DOCSTOP et Card Stop."
+          },
+          {
+            "type": "paragraph",
+            "text": "### Document d'identité perdu ou volé\n**Étapes à suivre :**\n- **Signalez à DOCSTOP :**\n  - Appelez DOCSTOP au **00800 2123 2123** (gratuit) pour bloquer votre document.\n  - Si le numéro gratuit est inaccessible, appelez le **+32 2 518 2123**.\n- **En cas de vol :**\n  - Informez immédiatement DOCSTOP.\n  - Déposez une plainte pour vol au commissariat ou au bureau de police local.\n- **En cas de perte :**\n  - Informez immédiatement DOCSTOP.\n  - Signalez la perte à votre commune. Si cela se produit en dehors des heures d'ouverture, rendez-vous au poste de police pour un certificat temporaire.\n- **Cas particuliers pour les permis de séjour :**\n  - Déposez une déclaration de perte à la police avant de vous rendre à la commune.\n\n**À l'étranger :**\n- Suivez les mêmes étapes : informez DOCSTOP et le poste de police le plus proche.\n- Pour un document d'identité temporaire, contactez le consulat belge."
+          },
+          {
+            "type": "paragraph",
+            "text": "### Remarque importante sur les documents retrouvés\nUne fois signalés comme perdus ou volés, les documents d'identité (par exemple, passeports, eID) ne sont plus valides, même s'ils sont retrouvés plus tard. Utiliser un document signalé pourrait entraîner un refus d'entrée dans des pays étrangers ou un retour immédiat en Belgique. Détruisez le document à votre commune et demandez un remplacement."
+          },
+          {
+            "type": "paragraph",
+            "text": "### Carte bancaire perdue ou volée\n**Étapes à suivre :**\n- Appelez **Card Stop** au **078 170 170** pour bloquer votre carte immédiatement.\n  - Depuis l'étranger, appelez le **+32 78 170 170** (tarifs internationaux applicables).\n  - Card Stop fonctionne 24h/24 et 7j/7 et ne facture pas de frais pour le blocage de votre carte ; seuls les frais d'appel s'appliquent.\n- Card Stop bloque :\n  - Cartes bancaires.\n  - Cartes de crédit.\n  - Cartes de carburant.\n  - Chèques électroniques."
+          },
+          {
+            "type": "source",
+            "url": "https://www.belgium.be/en"
+          }
+        ]
+      },
+{
+  "question": "Comment les adultes peuvent-ils demander la nationalité belge par la procédure de déclaration nationale ?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Les adultes souhaitant acquérir ou recouvrer la nationalité belge peuvent le faire par la procédure standard de déclaration nationale. Il existe différentes catégories de déclarations nationales, selon les circonstances individuelles. Dans des cas exceptionnels, la naturalisation peut être une option, mais elle est rarement accordée."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Éligibilité\n- La procédure de déclaration nationale est ouverte aux adultes souhaitant acquérir ou recouvrer la nationalité belge.\n- Les conditions spécifiques varient selon les situations individuelles. Pour plus de détails sur les critères d'éligibilité, consultez les pages « Quels adultes peuvent devenir belges ? » et « Recouvrer la nationalité belge »."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Étapes de la procédure\n**1. Payer les frais d'enregistrement :**\n- Un droit d'enregistrement de 150 € doit être payé avant de soumettre la déclaration. Ce droit est supprimé pour les personnes recouvrant la nationalité.\n- Modes de paiement :\n  - En ligne via [MyMinfin](https://www.myminfin.be/).\n  - Au bureau compétent de la Certitude juridique (Rechtszekerheid).\n- Incluez la preuve de paiement avec votre demande. Les demandes sans cette preuve ne sont pas traitées.\n\n**2. Soumettre la déclaration et les documents requis :**\n- Déposez la déclaration au registre de l'état civil de votre commune. Pour ceux résidant à l'étranger, elle peut être déposée auprès d'un poste consulaire belge.\n- La déclaration doit inclure l'énoncé : « Je déclare mon désir de devenir citoyen belge et de respecter la Constitution, les lois du peuple belge et la Convention de sauvegarde des droits de l'homme et des libertés fondamentales. »\n- Fournissez tous les documents requis. Ces documents sont répertoriés en fonction des profils individuels sur les pages pertinentes.\n\n**3. Cohérence des documents :**\n- Assurez-vous que l'orthographe de votre nom et votre date de naissance correspondent dans tous les documents soumis et registres. Les incohérences entraîneront une suspension indéfinie de la demande jusqu'à résolution.\n\n**4. Révision par le registre civil :**\n- Le registre civil examinera l'exhaustivité de votre dossier dans les 30 jours suivant la soumission. Si incomplet, vous disposez de deux mois pour rectifier la demande.\n\n**5. Recevoir un accusé de réception :**\n- Si la demande est complète, un accusé de réception est délivré dans les 35 jours ouvrables ou 15 jours ouvrables après la fourniture des documents manquants."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Examen par les autorités\n- Le registre civil transmet le dossier à :\n  - Le parquet.\n  - L'Office des étrangers.\n  - La Sûreté de l'État.\n- Le parquet fournit un avis contraignant dans un délai de quatre mois. En l'absence d'avis, la demande est considérée comme approuvée."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Décision\n- **Décision positive :**\n  - Le registre civil enregistre la déclaration dans le Registre national, et vous devenez belge à partir de la date de l'enregistrement.\n- **Décision négative :**\n  - Vous êtes informé du rejet et des raisons.\n  - Les rejets peuvent être contestés devant les tribunaux administratifs."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Coûts\n- **Frais d'enregistrement :** 150 €.\n- **Frais supplémentaires :**\n  - Taxes municipales (varie selon la commune).\n  - Frais de tribunal pour les recours (100 €).\n  - Légalisation et traduction des documents étrangers non rédigés en néerlandais, français ou allemand."
+    },
+    {
+      "type": "source",
+      "url": "https://www.vreemdelingenrecht.be/nationaliteit/procedures-belgische-nationaliteit/procedure-nationaliteitsverklaring"
+    }
+  ]
+},
+{
+  "question": "Comment obtenir une apostille pour un document en Belgique ?",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Une apostille est une certification officielle qui vérifie l'authenticité d'un document pour une utilisation internationale. Ce système, établi par la Convention de La Haye de 1961, permet la reconnaissance officielle des documents dans d'autres pays membres."
+    },
+    {
+      "type": "image",
+      "url": "https://diplomatie.belgium.be/sites/default/files/2022-03/l%C3%A9galisation%20de%20documents.jpeg"
+    },
+    {
+      "type": "paragraph",
+      "text": "### Qu'est-ce qu'une apostille ?\n- Une apostille est une certification délivrée par l'autorité compétente d'un pays pour vérifier l'authenticité d'un document.\n- Elle confirme que le document est authentique et délivré par l'autorité désignée.\n- Les apostilles ne sont valables qu'entre les pays parties à la Convention de La Haye."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Pourquoi une apostille est-elle nécessaire ?\nLa certification par apostille est requise lorsque des documents officiels doivent être reconnus internationalement. Exemples :\n- **Documents éducatifs :** Diplômes, relevés de notes, certificats.\n- **Documents d'état civil :** Actes de naissance, de mariage, de décès.\n- **Documents judiciaires :** Extraits de casier judiciaire.\n- **Documents notariés :** Procurations, contrats, déclarations.\n- **Documents commerciaux :** Documents de création d'entreprise, dossiers fiscaux."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Comment obtenir une apostille en Belgique ?\n**1. Préparer le document :**\n- Assurez-vous que le document est original et officiel. Une notarisation peut être nécessaire pour certains documents.\n\n**2. Identifier l'autorité compétente :**\n- Documents judiciaires : **Tribunaux**.\n- Documents notariés : **Ministère de la Justice**.\n- Documents officiels : **Ministère des Affaires étrangères**.\n\n**3. Soumettre la demande :**\n- Adressez-vous à l'autorité compétente pour demander l'apostille.\n- Payez les frais requis.\n\n**4. Récupérer le document :**\n- Une fois le processus terminé, récupérez le document avec la certification apostille."
+    },
+    {
+      "type": "paragraph",
+      "text": "### Importance de l'apostille en Belgique\n- Facilite la reconnaissance internationale des documents.\n- Souvent requise pour l'immigration, l'éducation, les demandes d'emploi ou les mariages à l'étranger.\n- Sans apostille, une vérification supplémentaire peut être nécessaire pour utiliser le document dans un autre pays."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour obtenir des conseils sur les étapes et les autorités appropriées, contactez le consulat du pays où le document sera utilisé ou consultez les autorités belges."
+    },
+    {
+      "type": "source",
+      "url": "https://elegalisation.diplomatie.be/"
+    }
+  ]
+}
+
+
+
+  ]
+}

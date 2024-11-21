@@ -3,6 +3,10 @@
     "title": "Explore Belgium",
     "description": "Here are some key topics to explore about Belgium:",
     "menu": [
+        {
+            "title": "Legal",
+            "route": "LegalPage"
+          },
       {
         "title": "Education",
         "route": "EducationPage"
@@ -16,12 +20,8 @@
         "route": "HealthcarePage"
       },
       {
-        "title": "Housing",
+        "title": "Daily Life",
         "route": "HousingPage"
-      },
-      {
-        "title": "Legal",
-        "route": "LegalPage"
       },
       {
         "title": "Transportation",

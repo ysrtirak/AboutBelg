@@ -1,0 +1,26 @@
+{
+  "questions": [
+    {
+      "question": "Belçika'da nasıl iş bulunur?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Belçika'da iş bulmak, çeşitli çevrimiçi platformlar ve ağ kurma fırsatlarını kullanmayı içerir..."
+        }
+      ]
+    },
+    {
+      "question": "Belçika'daki çalışma koşulları nasıldır?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Belçika, adil ücretler, sağlık sigortası ve çalışan hakları gibi yüksek standartlı çalışma koşullarına sahiptir."
+        },
+        {
+          "type": "image",
+          "url": "https://example.com/working_conditions_image.jpg"
+        }
+      ]
+    }
+  ]
+}

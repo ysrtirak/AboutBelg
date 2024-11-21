@@ -1,0 +1,26 @@
+{
+  "questions": [
+    {
+      "question": "Comment trouver un emploi en Belgique ?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Trouver un emploi en Belgique implique d'utiliser diverses plateformes en ligne et opportunités de réseautage..."
+        }
+      ]
+    },
+    {
+      "question": "Quelles sont les conditions de travail en Belgique ?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La Belgique offre des conditions de travail de haute qualité, comprenant des salaires équitables, une assurance maladie et des droits des travailleurs."
+        },
+        {
+          "type": "image",
+          "url": "https://example.com/working_conditions_image.jpg"
+        }
+      ]
+    }
+  ]
+}

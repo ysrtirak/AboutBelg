@@ -1,0 +1,50 @@
+{
+  "homePage": {
+    "title": "Belçika'yı Keşfedin",
+    "description": "Belçika hakkında keşfedilecek bazı ana konular şunlardır:",
+    "menu": [
+        {
+            "title": "Hukuk",
+            "route": "LegalPage"
+          },
+      {
+        "title": "Eğitim",
+        "route": "EducationPage"
+      },
+      {
+        "title": "İstihdam",
+        "route": "EmploymentPage"
+      },
+      {
+        "title": "Sağlık",
+        "route": "HealthcarePage"
+      },
+      {
+        "title": "Günlük Yaşam",
+        "route": "HousingPage"
+      },
+      {
+        "title": "Ulaşım",
+        "route": "TransportationPage"
+      }
+    ]
+  },
+  "legalPage": {
+    "title": "Hukuki Bilgiler"
+  },
+  "educationPage": {
+    "title": "Belçika'da Eğitim"
+  },
+  "employmentPage": {
+    "title": "Belçika'da İş Fırsatları"
+  },
+  "healthcarePage": {
+    "title": "Belçika'da Sağlık Sistemi"
+  },
+  "housingPage": {
+    "title": "Konut Bilgileri"
+  },
+  "transportationPage": {
+    "title": "Ulaşım"
+  }
+}

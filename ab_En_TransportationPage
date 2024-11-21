@@ -1,7 +1,6 @@
 {
   "questions": [
     {
-      "id": 1,
       "question": "What are the public transportation options in Belgium?",
       "content": [
         {
@@ -15,7 +14,6 @@
       ]
     },
     {
-      "id": 2,
       "question": "How to get a driver's license in Belgium?",
       "content": [
         {
