@@ -13,7 +13,7 @@
                         },
             {
                 "type": "source",
-                "url": "https://www.vlaanderen.be/onderwijs-en-vorming/leerplicht",
+                "url": "https://www.vlaanderen.be/onderwijs-en-vorming/leerplicht"
             },
             {
                                         "type": "paragraph",
@@ -21,14 +21,14 @@
                                     },
             {
                 "type": "source",
-                "url": "http://www.enseignement.be/index.php?page=24546&navi=22",
+                "url": "http://www.enseignement.be/index.php?page=24546&navi=22"
             },{
                                           "type": "paragraph",
                                           "text": "- Deutsch"
                                       },
             {
                 "type": "source",
-                "url": "https://ostbelgienbildung.be/desktopdefault.aspx/tabid-2270//4284_read-31613/#:~:text=Alle%20Kinder%20sind%20ab%20dem,wird%2C%20nicht%20mehr%20der%20Schulpflicht.",
+                "url": "https://ostbelgienbildung.be/desktopdefault.aspx/tabid-2270//4284_read-31613/#:~:text=Alle%20Kinder%20sind%20ab%20dem,wird%2C%20nicht%20mehr%20der%20Schulpflicht."
             }
         ]
     }
