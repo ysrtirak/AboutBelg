@@ -303,7 +303,7 @@
                         },
             {
                 "type": "source",
-                "url": "https://www.efp.be/",
+                "url": "https://www.efp.be/"
             },
             {
                             "type": "paragraph",
@@ -311,7 +311,7 @@
                         },
             {
                 "type": "source",
-                "url": "https://www.ifapme.be/",
+                "url": "https://www.ifapme.be/"
             },
             {
                             "type": "paragraph",
@@ -319,7 +319,7 @@
                         },
             {
                 "type": "source",
-                "url": "https://www.iawm.be/home/",
+                "url": "https://www.iawm.be/home/"
             }
         ]
     },
