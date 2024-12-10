@@ -1,26 +1,394 @@
 {
   "questions": [
     {
-      "question": "How to find a job in Belgium?",
+      "question": "What are VDAB, Le Forem, and Actiris job placement agencies in Belgium?",
       "content": [
         {
           "type": "paragraph",
-          "text": "Finding a job in Belgium involves using various online platforms and networking opportunities..."
+          "text": "VDAB, Le Forem, and Actiris are official job placement and career support agencies serving different regions in Belgium. Here are the details about each agency:"
+        },
+        {
+          "type": "paragraph",
+          "text": "VDAB (Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding):"
+        },
+        {
+                      "type": "source",
+                      "url": "www.vdab.be"
+                    },
+        {
+          "type": "paragraph",
+          "text": "Le Forem:"
+        },
+                 {
+                               "type": "source",
+                               "url": "www.leforem.be"
+                             },
+        {
+          "type": "paragraph",
+          "text": "Actiris:"
+        },
+        {
+                                         "type": "source",
+                                         "url": "www.actiris.brussels"
+                                       },
+        {
+          "type": "paragraph",
+          "text": "These agencies are Belgium's official employment organizations, offering mostly free services. Support is accessible based on the region you live in. Additionally, as an EU citizen, you may have easier access to these services."
         }
       ]
     },
     {
-      "question": "What are the working conditions like in Belgium?",
+      "question": "What are the legal provisions for student workers in Belgium?",
       "content": [
         {
           "type": "paragraph",
-          "text": "Belgium has a high standard of working conditions, including fair wages, health insurance, and worker rights."
+          "text": "A student worker in Belgium is allowed to work up to 600 hours per year, during which a reduced solidarity contribution is applicable."
         },
         {
-          "type": "image",
-          "url": "https://example.com/working_conditions_image.jpg"
+          "type": "source",
+          "url": "https://www.studentatwork.be"
         }
       ]
+    },
+    {
+        "question": "What are shortage occupations in Belgium?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Regional employment services in Belgium regularly update lists of shortage occupations, which are jobs experiencing a significant lack of qualified workers. If you wish to pursue studies preparing you for a shortage occupation, you may be exempted from certain obligations as a job seeker while still receiving unemployment benefits under specific conditions."
+            },{
+                              "type": "paragraph",
+                              "text": "- Vlaanderen"
+                          },
+            {
+                "type": "source",
+                "url": "https://www.vdab.be/knelpuntberoepen"
+            },{
+                                            "type": "paragraph",
+                                            "text": "- Brussel"
+                                        },
+            {
+                "type": "source",
+                "url": "https://www.actiris.brussels/nl/burgers/beroepsreferentiecentra/"
+            },{
+                                                          "type": "paragraph",
+                                                          "text": "- Wallonie"
+                                                      },
+            {
+                "type": "source",
+                "url": "https://www.leforem.be/citoyens/metiers-porteurs.html"
+            },{
+                                                          "type": "paragraph",
+                                                          "text": "- Duits"
+                                                      },
+            {
+                "type": "source",
+                "url": "https://www.adg.be/"
+            }
+        ]
+    },
+    {
+        "question": "How can I find a job with the Belgian federal government?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Werkenvoor.be is the largest job platform for government positions and serves as the central job portal for the Belgian federal government. It offers a wide range of job opportunities in the public sector across various domains, including IT, HR, communication, administration, health and care, research and development, and security. The platform publishes jobs and organizes selections for the federal government, as well as for regional, community, and local authorities."
+            },
+            {
+                "type": "source",
+                "url": "https://werkenvoor.be/nl"
+            }
+        ]
+    },
+    {
+        "question": "How does termination of an indefinite employment contract work in Belgium?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Termination of an employment contract of indefinite duration in Belgium can occur through resignation by the employee or dismissal by the employer. Notice must be given according to the legally determined notice periods, which vary based on the length of service and the status of the employee. Specific rules and conditions apply to ensure compliance with Belgian labor laws."
+            },
+            {
+                "type": "source",
+                "url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/einde-van-de-arbeidsovereenkomst/einde-van-de-arbeidsovereenkomst-3"
+            }
+        ]
+    },
+    {
+        "question": "What are the notice periods for resignation by an employee in Belgium?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "In Belgium, employees who wish to resign must respect specific notice periods, which are determined based on their length of service. These notice periods ensure a smooth transition and vary according to the employment duration. Employees must provide written notice to their employer, following the legal procedures outlined in Belgian labor laws."
+            },
+            {
+                "type": "source",
+                "url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/einde-van-de-arbeidsovereenkomst/einde-van-de-arbeidsovereenkomst-1"
+            }
+        ]
+    },
+    {
+        "question": "What happens when an indefinite employment contract ends with payment of severance in Belgium?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "In Belgium, an indefinite employment contract can be terminated immediately if the employer or employee opts to pay a severance compensation instead of providing a notice period. The amount of the severance pay corresponds to the wages the employee would have earned during the notice period, ensuring compliance with labor law regulations."
+            },
+            {
+                "type": "source",
+                "url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/einde-van-de-arbeidsovereenkomst/einde-van-de-arbeidsovereenkomst-0"
+            }
+        ]
+    },
+    {
+        "question": "What are the special rules for ending an indefinite employment contract in Belgium?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "In Belgium, the termination of an indefinite employment contract may be subject to special rules depending on specific circumstances. These include protections for employees in certain situations, such as pregnancy, union representation, or during illness. The rules aim to balance the rights of both the employer and employee while adhering to Belgian labor laws."
+            },
+            {
+                "type": "source",
+                "url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/einde-van-de-arbeidsovereenkomst/einde-van-de-arbeidsovereenkomst-2"
+            }
+        ]
+    },
+    {
+        "question": "What are the public holidays in Belgium?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Belgium recognizes ten official public holidays each year. These holidays are observed nationwide and often provide employees with a day off. Employers are required to compensate employees for these days in compliance with labor regulations."
+            },
+            {
+                "type": "source",
+                "url": "https://www.belgium.be/nl/werk/verlof_en_loopbaanonderbrekingen/feestdagen"
+            }
+        ]
+    },
+    {
+        "question": "What are the rules for annual leave in Belgium?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "In Belgium, full-time employees are generally entitled to four weeks of annual leave, known as 'ordinary leave.' The calculation of leave days and vacation pay varies depending on the employee's category, such as workers, employees, apprentices, artists, or civil servants. Employees who have not worked enough during the previous year to qualify for four weeks of leave may be eligible for additional leave days, youth leave, or senior leave. Vacation pay may be an advance on the following year's vacation or a payment from the National Employment Office (RVA)."
+            },
+            {
+                "type": "source",
+                "url": "https://www.socialsecurity.be/citizen/nl/verlof-tijdskrediet-en-loopbaanonderbreking/jaarlijkse-vakantie"
+            }
+        ]
+    },
+    {
+        "question": "What are the rules for maternity leave in Belgium?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "In Belgium, maternity leave includes a total of 15 weeks, divided into prenatal and postnatal leave. Prenatal leave allows for up to 6 weeks before the expected due date, with a minimum of one week mandatory. Postnatal leave covers the remaining weeks after childbirth, and additional time may be granted in cases of multiple births or specific medical conditions. Maternity leave is protected by law to ensure the health and well-being of both the mother and the child."
+            },
+            {
+                "type": "source",
+                "url": "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/moederschapsverlof"
+            }
+        ]
+    },
+    {
+        "question": "What are the rules for paternity or birth leave for employees in Belgium?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "In Belgium, employees are entitled to paternity or birth leave of 15 days following the birth of their child. These days can be taken consecutively or spread out within four months of the birth. During this period, the employee is entitled to salary for the first three days, while the remaining days are compensated by the National Institute for Health and Disability Insurance (RIZIV/INAMI)."
+            },
+            {
+                "type": "source",
+                "url": "https://www.inami.fgov.be/nl/thema-s/zwangerschap-en-geboorte/vaderschaps-of-geboorteverlof-en-adoptieverlof/vaderschaps-of-geboorteverlof-voor-werknemers#.WusbJKSFNyw"
+            }
+        ]
+    },
+    {
+        "question": "What are the reasons for suspension of an employment contract by the employee in Belgium?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "In Belgium, an employment contract may be suspended due to reasons related to the employee. These include illness or accident, maternity leave, parental leave, family leave, paternity or birth leave, or participation in specific training programs. Suspension temporarily halts the obligations of both the employee and employer while maintaining the employment relationship."
+            },
+            {
+                "type": "source",
+                "url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/schorsing-van-de-arbeidsovereenkomst/schorsingen-van-de"
+            }
+        ]
+    },
+    {
+        "question": "What are the rules for political leave in Belgium?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "In Belgium, political leave allows employees to participate in public duties, such as serving as a member of parliament or a local council. The duration and conditions of political leave depend on the type of public service role and are regulated by law. Employers are required to grant this leave while maintaining the employee's job position, although compensation during the leave may vary."
+            },
+            {
+                "type": "source",
+                "url": "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/politiek-verlof?id=549"
+            }
+        ]
+    },
+    {
+        "question": "What are the rules regarding incapacity for work, workplace accidents, and occupational diseases in Belgium?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "In Belgium, employees are entitled to specific protections in cases of incapacity for work, workplace accidents, or occupational diseases. Employers must ensure the safety and health of employees, and affected workers are eligible for compensation or benefits during recovery. These benefits are provided by social security and may vary depending on the nature and severity of the condition. Workers must promptly inform their employer and follow the necessary legal procedures to claim these benefits."
+            },
+            {
+                "type": "source",
+                "url": "https://www.socialsecurity.be/citizen/nl/arbeidsongeschiktheid-ongeval-en-beroepsziekte"
+            }
+        ]
+    },
+    {
+        "question": "What are the rules for workplace accidents in Belgium?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "In Belgium, workplace accidents are incidents that occur during and because of the execution of work, causing injury or harm to the employee. Employers are required to have insurance to cover workplace accidents, ensuring compensation for medical expenses, temporary or permanent disability, and, in some cases, death benefits to dependents. Employees must report the accident immediately to their employer to ensure proper handling of the claim."
+            },
+            {
+                "type": "source",
+                "url": "https://www.socialsecurity.be/citizen/nl/arbeidsongeschiktheid-ongeval-en-beroepsziekte/arbeidsongeval"
+            }
+        ]
+    },
+    {
+        "question": "What are the rules for full unemployment benefits in Belgium?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "In Belgium, individuals who are fully unemployed and meet certain conditions may qualify for unemployment benefits. Eligibility requirements include having worked a minimum number of days within a specific reference period, being registered as a job seeker, and being actively searching for work. The amount and duration of benefits depend on the individual's work history, family situation, and previous earnings. Applications must be submitted through the National Employment Office (RVA)."
+            },
+            {
+                "type": "source",
+                "url": "https://www.rva.be/burgers/volledige-werkloosheid"
+            }
+        ]
+    },
+    {
+        "question": "What are the main pension systems in Belgium?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Belgium has three primary pension systems: the employee system, the self-employed system, and the system for civil servants, applicable to permanently appointed officials. Each system has different contribution requirements and pension benefits. Additionally, there are special pension systems for specific professions, such as miners, seafarers, civilian aviation personnel, and professional journalists. For detailed information on pensions for employees and statutory civil servants, consult the Federal Pension Service (FPD)."
+            },
+            {
+                "type": "source",
+                "url": "https://www.sfpd.fgov.be/nl"
+            }
+        ]
+    },
+    {
+        "question": "What training options are available for entrepreneurs and aspiring self-employed individuals in Belgium?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Becoming self-employed in Belgium requires mastering various professional skills, such as technical knowledge and management. Aspiring entrepreneurs can follow an alternating training program that combines theoretical courses with practical business internships. For current self-employed individuals and SME employees looking to enhance their skills or adapt to technological developments, specialized training is available through various regional organizations."
+            },
+            {
+                            "type": "paragraph",
+                "text": "In Flanders, SYNTRA offers training for entrepreneurs, SME employees, and business leaders through its 24 centers in Flanders and Brussels."
+                        },
+            {
+                "type": "source",
+                "url": "https://www.syntra.be/",
+            },
+            {
+                            "type": "paragraph",
+                "text": "In the Brussels Region, EFP provides training for business leaders and advanced courses for specialized employees or self-employed individuals."
+                        },
+            {
+                "type": "source",
+                "url": "https://www.efp.be/",
+            },
+            {
+                            "type": "paragraph",
+                "text": "In Wallonia, IFAPME offers training for entrepreneurs and provides educational support for those interested in setting up a business."
+                        },
+            {
+                "type": "source",
+                "url": "https://www.ifapme.be/",
+            },
+            {
+                            "type": "paragraph",
+                "text": "In the German-speaking region, IAWM manages training for over 50 professions, including programs for business leaders and advanced training for specialized workers or self-employed individuals."
+                        },
+            {
+                "type": "source",
+                "url": "https://www.iawm.be/home/",
+            }
+        ]
+    },
+    {
+        "question": "What are the requirements for self-employment in Belgium?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "To become self-employed in Belgium, individuals must meet specific conditions and complete several administrative procedures. Key requirements include being at least 18 years old, possessing civil and political rights, and having the legal capacity to perform the intended activity. Non-EU nationals may need to obtain a professional card, depending on their nationality and the region where they plan to operate. Registration with the Crossroads Bank for Enterprises (CBE) is mandatory, and depending on the business structure, additional steps such as drafting articles of association may be required."
+            },
+            {
+                                        "type": "paragraph",
+                            "text": "- Vlaanderen"
+                                    },
+            {
+                "type": "source",
+                "url": "https://www.vlaanderen.be/departement-werk-sociale-economie/overzicht-dienstverlening/en/home"
+            },
+            {
+                                                    "type": "paragraph",
+                                        "text": "- Brussels"
+                                                },
+            {
+                "type": "source",
+                "url": "https://economy-employment.brussels/"
+            },
+            {
+                                                    "type": "paragraph",
+                                        "text": "- Wallonie"
+                                                },
+            {
+                "type": "source",
+                "url": "https://emploi.wallonie.be/en/home/travailleurs-etrangers/carte-professionnelle.html"
+            }
+        ]
+    },
+    {
+        "question": "What is 'Mijn vakantierekening' and how can workers access it in Belgium?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "'Mijn vakantierekening' is an online service that allows workers in Belgium to access detailed information about their vacation entitlements and payments. The platform has been recently updated to enhance user experience, providing clear and secure access to vacation data. This service is particularly useful for workers to track their vacation benefits and manage their holiday planning."
+            },
+            {
+                "type": "source",
+                "url": "https://rjv.be/fr/ouvriers/mon-compte-de-vacances"
+            }
+        ]
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   ]
 }

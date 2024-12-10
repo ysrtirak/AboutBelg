@@ -1,26 +1,382 @@
 {
   "questions": [
     {
-      "question": "Belçika'da nasıl iş bulunur?",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Belçika'da iş bulmak, çeşitli çevrimiçi platformlar ve ağ kurma fırsatlarını kullanmayı içerir..."
-        }
-      ]
-    },
-    {
-      "question": "Belçika'daki çalışma koşulları nasıldır?",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Belçika, adil ücretler, sağlık sigortası ve çalışan hakları gibi yüksek standartlı çalışma koşullarına sahiptir."
+            "question": "Belçika'daki VDAB, Le Forem ve Actiris iş bulma ajansları nelerdir?",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "text": "VDAB, Le Forem ve Actiris, Belçika'da farklı bölgelerde hizmet veren resmi iş bulma ve kariyer destek ajanslarıdır. İşte her ajans hakkında detaylar:"
+                },
+                {
+                    "type": "paragraph",
+                    "text": "VDAB (Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding):"
+                },
+                {
+                    "type": "source",
+                    "url": "www.vdab.be"
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Le Forem:"
+                },
+                {
+                    "type": "source",
+                    "url": "www.leforem.be"
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Actiris:"
+                },
+                {
+                    "type": "source",
+                    "url": "www.actiris.brussels"
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Bu ajanslar, Belçika'nın resmi istihdam organizasyonlarıdır ve çoğunlukla ücretsiz hizmetler sunar. Destek, yaşadığınız bölgeye göre erişilebilir. Ayrıca, AB vatandaşı olarak bu hizmetlere daha kolay erişim sağlayabilirsiniz."
+                }
+            ]
         },
         {
-          "type": "image",
-          "url": "https://example.com/working_conditions_image.jpg"
-        }
-      ]
-    }
+            "question": "Belçika'da öğrenci çalışanlar için yasal düzenlemeler nelerdir?",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "text": "Belçika'da bir öğrenci çalışan, yılda 600 saate kadar çalışabilir ve bu süre zarfında indirimli bir dayanışma katkısı uygulanır."
+                },
+                {
+                    "type": "source",
+                    "url": "https://www.studentatwork.be"
+                }
+            ]
+        },
+        {
+            "question": "Belçika'da eksik meslekler nelerdir?",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "text": "Belçika'daki bölgesel istihdam hizmetleri, nitelikli işçi eksikliği yaşanan mesleklerin listelerini düzenli olarak günceller. Eksik bir meslek için eğitim almayı tercih ederseniz, iş arayan olarak belirli koşullar altında işsizlik ödeneği almaya devam ederken bazı yükümlülüklerden muaf tutulabilirsiniz."
+                },
+                {
+                    "type": "paragraph",
+                    "text": "- Vlaanderen"
+                },
+                {
+                    "type": "source",
+                    "url": "https://www.vdab.be/knelpuntberoepen"
+                },
+                {
+                    "type": "paragraph",
+                    "text": "- Brussel"
+                },
+                {
+                    "type": "source",
+                    "url": "https://www.actiris.brussels/nl/burgers/beroepsreferentiecentra/"
+                },
+                {
+                    "type": "paragraph",
+                    "text": "- Wallonie"
+                },
+                {
+                    "type": "source",
+                    "url": "https://www.leforem.be/citoyens/metiers-porteurs.html"
+                },
+                {
+                    "type": "paragraph",
+                    "text": "- Duits"
+                },
+                {
+                    "type": "source",
+                    "url": "https://www.adg.be/"
+                }
+            ]
+        },
+        {
+            "question": "Belçika federal hükümetinde nasıl iş bulunur?",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "text": "Werkenvoor.be, devlet pozisyonları için en büyük iş platformudur ve Belçika federal hükümeti için merkezi bir iş portalı olarak hizmet verir. IT, İK, iletişim, idare, sağlık ve bakım, araştırma-geliştirme ve güvenlik gibi çeşitli alanlarda kamu sektörü iş fırsatları sunar. Platform, federal hükümet, bölgesel, topluluk ve yerel otoriteler için iş ilanlarını yayınlar ve seçimler düzenler."
+                },
+                {
+                    "type": "source",
+                    "url": "https://werkenvoor.be/nl"
+                }
+            ]
+        },
+        {
+            "question": "Belçika'da belirsiz süreli iş sözleşmesinin feshi nasıl işler?",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "text": "Belçika'da belirsiz süreli bir iş sözleşmesi, çalışan tarafından istifa veya işveren tarafından fesih yoluyla sona erdirilebilir. Bildirim, yasal olarak belirlenmiş bildirim sürelerine göre yapılmalıdır ve bu süreler, hizmet süresi ve çalışanın statüsüne bağlı olarak değişir. Belçika iş kanunlarına uygunluğu sağlamak için belirli kurallar ve koşullar geçerlidir."
+                },
+                {
+                    "type": "source",
+                    "url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/einde-van-de-arbeidsovereenkomst/einde-van-de-arbeidsovereenkomst-3"
+                }
+            ]
+        },{
+                  "question": "Belçika'da bir çalışanın istifası için ihbar süreleri nelerdir?",
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "text": "Belçika'da istifa etmek isteyen çalışanlar, hizmet sürelerine bağlı olarak belirlenen özel ihbar sürelerine uymak zorundadır. Bu ihbar süreleri, geçişin sorunsuz olmasını sağlar ve çalışma süresine göre değişir. Çalışanlar, Belçika iş kanunlarında belirtilen yasal prosedürleri izleyerek işverenlerine yazılı ihbarda bulunmalıdır."
+                      },
+                      {
+                          "type": "source",
+                          "url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/einde-van-de-arbeidsovereenkomst/einde-van-de-arbeidsovereenkomst-1"
+                      }
+                  ]
+              },
+              {
+                  "question": "Belçika'da belirsiz süreli iş sözleşmesi tazminat ödemesiyle sona erdiğinde ne olur?",
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "text": "Belçika'da belirsiz süreli bir iş sözleşmesi, işveren veya çalışan tarafından ihbar süresi yerine tazminat ödemesi yoluyla derhal feshedilebilir. Tazminat miktarı, çalışanın ihbar süresi boyunca kazanacağı ücretle eşdeğerdir ve iş kanunu düzenlemelerine uygunluğu sağlar."
+                      },
+                      {
+                          "type": "source",
+                          "url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/einde-van-de-arbeidsovereenkomst/einde-van-de-arbeidsovereenkomst-0"
+                      }
+                  ]
+              },
+              {
+                  "question": "Belçika'da belirsiz süreli iş sözleşmesinin sona ermesine yönelik özel kurallar nelerdir?",
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "text": "Belçika'da belirsiz süreli bir iş sözleşmesinin feshi, belirli durumlara bağlı olarak özel kurallara tabi olabilir. Bu durumlar arasında hamilelik, sendika temsilciliği veya hastalık sırasında çalışanların korunması gibi durumlar yer alır. Kurallar, hem işverenin hem de çalışanın haklarını dengelemeyi amaçlar ve Belçika iş kanunlarına uygunluğu sağlar."
+                      },
+                      {
+                          "type": "source",
+                          "url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/einde-van-de-arbeidsovereenkomst/einde-van-de-arbeidsovereenkomst-2"
+                      }
+                  ]
+              },
+              {
+                  "question": "Belçika'daki resmi tatiller nelerdir?",
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "text": "Belçika her yıl on resmi tatili tanır. Bu tatiller ülke genelinde gözlemlenir ve genellikle çalışanlara bir gün izin sağlar. İşverenler, bu günler için çalışanlara ödeme yapmakla yükümlüdür ve bu, iş kanunlarına uygunluk çerçevesinde düzenlenir."
+                      },
+                      {
+                          "type": "source",
+                          "url": "https://www.belgium.be/nl/werk/verlof_en_loopbaanonderbrekingen/feestdagen"
+                      }
+                  ]
+              },
+              {
+                  "question": "Belçika'da yıllık izin kuralları nelerdir?",
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "text": "Belçika'da tam zamanlı çalışanlar genellikle dört hafta 'normal izin' hakkına sahiptir. İzin günleri ve tatil ödemelerinin hesaplanması, çalışanların kategorisine göre değişir (örneğin, işçiler, memurlar, çıraklar, sanatçılar veya kamu görevlileri). Geçen yıl yeterince çalışmamış olan çalışanlar, ek izin günleri, gençlik izni veya kıdem izni alma hakkına sahip olabilir. Tatil ödemesi, ertesi yılın tatiline yönelik bir avans veya Ulusal İşsizlik Ofisi'nden (RVA) bir ödeme şeklinde olabilir."
+                      },
+                      {
+                          "type": "source",
+                          "url": "https://www.socialsecurity.be/citizen/nl/verlof-tijdskrediet-en-loopbaanonderbreking/jaarlijkse-vakantie"
+                      }
+                  ]
+              },
+              {
+                  "question": "Belçika'da annelik izni kuralları nelerdir?",
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "text": "Belçika'da annelik izni, doğum öncesi ve doğum sonrası izin olarak toplamda 15 hafta sürer. Doğum öncesi izin, tahmini doğum tarihinden önce en fazla 6 hafta olabilir ve en az bir haftası zorunludur. Doğum sonrası izin, doğumdan sonraki kalan haftaları kapsar ve çoğul gebelikler veya belirli tıbbi durumlar durumunda ek süre verilebilir. Annelik izni, hem annenin hem de çocuğun sağlığını ve refahını sağlamak için yasal olarak korunur."
+                      },
+                      {
+                          "type": "source",
+                          "url": "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/moederschapsverlof"
+                      }
+                  ]
+              },
+              {
+                  "question": "Belçika'da çalışanlar için babalık veya doğum izni kuralları nelerdir?",
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "text": "Belçika'da çalışanlar, çocuklarının doğumunun ardından 15 gün babalık veya doğum izni hakkına sahiptir. Bu günler ardışık olarak veya doğumdan sonraki dört ay içinde dağınık olarak kullanılabilir. Bu süre zarfında çalışanın ilk üç gün ücreti işveren tarafından ödenir, kalan günler ise Ulusal Sağlık ve Maluliyet Sigortası Enstitüsü (RIZIV/INAMI) tarafından karşılanır."
+                      },
+                      {
+                          "type": "source",
+                          "url": "https://www.inami.fgov.be/nl/thema-s/zwangerschap-en-geboorte/vaderschaps-of-geboorteverlof-en-adoptieverlof/vaderschaps-of-geboorteverlof-voor-werknemers#.WusbJKSFNyw"
+                      }
+                  ]
+              },
+              {
+                  "question": "Belçika'da bir çalışan tarafından iş sözleşmesinin askıya alınma nedenleri nelerdir?",
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "text": "Belçika'da bir iş sözleşmesi, çalışana bağlı nedenlerle askıya alınabilir. Bu nedenler arasında hastalık veya kaza, annelik izni, ebeveyn izni, aile izni, babalık veya doğum izni veya belirli eğitim programlarına katılım yer alır. Askıya alma, işçi ve işverenin yükümlülüklerini geçici olarak durdurur ancak iş ilişkisini korur."
+                      },
+                      {
+                          "type": "source",
+                          "url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/schorsing-van-de-arbeidsovereenkomst/schorsingen-van-de"
+                      }
+                  ]
+              },
+              {
+                  "question": "Belçika'da siyasi izin kuralları nelerdir?",
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "text": "Belçika'da siyasi izin, çalışanların milletvekili veya yerel meclis üyesi olarak kamu görevlerine katılmalarına olanak tanır. Siyasi izin süresi ve koşulları, kamu hizmeti rolünün türüne bağlıdır ve yasalarla düzenlenir. İşverenler, çalışanların bu izni kullanmasına izin vermek zorundadır ve çalışanın iş pozisyonunu korumalıdır, ancak izin süresince ödeme durumu değişiklik gösterebilir."
+                      },
+                      {
+                          "type": "source",
+                          "url": "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/politiek-verlof?id=549"
+                      }
+                  ]
+              },
+              {
+                  "question": "Belçika'da iş göremezlik, iş kazaları ve meslek hastalıklarına ilişkin kurallar nelerdir?",
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "text": "Belçika'da, çalışanlar iş göremezlik, iş kazaları veya meslek hastalıkları durumunda belirli korumalara sahiptir. İşverenler, çalışanların güvenliğini ve sağlığını sağlamakla yükümlüdür ve etkilenen çalışanlar, iyileşme sürecinde tazminat veya yardımlardan yararlanabilir. Bu yardımlar sosyal güvenlik tarafından sağlanır ve durumun niteliğine ve ciddiyetine bağlı olarak değişir. Çalışanlar, işverenlerini zamanında bilgilendirmeli ve bu yardımları talep etmek için gerekli yasal prosedürleri izlemelidir."
+                      },
+                      {
+                          "type": "source",
+                          "url": "https://www.socialsecurity.be/citizen/nl/arbeidsongeschiktheid-ongeval-en-beroepsziekte"
+                      }
+                  ]
+              }, {
+                        "question": "Belçika'da iş kazalarına ilişkin kurallar nelerdir?",
+                        "content": [
+                            {
+                                "type": "paragraph",
+                                "text": "Belçika'da iş kazaları, işin icrası sırasında ve iş nedeniyle meydana gelen, çalışana zarar veya yaralanma veren olaylardır. İşverenler, iş kazalarını kapsayan sigortaya sahip olmak zorundadır ve bu sigorta, tıbbi masraflar, geçici veya kalıcı iş göremezlik ve bazı durumlarda bağımlılara ölüm yardımları için tazminat sağlar. Çalışanlar, kazayı derhal işverenlerine bildirmeli, böylece talebin uygun şekilde işleme alınmasını sağlamalıdır."
+                            },
+                            {
+                                "type": "source",
+                                "url": "https://www.socialsecurity.be/citizen/nl/arbeidsongeschiktheid-ongeval-en-beroepsziekte/arbeidsongeval"
+                            }
+                        ]
+                    },
+                    {
+                        "question": "Belçika'da tam işsizlik yardımı kuralları nelerdir?",
+                        "content": [
+                            {
+                                "type": "paragraph",
+                                "text": "Belçika'da tam işsiz olan ve belirli koşulları karşılayan kişiler işsizlik yardımlarına hak kazanabilir. Uygunluk şartları, belirli bir referans döneminde minimum çalışma gününe sahip olmayı, iş arayan olarak kayıtlı olmayı ve aktif olarak iş aramayı içerir. Yardımların miktarı ve süresi, bireyin çalışma geçmişine, aile durumuna ve önceki kazançlarına bağlıdır. Başvurular Ulusal İşsizlik Ofisi (RVA) aracılığıyla yapılmalıdır."
+                            },
+                            {
+                                "type": "source",
+                                "url": "https://www.rva.be/burgers/volledige-werkloosheid"
+                            }
+                        ]
+                    },
+                    {
+                        "question": "Belçika'daki ana emeklilik sistemleri nelerdir?",
+                        "content": [
+                            {
+                                "type": "paragraph",
+                                "text": "Belçika'da üç ana emeklilik sistemi bulunmaktadır: çalışanlar sistemi, serbest meslek sahipleri sistemi ve daimi atanmış memurlara yönelik memur sistemi. Her sistemin farklı katkı gereksinimleri ve emeklilik hakları vardır. Ayrıca, madenciler, denizciler, sivil havacılık personeli ve profesyonel gazeteciler gibi belirli meslekler için özel emeklilik sistemleri bulunmaktadır. Çalışanlar ve yasal memurlar için emeklilikle ilgili detaylı bilgi Federal Emeklilik Servisi'nden (FPD) alınabilir."
+                            },
+                            {
+                                "type": "source",
+                                "url": "https://www.sfpd.fgov.be/nl"
+                            }
+                        ]
+                    },
+                    {
+                        "question": "Belçika'da girişimciler ve serbest meslek adayları için hangi eğitim seçenekleri vardır?",
+                        "content": [
+                            {
+                                "type": "paragraph",
+                                "text": "Belçika'da serbest meslek sahibi olmak, teknik bilgi ve yönetim gibi çeşitli mesleki becerilere hakim olmayı gerektirir. Girişimci adaylar, teorik derslerle iş stajlarını birleştiren bir alternatif eğitim programı izleyebilir. Halihazırda serbest meslek sahibi olanlar ve KOBİ çalışanları, becerilerini geliştirmek veya teknolojik gelişmelere uyum sağlamak için çeşitli bölgesel organizasyonlar aracılığıyla özel eğitimlerden yararlanabilir."
+                            },
+                            {
+                                "type": "paragraph",
+                                "text": "Flanders bölgesinde SYNTRA, Flanders ve Brüksel'deki 24 merkezi aracılığıyla girişimciler, KOBİ çalışanları ve iş liderleri için eğitimler sunmaktadır."
+                            },
+                            {
+                                "type": "source",
+                                "url": "https://www.syntra.be/"
+                            },
+                            {
+                                "type": "paragraph",
+                                "text": "Brüksel Bölgesi'nde EFP, iş liderleri için eğitimler ve uzman çalışanlar veya serbest meslek sahipleri için ileri düzey kurslar sunmaktadır."
+                            },
+                            {
+                                "type": "source",
+                                "url": "https://www.efp.be/"
+                            },
+                            {
+                                "type": "paragraph",
+                                "text": "Wallonie bölgesinde IFAPME, girişimciler için eğitimler sunar ve iş kurmak isteyenlere eğitim desteği sağlar."
+                            },
+                            {
+                                "type": "source",
+                                "url": "https://www.ifapme.be/"
+                            },
+                            {
+                                "type": "paragraph",
+                                "text": "Almanca konuşulan bölgede IAWM, iş liderleri için programlar ve uzman çalışanlar veya serbest meslek sahipleri için ileri düzey eğitimler dahil olmak üzere 50'den fazla meslek için eğitimleri yönetir."
+                            },
+                            {
+                                "type": "source",
+                                "url": "https://www.iawm.be/home/"
+                            }
+                        ]
+                    },
+                    {
+                        "question": "Belçika'da serbest meslek sahibi olmak için gereklilikler nelerdir?",
+                        "content": [
+                            {
+                                "type": "paragraph",
+                                "text": "Belçika'da serbest meslek sahibi olmak için bireylerin belirli şartları karşılaması ve çeşitli idari prosedürleri tamamlaması gerekmektedir. Ana gereklilikler arasında en az 18 yaşında olmak, medeni ve siyasi haklara sahip olmak ve planlanan faaliyeti gerçekleştirme ehliyetine sahip olmak yer alır. AB üyesi olmayan vatandaşlar, uyruklarına ve faaliyet göstermek istedikleri bölgeye bağlı olarak bir mesleki kart almak zorunda olabilir. KOBİ Merkezi (CBE) ile kayıt zorunludur ve işletme yapısına bağlı olarak ek adımlar, örneğin tüzük taslağı hazırlanması gerekebilir."
+                            },
+                            {
+                                "type": "paragraph",
+                                "text": "- Vlaanderen"
+                            },
+                            {
+                                "type": "source",
+                                "url": "https://www.vlaanderen.be/departement-werk-sociale-economie/overzicht-dienstverlening/en/home"
+                            },
+                            {
+                                "type": "paragraph",
+                                "text": "- Brüksel"
+                            },
+                            {
+                                "type": "source",
+                                "url": "https://economy-employment.brussels/"
+                            },
+                            {
+                                "type": "paragraph",
+                                "text": "- Wallonie"
+                            },
+                            {
+                                "type": "source",
+                                "url": "https://emploi.wallonie.be/en/home/travailleurs-etrangers/carte-professionnelle.html"
+                            }
+                        ]
+                    },
+                    {
+                        "question": "Belçika'da 'Mijn vakantierekening' nedir ve çalışanlar nasıl erişebilir?",
+                        "content": [
+                            {
+                                "type": "paragraph",
+                                "text": "'Mijn vakantierekening', Belçika'daki çalışanların tatil hakları ve ödemeleri hakkında ayrıntılı bilgilere erişmelerine olanak tanıyan bir çevrimiçi hizmettir. Platform, kullanıcı deneyimini artırmak için yakın zamanda güncellenmiş ve tatil verilerine net ve güvenli bir erişim sağlamıştır. Bu hizmet, çalışanların tatil haklarını takip etmeleri ve tatil planlamalarını yönetmeleri için özellikle faydalıdır."
+                            },
+                            {
+                                "type": "source",
+                                "url": "https://rjv.be/fr/ouvriers/mon-compte-de-vacances"
+                            }
+                        ]
+                    }
+
+
+
+
+
+
+
   ]
 }

@@ -24,7 +24,7 @@
         "route": "HousingPage"
       },
       {
-        "title": "Transport",
+        "title": "Soutien",
         "route": "TransportationPage"
       }
     ]

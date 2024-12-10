@@ -1,662 +1,249 @@
 {
   "questions": [
-    {
-      "question": "BE-Alert nedir ve Belçika'da nasıl kaydolabilirsiniz?",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "BE-Alert, Belçika'da yangınlar, doğal afetler veya çevresel olaylar gibi acil durumlarda hükümetin vatandaşları uyarmasını sağlayan ulusal bir uyarı sistemidir. Bu sistem, radyolar ve televizyonlar gibi geleneksel medya araçlarını tamamlar ve bireylere SMS, e-posta veya sabit hatlara konuşma mesajları yoluyla doğrudan uyarılar gönderir."
-        },
-        {
-          "type": "image",
-          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-XtRRbDsWBSrg-VfDa2NjIRQ2XGkv6VbFA&s"
-        },
-        {
-          "type": "paragraph",
-          "text": "### Kimler Kaydolabilir?\n- Belçika'da ikamet eden herkes BE-Alert'e kaydolabilir.\n- Flanders bölgesindeki belediyelerin çoğu bu sisteme katılmıştır. Diğer belediyelerdeki sakinler, yine de federal veya il düzeyindeki yetkililerden uyarılar alabilir."
-        },
-        {
-          "type": "paragraph",
-          "text": "### BE-Alert'e Nasıl Kayıt Olunur?\n1. [BE-Alert web sitesini](https://www.be-alert.be/) ziyaret edin ve kayıt formunu doldurun.\n2. Onay e-postası almak için e-posta adresinizi sağlayın.\n3. Kişisel bir şifre oluşturun.\n4. Adresinizi girin ve haritada doğruluğunu kontrol edin.\n5. BE-Alert tarafından gönderilen e-posta üzerinden sağlanan bağlantıya tıklayarak kaydınızı onaylayın.\n6. Profilinizi tamamlayın:\n   - Dil tercihlerinizi seçin.\n   - İşitme engelli olup olmadığınızı belirtin.\n   - Ek iletişim bilgileri (telefon, e-posta) veya ikinci bir adres sağlayın.\n\nİnternet erişiminiz yoksa kayıt için belediyenizden yardım alın."
-        },
-        {
-          "type": "paragraph",
-          "text": "### Uyarılar Nasıl Alınır?\n- Uyarılar acil durumlar sırasında şu merciler tarafından gönderilir:\n  - Federal Kriz Merkezi.\n  - İl valileri.\n  - Yerel belediye başkanları.\n- Bildirimler açık talimatlar içerir ve acil durum sırasında fiziksel konumunuzdan bağımsız olarak gönderilir. Uyarıda belirtilen talimatları izleyin."
-        },
-        {
-          "type": "paragraph",
-          "text": "### Maliyet\n- Kayıt olmak ve uyarıları almak tamamen ücretsizdir."
-        },
-        {
-          "type": "source",
-          "url": "https://www.be-alert.be/"
-        }
-      ]
-    },
-    {
-      "question": "Belçika'da mevcut acil durum ve yardım numaraları nelerdir?",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Acil durumlarda Belçika'daki kamu acil durum hizmetleri ve yardım hatlarını arayabilirsiniz. İşte başlıca acil durum numaraları ve destek hatlarının kapsamlı bir listesi."
-        },
-        {
-          "type": "image",
-          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTykvHfsJ1JAMiQlPbHX03naVikGUOOgF1MVQ&s"
-        },
-        {
-          "type": "paragraph",
-          "text": "### Acil Durum Numaraları\n- **Polis:** 101\n- **Ambulans ve İtfaiye:** 112\n- **Avrupa Acil Durum Numarası:** 112\n\nBu numaraları aradığınızda, size önce bir ambulans, itfaiye veya polis gerekip gerekmediği sorulacaktır. Bu numaralara şu şekillerde ulaşabilirsiniz:\n- Sabit hat üzerinden.\n- [112 uygulamasını](https://www.app112.be/) kullanarak akıllı telefon üzerinden.\n- Mobil telefonla (SIM kart veya aktif bir abonelik gerekmez)."
-        },
-        {
-          "type": "paragraph",
-          "text": "### Aşırı Hava Koşullarında Acil Olmayan İtfaiye Yardımı\n- Aşırı hava koşullarında acil olmayan itfaiye yardımı için **1722**'yi arayın.\n- Talepler şu yollarla da yapılabilir:\n  - [1722 e-loket](https://www.1722.be/).\n  - Ücretli numara **1722**.\n  - Yerel itfaiyeniz."
-        },
-        {
-          "type": "paragraph",
-          "text": "### Diğer Yardım Hizmetleri ve Hatları\n| **Hizmet**                              | **Numara**               |\n|------------------------------------------|--------------------------|\n| Zehir Kontrol Merkezi                    | 070 245 245             |\n| Nöbetçi Pratisyen Hekim                 | 1733                    |\n| Nöbetçi Eczaneler                        | 0903 99 000             |\n| Acil Olmayan Tıbbi Nakil (Kızıl Haç)     | 105                     |\n| Child Focus                              | 116 000                 |\n| Tele-Onthaal (duygusal destek)           | 106                     |\n| İntihar Yardım Hattı                     | 1813 veya 02 649 95 55  |\n| Şiddet ve Taciz Yardım Hattı             | 1712                    |\n| Awel (çocuk ve gençlik hattı)            | 102                     |\n| CAW (refah konuları için danışma)        | 0800 13 500             |\n| JAC (gençlik danışma merkezi)            | Çevrimiçi iletişim      |\n| Nupraatikerover (çocuklara yönelik taciz hakkında çevrimiçi sohbet) | Yalnızca çevrimiçi sohbet |"
-        },
-        {
-          "type": "paragraph",
-          "text": "### Acil Bir Durumda Ne Yapmalısınız?\nAcil bir durum öncesinde, sırasında ve sonrasında ne yapmanız gerektiği hakkında daha fazla bilgi için [Ulusal Kriz Merkezi](https://crisiscentrum.be/) web sitesini ziyaret edin."
-        }
-      ]
-    },
-    {
-      "question": "Belçika'da ambulans müdahalesi ücretsiz mi?",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Belçika'da ambulans hizmetleri tamamen ücretsiz değildir. Maliyet, durumun acil tıbbi yardım içerip içermediğine veya acil olmayan tıbbi nakil olup olmadığına bağlıdır."
-        },
-        {
-          "type": "image",
-          "url": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_644w/2024/08/14/node_727555/3775198/public/2024/08/14/ambulance_flandre.jpeg?itok=d5oz_Dms1723621259"
-        },
-        {
-          "type": "paragraph",
-          "text": "### Acil Tıbbi Yardım\n- **112**'yi aradığınızda, tehlikede olan bir kişi için bir ambulans veya Tıbbi Acil Müdahale Grubu (MUG) ekibi gönderilir.\n- **Maliyet:**\n  - Hastalar, ambulans müdahaleleri için yasal olarak sabitlenmiş bir ücret öder, taşınmayı reddetseler bile.\n  - Bu ücret sağlık sigortası tarafından geri ödenmez.\n  - Belirlenen ücret dışında ek bir ücret talep edilemez.\n- MUG ekibi, hastayı stabilize etmek ve hayat kurtarıcı müdahalelerde bulunmak için çalışır.\n  - MUG doktorunun maliyeti tamamen sağlık sigortası tarafından karşılanır.\n  - Bazı diğer masraflar kısmen hasta tarafından karşılanabilir."
-        },
-        {
-          "type": "paragraph",
-          "text": "### Acil Olmayan Tıbbi Nakil\n- Acil olmayan tıbbi nakil, örneğin böbrek diyalizi veya planlanmış hastane yatışı gibi planlanmış tıbbi taşımayı içerir.\n- **Maliyet:**\n  - Bu hizmet sağlık sigortası tarafından karşılanmaz.\n  - Bazı sağlık sigortası fonları veya hastane sigortası masrafların bir kısmını karşılayabilir. Detaylar için sigorta sağlayıcınıza danışın.\n  - Taşıma şirketleri arasında önemli fiyat farkları olabilir. Rezervasyon yaptığınızda, şirket size maksimum bir tarife bildirmeli ve bu tarife ambulansta görünmelidir.\n- Eğer fiyat bilgisi verilmezse, şirket veya sağlık sigortası fonuna şikayette bulunabilirsiniz."
-        },
-        {
-          "type": "source",
-          "url": "https://www.belgium.be/en"
-        }
-      ]
-    },
-    {
-      "question": "Belçika'da itfaiye müdahaleleri ücretsiz mi yoksa ücretli mi?",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Belçika'da itfaiye müdahaleleri yasal olarak düzenlenmiştir. Çoğu hizmet ücretsiz olsa da, bazı müdahaleler doğasına ve yerel belediyenin düzenlemelerine bağlı olarak ücretli olabilir."
-        },
-        {
-          "type": "image",
-          "url": "https://www.mensura.be/uploads/cache/hero/uploads/media/624ae33929048/brandveiligheid-preventie-en-bestrijding.png?v1"
-        },
-        {
-          "type": "paragraph",
-          "text": "### İtfaiye Hizmetleri Ne Zaman Ücretsizdir?\nİtfaiye hizmetleri her zaman şu durumlarda ücretsizdir:\n- Yangınlar.\n- Patlamalar.\n- Zor durumdaki kişilerin kurtarılması (ör. boğulmak üzere olan bir kişinin kurtarılması)."
-        },
-        {
-          "type": "paragraph",
-          "text": "### İtfaiye Hizmetleri Ne Zaman Ücretlidir?\n- Belediye, itfaiye tarafından gerçekleştirilen yasal olarak zorunlu olmayan müdahaleler için ücret talep etmek zorundadır.\n- Bazı yasal olarak zorunlu müdahaleler de belediyenin ücret yönetmeliğinde belirtilmişse ücretlendirilebilir.\n\nÜcretli hizmetlere örnekler şunlardır:\n- Acil tıbbi yardım.\n- Çevre kirliliği (kirletici malzemelerin işletmecisi veya sahibinden tahsil edilir).\n- Hayvanların kurtarılması.\n- Su borularının kötü bakımı nedeniyle bir bodrum katından su pompalama.\n- Eşekarısı yuvasının kaldırılması."
-        },
-        {
-          "type": "paragraph",
-          "text": "Daha fazla bilgi için belediyeniz veya yerel itfaiyenizle iletişime geçin."
-        },
-        {
-          "type": "source",
-          "url": "https://www.belgium.be/en"
-        }
-      ]
-    },
 
-{
-  "question": "Flaman Sosyal Koruma sistemine nasıl katılabilirsiniz?",
-  "content": [
     {
-      "type": "paragraph",
-      "text": "Flaman Sosyal Koruma (Vlaamse Sociale Bescherming) sistemi, Flanders bölgesinde yaşayan belirli bireyler için zorunludur. Bu sistem, uzun vadeli bakım ve yardımlar için destek sağlar. İşte katılım hakkında bilmeniz gerekenler."
-    },
-    {
-      "type": "image",
-      "url": "https://admin.expatica.com/be/wp-content/uploads/sites/4/2023/11/social-security-belgium.jpg"
-    },
-    {
-      "type": "paragraph",
-      "text": "### Kimler Katılmak Zorundadır?\nFlaman Sosyal Koruma sistemine katılmanız gerekiyorsa:\n- **26 yaşında veya daha büyük** olmanız.\n- **Flanders'ta yaşıyor** olmanız, yani bir Flaman belediyesinde nüfus veya yabancılar kayıtlarına kayıtlı olmanız.\n- Geçici olarak yurt dışında yaşıyor olsanız bile Flanders'ta bir adresiniz bulunmalıdır.\n\nFlanders'ta sadece bir gün kayıtlı olsanız bile katılmanız gereklidir."
-    },
-    {
-      "type": "paragraph",
-      "text": "### İstisnalar\n1. **Sınır Ötesi Çalışanlar:**\n   - Katılım zorunlu değildir ancak mümkündür:\n     - 26 yaşında veya daha büyük olmanız.\n     - Flanders'ta yaşamanız.\n     - Bir başka AB üye devleti, AEA ülkesi veya İsviçre'de çalışarak sosyal sigortalı olmanız.\n   - Bakmakla yükümlü olduklarınız da isteğe bağlı olarak katılabilir.\n\n2. **Uluslararası Kurum Çalışanları:**\n   - AB sosyal güvenlik sistemine (örneğin AB yetkilileri için) veya NATO veya Birleşmiş Milletler gibi kurumlara sigortalıysanız katılamazsınız.\n   - Belçika sosyal güvenlik sistemini seçerseniz katılım mümkündür.\n\n3. **Yabancı Öğrenciler:**\n   - **AB/AEA/İsviçre'den:** 26 yaşında veya daha büyük iseniz katılım isteğe bağlıdır.\n   - **Diğer Ülkelerden:**\n     - Öğrenci veya araştırmacı izinleriyle geçici olarak ikamet edenler katılamaz.\n     - Geçici ikamet izniniz yoksa, Flanders'ta yaşıyorsanız katılmanız gereklidir. Brüksel'de yaşıyorsanız isteğe bağlı katılım mümkündür."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Nasıl Katılabilirsiniz?\nFlaman Sosyal Koruma sistemine katılmak için altı tanınmış bakım fonundan (zorgkassen) birine kayıt olmalısınız:\n- **Sağlık sigortanıza bağlı bakım fonu:**\n  - Christelijke Mutualiteiten-Zorgkas Vlaanderen\n  - Neutrale Zorgkas Vlaanderen\n  - Solidaris Zorgkas\n  - Liberale Ziekenfondsen Zorgkas\n  - Onafhankelijke Ziekenfondsen Zorgkas\n- **Vlaamse Zorgkas:** Katılmanız gerektiği halde isteğe bağlı olarak katılmazsanız otomatik olarak atanır.\n\n26 yaşına girdiğinizde veya Flanders'a taşındığınızda bakım fonunuzdan prim ödemeniz için bir davet alırsınız. Katılımınız ilk ödemenizle onaylanır. Daha sonra bakım fonunuzdan yıllık ödeme talebi alırsınız."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Yasal Çerçeve\nFlaman Sosyal Koruma sistemi, 18 Mayıs 2018 tarihli kararnamede düzenlenmiştir."
-    },
-    {
-      "type": "source",
-      "url": "https://www.vlaanderen.be/vlaamse-sociale-bescherming"
-    }
-  ]
-},
-{
-  "question": "Flaman Sosyal Koruma sisteminin yıllık bakım primi nedir ve ödenmezse ne olur?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "Yıllık bakım primi, Flaman Sosyal Koruma sistemine kayıtlı olanlar için zorunlu bir ödemedir. Bu prim, uzun vadeli bakım ve yardımlara destek sağlar."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Tutar\n- 2024 yılında bakım primi **€62**'dir.\n- Belirli koşulları karşılıyorsanız indirimli bir prim geçerli olabilir.\n- Prim ödenmesi gerekmeyen durumlar:\n  - Toplu borç tasfiyesi (CSR) veya kişisel iflas sürecinde olmak.\n  - İdari olarak kayıtlı ancak katılım zorunluluğu bulunmamak."
-    },
-    {
-      "type": "paragraph",
-      "text": "### İdari Kayıt\nİdari kayıt şu kişiler için geçerlidir:\n- Bakım merkezi, gündüz bakım merkezi veya kısa süreli konaklama merkezinde ikamet edenler.\n- Hareketlilik yardımı (MOHM) kullananlar.\n\nFlaman Sosyal Koruma sistemine uygun olmayanlar için idari kayıt mümkün değildir."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Ödeme Süresi\nBakım primi her yıl **30 Nisan**'a kadar ödenmelidir. İstisnalar:\n- 26 yaşına girme: O yılın **1 Temmuz**'una kadar kayıt yaptırabilirsiniz.\n- Flanders'a taşınma: Ulusal kayıtta kayıt tarihinden itibaren altı ay içinde ödeme yapılmalıdır.\n- Brüksel'e taşınma: Aynı altı aylık kural geçerlidir.\n- Hatalı adres: Güncellenmiş ödeme talebindeki tarihe kadar ödeme yapılmalıdır."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Ödememe Durumunda Cezalar\n- İki yıllık prim ödenmediğinde (ardışık olmasına gerek yok) **€250 ceza** uygulanır.\n- Ceza öncesi adımlar:\n  - Kayıtlı posta veya eBox aracılığıyla hatırlatma gönderilir, ödeme süresi **5 Ekim**'dir.\n  - Ödenmemesi durumunda Flaman Sosyal Koruma Ajansı'ndan nihai bir uyarı gönderilir. Tüm birikmiş borçlar ve cezalar iki ay içinde ödenmelidir.\n  - Ödeme yapılmazsa icra memuru devreye girebilir.\n- Sağlık sigortasından artırılmış geri ödeme alıyorsanız ceza **€100**'e düşürülür."
-    },
-    {
-      "type": "paragraph",
-      "text": "### İtirazlar\nCezaya itiraz edebilirsiniz:\n- Primi ödemeniz gerekmediğini kanıtlayabiliyorsanız.\n- İflas veya borç tasfiyesi gibi geçerli bir nedeniniz varsa.\n- Prim yanlış bir şekilde tahsil edildiyse.\n\nİtirazınızı çevrimiçi formu kullanarak ve destekleyici belgeleri ekleyerek sunabilirsiniz. İtiraz süreci, ceza ödeme süresini askıya alır."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Ödeme Planları\nTam bakiyeyi tek seferde ödeyemiyorsanız, bakiyeyi 12 aya yaymak için ödeme planı talep edebilirsiniz. Ödeme planı başvurusu için Flaman Sosyal Koruma Ajansı ile iletişime geçin."
-    },
-    {
-      "type": "source",
-      "url": "https://www.vlaanderen.be/vlaamse-sociale-bescherming"
-    }
-  ]
-},
-{
-  "question": "Flaman Sosyal Koruma sistemi üzerinden hareketlilik yardımları nasıl edinilir, korunur veya değiştirilir?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "Tekerlekli sandalye, scooter veya yürüme yardımcısı gibi hareketlilik yardımları, kronik hastalıkları, engelleri veya yaşa bağlı hareketlilik sorunları olan kişiler için Flaman Sosyal Koruma sistemi aracılığıyla satın alınabilir veya kiralanabilir. Bu yardımlar uzun vadeli kullanım içindir ve belirli koşulları karşılamalıdır."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Sağlanabilecek Hareketlilik Yardımları Türleri\n- **Manuel Tekerlekli Sandalyeler:** Standart, modüler veya bakım amaçlı tekerlekli sandalyeler, çocuklar için olanlar dahil.\n- **Elektrikli Tekerlekli Sandalyeler:** Joystick ile kontrol edilen motorlu, iç ve dış mekan kullanımı için uygun.\n- **Elektrikli Scooterlar:** Hem iç hem de dış mekan hareketliliği için.\n- **Üç Tekerlekli veya Dört Tekerlekli Bisikletler:** Standart iki tekerlekli kullanamayanlar için.\n- **Yürüme Yardımcıları:** Tekerlekli veya tekerleksiz, ayakta durma veya yürüme desteği sağlayan.\n- **Ayakta Durma Sistemleri:** Dikey pozisyonda destek sağlayan elektrikle ayarlanabilir masalar.\n\nKoltuk değneği gibi geçici yardımlar bu program kapsamında değildir."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Uygunluk Koşulları\n- **Tıbbi Durum:**\n  - Bir doktor veya tekerlekli sandalye danışman ekibi, uygunluk ve uygun yardım türünü belirlemek için sağlık durumunuzu değerlendirmelidir.\n  - ALS gibi hızlı şekilde kötüleşen durumlar için bir nörolog veya uzman ekip onayıyla hızlandırılmış kiralama seçeneklerine erişilebilir.\n\n- **İdari Gereklilikler:**\n  - Flaman Sosyal Koruma sistemine kayıtlı olmanız ve yıllık bakım primini ödemeniz gereklidir.\n\n- **İstisnalar:**\n  - Ulusal kayıt numarası olmayan geçici ikamet edenler bir BIS numarası almalıdır.\n  - Hastanede yatan bireyler, taburcu olduktan sonra başvuru yapabilir.\n  - Psikiyatri hastanelerinde veya Brüksel/Flanders'ta ikamet edenler, sisteme kayıtlıysa başvuru yapabilir."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Hareketlilik Yardımı Başvuru Süreci\n1. **Reçete Alın:**\n   - Doktorunuza veya uzman bir danışman ekibine başvurarak değerlendirme ve reçete alın.\n\n2. **Sertifikalı Bir Tedarikçiye Gidin:**\n   - Reçetenizi tanınmış bir tedarikçiye sunarak uygun bir yardım önerisi alın.\n   - Elektrikli tekerlekli sandalye veya scooter gibi cihazları satın almadan önce test edin.\n\n3. **Başvurunuzu Sunun:**\n   - Tedarikçi, gerekli raporlar dahil olmak üzere başvurunun tamamlanmasına ve sunulmasına yardımcı olacaktır.\n\n4. **Onay Bekleyin:**\n   - Onay genellikle 10-20 iş günü içinde alınır, ancak ek incelemeler bu süreyi uzatabilir.\n   - Liste dışı yardımlar için onay süresi 45 iş gününe kadar sürebilir."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Bakım ve Değişim\n- **Bakım:**\n  - Satın alınan yardımlar için bakım masrafları kısmen karşılanır; tekerlekli sandalyeler ve bisikletler için standart bakım ödeneği €150, scooterlar için ise €250'dir.\n  - Kiralanan yardımlar için bakım, kira ücretine dahildir.\n\n- **Değişim:**\n  - Yardımlar, yardım türüne ve yaşınıza bağlı olarak belirli bir süre sonra değiştirilebilir.\n  - Hızlı sağlık bozulması veya sık kullanım nedeniyle aşırı yıpranma durumunda erken değişim mümkündür."
-    },
-    {
-      "type": "paragraph",
-      "text": "### İtirazlar ve Mali Destek\n- Başvurunuz reddedilirse, iş mahkemesine itirazda bulunabilirsiniz.\n- Belirli koşullar altında bakım, onarım veya değişim için mali destek sağlanabilir."
-    },
-    {
-      "type": "source",
-      "url": "https://www.vlaanderen.be/vlaamse-sociale-bescherming"
-    }
-  ]
-},
-{
-  "question": "Belçika'da ruh sağlığı sorunları için nasıl yardım alabilirsiniz?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "Ruh sağlığı sorunları, birçok kişinin hayatının bir döneminde karşılaştığı bir durumdur. Yardım aramak, zihinsel iyilik halini önemli ölçüde iyileştirebilir. Belçika, ruh sağlığı bakımı için çok sayıda kaynak ve hizmet sunmaktadır."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Ruh Sağlığı Sorunlarını Önleme\n- **Dayanıklılığı güçlendirin** ve aşağıdaki gibi girişimlerle stresle daha iyi başa çıkın:\n  - **Zilverwijzer Grup Oturumları:** 60 yaş üstü bireyler için.\n  - **Goed-Gevoel-Stoel:** Finans, sağlık ve sosyal katılımla ilgili zorlukları ele alma programı.\n  - **Aile Platformu:** Ruh sağlığı veya bağımlılık sorunları yaşayan bireylerin aileleri ve arkadaşları için destek.\n  - **Gençlere Yönelik Kaynaklar:**\n    - 12-16 yaş arası gençler için Noknok.be.\n    - Ruh sağlığı sorunları olan ebeveynlerin çocukları için Familieplatform KOPP.\n    - Ebeveyn ayrılığıyla başa çıkan çocuklar ve gençler için Tweehuizen.be."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Endişelerinizi Anonim Olarak Paylaşma\n- **Tele-Onthaal:** Destek için 106'yı arayın veya anonim olarak sohbet edin.\n- **Awel:** Gençler için bir yardım hattı, 102 üzerinden veya sohbet yoluyla ulaşılabilir.\n- **Werkgroep Verder:** İntihardan etkilenenler için çevrimiçi destek.\n- **The Drugline:** 078 15 10 20 üzerinden veya sohbet yoluyla bağımlılıkla ilgili sorular için yardım."
-    },
-    {
-      "type": "paragraph",
-      "text": "### İntihar Düşünceleri İçin Yardım\n- **Zelfmoordlijn (İntihar Yardım Hattı):** 1813'ü arayın, her gün 17:00-00:00 arasında sohbet edin veya www.zelfmoord1813.be adresini ziyaret edin.\n- **Thinklife:** İntihar düşüncelerini yönetmek için çevrimiçi bir kendi kendine yardım kursu."
-    },
-    {
-      "type": "paragraph",
-      "text": "### İlk Hat Yardımı\n- **Aile Hekimi (GP):** Aile hekiminiz genellikle ruh sağlığı sorunları için ilk temas noktanızdır ve sizi uzman bakıma yönlendirebilir.\n- **CAW (Genel Refah Merkezleri):** Psikososyal sorunlar için erişilebilir ve destekleyici merkezler.\n- **CLB (Öğrenci Rehberlik Merkezleri):** Zorbalık veya kaygı gibi sorunlar yaşayan çocuklar ve gençler için destek.\n- **Kendi Kendine Yardım Grupları:** Yeme bozuklukları, otizm ve kumar bağımlılığı gibi durumlar için Trefpunt Zelfhulp aracılığıyla benzer zorluklarla karşılaşan kişilerle bağlantı kurun."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Uzmanlaşmış Bakım\n- **Ruh Sağlığı Bakım Merkezleri (CGG):** Psikiyatristler, psikologlar ve sosyal hizmet uzmanlarından oluşan ekipler ciddi ruh sağlığı sorunlarına destek sunar.\n- **Psikiyatri Hastaneleri:** Çok disiplinli ekiplerle yoğun tedavi sağlar.\n- **Özel Uygulamalar:** Psikiyatristler ve psikologlar özel olarak çalışır ve GP yönlendirmeleriyle erişilebilir."
-    },
-    {
-      "type": "source",
-      "url": "https://www.vlaanderen.be/hulp-bij-psychische-problemen"
-    }
-  ]
-},
-{
-  "question": "Belçika'da Yaşlılar İçin Gelir Güvencesi (IGO) nedir ve nasıl başvurulur?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "Yaşlılar İçin Gelir Güvencesi (IGO), yasal emeklilik yaşına ulaşmış ancak kendilerini desteklemek için yeterli geliri olmayan bireylere sağlanan bir finansal yardımdır. Bu yardım, Belçika'daki yaşlı sakinlere temel bir gelir düzeyi sağlar."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Uygunluk Kriterleri\nIGO'dan faydalanabilmek için aşağıdaki koşulları sağlamanız gerekmektedir:\n- **Mali Durum:** Toplam kaynaklarınız, eşinizin veya yasal partnerinizin kaynakları dahil, belirli bir eşik değerin altında olmalıdır. Bunun için ayrıntılı bir değerlendirme yapılır.\n- **Yaş:** Yasal emeklilik yaşına ulaşmış olmanız gerekir.\n- **Uyruğu:** Belçika vatandaşı olmanız veya eşdeğer bir durumda olmanız gerekir.\n- **İkamet:** Ana ikametgahınız Belçika'da olmalı ve kesintisiz olarak burada yaşamalısınız.\n\nKaynakların hesaplanması ve gelir eşikleri hakkında daha fazla bilgi için Federal Emeklilik Hizmeti web sitesini ziyaret edin."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Başvuru Prosedürü\nÇoğu durumda IGO için başvurmanız gerekmez. Süreç şu durumlarda otomatik olarak başlar:\n- Federal Emeklilik Hizmetine emeklilik başvurusunda bulunduğunuzda ve emekli maaşınız asgari eşik değerin altındaysa.\n- Zaten bir emeklilik maaşı alıyorsanız ve yasal emeklilik yaşına ulaşırsanız.\n- Bir maluliyet ödeneği alıyorsanız ve yasal emeklilik yaşına ulaşırsanız.\n- Sosyal yardım alıyorsanız ve yasal emeklilik yaşına ulaşırsanız."
-    },
-    {
-      "type": "paragraph",
-      "text": "Eğer yukarıdaki durumlar geçerli değilse, başvuruda bulunmanız gerekir:\n- **Çevrimiçi:** [mypension.be](https://www.mypension.be/) üzerinden. Başvurduktan sonra bir onay e-postası alırsınız (e-posta adresinizi sağlarsanız). Başvurunuz sonraki ziyaretlerinizde ‘Dosyam’ altında görüntülenir.\n- **Telefon:** **1765** numaralı Emeklilik Hattını arayın, dili seçin ve sırasıyla 3 ve ardından 1 tuşlarına basın.\n- **Şahsen:** Yerel belediye ofisinizde."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Ödeme Zaman Çizelgesi\n- Süreç otomatikse, ödemeler **yasal emeklilik yaşına ulaştığınız ayı takip eden ayda** başlar.\n- Emeklilik yaşına ulaştıktan sonra başvurursanız, ödemeler **başvurunuzun yapıldığı ayı takip eden ayda** başlar.\n- Doğum ayınız kayıtlı değilse, ödemeler **emeklilik yaşına ulaştığınız yılın 1 Ağustos'unda** başlar."
-    },
-    {
-      "type": "source",
-      "url": "https://www.mypension.be/"
-    }
-  ]
-},
-{
-  "question": "Belçika'da hasta olarak haklarınız nelerdir?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "Belçika'da bir hasta olarak, sadece doktorlarla değil, aynı zamanda diş hekimleri, eczacılar, ebeler, fizyoterapistler, hemşireler ve diğer sağlık hizmeti sağlayıcılarıyla olan etkileşimlerde de geçerli olan çeşitli haklara sahipsiniz."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Haklarınız\n- **Bilgiye Erişim:** Sağlığınız, olası tedaviler, riskler ve maliyetler hakkında açık bilgilere sahip olma hakkınız vardır.\n- **Onay:** Herhangi bir muayene veya tedavi için açık onay vermeniz gerekir ve bunu reddetme hakkına sahipsiniz.\n- **Mahremiyet:** Mahremiyet hakkınız, tıbbi dosyanızda neler olduğunu ve buna kimin erişebileceğini bilme hakkını içerir.\n\nHasta haklarıyla ilgili genel sorular için [Flaman Hasta Platformu](https://www.vlaamspatientenplatform.be/) ile iletişime geçebilirsiniz."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Şikayetler\n- **Bir hastanede çalışan sağlık profesyoneli hakkında:** Hastanenin ombudsman servisi ile iletişime geçin.\n- **Hastanenin kendisi hakkında (altyapı, personel davranışı, haklar):** Hastanenin ombudsman servisine ulaşın. Ayrıca Bakım Departmanı ile iletişime geçebilirsiniz.\n- **Hastane dışındaki bir sağlık hizmeti sağlayıcısı hakkında (örneğin, aile hekimi, diş hekimi, serbest hemşire):** [Federal Hasta Hakları Ombudsmanı](https://www.health.belgium.be/) ile iletişime geçin."
-    },
-    {
-      "type": "paragraph",
-      "text": "Ombudsman hizmetleri, soruları ve şikayetleri verimli bir şekilde çözmeyi amaçlar, sizi uzun ve maliyetli bir yasal süreçten kurtarır. Ancak, mahkemeye şikayette bulunma hakkınız saklıdır."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Tıbbi Hatalar veya Kazalar\nSiz veya bir yakınınız bir tıbbi hata veya kazanın kurbanıysanız, [Tıbbi Kaza Fonu (FMO)](https://www.health.belgium.be/) ile iletişime geçebilirsiniz. Fon, sorumluluğu araştırır ve aşağıdaki koşullar yerine getirildiğinde tazminat sağlar:\n- %25 veya daha fazla kalıcı sakatlık.\n- Bir yıl içinde 6 ardışık veya ardışık olmayan ay boyunca çalışamama.\n- Yaşam kalitesinde önemli bir bozulma.\n- Kurbanın ölümü.\n\nTalepler, 2 Nisan 2010'dan sonra meydana gelen olaylar için kabul edilir. Daha önceki davalar için yasal işlem yapmanız gerekir. Ayrıca, dostane bir çözüm arayabilir veya mahkemeye başvurabilirsiniz."
-    },
-    {
-      "type": "source",
-      "url": "https://www.health.belgium.be/"
-    }
-  ]
-},
-{
-  "question": "Engellilik durumunuz nasıl tanınır ve VAPH'dan destek almak için nasıl başvuru yapılır?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "Flaman Engelliler Ajansı (VAPH), engellilere doğrudan destek, araç gereç yardımları ve kişisel bütçeler gibi destekler sunar. VAPH ayrıca ek destek sağlamak için kuruluşları onaylar ve sübvanse eder."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Uygunluk Kriterleri\nVAPH'dan destek almak için şu koşulları sağlamanız gereklidir:\n- **Engelliliğin Tanınması:** Engelliliğiniz, yetkili bir organ tarafından resmi olarak tanınmalıdır.\n- **Yaş Sınırı:** İlk başvurunuzda 65 yaşından küçük olmalısınız.\n- **İkamet:** Flanders veya Brüksel Başkent Bölgesi'nde ikamet etmelisiniz."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Başvuru Süreci\nMevcut destek türleri ve nasıl başvurulacağı hakkında ayrıntılı bilgi için [VAPH web sitesini](https://www.vaph.be/) ziyaret edin."
-    },
-    {
-      "type": "source",
-      "url": "https://www.vaph.be/"
-    }
-  ]
-},
-{
-  "question": "Avrupa Engellilik Kartı (EDC) nedir ve Belçika'da nasıl başvurulur?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "Avrupa Engellilik Kartı (EDC), engelli bireylerin kültürel, spor ve eğlence etkinliklerine erişim sağlamasına olanak tanıyan kişisel bir karttır. Belçika'da ve Kıbrıs, Estonya, Finlandiya, İtalya, Malta, Slovenya ve Romanya dahil olmak üzere yedi diğer Avrupa ülkesinde geçerlidir."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Uygunluk\nEDC'ye başvurabilirsiniz eğer engelliliğiniz şu kurumlar tarafından tanınmışsa:\n- Flaman Engelliler Ajansı (VAPH).\n- Federal Sosyal Güvenlik Kamu Hizmeti (FPS).\n- Büyüme Paketi kapsamında özel destek ihtiyaçları için çocuk yardımı sistemi."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Başvuru Prosedürü\n#### 1 Ocak 2024'ten Sonra Yapılan Tanımalar İçin:\n- Engelliliğiniz tanındığında EDC otomatik olarak düzenlenir.\n\n#### 1 Ocak 2024'ten Önce Yapılan Tanımalar İçin:\n- **VAPH:** [mijnvaph.be](https://www.mijnvaph.be/) üzerinden başvurun. Profilinize gidin ve belgeler altında ‘Avrupa Engellilik Kartı (EDC)’ seçeneğini seçin. Adımları takip ederek başvurunuzu tamamlayın ve izleyin.\n- **FPS Sosyal Güvenlik:** Engelliler Genel Müdürlüğü'ne ait çevrimiçi iletişim formunu kullanın.\n- **Büyüme Paketi Çocuk Tanıması:** Çocuğun e-ID'si ile mijnvaph.be üzerinden başvurun veya e-ID yoksa VAPH il ofisi ile iletişime geçin."
-    },
-    {
-      "type": "paragraph",
-      "text": "### İşlem Süresi\nBaşvuru ile teslimat arasındaki süreç genellikle 30 gün sürer. Bu süreç, VAPH veya FPS onayını ve kartın üretimini içerir."
-    },
-    {
-      "type": "paragraph",
-      "text": "### EDC'nin Kullanımı\nEDC, aşağıdaki avantajları sağlar:\n- İndirimler.\n- Kolaylaştırılmış erişim.\n- Katılımcı mekanlarda (müzeler, eğlence parkları vb.) yardım ve uzman rehberlik.\n\nMevcut avantajlar hakkında bilgi almak için mekanın web sitesini kontrol edin veya organizatörle iletişime geçin."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Geçerlilik\nEDC beş yıl geçerlidir ve mevcut sahipler için otomatik olarak yenilenir."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Kart Üzerindeki Fotoğraf\nEDC üzerindeki fotoğraf, kimlik kartınızdaki ile aynıdır. Kids ID'si olmayan çocuklar için kartta fotoğraf bulunmayabilir; bu durumda önce bir Kids ID almanız gerekir."
-    },
-    {
-      "type": "source",
-      "url": "https://eudisabilitycard.be/"
-    }
-  ]
-},
-{
-  "question": "Belçika'da geçim geliri (leefloon) nedir ve nasıl başvurulur?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "Geçim geliri (leefloon), geçimini sağlamak için yeterli imkanı olmayan bireylere sağlanan asgari bir gelir desteğidir. Bu destek, sosyal entegrasyon hakkının bir parçasıdır ve Kamu Sosyal Yardım Merkezi (OCMW) tarafından yönetilir."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Uygunluk Kriterleri\nLeefloon almak için şu koşulları sağlamanız gerekir:\n- **İkamet:** Belçika'da ikamet etmeli ve ana adresiniz burada olmalıdır.\n- **Yaş:** En az 18 yaşında olmalısınız, şu durumlar hariç:\n  - Evliyseniz.\n  - Bakmakla yükümlü bir çocuğunuz varsa.\n  - Hamileyseniz.\n- **Hukuki Statü:**\n  - Belçikalı veya bir AB vatandaşının aile üyesi olmalısınız.\n  - Siyasi mülteci, vatansız veya nüfus kütüğüne kayıtlı bir yabancı olarak tanınmış olmalısınız.\n- **Yetersiz Gelir:** Hane halkı geliriniz geçim eşiğinin altındaysa ve yeterli gelir sağlayamıyorsanız.\n- **Çalışma İsteği:** Çalışmaya istekli olmanız gerekir, tıbbi veya makul bir gerekçe olmadıkça (örneğin, hala eğitim alıyorsanız).\n- **Diğer Haklar İçin Başvuru:** Hak sahibi olabileceğiniz diğer yardımlar için başvurmanız gerekir (örneğin, işsizlik ödeneği veya maluliyet yardımları)."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Başvuru Prosedürü\n1. **OCMW ile İletişime Geçin:** İkamet ettiğiniz belediyedeki OCMW'yi ziyaret edin. Öğrenciyseniz, nüfus kaydında kayıtlı olduğunuz yerden başvurun.\n2. **İlk Görüşme:** Sosyal hizmet görevlisi ile durumunuzu görüşün.\n3. **Sosyal Araştırma:** Sosyal hizmet görevlisi, uygunluğunuzu belirlemek için bir araştırma yapar. İşbirliği yapmanız gerekir.\n4. **Karar:** OCMW, leefloon hakkına sahip olup olmadığınızı veya alternatif bir destek önerip önermeyeceğini karar verir.\n5. **Entegrasyon Planı:** Onaylanırsa, üç ay içinde sosyal entegrasyonunuzu desteklemek için bir ‘Bireyselleştirilmiş Sosyal Entegrasyon Projesi’ (GPMI) kabul edilir."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Gerekli Belgeler\nİlk görüşmenizde şunları getirin:\n- Kimlik kartı.\n- Kendinizin ve diğer hane halkı üyelerinin (reşit olmayan çocuklar hariç) mevcut gelir belgeleri (varsa).\n- Tasarruflarınızın dökümü.\n\nSosyal hizmet görevlisi duruma göre ek belgeler talep edebilir."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Miktar\nAylık leefloon miktarı yaşam durumunuza bağlıdır:\n1. **Birlikte Yaşayan:** Diğer bir yetişkinle, ilişkinizden bağımsız olarak bir hane paylaşma.\n2. **Tek:** Yalnız yaşama.\n3. **Bakmakla Yükümlü Çocuk(lar) ile Yaşayan:** Desteklediğiniz bir küçük çocukla yaşama. Bir partneriniz varsa, bu miktar ikiniz için geçerlidir, ancak partner de aynı şartları karşılamalıdır."
-    },
-    {
-      "type": "paragraph",
-      "text": "Leefloon, sizin veya hane halkınızın aldığı herhangi bir gelirle azaltılır. OCMW, sizinle yaşayan ebeveynlerinizin veya yetişkin çocuklarınızın gelirlerini de dikkate alabilir. Aile veya mali durumunuzdaki değişiklikleri OCMW'ye hemen bildirin."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Geri Ödeme\nÇoğu durumda leefloon geri ödenmez. Ancak, sosyal hizmet görevlisi duruma özel bilgi sağlayabilir."
-    },
-    {
-      "type": "source",
-      "url": "https://www.mi-is.be/"
-    }
-  ]
-},
-{
-  "question": "Eşdeğer geçim geliri (equivalent leefloon) nedir ve Belçika'da nasıl başvurulur?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "Eşdeğer geçim geliri (equivalent leefloon), düzenli leefloon almak için uygun olmayan ancak toplumsal entegrasyonu engelleyen yetersiz gelir durumunda olan bireylere sağlanan mali destektir. Bu program kapsamında alınan tutar, belirli koşullara bağlı olarak leefloon ile eşdeğerdir."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Uygunluk Kriterleri\nEşdeğer leefloon almak için şu koşulları sağlamanız gerekir:\n- **İkamet:** Belçika'da fiili ikametiniz olmalı ve geçerli bir ikamet iznine sahip olmalısınız.\n- **Leefloon Uygunluğu Yok:** Düzenli leefloon veya sosyal entegrasyon hakkınız yoktur.\n- **Acil Durum:** Barınma, yiyecek, giyim, hijyen veya sağlık hizmetlerine erişim gibi temel ihtiyaçlarınızı karşılayamıyorsunuz.\n\nOCMW, eşdeğer leefloon sağlamak için ek koşullar talep edebilir."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Başvuru Prosedürü\n1. **OCMW ile İletişime Geçin:** Belediyenizdeki OCMW ofisini ziyaret ederek eşdeğer leefloon talebinizi belirtin.\n2. **İlk Görüşme:** Sosyal hizmet görevlisi ile durumunuzu görüşün.\n3. **Sosyal Araştırma:** Ayrıntılı bir araştırma, uygunluğunuzu değerlendirecektir. Aktif işbirliği yapmanız gerekir.\n4. **Karar:** OCMW, eşdeğer leefloon verilip verilmeyeceğine veya alternatif destek seçenekleri önerilip önerilmeyeceğine karar verir."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Gerekli Belgeler\nOCMW'ye başvururken şu belgeleri getirin:\n- Kimlik kartı.\n- Kendinizin ve hane halkı üyelerinin (reşit olmayan çocuklar hariç) mevcut gelir belgeleri (varsa).\n- Tasarruflarınızın dökümü.\n\nSosyal hizmet görevlisi durumunuza bağlı olarak ek belgeler talep edebilir."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Mali Destek\nEşdeğer leefloon miktarı, hane halkı durumunuza bağlıdır ve üç kategoriden birine girer:\n1. **Birlikte Yaşayan:** Ev giderlerini (ör. kira, faturalar) başka biriyle paylaşma, partner olması şart değil.\n2. **Tek:** Yalnız yaşama.\n3. **Bakmakla Yükümlü Çocuk(lar) ile Yaşayan:** En az bir küçük, bekar çocuğu destekleme. Bir partneriniz varsa, miktar her ikiniz için geçerlidir.\n\nTam tutar, hane halkı gelirine göre ayarlanır ve Belçika'daki tüm OCMW'lerde aynıdır."
-    },
-    {
-      "type": "source",
-      "url": "https://www.mi-is.be/"
-    }
-  ]
-},
-{
-  "question": "Ötenazi için önceden direktif nedir ve Belçika'da nasıl düzenlenir?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "Ötenazi için önceden direktif, kalıcı olarak bilinç kaybı yaşamanız durumunda ötenazi talep etmenize olanak tanır. Bu direktif olmadan, ötenazi yalnızca ölmek istediğini ifade edebilen bir hastanın açık talebiyle gerçekleştirilebilir."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Koşullar\nBir önceden direktif düzenleyebilirsiniz eğer:\n- **Yaş:** Reşit (veya emancipated minor) iseniz.\n- **Ehliyet:** Karar verme ehliyetine sahipseniz.\n- **Belge Şartları:**\n  - Yasal olarak belirtilen formu kullanın.\n  - Direktif, yetersizlik başlamadan beş yıldan daha kısa süre önce imzalanmış olmalıdır.\n  - Gönüllü olarak yapılmalı, dış baskı olmadan.\n  - İki yetişkin tanık bulunmalı, bunlardan biri ölümünüzden maddi olarak fayda sağlamamalıdır.\n\nBu direktife dayalı ötenazi, yalnızca hasta geri dönüşü olmayan koma durumunda olduğunda yapılabilir. Demans veya beyin tümörleri gibi durumlarda geçerli değildir."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Prosedür\n1. **Formu Edinin:** Formu indirin veya yerel Sivil İşler departmanınızdan alın.\n2. **Tamamlayın ve İmzalayın:**\n   - Direktifi iki tanığın huzurunda doldurun (biri ölümünüzden maddi olarak fayda sağlamamalıdır).\n   - İsteğe bağlı olarak direktifin uygulanması gerektiğinde tedavi eden doktoru bilgilendirecek bir veya daha fazla güvenilir kişi atayın.\n   - Formu tanıklar ve güvenilir kişilerle birlikte tarih atarak imzalayın.\n3. **Kopyaları Dağıtın:** Yakınlarınız ve tedavi eden doktorlarınız için erişilebilirliği sağlamak amacıyla birden fazla kopya oluşturun. İsteğe bağlı olarak bir kopyayı belediye ofisinde kaydedin.\n\n- **Geçerlilik:**\n  - **2 Nisan 2020'den itibaren** tarihlendirilmiş direktifler süresiz geçerlidir.\n  - **2 Nisan 2020'den önce** tarihlendirilmiş direktifler beş yıl geçerlidir ve süresiz bir versiyona güncellenebilir.\n\nDirektifi istediğiniz zaman revize edebilir veya iptal edebilirsiniz."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Denetim ve Uyum\nFederal Kontrol ve Değerlendirme Komisyonu, ötenazinin yasada belirtilen şartlar ve prosedürlere uygun olarak gerçekleştirilmesini sağlar. Daha fazla bilgi için [Federal Sağlık Kamu Hizmeti](https://www.health.belgium.be/) adresini ziyaret edin."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Gerekli Belgeler\nDirektifi belediye ofisinizde kaydettiriyorsanız, şunları getirin:\n- İmzalı direktif formu.\n- Direktifi düzenleyen kişinin kimlik kartı."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Maliyet\nÖtenazi için önceden direktif kaydı ücretsizdir."
-    },
-    {
-      "type": "source",
-      "url": "https://www.health.belgium.be/"
-    }
-  ]
-},
-{
-  "question": "Olumsuz önceden direktif nedir ve Belçika'da nasıl düzenlenir?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "Olumsuz önceden direktif, hastaların yeniden canlandırma, yapay solunum, radyoterapi gibi belirli tıbbi prosedürleri veya tedavileri reddetmesine olanak tanır. Bu, demans veya koma gibi durumlarda artık isteklerini ifade edemeyecek hale geldiklerinde geçerlidir."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Prosedür\n1. **Direktifi Hazırlayın:** Reddettiğiniz tedavileri açık bir şekilde yazın. [LEIF web sitesinde](https://www.leif.be/) bulunan model belgeleri kullanabilirsiniz. Ayrıca basılı sürümler ve LEIF kartları talep edilebilir.\n2. **Doktor Bulundurulması (İsteğe Bağlı):** Yetkinliğinizi doğrulamak ve anlaşmazlıkları önlemek için direktifi bir doktorun huzurunda hazırlamanız önerilir.\n3. **Bir Temsilci Atayın:** İsteğe bağlı olarak, haklarınızı savunacak birini atayın.\n4. **Kopyaları Dağıtın:** Orijinal direktifi saklayın, güvenilir temsilcinize ve tedavi eden doktorunuza kopyalar sağlayarak tıbbi dosyanıza eklenmesini sağlayın."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Yasal Geçerlilik\n- Olumsuz önceden direktif yasal olarak bağlayıcıdır ve doktorlar bunu dikkate almak zorundadır.\n- Direktif, siz iptal etmediğiniz sürece süresiz olarak geçerlidir."
-    },
-    {
-      "type": "source",
-      "url": "https://www.leif.be/"
-    }
-  ]
-},
-{
-  "question": "Belçika'da bir yakının ölümü sonrasında yapılması gereken düzenlemeler nelerdir?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "Bir yakının ölümü duygusal bir dönemdir, ancak pratik düzenlemeler de gerektirir. Ölüm sonrası hemen yapılması gereken adımlar, cenaze düzenlemeleri ve miras işlemleriyle ilgili bir genel bakış aşağıda sunulmuştur."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Ölümden Hemen Sonra\n1. **Ölüm Sertifikası:**\n   - Bir doktor ölümü doğrulamalı ve bir tıbbi ölüm sertifikası düzenlemelidir. Bu belge ölüm tarihi, saati ve nedenini içerecektir.\n2. **Ölümü Bildirin:**\n   - Ölüm, gerçekleştiği belediyenin Nüfus Müdürlüğüne bildirilmelidir. Bu işlemi aile üyeleri veya bir cenaze yönetmeni yapabilir.\n3. **Ölüm Belgesi Alın:**\n   - Kayıttan sonra resmi bir ölüm belgesi alırsınız."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Cenaze Düzenlemeleri\n1. **Merhumun İsteklerini Değerlendirin:**\n   - Vasiyet, yazılı beyan (wilsbeschikking) veya bir cenaze yönetmeni ile önceden yapılan planlarda cenaze tercihlerini kontrol edin.\n   - Tercihler bir vasiyette belirtilmişse, bu bilgiler cenazeden sonra ortaya çıkabilir.\n2. **Defin veya Kremasyona Karar Verin:**\n   - Merhumun isteklerine veya aile kararına göre defin veya kremasyon arasında seçim yapın.\n3. **Özel Düzenlemeler:**\n   - Cenazenin yurtdışına taşınması gerekiyorsa, gerekli izinleri alın ve ilgili gerekliliklere uyun."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Kurumları Bilgilendirin\nAşağıdaki tarafları ölümden haberdar edin:\n- **Banka:** Merhumun hesaplarının bulunduğu tüm bankalara bildirin. Hesaplar varisler belirlenene kadar dondurulacaktır.\n- **İşveren:** Eğer merhum çalışıyorsa.\n- **Sağlık Sigortası:** Sağlık sigortası sağlayıcısını bilgilendirin.\n- **DIV (Araç Kayıt):** Plakayı iade edin ve araç kaydını güncelleyin.\n- **Sigorta Şirketleri:** İlgili sigorta sağlayıcılarını bilgilendirin.\n- **Noter:** Vasiyet, miras anlaşmaları veya evlilik sözleşmeleriyle ilgili konular için bir noterle görüşün.\n- **Aile Yardımı Fonu (Groeipakket):** Fazla ödeme yapılmasını önlemek için bilgilendirin."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Miras ve Veraset\n1. **Bir Noter ile İletişime Geçin:**\n   - Noter, varisleri belirler ve mirası kabul etme veya reddetme konusunda size rehberlik eder.\n   - Mirasın envanterini yapar ve veraset kararlarında size rehberlik eder.\n2. **Veraset Vergileri:**\n   - Merhumun Belçika’daki varlıklarının değerine göre veraset vergileri ödenmelidir.\n   - Her varis için ödenecek vergileri hesaplamak amacıyla bir veraset beyanı yapılmalıdır."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Dul ve Yetim Aylığı\nEğer merhum evliydi ise, hayatta kalan eş merhumun kariyerine bağlı olarak dul ve yetim aylığı almaya hak kazanabilir. Uygunluk kriterlerini kontrol edin ve ilgili emeklilik sistemi üzerinden başvurun."
-    },
-    {
-      "type": "source",
-      "url": "https://www.belgium.be/en/family/death"
-    }
-  ]
-},
-{
-  "question": "Belçika'da ölüm sonrası organ bağışı nasıl çalışır?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "Ölüm sonrası organ bağışı, kronik ve geri dönüşü olmayan durumları olan hastalar için hayat kurtarabilir. Beyin veya kalp yetmezliği nedeniyle yaşamını yitiren kişilerden organlar, dokular ve hücreler nakil için kullanılabilir. Belçika'da, yaşamınız boyunca açıkça ret belirtmediğiniz sürece otomatik olarak potansiyel bağışçı olarak kabul edilirsiniz."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Koşullar\n1. **Otomatik Onay:**\n   - Nüfus kaydına kayıtlıysanız (veya yabancıların kaydında en az altı ay bulunmuşsanız), yaşamınız boyunca reddetmediğiniz sürece otomatik olarak potansiyel bağışçı olarak kabul edilirsiniz.\n2. **Açık Kayıt:**\n   - İsteklerinizin yerine getirilmesini sağlamak için 'İnsan Vücut Malzemesi Bağışı İçin Onay Bildirimi' formunu resmi olarak kaydedebilirsiniz.\n3. **Reşit Olmayanlar ve Yetkisiz Kişiler:**\n   - 12 yaş ve üzerindeki yetkin reşit olmayanlar isteklerini kaydedebilir.\n   - Yetkisiz reşit olmayanlar için, ebeveynler veya vasiler yalnızca bağışa karşı olduklarını ifade edebilir.\n   - Yetkisiz yetişkinler için, yasal temsilcileri, vasileri veya en yakın akrabaları bağışa karşı olduklarını ifade edebilir."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Prosedür\nBildiriminizle şu konularda açıkça onay verebilir, karşı çıkabilir veya önceki bir kararı geri çekebilirsiniz:\n- Nakil için organ bağışı.\n- Nakil için doku ve hücre bağışı.\n- İlaç üretimi için organ, doku ve hücre bağışı.\n- Bilimsel araştırma için organ, doku ve hücre bağışı.\n\n(Not: Bu, vücudunuzu bilimsel çalışmalara bağışlamaktan farklıdır.)"
-    },
-    {
-      "type": "paragraph",
-      "text": "İsteklerinizi şu şekilde kaydedebilirsiniz:\n1. **Aile hekiminizin** ofisinde.\n2. **Belediye ofisinizde.**\n3. **Çevrimiçi kendi kaydınızı** [mijngezondheid.be](https://www.mijngezondheid.be/) adresinde yaparak.\n\n**Önemli:** Çevrimiçi kayıt, reşit olmayanlar veya isteklerini ifade edemeyen kişiler için geçerli değildir."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Maliyet\nBildirimin kaydı ücretsizdir."
-    },
-    {
-      "type": "source",
-      "url": "https://www.health.belgium.be/"
-    }
-  ]
-},
-{
-  "question": "Belçika'da ölüm bildirimi prosedürü nedir?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "Bir ölüm, kişinin hayatını kaybettiği belediyenin Nüfus Müdürlüğüne bildirilmelidir. Bu işlem, 'ölüm bildirimi' olarak adlandırılır ve ölüm resmi bir ölüm belgesiyle kayıt altına alınır."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Prosedür\n1. **Tıbbi Sertifikasyon:**\n   - Bir doktor ölümü onaylamalı ve bir ölüm sertifikası düzenlemelidir.\n   - Ölüm evde gerçekleşirse, aile hekiminiz veya nöbetçi bir doktorla iletişime geçin.\n   - Hastane veya bakım tesislerinde, sertifika düzenlemesi kurum tarafından yapılır.\n   - Kaza veya şüpheli ölümler için, bir doktorun huzurunda polis tarafından bir rapor hazırlanır.\n2. **Ölüm Bildirimi:**\n   - Ölüm, kişinin öldüğü belediyenin Nüfus Müdürlüğüne mümkün olan en kısa sürede bildirilmelidir.\n   - Genellikle cenaze yönetmeni bu bildirimi ve idari işlemleri halleder, ancak aile üyeleri bunu kendileri de yapabilir.\n   - Kayıttan sonra Nüfus Müdürlüğü yetkilisi tarafından resmi bir ölüm belgesi düzenlenir."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Gerekli Belgeler\nÖlüm bildirimi için şu belgeleri getirmeniz gerekir:\n- Doktor tarafından düzenlenmiş tıbbi ölüm sertifikası.\n- Merhumun kimlik kartı.\n- Ölümü bildiren kişinin kimlik kartı.\n- Merhumun ehliyeti (varsa).\n- Merhumun vasiyeti (varsa).\n\nŞüpheli veya şiddet içeren ölümler için ayrıca şunları getirin:\n- Polis raporu.\n- Savcıdan alınmış defin veya kremasyon izni."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Diğer Tarafları Bilgilendirin\nNüfus Müdürlüğüne ek olarak aşağıdaki tarafları bilgilendirin:\n- Banka\n- Noter\n- Sigorta şirketleri\n- Sağlık sigortası sağlayıcısı\n- Emeklilik hizmeti\n- Vergi daireleri\n- Ev sahibi\n- Kamu hizmet sağlayıcıları (su, gaz, elektrik)\n- İşveren"
-    },
-    {
-      "type": "source",
-      "url": "https://www.belgium.be/en/family/death/registration"
-    }
-  ]
-},
-{
-  "question": "Belçika'da dul ve yetim aylığı için uygunluk kriterleri ve prosedürler nelerdir?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "Dul ve yetim aylığı, bir bireyin hayatta kalan eşine veya bakmakla yükümlü çocuklarına finansal destek sağlar. Bu aylık, merhumun emekli olup olmamasından bağımsız olarak sağlanır ve bazen dul veya dul erkeğin aylığı olarak adlandırılır."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Uygunluk Kriterleri\n**Eşler için:**\n- **Asgari Yaş:** Eşinizin ölüm tarihinde asgari yaş şartını karşılamanız gerekir. 2023 yılında bu yaş 49 olup, her yıl altı ay artar. İstisnalar, kişisel emeklilik alıyorsanız geçerlidir.\n- **Evlilik Süresi:** En az bir yıl evli olmanız gerekir, şu durumlar hariç (örneğin, ortak bir çocuk, evlilikten önce en az bir yıl yasal birlikte yaşama vb.).\n- **Yeniden Evlilik Yok:** Yeniden evlenirseniz aylık askıya alınır.\n- **Ceza Mahkumiyeti Yok:** Merhuma karşı bir suçtan mahkum edilmemiş olmanız gerekir.\n\n**Çocuklar (Yetimler) için:**\n- Merhum bir kamu görevlisi olmalıdır.\n- Tam yetimler (her iki ebeveynin ölümü) veya eşdeğer durum (ör. hayatta kalan ebeveynin dul ve yetim aylığı alma hakkı olmaması).\n- 18 yaşından küçük olmalı veya daha büyükse çocuk yardımı alma hakkına sahip olmalıdır.\n- Merhuma karşı bir suçtan mahkum edilmemiş olmalıdır."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Başvuru Prosedürü\n**Kamu Görevlisi Olmayanlar İçin:**\n- Başvurunuzu şu yollarla yapabilirsiniz:\n  - Belediyenizin idaresi üzerinden.\n  - İlgili emeklilik otoritesi aracılığıyla.\n  - [mypension.be](https://www.mypension.be) üzerinden çevrimiçi.\n- Başvurular, ölüm tarihinden itibaren 12 ay içinde yapılmalıdır.\n\n**Kamu Görevlileri İçin:**\n- Merhum aktif bir çalışan ise, son kamu işverenleri veya doğrudan Federal Emeklilik Hizmetine (FPD) başvuru yapın.\n- Merhum emekliyse, Federal Emeklilik Hizmeti hayatta kalan eş için otomatik olarak bir dul ve yetim aylığı dosyası açar."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Gerekli Belgeler\n- PIN ile kimlik kartı.\n- Ödeme için banka hesap bilgileri."
-    },
-    {
-      "type": "paragraph",
-      "text": "### Hesaplama\nAylık miktarı şu faktörlere bağlıdır:\n- Uygun alıcı sayısı.\n- Garantili minimum tutarlar.\n- Gelir sınırları (kamu görevlileri için).\n- Diğer gelir kaynakları (istihdam veya yardımlar)."
-    },
-    {
-      "type": "paragraph",
-      "text": "### İstisnalar ve Özel Durumlar\n- **Geçiş Ödeneği:** Asgari yaş dışındaki tüm kriterleri karşılıyorsanız, geçiş ödeneği alabilirsiniz.\n- **Geçici Dul ve Yetim Aylığı:** En az bir yıl evli olmayan kamu görevlilerinin eşleri için geçerlidir. 12 ay süreyle verilir.\n- **Eski Eşler:** Kamu görevlilerinin eski eşleri de belirli koşulları karşılıyorsa başvurabilir. Aylık, eski eş ve hayatta kalan eş arasında bölünebilir. Başvurular ölüm tarihinden itibaren 12 ay içinde yapılmalıdır."
-    },
-    {
-      "type": "source",
-      "url": "https://www.mypension.be"
-    }
-  ]
-},
-{
-  "question": "Defin Yöntemi ve/veya Ritüeller Sertifikası nedir?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "Ölümünüzden sonra bedeninizin ne olacağına karar verebilirsiniz. Bu seçim, vasiyet beyanında (defin yöntemi) belgelenebilir. Bu beyan nüfus kaydına işlenir."
-    },
-    {
-      "type": "paragraph",
-      "text": "Defin Yöntemi ve/veya Ritüeller Sertifikası (nüfus kaydından bir alıntı), şunları belirtir: defin veya kremasyon tercihiniz, cenaze töreni için dini veya felsefi ayinler, son dinlenme yerinizin belediyesi (Belçika'da veya yurtdışında) ve bir cenaze sözleşmeniz olup olmadığı."
-    },
-    {
-      "type": "paragraph",
-      "text": "Her ölümde belediye, merhumun bir vasiyet beyanı kaydettirip kaydettirmediğini kontrol eder."
-    },
-    {
-      "type": "paragraph",
-      "text": "Koşullar: Bu sertifikayı yalnızca bir vasiyet beyanı kaydedildiyse talep edebilirsiniz. Sertifikayı şu kişiler talep edebilir: kendiniz, yasal temsilciniz (örneğin, ebeveyn veya vasi), yetkilendirilmiş kişiler (örneğin, noter veya avukat), yasa gereği belirtilmişse üçüncü taraflar (örneğin, kamu veya özel kuruluşlar) veya başvuru sahibinin kimlik kartı (veya bir kopyası) ile vekaletnameye sahip üçüncü bir taraf."
-    },
-    {
-      "type": "paragraph",
-      "text": "Prosedür: Sertifikayı belediyenizden talep edebilirsiniz. Elektronik kimlik kartınız (eID) varsa, bu belgeyi 'Dosyam' (Ulusal Kayıt çevrimiçi uygulaması), 'Vatandaş Profilim' (Flaman hükümetinin çevrimiçi uygulaması) veya belediyenizin e-desk'i aracılığıyla erişebilir, indirebilir ve yazdırabilirsiniz. Diğerleri yalnızca Sivil İşler gişesinden sertifikayı talep edebilir."
-    },
-    {
-      "type": "paragraph",
-      "text": "Bu sertifika yurtdışında kullanılabilir mi? Çoğu durumda belge önce tasdik edilmeli ve gerekirse tercüme edilmelidir. Federal Kamu Hizmeti Dış İşleri web sitesinde belgenizin tasdik veya apostil gerektirip gerektirmediğini kontrol edebilirsiniz. Gerekirse belge e-Tasdik e-desk üzerinden talep edilebilir. Tasdik veya apostil ücreti her belge için her zaman 20 Euro'dur."
-    },
-    {
-      "type": "paragraph",
-      "text": "Gerekli Belgeler: Sertifikayı kendiniz alıyorsanız kimlik kartınızı veya oturma izninizi getirmeniz gerekir. Başkası için talep ediyorsanız, bireyden vekaletname, kimlik kartlarının bir kopyası ve kendi kimlik kartınızı getirmeniz gerekir."
-    },
-    {
-      "type": "source",
-      "url": "https://www.belgium.be"
-    },
-    {
-      "type": "image",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Burial_site_cemetery.jpg"
-    }
-  ]
-}
-
-
-
-
-
-
-
+        "question": "BE-Alert nedir ve Belçika'da nasıl kaydolabilirsiniz?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "BE-Alert, Belçika'da yangınlar, doğal afetler veya çevresel olaylar gibi acil durumlarda hükümetin vatandaşları uyarmasını sağlayan ulusal bir uyarı sistemidir. Radyo ve televizyon gibi geleneksel medyayı tamamlayarak bireylere SMS, e-posta veya sabit hatlar üzerinden sesli mesajlar gönderir."
+            },
+            {
+                "type": "image",
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-XtRRbDsWBSrg-VfDa2NjIRQ2XGkv6VbFA&s"
+            },
+            {
+                "type": "source",
+                "url": "https://www.be-alert.be/"
+            }
+        ]
+    },
+    {
+        "question": "Belçika'da mevcut acil durum ve yardım numaraları nelerdir?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Acil durumlarda, Belçika'da kamu acil servisleri ve yardım hatları ile iletişime geçebilirsiniz. İşte ana acil durum numaralarının ve destek hatlarının kapsamlı bir listesi."
+            },
+            {
+                "type": "image",
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTykvHfsJ1JAMiQlPbHX03naVikGUOOgF1MVQ&s"
+            },
+            {
+                "type": "paragraph",
+                "text": "### Acil Durum Numaraları\n- **Polis:** 101\n- **Ambulans ve İtfaiye:** 112\n- **Avrupa Acil Durum Numarası:** 112\n\nBu numaraları aradığınızda, öncelikle ambulans, itfaiye veya polis talep edip etmediğiniz sorulur. Bu numaralara:\n- Sabit hattan,\n- [112 uygulaması](https://www.app112.be/) ile akıllı telefondan,\n- SIM kart veya aktif abonelik olmadan mobil telefonla ulaşabilirsiniz."
+            },
+            {
+                "type": "paragraph",
+                "text": "### Aşırı Hava Koşullarında İtfaiyeden Acil Olmayan Yardım\n- **1722** numarasını arayarak aşırı hava koşullarında itfaiyeden acil olmayan yardım talep edebilirsiniz.\n- Talepler ayrıca şu yollarla yapılabilir:\n  - [1722 e-loket](https://www.1722.be/) üzerinden.\n  - Ücretli **1722** numarası ile.\n  - Yerel itfaiyenize başvurarak."
+            },
+            {
+                "type": "paragraph",
+                "text": "### Diğer Yardım Servisleri ve Hatlar\n| **Servis**                              | **Numara**              |\n|------------------------------------------|--------------------------|\n| Zehir Kontrol Merkezi                    | 070 245 245             |\n| Nöbetçi Pratisyen                        | 1733                    |\n| Nöbetçi Eczaneler                        | 0903 99 000             |\n| Acil Olmayan Tıbbi Taşıma (Kızılhaç)     | 105                     |\n| Child Focus                              | 116 000                 |\n| Tele-Onthaal (duygusal destek)           | 106                     |\n| İntihar Hattı                            | 1813 veya 02 649 95 55  |\n| Şiddet ve Taciz Yardım Hattı             | 1712                    |\n| Awel (çocuk ve gençler için yardım hattı)| 102                     |\n| CAW (refah ile ilgili sorular)           | 0800 13 500             |\n| JAC (gençlik danışma merkezi)            | Çevrimiçi iletişim      |\n| Nupraatikerover (suistimal hakkında sohbet)| Sadece çevrimiçi       |"
+            },
+            {
+                "type": "paragraph",
+                "text": "### Acil Durumda Ne Yapmalı?\nAcil durumlar öncesinde, sırasında ve sonrasında yapılması gerekenlerle ilgili daha fazla bilgi için [Ulusal Kriz Merkezi](https://crisiscentrum.be/) web sitesini ziyaret edin."
+            }
+        ]
+    },
+    {
+        "question": "Belçika'da ambulans müdahalesi ücretsiz mi?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Belçika'da ambulans hizmetleri tamamen ücretsiz değildir. Maliyet, tıbbi acil yardım veya acil olmayan tıbbi taşıma durumlarına bağlıdır."
+            },
+            {
+                "type": "image",
+                "url": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_644w/2024/08/14/node_727555/3775198/public/2024/08/14/ambulance_flandre.jpeg?itok=d5oz_Dms1723621259"
+            },
+            {
+                "type": "paragraph",
+                "text": "### Acil Tıbbi Yardım\n- **112**'yi aradığınızda, bir ambulans veya Tıbbi Acil Durum Grubu (MUG) ekibi hastayı değerlendirmek, tedavi etmek ve hastaneye taşımak için gönderilir.\n- **Maliyet:**\n  - Hastalar, ambulans müdahaleleri için yasal olarak sabit bir ücret öder, taşıma yapılmasa bile.\n  - Sağlık sigortası bu ücreti **karşılamaz.**\n  - Sabit ücret dışında ek maliyet talep edilemez.\n- MUG ekibi, hayat kurtarıcı müdahalelerde bulunur ve hasta hastaneye taşınmadan önce stabil hale getirilir.\n  - MUG doktorunun maliyetleri sağlık sigortası tarafından tamamen karşılanır.\n  - Diğer bazı ücretler kısmen hasta tarafından ödenebilir."
+            },
+            {
+                "type": "paragraph",
+                "text": "### Acil Olmayan Tıbbi Taşıma\n- Acil olmayan tıbbi taşıma, böbrek diyalizi veya planlanmış hastane yatışı gibi planlı medikal taşıma hizmetidir.\n- **Maliyet:**\n  - Bu hizmet sağlık sigortası tarafından karşılanmaz.\n  - Bazı sağlık sigorta fonları veya hastane sigortaları maliyetlerin bir kısmını karşılayabilir. Detaylar için sigorta sağlayıcınıza başvurun.\n  - Taşıma şirketleri arasında önemli fiyat farklılıkları vardır. Şirketler, hizmet rezervasyonu sırasında maksimum tarifeyi açıklamalı ve bu tarife ambulansta gösterilmelidir.\n- Fiyat bilgisi sağlanmazsa, şirket veya sağlık sigortası fonuna şikayette bulunulabilir."
+            },
+            {
+                "type": "source",
+                "url": "https://www.belgium.be/en"
+            }
+        ]
+    },
+    {
+        "question": "Belçika'da itfaiye müdahaleleri ücretsiz mi yoksa ücretli mi?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Belçika'da itfaiye müdahaleleri yasal olarak düzenlenmiştir. Çoğu hizmet ücretsizdir, ancak bazı müdahaleler, niteliğine ve yerel belediyenin düzenlemelerine bağlı olarak ücretlendirilir."
+            },
+            {
+                "type": "image",
+                "url": "https://www.mensura.be/uploads/cache/hero/uploads/media/624ae33929048/brandveiligheid-preventie-en-bestrijding.png?v1"
+            },
+            {
+                "type": "paragraph",
+                "text": "### İtfaiye Hizmetleri Ne Zaman Ücretsizdir?\nİtfaiye hizmetleri her zaman ücretsizdir:\n- Yangınlar.\n- Patlamalar.\n- Zor durumda olan kişilerin kurtarılması (örneğin, boğulma tehlikesindeki bir kişinin kurtarılması)."
+            },
+            {
+                "type": "paragraph",
+                "text": "### İtfaiye Hizmetleri İçin Ne Zaman Ücret Ödenir?\n- Belediyeler, itfaiyelerin yasa gereği zorunlu olmayan müdahaleleri için ücret talep etmek zorundadır.\n- Bazı yasa gereği zorunlu müdahaleler de belediyenin ücret düzenlemelerine (retributiereglement) göre ücretlendirilebilir.\n\nÜcretli hizmetlere örnekler:\n- Acil tıbbi yardım.\n- Çevre kirliliği (kirletici malzemenin sahibi veya işletmecisine ücretlendirilir).\n- Hayvanların kurtarılması.\n- Su borularının bakımsızlığından dolayı bir bodrumdan suyun pompalanması.\n- Eşekarısı yuvalarının kaldırılması."
+            },
+            {
+                "type": "paragraph",
+                "text": "Daha fazla bilgi için belediyeniz veya yerel itfaiyenizle iletişime geçin."
+            },
+            {
+                "type": "source",
+                "url": "https://www.belgium.be/en"
+            }
+        ]
+    },
+    {
+        "question": "Belçika'da Yaşlılık Gelir Güvencesi (IGO) nedir ve nasıl başvurulur?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Yaşlılık Gelir Güvencesi (IGO), yasal emeklilik yaşına ulaşmış ancak kendini desteklemek için yeterli gelir kaynaklarına sahip olmayan bireylere sağlanan bir finansal yardımdır. Bu yardım, Belçika'daki yaşlı sakinler için temel bir gelir düzeyini garanti eder."
+            },
+            {
+                "type": "paragraph",
+                "text": "### Uygunluk Kriterleri\nIGO'dan yararlanmak için aşağıdaki koşulların karşılanması gerekir:\n- **Mali Durum:** Toplam geliriniz, eşinizin veya yasal partnerinizin gelirleri dahil, belirli bir eşik değerinin altında olmalıdır. Bu durumu belirlemek için ayrıntılı bir değerlendirme yapılır.\n- **Yaş:** Yasal emeklilik yaşına ulaşmış olmalısınız.\n- **Vatandaşlık:** Belçika vatandaşı olmalı veya eşdeğer bir durumda bulunmalısınız.\n- **İkamet:** Ana ikametgahınız Belçika'da olmalı ve kesintisiz olarak burada yaşamalısınız.\n\nGelirlerin hesaplanması ve gelir eşik değerleri hakkında detaylı bilgi için Federal Emeklilik Servisi'nin web sitesini ziyaret edin."
+            },
+            {
+                "type": "paragraph",
+                "text": "### Başvuru Prosedürü\nÇoğu durumda, IGO için başvurmanız gerekmez. Süreç otomatik olarak başlatılır:\n- Federal Emeklilik Servisi'nden emeklilik başvurusu yaparsanız ve emeklilik tutarınız minimum eşik değerin altında kalırsa.\n- Zaten emekli maaşı alıyorsanız ve yasal emeklilik yaşına ulaşırsanız.\n- Engellilik yardımı alıyorsanız ve yasal emeklilik yaşına ulaşırsanız.\n- Sosyal yardım alıyorsanız ve yasal emeklilik yaşına ulaşırsanız."
+            },
+            {
+                "type": "paragraph",
+                "text": "Yukarıdaki durumların hiçbiri geçerli değilse, başvuru yapmanız gerekir:\n- **Çevrimiçi:** [mypension.be](https://www.mypension.be/) üzerinden. Başvurunuz tamamlandığında e-posta adresinizi verirseniz bir onay e-postası alırsınız. Başvurunuz, sonraki ziyaretlerinizde 'Dosyam' altında görüntülenir.\n- **Telefonla:** Emeklilik Hattı'nı **1765** numaralı telefondan arayın, Felemenkçe seçin ve sırasıyla 3 ve 1 tuşlarına basın.\n- **Şahsen:** Yerel belediye ofisinizden."
+            },
+            {
+                "type": "paragraph",
+                "text": "### Ödeme Zaman Çizelgesi\n- Süreç otomatik ise, ödemeler **yasal emeklilik yaşına ulaştığınız ayın ardından başlar.**\n- Emeklilik yaşına ulaştıktan sonra başvurduysanız, ödemeler **başvurudan sonraki ayda başlar.**\n- Doğum ayı kaydedilmediyse, ödemeler **yasal emeklilik yaşına ulaştığınız yılın 1 Ağustos'unda başlar.**"
+            },
+            {
+                "type": "source",
+                "url": "https://www.mypension.be/"
+            }
+        ]
+    },{
+              "question": "Belçika'da artırılmış geri ödeme planı nedir?",
+              "content": [
+                  {
+                      "type": "paragraph",
+                      "text": "Belçika'daki artırılmış geri ödeme planı, tıbbi maliyetler için daha iyi bir kapsama alanı sağlar; bu maliyetler arasında muayeneler, ilaçlar ve hastane hizmetleri bulunur. Bazı bireyler durumlarına bağlı olarak otomatik olarak hak kazanırken, diğerleri bu avantajdan yararlanmak için sağlık sigortası fonları aracılığıyla başvuruda bulunmalıdır. Bu plan, sağlık hizmetlerini ihtiyaç sahibi kişiler için daha finansal olarak erişilebilir hale getirmeyi amaçlar."
+                  },
+                  {
+                      "type": "source",
+                      "url": "https://www.inami.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/financiele-toegankelijkheid/de-verhoogde-tegemoetkoming#.Vrr_T_nhBpg"
+                  }
+              ]
+          },
+          {
+              "question": "Belçika'da tıbbi masraflar için hangi mali yardım seçenekleri vardır?",
+              "content": [
+                  {
+                      "type": "paragraph",
+                      "text": "Belçika'da tıbbi masraflarını karşılayamayan bireyler için mali yardım mevcuttur. Sağlık sigortası fonları veya Kamu Sosyal Yardım Merkezi (OCMW/CPAS), destek sağlamak için müdahalede bulunabilir. Sosyal yardımlardan yararlananlar veya geliri olmayanlar gibi savunmasız bireyler, tıbbi masrafları karşılamak için artırılmış geri ödeme hakkına sahip olabilir. Ayrıca, Özel Dayanışma Fonu, geri ödenmeyen belirli tıbbi işlemler için mali destek sunar."
+                  },
+                  {
+                      "type": "source",
+                      "url": "https://www.socialsecurity.be/citizen/nl/gezondheid/financiele-hulp#topic62af4f5d7203db65672a5b3d51bcbcbe75bb46f5"
+                  }
+              ]
+          },
+          {
+              "question": "Küresel tıbbi dosya (GMD) nedir ve Belçika'da hastalara nasıl fayda sağlar?",
+              "content": [
+                  {
+                      "type": "paragraph",
+                      "text": "Küresel tıbbi dosya (GMD), Belçika'da genel doktorunuz (GP) tarafından tutulan kişiselleştirilmiş bir sağlık kaydıdır. Daha iyi sağlık yönetimi ve sağlık hizmeti sağlayıcıları arasında koordinasyon sağlar. GP'nizle bir GMD açarak, muayeneler ve ziyaretler için daha yüksek geri ödeme oranlarından yararlanabilirsiniz. Bu, sağlık hizmetlerini daha uygun hale getirirken, kapsamlı ve sürekli bakım sağlar."
+                  },
+                  {
+                      "type": "source",
+                      "url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/financiele-toegankelijkheid/dankzij-een-globaal-medisch-dossier-gmd-kan-u-goedkoper-naar-de-huisarts"
+                  }
+              ]
+          },
+          {
+              "question": "Belçika'da engelli bireyler için hangi önlemler alınmıştır?",
+              "content": [
+                  {
+                      "type": "paragraph",
+                      "text": "Belçika, engelli bireyleri desteklemek için hükümetin farklı seviyelerinde çeşitli önlemler uygulamıştır. Bu önlemler, sosyal yardımlar, erişilebilirlik girişimleri ve istihdam desteği gibi özel ihtiyaçları karşılamaya yöneliktir. Federal hükümet, topluluklar ve bölgeler, engelli bireylerin refahını ve topluma katılımını sağlamada kilit bir rol oynamaktadır."
+                  },
+                  {
+                      "type": "source",
+                      "url": "https://www.handicap.belgium.be"
+                  }
+              ]
+          },
+          {
+              "question": "Aşılama neden önemlidir ve Belçika'da nasıl uygulanır?",
+              "content": [
+                  {
+                      "type": "paragraph",
+                      "text": "Aşılama, bulaşıcı hastalıklardan kaynaklanan ciddi, uzun vadeli veya hatta ölümcül komplikasyonları önlemede hayati bir öneme sahiptir. İnaktive edilmiş veya zayıflatılmış bir patojen formunu tanıtarak, aşılar vücudun bağışıklık sistemini hastalığı tanıma ve gelişmeden önce mücadele etme konusunda uyarır. Belçika'da aşılar özellikle küçük çocuklar için önerilir ve bazı aşılar iki aylıkken uygulanır. Ulusal ve bölgesel sağlık otoriteleri erişilebilir aşı programları sağlar."
+                  },
+                  {
+                      "type": "paragraph",
+                      "text": "- Vlaanderen"
+                  },
+                  {
+                      "type": "source",
+                      "url": "https://www.departementzorg.be/"
+                  },
+                  {
+                      "type": "paragraph",
+                      "text": "- Duitstalige"
+                  },
+                  {
+                      "type": "source",
+                      "url": "https://ostbelgienlive.be/"
+                  },
+                  {
+                      "type": "paragraph",
+                      "text": "- Wallonie"
+                  },
+                  {
+                      "type": "source",
+                      "url": "https://www.vaccination-info.be/"
+                  }
+              ]
+          },
+          {
+              "question": "Belçika'da eczanelerin rolü nedir?",
+              "content": [
+                  {
+                      "type": "paragraph",
+                      "text": "Belçika'daki eczaneler halka açık önemli sağlık alanlarıdır. İki tür ilaç sağlarlar: eczacı tarafından hazırlananlar ve endüstriyel olarak üretilenler. Eczaneler ayrıca koltuk değneği, implant, vitaminler ve diyet takviyeleri gibi çeşitli sağlıkla ilgili ürünler sunar. Eczacılar, sundukları ilaçların kalitesini ve uygunluğunu sağlamak için sıkı düzenlemelere uymak zorundadır. Ayrıca ilaçların doğru kullanımı, potansiyel yan etkiler ve tedaviye uyum konusunda rehberlik sağlarlar."
+                  },
+                  {
+                      "type": "source",
+                      "url": "https://www.apotheek.be/"
+                  },
+                  {
+                      "type": "source",
+                      "url": "https://www.pharmacie.be/"
+                  }
+              ]
+          },
+          {
+              "question": "Avrupa Sağlık Sigortası Kartı (EHIC) EEA veya İsviçre'ye seyahat ederken neden önemlidir?",
+              "content": [
+                  {
+                      "type": "paragraph",
+                      "text": "Avrupa Ekonomik Alanı (EEA) veya İsviçre'ye geçici olarak seyahat ederken, Avrupa Sağlık Sigortası Kartınızı (EHIC) yanınızda bulundurmanız önemlidir. Bu kart, konaklamanız sırasında gerekli tıbbi bakımı almanızı sağlar ve masraflarınızın tamamen veya kısmen geri ödenmesini temin eder. Norveç, İzlanda, Lihtenştayn, İsviçre veya Danimarka'ya seyahat ederken, bir AB ülkesi vatandaşı veya bu belirli ülkelerden birinin vatandaşı olmanız gerektiğini unutmayın."
+                  },
+                  {
+                      "type": "source",
+                      "url": "https://www.inami.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/internationaal/vakantie/u-gaat-op-vakantie-in-de-europese-economische-ruimte-eer-of-zwitserland#.VoqFufnhBpg"
+                  }
+              ]
+          }
 
 
 

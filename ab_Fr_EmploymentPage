@@ -1,26 +1,384 @@
 {
   "questions": [
     {
-      "question": "Comment trouver un emploi en Belgique ?",
+          "question": "Quelles sont les agences de placement VDAB, Le Forem et Actiris en Belgique ?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "VDAB, Le Forem et Actiris sont des agences officielles de placement et de soutien à la carrière qui desservent différentes régions de Belgique. Voici les détails sur chaque agence :"
+            },
+            {
+              "type": "paragraph",
+              "text": "VDAB (Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding) :"
+            },
+            {
+              "type": "source",
+              "url": "www.vdab.be"
+            },
+            {
+              "type": "paragraph",
+              "text": "Le Forem :"
+            },
+            {
+              "type": "source",
+              "url": "www.leforem.be"
+            },
+            {
+              "type": "paragraph",
+              "text": "Actiris :"
+            },
+            {
+              "type": "source",
+              "url": "www.actiris.brussels"
+            },
+            {
+              "type": "paragraph",
+              "text": "Ces agences sont les organisations officielles de l'emploi en Belgique, offrant principalement des services gratuits. Le soutien est accessible en fonction de la région où vous vivez. En outre, en tant que citoyen de l'UE, vous pouvez avoir un accès facilité à ces services."
+            }
+          ]
+        },
+        {
+          "question": "Quelles sont les dispositions légales pour les étudiants travailleurs en Belgique ?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Un étudiant travailleur en Belgique est autorisé à travailler jusqu'à 600 heures par an, pendant lesquelles une contribution de solidarité réduite est applicable."
+            },
+            {
+              "type": "source",
+              "url": "https://www.studentatwork.be"
+            }
+          ]
+        },
+        {
+          "question": "Quels sont les métiers en pénurie en Belgique ?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Les services régionaux de l'emploi en Belgique mettent régulièrement à jour les listes des métiers en pénurie, qui sont des emplois connaissant un manque significatif de travailleurs qualifiés. Si vous souhaitez suivre des études préparant à un métier en pénurie, vous pouvez être exempté de certaines obligations en tant que demandeur d'emploi tout en continuant à percevoir des allocations de chômage sous certaines conditions."
+            },
+            {
+              "type": "paragraph",
+              "text": "- Vlaanderen"
+            },
+            {
+              "type": "source",
+              "url": "https://www.vdab.be/knelpuntberoepen"
+            },
+            {
+              "type": "paragraph",
+              "text": "- Brussel"
+            },
+            {
+              "type": "source",
+              "url": "https://www.actiris.brussels/nl/burgers/beroepsreferentiecentra/"
+            },
+            {
+              "type": "paragraph",
+              "text": "- Wallonie"
+            },
+            {
+              "type": "source",
+              "url": "https://www.leforem.be/citoyens/metiers-porteurs.html"
+            },
+            {
+              "type": "paragraph",
+              "text": "- Duits"
+            },
+            {
+              "type": "source",
+              "url": "https://www.adg.be/"
+            }
+          ]
+        },
+        {
+          "question": "Comment trouver un emploi auprès du gouvernement fédéral belge ?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Werkenvoor.be est la plus grande plateforme d'offres d'emploi pour les postes gouvernementaux et sert de portail central pour le gouvernement fédéral belge. Elle propose un large éventail d'opportunités d'emploi dans le secteur public, couvrant divers domaines tels que l'informatique, les ressources humaines, la communication, l'administration, la santé et les soins, la recherche et le développement, et la sécurité. La plateforme publie des offres d'emploi et organise des sélections pour le gouvernement fédéral ainsi que pour les autorités régionales, communautaires et locales."
+            },
+            {
+              "type": "source",
+              "url": "https://werkenvoor.be/nl"
+            }
+          ]
+        },
+        {
+          "question": "Comment fonctionne la résiliation d'un contrat de travail à durée indéterminée en Belgique ?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "La résiliation d'un contrat de travail à durée indéterminée en Belgique peut se faire par démission de l'employé ou licenciement par l'employeur. Un préavis doit être donné conformément aux délais de préavis légalement déterminés, qui varient en fonction de la durée de service et du statut de l'employé. Des règles et conditions spécifiques s'appliquent pour garantir la conformité aux lois belges sur le travail."
+            },
+            {
+              "type": "source",
+              "url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/einde-van-de-arbeidsovereenkomst/einde-van-de-arbeidsovereenkomst-3"
+            }
+          ]
+        },
+        {
+          "question": "Quels sont les délais de préavis pour la démission d'un employé en Belgique ?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "En Belgique, les employés qui souhaitent démissionner doivent respecter des délais de préavis spécifiques, déterminés en fonction de leur ancienneté. Ces délais de préavis assurent une transition en douceur et varient selon la durée de l'emploi. Les employés doivent fournir un préavis écrit à leur employeur, conformément aux procédures légales prévues par les lois belges sur le travail."
+            },
+            {
+              "type": "source",
+              "url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/einde-van-de-arbeidsovereenkomst/einde-van-de-arbeidsovereenkomst-1"
+            }
+          ]
+        },
+        {
+          "question": "Que se passe-t-il lorsqu'un contrat de travail à durée indéterminée prend fin avec paiement d'une indemnité en Belgique ?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "En Belgique, un contrat de travail à durée indéterminée peut être résilié immédiatement si l'employeur ou l'employé choisit de payer une indemnité de licenciement au lieu de fournir un préavis. Le montant de l'indemnité correspond aux salaires que l'employé aurait perçus pendant la période de préavis, garantissant la conformité avec les réglementations du droit du travail."
+            },
+            {
+              "type": "source",
+              "url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/einde-van-de-arbeidsovereenkomst/einde-van-de-arbeidsovereenkomst-0"
+            }
+          ]
+        },
+        {
+          "question": "Quelles sont les règles spéciales pour mettre fin à un contrat de travail à durée indéterminée en Belgique ?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "En Belgique, la résiliation d'un contrat de travail à durée indéterminée peut être soumise à des règles spéciales selon des circonstances spécifiques. Cela inclut des protections pour les employés dans certaines situations, telles que la grossesse, la représentation syndicale ou pendant une maladie. Les règles visent à équilibrer les droits de l'employeur et de l'employé tout en respectant les lois belges sur le travail."
+            },
+            {
+              "type": "source",
+              "url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/einde-van-de-arbeidsovereenkomst/einde-van-de-arbeidsovereenkomst-2"
+            }
+          ]
+        },
+{
+      "question": "Quels sont les jours fériés en Belgique ?",
       "content": [
         {
           "type": "paragraph",
-          "text": "Trouver un emploi en Belgique implique d'utiliser diverses plateformes en ligne et opportunités de réseautage..."
+          "text": "La Belgique reconnaît dix jours fériés officiels chaque année. Ces jours sont observés à l'échelle nationale et offrent souvent aux employés un jour de congé. Les employeurs sont tenus de rémunérer les employés pour ces jours, conformément aux réglementations du travail."
+        },
+        {
+          "type": "source",
+          "url": "https://www.belgium.be/nl/werk/verlof_en_loopbaanonderbrekingen/feestdagen"
         }
       ]
     },
     {
-      "question": "Quelles sont les conditions de travail en Belgique ?",
+      "question": "Quelles sont les règles pour les congés annuels en Belgique ?",
       "content": [
         {
           "type": "paragraph",
-          "text": "La Belgique offre des conditions de travail de haute qualité, comprenant des salaires équitables, une assurance maladie et des droits des travailleurs."
+          "text": "En Belgique, les employés à temps plein ont généralement droit à quatre semaines de congés annuels, appelés 'congés ordinaires.' Le calcul des jours de congé et du pécule de vacances varie selon la catégorie d'employé, telle que travailleurs, employés, apprentis, artistes ou fonctionnaires. Les employés qui n'ont pas travaillé suffisamment l'année précédente pour prétendre à quatre semaines de congé peuvent bénéficier de jours de congé supplémentaires, de congés de jeunesse ou de congés seniors. Le pécule de vacances peut être une avance sur les congés de l'année suivante ou un paiement de l'Office national de l'emploi (ONEM)."
         },
         {
-          "type": "image",
-          "url": "https://example.com/working_conditions_image.jpg"
+          "type": "source",
+          "url": "https://www.socialsecurity.be/citizen/nl/verlof-tijdskrediet-en-loopbaanonderbreking/jaarlijkse-vakantie"
         }
       ]
-    }
+    },
+    {
+      "question": "Quelles sont les règles pour le congé de maternité en Belgique ?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "En Belgique, le congé de maternité comprend un total de 15 semaines, réparties entre le congé prénatal et le congé postnatal. Le congé prénatal permet jusqu'à 6 semaines avant la date prévue de l'accouchement, avec un minimum d'une semaine obligatoire. Le congé postnatal couvre les semaines restantes après l'accouchement, et du temps supplémentaire peut être accordé en cas de naissances multiples ou de conditions médicales spécifiques. Le congé de maternité est protégé par la loi pour assurer la santé et le bien-être de la mère et de l'enfant."
+        },
+        {
+          "type": "source",
+          "url": "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/moederschapsverlof"
+        }
+      ]
+    },
+    {
+      "question": "Quelles sont les règles pour le congé de paternité ou de naissance des employés en Belgique ?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "En Belgique, les employés ont droit à un congé de paternité ou de naissance de 15 jours suivant la naissance de leur enfant. Ces jours peuvent être pris consécutivement ou répartis sur une période de quatre mois après la naissance. Pendant cette période, l'employé a droit à son salaire pour les trois premiers jours, tandis que les jours restants sont indemnisés par l'Institut national d'assurance maladie-invalidité (RIZIV/INAMI)."
+        },
+        {
+          "type": "source",
+          "url": "https://www.inami.fgov.be/nl/thema-s/zwangerschap-en-geboorte/vaderschaps-of-geboorteverlof-en-adoptieverlof/vaderschaps-of-geboorteverlof-voor-werknemers#.WusbJKSFNyw"
+        }
+      ]
+    },
+    {
+      "question": "Quels sont les motifs de suspension d'un contrat de travail par l'employé en Belgique ?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "En Belgique, un contrat de travail peut être suspendu pour des raisons liées à l'employé. Cela inclut la maladie ou un accident, le congé de maternité, le congé parental, le congé familial, le congé de paternité ou de naissance, ou la participation à des programmes de formation spécifiques. La suspension interrompt temporairement les obligations de l'employé et de l'employeur tout en maintenant la relation de travail."
+        },
+        {
+          "type": "source",
+          "url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/schorsing-van-de-arbeidsovereenkomst/schorsingen-van-de"
+        }
+      ]
+    },
+    {
+      "question": "Quelles sont les règles pour le congé politique en Belgique ?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "En Belgique, le congé politique permet aux employés de participer à des fonctions publiques, telles que servir en tant que membre du parlement ou d'un conseil local. La durée et les conditions du congé politique dépendent du type de rôle de service public et sont réglementées par la loi. Les employeurs sont tenus d'accorder ce congé tout en maintenant le poste de l'employé, bien que la rémunération pendant le congé puisse varier."
+        },
+        {
+          "type": "source",
+          "url": "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/politiek-verlof?id=549"
+        }
+      ]
+    },
+    {
+      "question": "Quelles sont les règles concernant l'incapacité de travail, les accidents du travail et les maladies professionnelles en Belgique ?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "En Belgique, les employés bénéficient de protections spécifiques en cas d'incapacité de travail, d'accidents du travail ou de maladies professionnelles. Les employeurs doivent assurer la sécurité et la santé des employés, et les travailleurs concernés ont droit à des compensations ou à des prestations pendant leur convalescence. Ces prestations sont fournies par la sécurité sociale et peuvent varier selon la nature et la gravité de la condition. Les travailleurs doivent informer rapidement leur employeur et suivre les procédures légales nécessaires pour réclamer ces prestations."
+        },
+        {
+          "type": "source",
+          "url": "https://www.socialsecurity.be/citizen/nl/arbeidsongeschiktheid-ongeval-en-beroepsziekte"
+        }
+      ]
+    },
+    {
+      "question": "Quelles sont les règles pour les accidents du travail en Belgique ?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "En Belgique, les accidents du travail sont des incidents survenus pendant et à cause de l'exécution du travail, causant des blessures ou des dommages à l'employé. Les employeurs sont tenus d'avoir une assurance pour couvrir les accidents du travail, garantissant une indemnisation pour les frais médicaux, les incapacités temporaires ou permanentes, et, dans certains cas, des prestations pour les ayants droit en cas de décès. Les employés doivent signaler immédiatement l'accident à leur employeur pour assurer un traitement adéquat de la réclamation."
+        },
+        {
+          "type": "source",
+          "url": "https://www.socialsecurity.be/citizen/nl/arbeidsongeschiktheid-ongeval-en-beroepsziekte/arbeidsongeval"
+        }
+      ]
+    },
+    {
+      "question": "Quelles sont les règles pour les allocations de chômage complet en Belgique ?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "En Belgique, les personnes en chômage complet qui remplissent certaines conditions peuvent bénéficier d'allocations de chômage. Les critères d'éligibilité incluent avoir travaillé un nombre minimum de jours pendant une période de référence spécifique, être inscrit comme demandeur d'emploi et rechercher activement un emploi. Le montant et la durée des allocations dépendent de l'historique de travail, de la situation familiale et des revenus antérieurs. Les demandes doivent être soumises via l'Office national de l'emploi (ONEM)."
+        },
+        {
+          "type": "source",
+          "url": "https://www.rva.be/burgers/volledige-werkloosheid"
+        }
+      ]
+    },
+    {
+      "question": "Quels sont les principaux systèmes de pension en Belgique ?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La Belgique dispose de trois principaux systèmes de pension : le système des salariés, le système des indépendants et le système des fonctionnaires, applicable aux fonctionnaires nommés à titre permanent. Chaque système a des exigences de contribution et des prestations de pension différentes. En outre, il existe des systèmes de pension spéciaux pour certaines professions, telles que les mineurs, les marins, le personnel de l'aviation civile et les journalistes professionnels. Pour des informations détaillées sur les pensions des employés et des fonctionnaires statutaires, consultez le Service fédéral des Pensions (SFP)."
+        },
+        {
+          "type": "source",
+          "url": "https://www.sfpd.fgov.be/nl"
+        }
+      ]
+    },
+     {
+          "question": "Quelles sont les options de formation disponibles pour les entrepreneurs et les futurs indépendants en Belgique ?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Devenir indépendant en Belgique nécessite la maîtrise de diverses compétences professionnelles, telles que des connaissances techniques et en gestion. Les aspirants entrepreneurs peuvent suivre un programme de formation alternée qui combine des cours théoriques avec des stages pratiques en entreprise. Pour les indépendants actuels et les employés de PME souhaitant améliorer leurs compétences ou s'adapter aux évolutions technologiques, des formations spécialisées sont disponibles via diverses organisations régionales."
+            },
+            {
+              "type": "paragraph",
+              "text": "En Flandre, SYNTRA propose des formations pour les entrepreneurs, les employés de PME et les chefs d'entreprise à travers ses 24 centres en Flandre et à Bruxelles."
+            },
+            {
+              "type": "source",
+              "url": "https://www.syntra.be/"
+            },
+            {
+              "type": "paragraph",
+              "text": "Dans la région de Bruxelles, l'EFP propose des formations pour les chefs d'entreprise et des cours avancés pour les employés spécialisés ou les indépendants."
+            },
+            {
+              "type": "source",
+              "url": "https://www.efp.be/"
+            },
+            {
+              "type": "paragraph",
+              "text": "En Wallonie, l'IFAPME offre des formations pour les entrepreneurs et un soutien éducatif pour ceux qui souhaitent créer une entreprise."
+            },
+            {
+              "type": "source",
+              "url": "https://www.ifapme.be/"
+            },
+            {
+              "type": "paragraph",
+              "text": "Dans la région germanophone, l'IAWM gère des formations pour plus de 50 professions, y compris des programmes pour les chefs d'entreprise et des formations avancées pour les travailleurs spécialisés ou les indépendants."
+            },
+            {
+              "type": "source",
+              "url": "https://www.iawm.be/home/"
+            }
+          ]
+        },
+        {
+          "question": "Quelles sont les conditions pour devenir indépendant en Belgique ?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Pour devenir indépendant en Belgique, les individus doivent répondre à des conditions spécifiques et accomplir plusieurs démarches administratives. Les exigences clés incluent avoir au moins 18 ans, posséder des droits civils et politiques, et avoir la capacité juridique d'exercer l'activité envisagée. Les ressortissants non-UE peuvent avoir besoin d'obtenir une carte professionnelle, en fonction de leur nationalité et de la région où ils envisagent d'exercer. L'inscription à la Banque-Carrefour des Entreprises (BCE) est obligatoire, et selon la structure de l'entreprise, des étapes supplémentaires telles que la rédaction des statuts peuvent être nécessaires."
+            },
+            {
+              "type": "paragraph",
+              "text": "- Vlaanderen"
+            },
+            {
+              "type": "source",
+              "url": "https://www.vlaanderen.be/departement-werk-sociale-economie/overzicht-dienstverlening/en/home"
+            },
+            {
+              "type": "paragraph",
+              "text": "- Brussels"
+            },
+            {
+              "type": "source",
+              "url": "https://economy-employment.brussels/"
+            },
+            {
+              "type": "paragraph",
+              "text": "- Wallonie"
+            },
+            {
+              "type": "source",
+              "url": "https://emploi.wallonie.be/en/home/travailleurs-etrangers/carte-professionnelle.html"
+            }
+          ]
+        },
+        {
+          "question": "Qu'est-ce que 'Mijn vakantierekening' et comment les travailleurs peuvent-ils y accéder en Belgique ?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "'Mijn vakantierekening' est un service en ligne qui permet aux travailleurs en Belgique d'accéder à des informations détaillées sur leurs droits et paiements de vacances. La plateforme a récemment été mise à jour pour améliorer l'expérience utilisateur, offrant un accès clair et sécurisé aux données de vacances. Ce service est particulièrement utile pour les travailleurs souhaitant suivre leurs avantages de vacances et planifier leurs congés."
+            },
+            {
+              "type": "source",
+              "url": "https://rjv.be/fr/ouvriers/mon-compte-de-vacances"
+            }
+          ]
+        }
+
+
+
+
+
+
+
   ]
 }

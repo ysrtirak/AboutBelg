@@ -1,26 +1,99 @@
 {
   "questions": [
-    {
-      "question": "Belçika'da toplu taşıma seçenekleri nelerdir?",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Belçika, otobüsler, tramvaylar ve trenleri içeren iyi bağlantılı bir toplu taşıma sistemine sahiptir."
-        },
-        {
-          "type": "image",
-          "url": "https://example.com/transportation_image.jpg"
-        }
-      ]
+   {
+        "question": "Belçika'da sosyal konut başvurusu nasıl yapılır?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Belçika'da sosyal konut, uygun fiyatlı kiralık evler, satılık mülkler ve sosyal inşaat arazilerini içerir. Sosyal konutlara erişim için başvuranların belirli koşulları karşılaması gerekir. Sosyal konut programları, bölgesel, il, şehir veya belediye düzeyinde yönetilir. Detaylı bilgi ve kayıt prosedürleri için bölgenizdeki uygun sosyal konut kuruluşuyla iletişime geçmeniz önerilir."
+            },
+            {
+                "type": "paragraph",
+                "text": "- Brussels"
+            },
+            {
+                "type": "source",
+                "url": "https://be.brussels/fr/propos-de-la-region/structure-et-organisation/administrations-et-institutions-de-la-region/bruxelles-logement"
+            },
+            {
+                "type": "paragraph",
+                "text": "- Wallonie"
+            },
+            {
+                "type": "source",
+                "url": "https://www.swl.be/"
+            },
+            {
+                "type": "paragraph",
+                "text": "- Vlaanderen"
+            },
+            {
+                "type": "source",
+                "url": "https://www.vlaanderen.be/wonen-in-vlaanderen"
+            }
+        ]
     },
     {
-      "question": "Belçika'da sürücü ehliyeti nasıl alınır?",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Belçika'da bir sürücü ehliyeti almak için teorik ve pratik sınavları geçmeniz gerekir."
-        }
-      ]
+        "question": "Belçika'da kira yardımı nedir ve nasıl başvurulur?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Kira yardımı, sosyal konut tahsisini beklerken kiranın bir kısmını karşılamaya yardımcı olan bir mali destektir. Uygunluk kriterleri ve başvuru prosedürleri bölgelere göre değişiklik gösterir. Başvuru sahipleri, nasıl başvurulacağı ve uygunluk için gerekli şartlar hakkında ayrıntılı bilgi almak için kendi bölgelerindeki konut otoritesi ile iletişime geçmelidir."
+            },
+            {
+                "type": "paragraph",
+                "text": "- Brussels"
+            },
+            {
+                "type": "source",
+                "url": "https://be.brussels/fr/logement/location/aides-la-location/aides-financieres/allocation-loyer"
+            },
+            {
+                "type": "paragraph",
+                "text": "- Vlaanderen"
+            },
+            {
+                "type": "source",
+                "url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/huren-en-verhuren/tegemoetkoming-in-de-huurprijs-vlaamse-huursubsidie"
+            },
+            {
+                "type": "paragraph",
+                "text": "- Wallonie"
+            },
+            {
+                "type": "source",
+                "url": "https://logement.wallonie.be/fr/page/info-conseils-logement"
+            }
+        ]
+    },
+    {
+        "question": "Belçika'da sosyal tarifeye uygunsanız enerji verimli bir cihaz alırken 250€ indirim nasıl alınır?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Belçika'da doğal gaz ve elektrik için sosyal tarifeye uygunsanız, yeni bir enerji verimli çamaşır makinesi, kurutma makinesi, buzdolabı veya dondurucu satın alırken 250€ indirim alabilirsiniz. Bu indirimi almak için satın alma işleminizden önce kişisel bir kupon başvurusunda bulunmanız gerekmektedir. Kupon tamamen kişiseldir ve satış noktasında anında indirim almak için katılımcı perakendecilere sunulmalıdır. 1 Ocak 2025'ten itibaren başvuru süreci ve uygunluk kriterlerinin değişeceğini ve başvuruların Flaman Hükümeti tarafından işleneceğini unutmayın. En güncel bilgiye ulaşmak ve gerekli tüm şartları karşıladığınızdan emin olmak için resmi Fluvius web sitesini ziyaret etmeniz veya doğrudan onlarla iletişime geçmeniz tavsiye edilir."
+            },
+            {
+                "type": "source",
+                "url": "https://www.fluvius.be/nl/premies/kortingsbonnen/kortingsbon-klanten-sociaal-tarief"
+            }
+        ]
+    },
+    {
+        "question": "Sosyal tarifede olup olmadığınızı nasıl kontrol edebilirsiniz?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Sosyal tarifeden yararlanıp yararlanmadığınızı, resmi hükümet web sitesini ziyaret ederek kontrol edebilirsiniz. Bu platform, uygunluğunuz ve sosyal tarife ile ilgili mevcut durumunuzu kontrol etmenizi sağlar."
+            },
+            {
+                "type": "source",
+                "url": "https://digital.belgium.be/iaf/hil/economie/soctar/?lng=nl"
+            }
+        ]
     }
+
+
+
   ]
 }

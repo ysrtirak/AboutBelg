@@ -1,481 +1,265 @@
 {
   "questions": [
     {
-      "question": "Belçika'da bir suç için yargı süreci nedir?",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Suç, bir suçun en hafif biçimidir ve genellikle polis mahkemesi tarafından yargılanır. Örnekler arasında gece gürültü rahatsızlığı, kamuya açık yerlerde sarhoşluk ve trafik ihlalleri bulunur."
+            "question": "1712 Şiddet, İstismar ve Çocuk İstismarı Yardım Hattı nedir?",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "text": "1712 yardım hattı, şiddet, istismar ve çocuk istismarı ile ilgili tüm konular için destek sağlar. Profesyonel bir danışman hikayenizi dinler, bilgi ve tavsiye sunar ve sizinle birlikte en iyi çözümü bulmaya çalışır."
+                },
+                {
+                    "type": "image",
+                    "url": "https://www.1712.be/sites/default/files/2022-02/1712-og.png"
+                },
+                {
+                    "type": "source",
+                    "url": "https://www.1712.be"
+                },
+                {
+                    "type": "image",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Child_abuse_helpline.jpg"
+                }
+            ]
         },
         {
-          "type": "image",
-          "url": "https://globalaccesstojustice.com/wp-content/uploads/2020/11/belgium-graph02.jpg"
+            "question": "Belçika'da itsme® nedir ve nasıl çalışır?",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "text": "itsme®, Belçika'da kimlik doğrulama, hizmetlere giriş yapma, işlemleri onaylama ve belgeleri elektronik olarak imzalama gibi işlemler için kullanılan güvenli bir dijital kimlik uygulamasıdır. Ülke genelinde hükümet, bankacılık, sağlık ve özel işletmeler gibi çeşitli çevrimiçi hizmetlerde yaygın olarak kullanılır."
+                },
+                {
+                    "type": "image",
+                    "url": "https://www.belfius.be/common/NL/multimedia/MMDownloadableFile/Images/selfbanking/Rebranding/itsme/picto-logo-screenshot.png"
+                },
+                {
+                    "type": "source",
+                    "url": "https://www.itsme.be"
+                }
+            ]
         },
         {
-          "type": "paragraph",
-          "text": "Bir kabahat, bir suçtan daha ciddi bir suçtur ve daha ağır cezalar içerir. Kabahatler düzeltme mahkemesi tarafından ele alınır. Örnekler arasında hırsızlık, güveni kötüye kullanma, dolandırıcılık ve darp yer alır."
+            "question": "Belçika'da 'Mijn Burgerprofiel' nedir ve nasıl çalışır?",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "text": "Belçika'da 'burgerprofiel', e-devlet hizmetleri bağlamında hükümet yetkilileri tarafından tutulan bir vatandaşın kişisel bilgilerini ifade eder. Bu, birey hakkında dijital olarak toplanmış bir veri setidir ve genellikle güvenli hükümet portalları aracılığıyla erişilebilir. Bu profil, vatandaşların kişisel bilgilerini görüntülemelerine, yönetmelerine ve çevrimiçi olarak hükümet hizmetleriyle etkileşimde bulunmalarına olanak tanır."
+                },
+                {
+                    "type": "image",
+                    "url": "https://www.burgerprofiel.be/img/mbpapp/illu-MBPapp.svg"
+                },
+                {
+                    "type": "source",
+                    "url": "https://www.burgerprofiel.be"
+                }
+            ]
         },
         {
-          "type": "paragraph",
-          "text": "Ağır suçlar en ciddi suçlardır ve assize mahkemesi tarafından yargılanır. Örnekler arasında bir çocuğa yönelik cinsel saldırı, tecavüz ve cinayet bulunur."
+            "question": "Belçika'da My eBox nedir ve nasıl çalışır?",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "text": "My eBox, vatandaşların çeşitli hükümet kuruluşlarından ve kurumlardan gelen mesajları alabilecekleri ve yönetebilecekleri güvenli bir dijital posta kutusudur. Kamu kurumlarıyla olan etkileşimlerinize ilişkin kişisel belgeler ve bildirimlere güvenli bir şekilde erişmek için elektronik bir merkez olarak hizmet verir. Şirketler de benzer amaçlar için eBox Enterprise'ı kullanabilir."
+                },
+                {
+                    "type": "image",
+                    "url": "https://financien.belgium.be/sites/default/files/scc/logo-ebox.png"
+                },
+                {
+                    "type": "source",
+                    "url": "https://www.mye-box.be"
+                }
+            ]
         },
         {
-          "type": "paragraph",
-          "text": "Bir cezai kovuşturma birkaç prosedürle başlatılabilir: polis bir suçu tespit edebilir veya suçüstü yakalayabilir, bireyler polise veya savcıya şikayette bulunabilir, mağdurlar davaya müdahil taraf olarak katılabilir ve mağdurlar küçük suçlar veya kabahatler için şüpheli kişileri doğrudan mahkemeye çağırabilir."
+            "question": "Belçika'da Doccle nedir ve nasıl çalışır?",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "text": "Doccle, Belçika'da belgeleri güvenli, merkezi ve kullanıcı dostu bir şekilde yönetmek için tasarlanmış dijital bir platformdur. Çeşitli hizmet sağlayıcılardan gelen resmi belgeleri almak, düzenlemek ve saklamak için bir dijital posta kutusu ve depolama çözümü olarak hizmet verir."
+                },
+                {
+                    "type": "image",
+                    "url": "https://accountancyvandaag.be/wp-content/uploads/2022/04/Doccle-en-Digitaal-Vlaanderen.jpeg"
+                },
+                {
+                    "type": "source",
+                    "url": "https://www.doccle.be"
+                }
+            ]
         },
         {
-          "type": "image",
-          "url": "https://admin.expatica.com/be/wp-content/uploads/sites/4/1970/01/police-brussels-pointing.jpg"
+            "question": "Belçika'da Payconiq by Bancontact nedir ve nasıl çalışır?",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "text": "Payconiq by Bancontact, Belçika'da hızlı, güvenli ve pratik ödemeler yapmayı sağlayan yaygın bir mobil ödeme çözümüdür. Bancontact (ulusal banka kartı ağı) ve Payconiq'in (dijital ödeme platformu) işlevlerini birleştirir."
+                },
+                {
+                    "type": "image",
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/20/37/f22037e8-d000-ec09-834a-a5e9101b1fe4/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/1200x630wa.png"
+                },
+                {
+                    "type": "source",
+                    "url": "https://www.payconiq.be"
+                }
+            ]
         },
         {
-          "type": "paragraph",
-          "text": "Ceza soruşturması, delil toplamak ve bir dava dosyası hazırlamak için yapılır. İki yöntem mevcuttur: savcının yönettiği bir araştırma sorgulaması veya bir soruşturma hakimi tarafından yürütülen bir adli soruşturma."
-        },
-        {
-          "type": "paragraph",
-          "text": "Araştırma sorgulaması sırasında, savcı polisle işbirliği yapar. Eğer mahremiyeti ihlal eden tedbirler (ör. ev araması) gerekiyorsa, bir soruşturma hakimi devreye girer. Sonrasında savcı şu kararı verir: davayı kapatma, uzlaşma önerme, arabuluculuğa başlama veya şüpheliyi kovuşturma."
-        },
-        {
-          "type": "paragraph",
-          "text": "Adli soruşturmalarda, soruşturma hakimi özel tedbirler gerektiren karmaşık davaları ele alır (ör. telefon dinleme). Hakim, şüphelileri geçici olarak tutuklama veya belirli koşullar altında serbest bırakma yetkisine sahiptir. Bir denetim odası süreci denetler ve davanın bir sonraki adımlarına karar verir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Ceza davaları genellikle suçlar için polis mahkemesinde, kabahatler için düzeltme mahkemesinde veya ağır suçlar için assize mahkemesinde görülür. Duruşmada savcı davayı sunar, sanık temsil edilir ve mağdurlar tazminat talep edebilir. Hakim veya jüri suçluluğu belirler ve bir karar verir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Kararlar beraat, para cezası veya hapis cezası gibi sonuçlar içerebilir. Cezalar elektronik izleme, denetimli serbestlik veya koşullu askıya alma içerebilir. Mahkeme ayrıca akıl sağlığı ile ilgili kararlar vererek kurumsallaşmaya yol açabilir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Karardan sonra taraflar daha yüksek mahkemelerde temyiz başvurusu yapabilir veya yeniden yargılama talep edebilir. Hukuki hatalar veya usul hataları durumunda, Yargıtay’a temyiz başvurusu yapılabilir."
-        },
-        {
-          "type": "source",
-          "url": "https://www.justice.belgium.be"
-        },
-        {
-          "type": "image",
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Palais_de_Justice_Bruxelles.jpg"
-        }
-      ]
-    },
-    {
-      "question": "1712 Şiddet, istismar ve çocuk istismarı yardım hattı nedir?",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "1712 yardım hattı, her türlü şiddet, istismar ve çocuk istismarı ile ilgili sorular ve endişeler için destek sağlar. Profesyonel bir danışman hikayenizi dinler, bilgi ve tavsiye sunar ve sizinle birlikte en iyi çözümü bulmaya çalışır."
-        },
-        {
-          "type": "paragraph",
-          "text": "Koşullar: Yardım hattı, şiddet, istismar veya çocuk istismarı ile karşılaşan ya da bu konular hakkında soruları olan herkese açıktır."
-        },
-        {
-          "type": "paragraph",
-          "text": "Prosedür: Yardım hattına 1712’yi arayarak ulaşabilirsiniz. Hat, her iş günü 09.00-18.00 saatleri arasında açıktır. Alternatif olarak, bir e-posta gönderebilir ve iki gün içinde yanıt alabilirsiniz. Chat hizmetleri, Pazartesi-Perşembe günleri arasında 13.00-17.00 ve 18.00-22.00 saatleri arasında mevcuttur. Yardım hattı ile yapılan görüşmeler gizlidir; aramalar telefon faturanıza yansımaz ve kimlik bilgilerinizi paylaşmanız gerekmez."
-        },
-        {
-          "type": "image",
-          "url": "https://www.1712.be/sites/default/files/2022-02/1712-og.png"
-        },
-        {
-          "type": "paragraph",
-          "text": "Hayati tehlike içeren durumlarda 101’i arayarak polisi çağırın. Acil tıbbi yardım için 112’yi arayın."
-        },
-        {
-          "type": "paragraph",
-          "text": "Maliyet: 1712 yardım hattı ücretsizdir."
-        },
-        {
-          "type": "source",
-          "url": "https://www.1712.be"
-        },
-        {
-          "type": "image",
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Child_abuse_helpline.jpg"
-        }
-      ]
-    },
-{
-  "question": "Belçika'da itsme® nedir ve nasıl çalışır?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "Belçika'da itsme®, kullanıcıların kimliklerini doğrulamalarına, hizmetlere giriş yapmalarına, işlemleri onaylamalarına ve belgeleri elektronik olarak imzalamalarına olanak tanıyan güvenli bir dijital kimlik uygulamasıdır. Ülke genelinde hükümet, bankacılık, sağlık hizmetleri ve özel işletmeler dahil olmak üzere çeşitli çevrimiçi hizmetlerde yaygın olarak kullanılmaktadır."
-    },
-    {
-      "type": "paragraph",
-      "text": "itsme®'nin Ana Özellikleri:\n\n1. **Güvenli Kimlik Doğrulama**:\n   - Parola yerine itsme® hesabınızı kullanarak web sitelerine ve uygulamalara giriş yapabilirsiniz. Telefonunuz, benzersiz bir PIN ve biyometrik veriler (parmak izi veya yüz tanıma) ile birleştirildiği için geleneksel girişlerden daha güvenlidir.\n\n2. **Elektronik İmza**:\n   - itsme® ile belgeleri Belçika ve AB'de yasal geçerlilikle elektronik olarak imzalayabilirsiniz. Bu, resmi belgeler ve sözleşmeler için özellikle kullanışlıdır.\n\n3. **Bankacılık ve Finansal İşlemler**:\n   - Birçok Belçika bankası, hesaplara erişim sağlamak veya ödemeleri onaylamak için itsme®'yi destekler.\n\n4. **Hükümet Hizmetleri**:\n   - Kamu yönetimi hizmetlerine (ör. vergi beyannameleri, sağlık kayıtları) güvenli bir şekilde erişim sağlar.\n\n5. **Kişisel Veri Koruması**:\n   - GDPR standartlarına uygun olarak, kişisel verilerinizin korunmasını sağlar. Kayıt sırasında kimliğiniz doğrulanarak dolandırıcılık önlenir."
-    },
-    {
-      "type": "image",
-      "url": "https://www.belfius.be/common/NL/multimedia/MMDownloadableFile/Images/selfbanking/Rebranding/itsme/picto-logo-screenshot.png"
-    },
-    {
-      "type": "paragraph",
-      "text": "Nasıl Çalışır:\n\n1. **Uygulamayı İndirin**:\n   - iOS ve Android'de mevcuttur.\n\n2. **Kimliğinizi Bağlayın**:\n   - Belçika eID'niz (elektronik kimlik kartı) veya bankanız aracılığıyla kaydolun.\n\n3. **itsme®'yi Güvenle Kullanın**:\n   - Kimlik doğrulama için:\n     - Akıllı telefonunuz.\n     - Benzersiz 5 haneli PIN veya biyometrik veriler (etkinleştirildiyse).\n\n4. **Çoklu Platform Entegrasyonu**:\n   - itsme®, farklı hizmetlerde kolay kullanım için birçok platforma entegre edilmiştir."
-    },
-    {
-      "type": "paragraph",
-      "text": "itsme®'yi Neden Kullanmalı?\n\n- **Kolaylık**: Birden fazla hizmet için tek bir uygulama.\n- **Güvenlik**: Güçlü şifreleme, verilerinizin güvende kalmasını sağlar.\n- **Yasal Geçerlilik**: AB yasalarına göre dijital imza olarak tanınır.\n- **Kullanıcı Kontrolü**: Verilerinize kimlerin ne zaman erişeceğini siz kontrol edersiniz.\n\nitsme®, Belçika'da güvenli çevrimiçi etkileşimleri kolaylaştıran güvenilir bir araçtır; kişisel veya profesyonel amaçlarla kullanılabilir."
-    },
-    {
-      "type": "paragraph",
-      "text": "itsme®'yi etkinleştirmek için neye ihtiyacınız var?\n\n1. Akıllı telefonunuz.\n2. Bir bilgisayar.\n3. Bir eID kart okuyucu.\n4. eID'niz ve PIN kodunuz."
-    },
-    {
-      "type": "paragraph",
-      "text": "itsme®'yi Etkinleştirme Adımları:\n\n1. **itsme® uygulamasını indirin**:\n   - [App Store](https://apps.apple.com/be/app/itsme/id1181309300?ls=1)\n   - [Play Store](https://play.google.com/store/apps/details?id=be.bmid.itsme&pli=1)\n\n2. Bilgisayarınızdan [bu bağlantıya](https://www.itsme.be) gidin.\n\n3. Telefon numaranızı ve e-posta adresinizi girin. Doğru ülke kodunu açılır menüden seçtiğinizden emin olun.\n\n4. Kart okuyucunuzu bağlayın ve eID kartınızı yerleştirin. eID PIN kodunuzu girerek itsme® sözleşmesini okuyup imzalayın.\n\n5. Kimlik doğrulama kodunuzu alacaksınız. Daha sonra uygulamaya girin."
-    },
-    {
-      "type": "paragraph",
-      "text": "Son Adımlar:\n\n1. itsme® uygulamanızı açın ve telefon numaranızı girin.\n2. Adım 4'te aldığınız kimlik doğrulama kodunu girin (BÜYÜK harfler ve noktalama işaretlerini dahil edin).\n3. 8836 numarasından bir doğrulama kodu içeren bir SMS alacaksınız. 5 haneli kodu uygulamaya girin.\n4. itsme® kodunuzu seçin ve onaylayın. İsterseniz Touch ID, parmak izi veya Face ID'yi etkinleştirin.\n\nDijital kimliğiniz başarıyla etkinleştirildi!"
-    },
-    {
-      "type": "source",
-      "url": "https://www.itsme.be"
-    }
-  ]
-},
-{
-  "question": "Belçika'da 'Mijn Burgerprofiel' nedir ve nasıl çalışır?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "Belçika'da 'burgerprofiel', genellikle e-devlet hizmetleri bağlamında, hükümet yetkilileri tarafından tutulan vatandaşlara ait kişisel profil veya bilgi setini ifade eder. Bu, birey hakkında dijital bir veri koleksiyonudur ve güvenli devlet portalları aracılığıyla erişilebilir. Vatandaşların kişisel bilgilerini görüntülemelerini, yönetmelerini ve çevrimiçi olarak hükümet hizmetleriyle etkileşimde bulunmalarını sağlar."
-    },
-    {
-      "type": "paragraph",
-      "text": "Mijn Burgerprofiel'ün Ana Özellikleri:\n\n1. **Kişisel Bilgiler**: İsim, adres, doğum tarihi ve ulusal kimlik numarası gibi bilgileri içerir.\n2. **İdari Kayıtlar**: Vergiler, sağlık sigortası ve sosyal güvenlikle ilgili ayrıntılar.\n3. **Sertifikalar ve Belgeler**: Doğum belgesi ve ikamet kanıtı gibi resmi belgelere erişim sağlar.\n4. **İstihdam Bilgileri**: İstihdam geçmişi, yardımlar veya işsizlik durumu hakkında bilgi içerir.\n5. **Devlet Hizmetleri**: İzin başvuruları, vergi ödeme veya yerel hizmetler için araçlar."
-    },
-    {
-      "type": "paragraph",
-      "text": "Flanders bölgesinde 'Mijn Burgerprofiel' (Benim Vatandaş Profilim) terimi yaygın olarak kullanılmaktadır. Bu, çeşitli devlet hizmetlerini çevrimiçi bir platformda birleştirir. Vatandaşlar güvenli bir şekilde giriş yapabilir (itsme® veya eID aracılığıyla) ve idari görevlerini verimli bir şekilde halledebilir. Platform, hükümetle olan etkileşimleri basitleştirmeyi ve erişim kolaylığı sağlamayı amaçlamaktadır."
-    },
-    {
-      "type": "paragraph",
-      "text": "Doğru Uygulamayı İndirdiğinizden Nasıl Emin Olabilirsiniz:\n\n- Orijinal 'Mijn Burgerprofiel' uygulaması Google Store'da 'Digitaal Vlaanderen' ve Apple Store'da 'Vlaamse Overheid' hesapları altında yayınlanır.\n- Mijn Burgerprofiel ile entegre belediye uygulamaları için de aynısı geçerlidir. Uygulama mağazalarında 'Digitaal Vlaanderen' veya 'Vlaamse Overheid' geliştiricilerini arayın."
-    },
-    {
-      "type": "image",
-      "url": "https://www.burgerprofiel.be/img/mbpapp/illu-MBPapp.svg"
-    },
-    {
-      "type": "paragraph",
-      "text": "Mijn Burgerprofiel Uygulamasını Güvenli Kullanma:\n\n- Uygulamayı kullandıktan sonra sağ üst köşedeki 'Afmelden' düğmesine tıklayarak çıkış yapın.\n- Akıllı telefonunuzda yetkisiz erişimi önlemek için bir parola veya biyometrik kilit ayarlayın."
-    },
-    {
-      "type": "paragraph",
-      "text": "Adresim Neden İsteniyor?\n\n- Şu hizmetleri göstermek için:\n  - UiTkalender aracılığıyla yerel etkinlikler.\n  - Atık toplama programları (şu anda yalnızca Limburg sakinleri için).\n  - Bölgenizdeki VDAB iş ilanları."
-    },
-    {
-      "type": "paragraph",
-      "text": "Uygulama ve Web Sürümü Karşılaştırması:\n\n- Uygulama, web sürümünde mevcut tüm işlevleri sağlar, ancak 'In uw buurt' (şu anda yalnızca web sürümünde) özelliği hariç.\n- Uygulama, haber bildirimleri, dijital cüzdan ve yerel etkinlik takvimleri gibi ek özellikler sunar."
-    },
-    {
-      "type": "paragraph",
-      "text": "Kimler Mijn Burgerprofiel'e Erişebilir?\n\n- Sosyal Güvenlik için Kimlik Numarası (INSZ) kullanan 12 yaş ve üzeri vatandaşlar erişebilir.\n- 12-18 yaş arası vatandaşlar için veriler şu anda sınırlıdır, ancak zamanla genişleyecektir.\n- Digitaal Vlaanderen dahil olmak üzere devlet kurumları profilinize erişemez; profil kişisel ve özeldir."
-    },
-    {
-      "type": "paragraph",
-      "text": "Uygulama Açılmıyorsa Ne Yapmalı?\n\n- Varsayılan tarayıcınızın Google Chrome (Android için) veya Safari (iPhone için) olarak ayarlandığından emin olun; uygulama bu tarayıcılara bağlı olarak en iyi şekilde çalışır."
-    },
-    {
-      "type": "source",
-      "url": "https://www.burgerprofiel.be"
-    }
-  ]
-},
+            "question": "Belçika'da Woolsocks nedir ve nasıl çalışır?",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "text": "Woolsocks, Belçika'da para yönetimini basitleştirmek ve kullanıcılara alışverişlerinde tasarruf sağlamaya yardımcı olmak için tasarlanmış bir finansal uygulamadır. Nakit geri ödeme ödülleri, finansal içgörüler ve yatırım fırsatlarını bir araya getirerek kullanıcıların finansal refahını artırır."
+                },
+                {
+                    "type": "image",
+                    "url": "https://play-lh.googleusercontent.com/2x_OmpJCvm2KwyYYGwAr52PRIm-ql96qAfukssLTaebN2huHXMgJcdVzMB0jhO5FlxY"
+                },
+                {
+                    "type": "source",
+                    "url": "https://woolsocks.be"
+                }
+            ]
+        },   {
+                  "question": "Belçika'da yaşam için en faydalı uygulamalar nelerdir?",
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "text": "Belçika'daki günlük yaşamınızı kolaylaştırabilecek uygulamalar hakkında ayrıntılı açıklamalar aşağıda verilmiştir:"
+                      },
+                      {
+                          "type": "paragraph",
+                          "text": "**1. Burgerprofiel**\n\nAçıklama: Bu, Belçika'nın resmi vatandaş portalıdır. Resmi belgelere erişme, adres güncelleme, seçmen kaydı ve hükümetle ilgili işlemleri yönetme imkanı sunar.\n\nÖzellikler:\n- Kişisel verileri görüntüleme (adres, vatandaşlık numarası vb.).\n- Resmi belgeleri talep etme (ör. doğum veya evlilik belgeleri).\n- E-devlet hizmetlerine kolay erişim."
+                      },
+                      {
+                          "type": "image",
+                          "url": "https://play-lh.googleusercontent.com/cG4UhjIFSlWRZC0POJKEGNFNOvcF29neJrDj6PRr3TQLe4jhnj9NTZhcxZRKE8zUgV0"
+                      },
+                      {
+                          "type": "source",
+                          "url": "https://burgerprofiel.vlaanderen.be"
+                      },
+                      {
+                          "type": "paragraph",
+                          "text": "**2. Recycle**\n\nAçıklama: Belçika'daki geri dönüşüm süreçlerini kolaylaştıran bir uygulama. Atık toplama günlerini hatırlatır ve doğru atık ayrıştırma konusunda bilgi sağlar.\n\nÖzellikler:\n- Bölgenizdeki atık toplama takvimini gösterir.\n- Belirli atık toplama günleri için hatırlatıcılar gönderir.\n- Geri dönüşüm kuralları ve yerel atık yönetimi rehberi sunar."
+                      },
+                      {
+                          "type": "image",
+                          "url": "https://play-lh.googleusercontent.com/fgNKGs9fR39RaxG85y0K1eDVftXkZuWGAzhMTbJvzcZ8Sp7wimUFVUQaAAKW3hvDQYo-"
+                      },
+                      {
+                          "type": "source",
+                          "url": "https://www.recycleapp.be"
+                      },
+                      {
+                          "type": "paragraph",
+                          "text": "**3. itsme®**\n\nAçıklama: Belçika'da bankacılık, hükümet hizmetleri ve çevrimiçi alışveriş doğrulaması için yaygın olarak kullanılan bir dijital kimlik ve güvenli erişim uygulaması.\n\nÖzellikler:\n- Güvenli giriş (eID alternatif olarak).\n- Dijital imza.\n- Banka hesaplarına erişim.\n- E-devlet sistemlerine giriş."
+                      },
+                      {
+                          "type": "image",
+                          "url": "https://play-lh.googleusercontent.com/C9YmmJ8shCkiMZd01JD-qaO4m755aQvGTBg7WngxZdxtlxuHodj3kD0s_I2wufcQqXw"
+                      },
+                      {
+                          "type": "source",
+                          "url": "https://www.itsme.be"
+                      },
+                      {
+                          "type": "paragraph",
+                          "text": "**4. mynexuzhealth**\n\nAçıklama: Belçika'da hastane randevularını, laboratuvar sonuçlarını ve reçeteleri yönetmek için kullanılan bir sağlık uygulaması.\n\nÖzellikler:\n- Randevuları planlayın ve görüntüleyin.\n- Test sonuçlarına erişin.\n- Tıbbi geçmişi takip edin.\n- Doktorlarla iletişim kurun."
+                      },
+                      {
+                          "type": "image",
+                          "url": "https://play-lh.googleusercontent.com/yBZ7se5ZXeoZ6HHe7ODfEYvrkYA7vWkDSVwA3KIGdVWVCLpcNKg3zR8vz6ROHMWuI2c"
+                      },
+                      {
+                          "type": "source",
+                          "url": "https://www.mynexuzhealth.be"
+                      },
+                      {
+                          "type": "paragraph",
+                          "text": "**5. Payconiq**\n\nAçıklama: Belçika'da günlük alışverişler, restoran ödemeleri ve kişi-kisi para transferleri için kullanılan popüler bir mobil ödeme uygulaması.\n\nÖzellikler:\n- QR kodu ile hızlı ödemeler.\n- IBAN gerekmeden bireylere para gönderme.\n- Fatura ve abonelik ödemeleri.\n- Güvenli ve hızlı işlemler."
+                      },
+                      {
+                          "type": "image",
+                          "url": "https://play-lh.googleusercontent.com/GB9kVFntaEDw8jy2WeE7jYVXYHqVZABOzoQ8TgjhkW4rvOlI-r3LBiIGaEfZoqmU-U4"
+                      },
+                      {
+                          "type": "source",
+                          "url": "https://www.payconiq.be"
+                      },
+                      {
+                          "type": "paragraph",
+                          "text": "**6. Doccle**\n\nAçıklama: Belçika'da vergi kayıtları, faturalar ve sigorta belgeleri gibi resmi belgeleri dijital olarak saklama ve yönetme platformu.\n\nÖzellikler:\n- Dijital belge saklama.\n- Faturaları ve vergi bildirimlerini alma ve ödeme.\n- Belgeleri paylaşma ve düzenleme."
+                      },
+                      {
+                          "type": "image",
+                          "url": "https://www.ergo.be/nl_be/images/37-11663_logo%20doccle.png"
+                      },
+                      {
+                          "type": "source",
+                          "url": "https://www.doccle.be"
+                      },
+                      {
+                          "type": "paragraph",
+                          "text": "**7. De Lijn**\n\nAçıklama: Flanders bölgesinde otobüs ve tramvay hizmetlerini yöneten De Lijn'in resmi uygulaması.\n\nÖzellikler:\n- Otobüs ve tramvay saatlerini görüntüleme.\n- Bilet satın alma.\n- Gerçek zamanlı ulaşım bilgileri.\n- Rota planlama."
+                      },
+                      {
+                          "type": "image",
+                          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/De_Lijn.svg/1200px-De_Lijn.svg.png"
+                      },
+                      {
+                          "type": "source",
+                          "url": "https://www.delijn.be"
+                      },
+                      {
+                          "type": "paragraph",
+                          "text": "**8. SNCB**\n\nAçıklama: Belçika'nın ulusal demiryolu ağı (SNCB/NMBS) için resmi uygulama. Belçika içindeki tren saatleri hakkında bilgi sağlar.\n\nÖzellikler:\n- Tren saatlerini ve güzergahlarını görüntüleme.\n- Tren bileti satın alma.\n- Gecikme ve iptaller hakkında bilgi.\n- Favori güzergahları kaydetme."
+                      },
+                      {
+                          "type": "image",
+                          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/SNCB_logo.svg/1200px-SNCB_logo.svg.png"
+                      },
+                      {
+                          "type": "source",
+                          "url": "https://www.sncb.be"
+                      },
+                      {
+                          "type": "paragraph",
+                          "text": "**9. SNCB International**\n\nAçıklama: Belçika'dan uluslararası tren seyahatlerini rezerve etmek için kullanılan bir uygulama. Thalys, Eurostar ve diğer hızlı tren ağlarını kapsar.\n\nÖzellikler:\n- Uluslararası tren biletleri satın alma.\n- Seyahat güzergahları oluşturma.\n- Rota detaylarını ve aktarma sürelerini kontrol etme.\n- Özel indirimlere ve promosyonlara erişim."
+                      },
+                      {
+                          "type": "image",
+                          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/SNCB_logo.svg/1200px-SNCB_logo.svg.png"
+                      },
+                      {
+                          "type": "source",
+                          "url": "https://www.sncb-international.com"
+                      },
+                      {
+                          "type": "paragraph",
+                          "text": "Bu uygulamalar, Belçika'daki günlük yaşamı daha kolay hale getirmek ve yerel sistemlere entegre olmanıza yardımcı olmak için tasarlanmıştır. İhtiyacınıza en uygun olanları seçin!"
+                      }
+                  ]
+              },
+              {
+                  "question": "Yabancı sürücü belgeleri Belçika'da nasıl tanınır?",
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "text": "Yabancı sürücü belgeleri, belirli koşullar altında Belçika'da geçerlidir. AB/AEA ülkelerinden alınan ehliyetler değişim gerektirmeden geçerlidir. AB dışındaki ehliyetler, belirli kriterleri karşılama ve yerel belediye ofisiniz aracılığıyla bir başvuru yapma gerektiren bir değişim prosedürü gerektirebilir. Detaylı yönergeler için Federal Kamu Hizmeti Hareketlilik ve Taşımacılık web sitesini ziyaret edin."
+                      },
+                      {
+                          "type": "source",
+                          "url": "https://mobilit.belgium.be/en/road/driving/driving-licences/foreign-driving-licences#:~:text=The%20exchange%20procedure%20can%20be,to%20comply%20with%20the%20procedure."
+                      }
+                  ]
+              }
 
-    {
-  "question": "Belçika'da My eBox nedir ve nasıl çalışır?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "My eBox, vatandaşların çeşitli devlet kurumlarından ve kuruluşlardan gelen mesajları alabilecekleri ve yönetebilecekleri güvenli bir dijital posta kutusudur. Kamu kurumlarıyla olan etkileşimlerinize ilişkin kişisel belgeler ve bildirimlere güvenli bir şekilde erişmek için elektronik bir merkez işlevi görür. Şirketler de benzer amaçlar için eBox Enterprise'ı kullanabilir."
-    },
-    {
-      "type": "paragraph",
-      "text": "My eBox'un Temel Özellikleri:\n\n1. **Güvenli Erişim**:\n   - My eBox, kamu kurumları ve kamu sorumluluklarına sahip kuruluşlar tarafından paylaşılan belgeleri görüntülemek ve yönetmek için güvenli bir arayüz sağlar.\n\n2. **Verimli İletişim**:\n   - İletişimi merkezileştirerek, kağıt bazlı belgeleri azaltarak ve dijital verimliliği teşvik ederek idari süreçlerin düzenlenmesine yardımcı olur.\n\n3. **Geniş Kullanım**:\n   - Ekim 2024 itibarıyla, federal ve bölgesel devlet kurumları, belediyeler, sağlık kuruluşları ve sosyal güvenlik kurumları dahil olmak üzere 757 kuruluş, belgeleri göndermek için eBox kullanmaktadır."
-    },
-    {
-      "type": "image",
-      "url": "https://financien.belgium.be/sites/default/files/scc/logo-ebox.png"
-    },
-    {
-      "type": "paragraph",
-      "text": "My eBox'a Nasıl Erişilir:\n\n1. **CSAM Üzerinden Kimlik Doğrulama**:\n   - CSAM platformu tarafından sağlanan dijital anahtarları kullanarak My eBox kullanıcı arayüzüne giriş yapın.\n\n2. **Diğer Platformlarla Entegrasyon**:\n   - My eBox'unuzu tanınan kamu hizmetleri (örn. Mijn Burgerprofiel, IRISbox) veya özel sağlayıcılara bağlayarak belgelerinize diğer kanallar aracılığıyla erişin."
-    },
-    {
-      "type": "paragraph",
-      "text": "My eBox'ta Hangi Belgeler Bulunabilir?\n\n- My eBox'taki belgeler genellikle kişisel devlet kayıtlarınızla ilgilidir, örneğin:\n  - Bir kamu kurumu ile olan durumunuzla ilgili kararlar.\n  - Dosyanızdaki değişikliklerin açıklamaları.\n  - Sosyal güvenlik portalı veya diğer devlet web siteleri aracılığıyla yapılan taleplere verilen yanıtlar.\n  - Tarafınızdan talep edilen resmi sertifikalar ve belgeler."
-    },
-    {
-      "type": "paragraph",
-      "text": "Katılımcı Kuruluşlardan Örnekler:\n\n- Federal hükümet hizmetleri.\n- Sosyal güvenlik için kamu kurumları.\n- Bölgesel bakanlıklar (Flemish, Walloon, Almanca konuşan topluluk, Brüksel Başkent Bölgesi).\n- Belediyeler, iller ve belediyeler arası kuruluşlar.\n- Sağlık kurumları ve hemşirelik hizmetleri.\n- Hukuki kuruluşlar ve acil durum hizmetleri.\n- Sosyal yardım fonları ve diğer kamu yararı kuruluşları."
-    },
-    {
-      "type": "paragraph",
-      "text": "My eBox Kullanmanın Avantajları:\n\n- **Hız**: Mesajlar anında teslim edilir, posta gecikmeleri olmaz.\n- **Kolaylık**: Tüm resmi yazışmalarınıza tek bir yerden erişim sağlayın.\n- **Çevre Dostu**: Dijital iletişimi teşvik ederek kağıt israfını azaltır.\n- **Güvenlik**: Gelişmiş güvenlik protokolleri sayesinde kişisel veri korumasını sağlar."
-    },
-    {
-      "type": "source",
-      "url": "https://www.mye-box.be"
-    }
-  ]
-},
-{
-  "question": "Belçika'da Doccle nedir ve nasıl çalışır?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "Doccle, belgeleri güvenli, merkezi ve kullanıcı dostu bir şekilde yönetmek için Belçika'da tasarlanmış bir dijital platformdur. Resmi belgeleri çeşitli hizmet sağlayıcılardan almayı, düzenlemeyi ve saklamayı sağlayan bir dijital posta kutusu ve depolama çözümü olarak işlev görür."
-    },
-    {
-      "type": "paragraph",
-      "text": "Doccle'un Temel Özellikleri:\n\n1. **Belge Yönetimi**:\n   - Kullanıcılar, bağlı şirketler ve kuruluşlardan faturalar, bordrolar, sigorta belgeleri, tıbbi kayıtlar gibi dijital belgeleri alabilir.\n   - Belgeler, kullanıcının Doccle hesabında saklanır ve istenildiğinde kolayca erişilebilir.\n\n2. **Ortaklar**:\n   - Doccle, Belçika'daki çok çeşitli şirketler ve kuruluşlarla iş birliği yapar; bunlar arasında kamu hizmeti sağlayıcıları, telekom şirketleri, bankalar, sigorta şirketleri, sağlık hizmeti sağlayıcıları ve devlet kurumları bulunur.\n   - Ortaklardan bazıları: Proximus, KBC, Acerta, Partena."
-    },
-    {
-      "type": "image",
-      "url": "https://accountancyvandaag.be/wp-content/uploads/2022/04/Doccle-en-Digitaal-Vlaanderen.jpeg"
-    },
-    {
-      "type": "paragraph",
-      "text": "3. **Merkezi Platform**:\n   - Tüm belgeler tek bir yerde saklanır, farklı sağlayıcılardan gelen çok sayıda e-posta veya kağıt yazışmayı yönetme ihtiyacını ortadan kaldırır."
-    },
-    {
-      "type": "paragraph",
-      "text": "4. **Güvenli Erişim**:\n   - Kullanıcılar, kişisel verilerinin ve belgelerinin korunmasını sağlayan itsme, eID veya kullanıcı adı/şifre kombinasyonu gibi güvenli erişim seçenekleriyle giriş yapabilir."
-    },
-    {
-      "type": "paragraph",
-      "text": "5. **Çevre Dostu**:\n   - Dijital iletişimi teşvik ederek kağıt bazlı yazışma ihtiyacını azaltır ve sürdürülebilirlik çabalarını destekler."
-    },
-    {
-      "type": "paragraph",
-      "text": "6. **Ödeme Entegrasyonu**:\n   - Kullanıcılar faturalarını görüntüleyebilir ve platform üzerinden doğrudan ödeme yapabilir, böylece finansal yönetimi basitleştirir."
-    },
-    {
-      "type": "paragraph",
-      "text": "7. **Mobil Uygulama**:\n   - Doccle, kullanıcıların belgelerine her zaman ve her yerden erişmesini kolaylaştıran bir mobil uygulama sunar."
-    },
-    {
-      "type": "paragraph",
-      "text": "Bireyler İçin Avantajlar:\n\n- Kişisel yönetimi basitleştirir.\n- Kağıt karmaşasını azaltır.\n- Önemli belgeleri yönetmek için tek, güvenli bir platform sunar.\n- Kritik kayıtlar için uzun süreli depolama sağlar."
-    },
-    {
-      "type": "paragraph",
-      "text": "Nasıl Çalışır:\n\n1. **Kayıt Olun**: Doccle web sitesinde veya uygulamasında bir hesap oluşturun.\n2. **Hesapları Bağlayın**: Hesabınızı bağlı kuruluşlara (örn. telekom sağlayıcısı, banka veya işveren) bağlayın.\n3. **Belgeleri Yönetin**: Belgelerinizi dijital olarak tek bir yerde alın ve düzenleyin."
-    },
-    {
-      "type": "paragraph",
-      "text": "Doccle, kişisel yönetimi düzenlemek ve giderek dijitalleşen bir dünyada düzenli kalmak isteyen bireyler tarafından Belçika'da yaygın olarak kullanılmaktadır."
-    },
-    {
-      "type": "source",
-      "url": "https://www.doccle.be"
-    }
-  ]
-},
-{
-  "question": "Belçika'da Payconiq by Bancontact nedir ve nasıl çalışır?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "Payconiq by Bancontact, Belçika'da akıllı telefonlar aracılığıyla hızlı, güvenli ve kolay ödemeler yapılmasını sağlayan yaygın olarak kullanılan bir mobil ödeme çözümüdür. Bancontact (ulusal banka kartı ağı) ve Payconiq (dijital ödeme platformu) işlevlerini birleştirir."
-    },
-    {
-      "type": "paragraph",
-      "text": "Payconiq by Bancontact'ın Temel Özellikleri:\n\n1. **Mobil Ödemeler**:\n   - Kullanıcılar, Payconiq by Bancontact uygulamasını kullanarak doğrudan akıllı telefonlarından ödeme yapabilir.\n\n2. **QR Kod ile Ödeme**:\n   - Ödemeler, tüccarlar tarafından sağlanan bir QR kodunu tarayarak gerçekleştirilir, bu da hızlı ve sorunsuz işlemler sağlar.\n\n3. **Çevrim İçi ve Mağaza İçi**:\n   - Hem mağaza içi hem de çevrim içi satın alımları ve fatura ödemelerini destekler.\n\n4. **Kişiden Kişiye Transferler**:\n   - Kullanıcıların arkadaşlarına veya ailelerine kişi listesinden seçerek veya IBAN girerek anında para göndermesini sağlar.\n\n5. **Banka Entegrasyonu**:\n   - Kullanıcılar, kredi kartına ihtiyaç duymadan doğrudan ödemeler için Belçika banka hesaplarını bağlayabilir.\n\n6. **Geniş Kabul**:\n   - Belçika genelinde küçük işletmeler, süpermarketler ve restoranlar dahil olmak üzere binlerce tüccar tarafından kabul edilir.\n\n7. **Banka Uygulaması Entegrasyonu**:\n   - Birçok Belçika bankası, Payconiq'i mobil uygulamalarına entegre etmiştir ve bu da ödeme işlemlerini kolaylaştırır.\n\n8. **Tüketici Ücreti Yok**:\n   - Bireysel kullanıcılar için ücretsizdir, işlemler için ek ücret alınmaz."
-    },
-    {
-      "type": "paragraph",
-      "text": "Nasıl Çalışır:\n\n1. **Uygulamayı İndirin**:\n   - Payconiq by Bancontact uygulamasını akıllı telefonunuza yükleyin (iOS ve Android için mevcuttur).\n\n2. **Banka Hesabınızı Bağlayın**:\n   - Bankanızın güvenli kimlik doğrulama sistemi aracılığıyla banka hesabınızı bağlayın.\n\n3. **Ödeme Yapın**:\n   - Mağaza içi veya çevrim içi işlemler için tüccarın QR kodunu tarayın.\n   - Kişiden kişiye transferler için bir alıcı seçin veya bilgilerini girin.\n\n4. **Ödemeyi Onaylayın**:\n   - Cihazınıza bağlı olarak bir PIN, parmak izi veya yüz tanıma kullanarak ödemeyi doğrulayın."
-    },
-    {
-      "type": "image",
-      "url": "https://play-lh.googleusercontent.com/GB9kVFntaEDw8jy2WeE7jYVXYHqVZABOzoQ8TgjhkW4rvOlI-r3LBiIGaEfZoqmU-U4"
-    },
-    {
-      "type": "paragraph",
-      "text": "Payconiq by Bancontact'ın Avantajları:\n\n- **Kolaylık**: Nakit veya kart taşıma ihtiyacını ortadan kaldırır.\n- **Hız**: Ödemeler anında işlenir.\n- **Güvenlik**: İşlemler şifrelenir ve tüccarlarla kişisel banka bilgileri paylaşılmaz.\n- **Çevre Dostu**: Kağıt makbuzlara ve nakit paraya olan bağımlılığı azaltır."
-    },
-    {
-      "type": "source",
-      "url": "https://www.payconiq.be"
-    }
-  ]
-},
 
-    {
-  "question": "Woolsocks, Belçika'da nedir ve nasıl çalışır?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "Woolsocks, Belçika'da para yönetimini basitleştirmek ve kullanıcılara alışverişlerinden tasarruf etmeleri için yardımcı olmak amacıyla tasarlanmış bir finansal uygulamadır. Nakit iade ödülleri, finansal içgörüler ve yatırım fırsatlarını bir araya getirerek kullanıcıların finansal refahını artırmayı hedefler."
-    },
-    {
-      "type": "image",
-      "url": "https://play-lh.googleusercontent.com/2x_OmpJCvm2KwyYYGwAr52PRIm-ql96qAfukssLTaebN2huHXMgJcdVzMB0jhO5FlxY"
-    },
-    {
-      "type": "paragraph",
-      "text": "Woolsocks'un Başlıca Özellikleri:\n\n1. **Nakit İade Ödülleri**:\n   - **Otomatik Nakit İade**: Banka hesabınızı bağlayarak 20'den fazla büyük perakende markasında yapılan alışverişlerden otomatik olarak nakit iade alın. Kullanıcılar, geçmiş alışverişler de dahil olmak üzere her 30 günde bir 5 €'ya kadar nakit iade kazanabilir.\n   - **Online Nakit İade**: Moda, elektronik ve seyahat gibi kategorilerde 4.000'den fazla online mağazada uygulama üzerinden alışveriş yaparak ek nakit iade kazanın.\n   - **Market Nakit İadesi**: Uygulama üzerinden haftalık market ürünleri kampanyalarından faydalanarak fişlerinizi taratarak nakit iade kazanın."
-    },
-    {
-      "type": "paragraph",
-      "text": "2. **Hediye Kartları**:\n   - Uygulama içerisinden tanınmış markaların dijital hediye kartlarını satın alarak anında nakit iade kazanın. Bu hediye kartları kişisel kullanım için ya da başkalarına hediye etmek için kullanılabilir."
-    },
-    {
-      "type": "paragraph",
-      "text": "3. **Finansal İçgörüler**:\n   - Banka hesaplarınızı bağlayarak harcama alışkanlıklarınızın kategorize edilmiş bir görünümünü sunar ve bütçenizi etkili bir şekilde yönetmenize yardımcı olur.\n   - Tekrarlayan abonelikleri belirleyerek, istenmeyen hizmetleri doğrudan uygulama üzerinden iptal etme olanağı sağlar."
-    },
-    {
-      "type": "paragraph",
-      "text": "4. **Yatırım Fırsatları**:\n   - Komisyonsuz yatırım hizmetleri, otomatik yatırım planları ve faiz getiren hesaplar sunarak tasarruflarınızı verimli bir şekilde büyütmenizi sağlar."
-    },
-    {
-      "type": "paragraph",
-      "text": "5. **Mobil Kullanılabilirlik**:\n   - Woolsocks uygulaması, hem iOS hem de Android cihazlar için mevcuttur ve App Store veya Google Play Store üzerinden indirilebilir."
-    },
-    {
-      "type": "paragraph",
-      "text": "Popülerlik ve Puanlama:\n\n- 2024 itibarıyla Woolsocks'un 750.000'den fazla aktif kullanıcısı bulunmaktadır ve App Store'da 4.8 yıldız puanıyla, etkinliği ve kullanıcı memnuniyetini kanıtlamaktadır."
-    },
-    {
-      "type": "paragraph",
-      "text": "Sonuç olarak, Woolsocks, Belçika'da kapsamlı bir finansal araç olarak hizmet vererek kullanıcıların finanslarını etkili bir şekilde yönetmelerine ve optimize etmelerine yardımcı olan nakit iade ödülleri, finansal içgörüler ve yatırım seçenekleri sunar."
-    },
-    {
-      "type": "source",
-      "url": "https://woolsocks.be"
-    }
-  ]
-},
 
-    {
-  "question": "Belçika'da yaşamak için en faydalı uygulamalar nelerdir?",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "İşte Belçika'daki günlük yaşamınızı kolaylaştırmanıza yardımcı olabilecek uygulamaların ayrıntılı açıklamaları:"
-    },
-    {
-      "type": "paragraph",
-      "text": "**1. Burgerprofiel**\n\nAçıklama: Belçika'nın resmi vatandaş portalıdır. Vatandaşların resmi belgelere erişmesine, adres güncellemelerine, seçmen kaydı yapmalarına ve hükümetle ilgili işlemleri gerçekleştirmelerine olanak tanır.\n\nÖzellikler:\n- Kişisel verileri görüntüleme (adres, vatandaşlık numarası vb.).\n- Resmi belgeleri talep etme (örn. doğum veya evlilik sertifikaları).\n- E-devlet hizmetlerine kolay erişim."
-    },
-    {
-      "type": "image",
-      "url": "data:image/png;base64,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"
-    },
-    {
-      "type": "source",
-      "url": "https://burgerprofiel.vlaanderen.be"
-    },
-    {
-      "type": "paragraph",
-      "text": "**2. Recycle**\n\nAçıklama: Belçika'da geri dönüşüm süreçlerini kolaylaştıran bir uygulama. Kullanıcılara atık toplama günlerini hatırlatır ve doğru atık ayrımı hakkında bilgi verir.\n\nÖzellikler:\n- Bölgenizdeki atık toplama programını görüntüleme.\n- Belirli atık toplama günleri için hatırlatmalar.\n- Geri dönüşüm kuralları ve yerel atık yönetimi rehberleri."
-    },
-    {
-      "type": "image",
-      "url": "https://play-lh.googleusercontent.com/fgNKGs9fR39RaxG85y0K1eDVftXkZuWGAzhMTbJvzcZ8Sp7wimUFVUQaAAKW3hvDQYo-"
-    },
-    {
-      "type": "source",
-      "url": "https://www.recycleapp.be"
-    },
-    {
-      "type": "paragraph",
-      "text": "**3. itsme®**\n\nAçıklama: Belçika'da bankacılık, devlet hizmetleri ve çevrimiçi alışveriş doğrulaması için yaygın olarak kullanılan bir dijital kimlik ve güvenli erişim uygulamasıdır.\n\nÖzellikler:\n- Güvenli giriş (eID'nin alternatifi olarak).\n- Dijital imza.\n- Banka hesaplarına erişim.\n- E-devlet sistemlerine giriş."
-    },
-    {
-      "type": "image",
-      "url": "https://michel.belgium.be/sites/default/files/styles/ece_max/public/ece_images/1200px-Itsme%C2%AE_logo_0.jpg?itok=HljA0qwB"
-    },
-    {
-      "type": "source",
-      "url": "https://www.itsme.be"
-    },
-    {
-      "type": "paragraph",
-      "text": "**4. mynexuzhealth**\n\nAçıklama: Belçika'da hastane randevularını, laboratuvar sonuçlarını ve reçeteleri yönetmek için bir sağlık uygulaması.\n\nÖzellikler:\n- Randevuları planlama ve görüntüleme.\n- Test sonuçlarına erişim.\n- Tıbbi geçmişi takip etme.\n- Doktorlarla iletişim kurma."
-    },
-    {
-      "type": "image",
-      "url": "https://play-lh.googleusercontent.com/yBZ7se5ZXeoZ6HHe7ODfEYvrkYA7vWkDSVwA3KIGdVWVCLpcNKg3zR8vz6ROHMWuI2c"
-    },
-    {
-      "type": "source",
-      "url": "https://www.mynexuzhealth.be"
-    },
-    {
-      "type": "paragraph",
-      "text": "**5. Payconiq**\n\nAçıklama: Günlük alışverişler, restoran ödemeleri ve kişiden kişiye para transferleri için Belçika'da popüler bir mobil ödeme uygulaması.\n\nÖzellikler:\n- QR kod ile hızlı ödemeler.\n- IBAN numarasına ihtiyaç duymadan kişilere para gönderme.\n- Fatura ve abonelik ödeme.\n- Güvenli ve hızlı işlemler."
-    },
-    {
-      "type": "image",
-      "url": "https://play-lh.googleusercontent.com/GB9kVFntaEDw8jy2WeE7jYVXYHqVZABOzoQ8TgjhkW4rvOlI-r3LBiIGaEfZoqmU-U4"
-    },
-    {
-      "type": "source",
-      "url": "https://www.payconiq.be"
-    },
-    {
-      "type": "paragraph",
-      "text": "**6. Doccle**\n\nAçıklama: Belçika'da vergi kayıtları, faturalar ve sigorta belgeleri gibi resmi belgeleri dijital olarak saklamak ve yönetmek için bir platform.\n\nÖzellikler:\n- Dijital belge saklama.\n- Fatura ve vergi bildirimlerini alma ve ödeme.\n- Belgeleri paylaşma ve organize etme."
-    },
-    {
-      "type": "image",
-      "url": "https://www.ergo.be/nl_be/images/37-11663_logo%20doccle.png"
-    },
-    {
-      "type": "source",
-      "url": "https://www.doccle.be"
-    },
-    {
-      "type": "paragraph",
-      "text": "**7. De Lijn**\n\nAçıklama: Flanders bölgesindeki otobüs ve tramvay hizmetlerini yöneten De Lijn'in resmi uygulaması. Ulaşım hakkında bilgi sağlar.\n\nÖzellikler:\n- Otobüs ve tramvay programlarını görüntüleme.\n- Bilet satın alma.\n- Gerçek zamanlı ulaşım bilgisi.\n- Rota planlama."
-    },
-    {
-      "type": "image",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/De_Lijn.svg/1200px-De_Lijn.svg.png"
-    },
-    {
-      "type": "source",
-      "url": "https://www.delijn.be"
-    },
-    {
-      "type": "paragraph",
-      "text": "**8. SNCB**\n\nAçıklama: Belçika'nın ulusal demiryolu ağı (SNCB/NMBS) için resmi uygulama. Belçika içindeki tren programları hakkında bilgi verir.\n\nÖzellikler:\n- Tren programlarını ve rotalarını görüntüleme.\n- Tren bileti satın alma.\n- Gecikme ve iptaller hakkında bilgi.\n- Favori rotaları kaydetme."
-    },
-    {
-      "type": "image",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/SNCB_logo.svg/1200px-SNCB_logo.svg.png"
-    },
-    {
-      "type": "source",
-      "url": "https://www.sncb.be"
-    },
-    {
-      "type": "paragraph",
-      "text": "**9. SNCB International**\n\nAçıklama: Belçika'dan uluslararası tren yolculukları için bilet rezervasyonu yapılan bir uygulama. Thalys, Eurostar ve diğer hızlı tren ağlarını kapsar.\n\nÖzellikler:\n- Uluslararası tren biletleri satın alma.\n- Seyahat planları oluşturma.\n- Rota detaylarını ve aktarma sürelerini kontrol etme.\n- Özel indirimlere ve promosyonlara erişim."
-    },
-    {
-      "type": "image",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/SNCB_logo.svg/1200px-SNCB_logo.svg.png"
-    },
-    {
-      "type": "source",
-      "url": "https://www.sncb-international.com"
-    },
-    {
-      "type": "paragraph",
-      "text": "Bu uygulamalar, Belçika'da günlük yaşamı daha konforlu hale getirmek ve yerel sistemlere uyum sağlamanıza yardımcı olmak için tasarlanmıştır. İhtiyaçlarınıza en uygun olanları seçin!"
-    }
-  ]
-}
+
 
 
 
