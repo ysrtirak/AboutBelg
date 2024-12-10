@@ -1,0 +1,55 @@
+{
+  "links": [
+    {
+      "id": 1,
+      "title": "Grand Place",
+      "url": "https://cdn.uc.assets.prezly.com/388e1593-3c7a-4fd6-9530-dffde10bd0e2/27_Mastershoot.jpg",
+      "details": {
+        "place_name": "Grand Place",
+        "location": "https://www.google.com/maps/place/Grand+Place/@50.8467887,4.3498607,1103m/data=!3m1!1e3!4m15!1m8!3m7!1s0x47c3c47f4614f1f1:0xb03c355d8fe2cfb6!2sGrand+Place!8m2!3d50.8467887!4d4.3524356!10e1!16zL20vMGx5OWc!3m5!1s0x47c3c47f4614f1f1:0xb03c355d8fe2cfb6!8m2!3d50.8467887!4d4.3524356!16zL20vMGx5OWc?entry=ttu&g_ep=EgoyMDI0MTIwNC4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+          "https://res.cloudinary.com/hzekpb1cg/image/upload/q_95,f_auto/s3/public/prod/media_images/2023-04/emerveillez_vous_devant_la_grand_place_de_bruxelles.jpg",
+          "https://www.sophiesworld.net/wp-content/uploads/2018/06/Optimized-12272018785_2fc4c51279_b.jpg",
+          "https://www.brussels.info/img/attractions/grand-place/brussels-grand-place-600x406.jpg",
+          "https://welovebrussels.org/wp-content/uploads/2019/01/grand-place-brussels-by-apertoura-1280x720.jpg"
+        ],
+        "video": "https://www.youtube.com/watch?v=gepfkUYMqTo&ab_channel=UNESCO",
+        "info": "https://en.wikipedia.org/wiki/Grand-Place"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Pairi Daiza",
+      "url": "https://cms.pairidaiza.eu/thumbor/JaGxMefhqRi4kaeqNMEbuDnbr9g=/fit-in/1024x/filters:quality(92)/--/uploads/2024/06/BL4A9174-copie-e1718633528555.jpg",
+      "details": {
+        "place_name": "Pairi Daiza",
+        "location": "https://www.google.com/maps/place/Pairi+Daiza/@50.6440875,3.2829848,220696m/data=!3m1!1e3!4m6!3m5!1s0x47c25368a97eac47:0x103b807be4316746!8m2!3d50.5852283!4d3.8863593!16s%2Fm%2F0gwz4rz?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+          "https://cms.pairidaiza.eu/thumbor/OaKPB503or-I9dr_56ZvShZPI5M=/fit-in/1024x/filters:quality(92)/--/uploads/2024/04/Large-IMG_2604.jpg",
+          "https://cms.pairidaiza.eu/thumbor/lpP7uzxZ0SdlWkL4TS0PwIU2nho=/fit-in/1024x/filters:quality(92)/--/uploads/2024/06/BL4A7684-copie-2-e1718722144724.jpg",
+          "https://alychlo.com/uploads/2023/01/Pairi-Daiza-Alychlo-2.jpeg",
+          "https://cms.pairidaiza.eu/thumbor/qtyzJXrFJGbECtinyjINsFCqbLo=/fit-in/1024x/filters:quality(92)/--/uploads/2024/06/MORSE-SOLENE-4x3-450dpi-BG-V02-min.jpg"
+        ],
+        "video": "https://www.youtube.com/watch?v=zfM5HAYXWlE&ab_channel=BeNuX",
+        "info": "https://www.pairidaiza.eu/en/"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Historic Centre of Brugge",
+      "url": "https://media.tacdn.com/media/attractions-content--1x-1/10/5a/52/ea.jpg",
+      "details": {
+        "place_name": "Historic Centre of Brugge",
+        "location": "https://www.google.com/maps/place/51%C2%B012'30.7%22N+3%C2%B013'35.9%22E/@51.20853,3.2240641,547m/data=!3m2!1e3!4b1!4m10!1m5!8m4!1e2!2s117604383434011529833!3m1!1e1!3m3!8m2!3d51.20853!4d3.226639?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+          "https://www.travelguide.net/media/bruegge-view-2.jpg",
+          "https://www.nordicexperience.com/wp-content/uploads/2018/03/AdobeStock_104288483.jpeg",
+          "https://www.polisnetwork.eu/wp-content/uploads/2020/10/Brugge.jpg.webp",
+          "https://cdn.biketours.com/assets/files/3135/evening_in_bruges_belgium_unsp-earlyrainstudio.1080x600.jpg.webp"
+        ],
+        "video": "https://www.youtube.com/watch?v=dxY6Q7T8C9k&ab_channel=WorldHeritageJourneys",
+        "info": "https://en.wikipedia.org/wiki/Bruges"
+      }
+    }
+  ]
+}
