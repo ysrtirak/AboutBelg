@@ -24,7 +24,7 @@
         "route": "HousingPage"
       },
       {
-        "title": "Ulaşım",
+        "title": "Destek",
         "route": "TransportationPage"
       }
     ]

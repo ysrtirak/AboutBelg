@@ -1,375 +1,143 @@
 {
   "questions": [
+
+{
+      "question": "Qu'est-ce que la ligne d'assistance 1712 pour la violence, les abus et la maltraitance des enfants ?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La ligne d'assistance 1712 offre un soutien pour les questions et préoccupations concernant toutes les formes de violence, d'abus et de maltraitance des enfants. Un conseiller professionnel écoute votre histoire, propose des informations et des conseils, et travaille avec vous pour trouver la meilleure solution possible."
+        },
+        {
+          "type": "image",
+          "url": "https://www.1712.be/sites/default/files/2022-02/1712-og.png"
+        },
+        {
+          "type": "source",
+          "url": "https://www.1712.be"
+        },
+        {
+          "type": "image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Child_abuse_helpline.jpg"
+        }
+      ]
+    },
     {
-          "question": "Quel est le processus judiciaire pour un crime en Belgique ?",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "Une infraction est la forme la plus légère de crime, généralement jugée par le tribunal de police. Exemples : nuisances sonores nocturnes, ivresse publique et infractions routières."
-            },
-            {
-              "type": "image",
-              "url": "https://globalaccesstojustice.com/wp-content/uploads/2020/11/belgium-graph02.jpg"
-            },
-            {
-              "type": "paragraph",
-              "text": "Un délit est un crime plus grave qu'une infraction et entraîne des sanctions plus lourdes. Les délits sont traités par le tribunal correctionnel. Exemples : vol, abus de confiance, fraude et coups et blessures."
-            },
-            {
-              "type": "paragraph",
-              "text": "Les crimes sont les infractions les plus graves et sont jugés par la cour d'assises. Exemples : agression sexuelle sur mineur, viol et meurtre."
-            },
-            {
-              "type": "paragraph",
-              "text": "Plusieurs procédures peuvent déclencher des poursuites pénales : la police peut détecter un crime ou arrêter une personne en flagrant délit, des individus peuvent porter plainte auprès de la police ou du procureur, les victimes peuvent se constituer parties civiles, et les parties lésées peuvent citer directement les suspects devant le tribunal pour des infractions ou délits mineurs."
-            },
-            {
-              "type": "image",
-              "url": "https://admin.expatica.com/be/wp-content/uploads/sites/4/1970/01/police-brussels-pointing.jpg"
-            },
-            {
-              "type": "paragraph",
-              "text": "L'enquête pénale sert à recueillir des preuves et à constituer un dossier. Deux méthodes sont possibles : une enquête menée par le procureur ou une instruction judiciaire conduite par un juge d'instruction."
-            },
-            {
-              "type": "paragraph",
-              "text": "Lors d'une enquête, le procureur collabore avec la police. Si des mesures intrusives (par exemple, une perquisition) sont nécessaires, un juge d'instruction intervient. Par la suite, le procureur décide de la suite à donner : classer l'affaire, proposer un règlement, initier une médiation ou poursuivre le suspect."
-            },
-            {
-              "type": "paragraph",
-              "text": "Dans les enquêtes judiciaires, le juge d'instruction gère les affaires complexes nécessitant des mesures spéciales (par exemple, des écoutes téléphoniques). Le juge peut placer les suspects en détention provisoire ou les libérer sous conditions. Une chambre de conseil supervise le processus et décide des étapes suivantes."
-            },
-            {
-              "type": "paragraph",
-              "text": "Les procès pénaux ont généralement lieu au tribunal de police pour les infractions, au tribunal correctionnel pour les délits, ou à la cour d'assises pour les crimes. Lors du procès, le procureur présente le dossier, le défendeur est représenté et les victimes peuvent demander des dommages et intérêts. Le juge ou le jury détermine la culpabilité et rend un verdict."
-            },
-            {
-              "type": "paragraph",
-              "text": "Les verdicts peuvent inclure l'acquittement, des amendes ou des peines de prison. Les peines peuvent impliquer une surveillance électronique, une probation ou une suspension sous conditions. Le tribunal peut également statuer sur l'aliénation mentale, conduisant à une hospitalisation."
-            },
-            {
-              "type": "paragraph",
-              "text": "Après le verdict, les parties peuvent faire appel ou demander un nouveau procès devant des juridictions supérieures. En cas d'erreurs juridiques ou de vices de procédure, un recours en cassation est possible."
-            },
-            {
-              "type": "source",
-              "url": "https://www.justice.belgium.be"
-            },
-            {
-              "type": "image",
-              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Palais_de_Justice_Bruxelles.jpg"
-            }
-          ]
+      "question": "Qu'est-ce que itsme® en Belgique et comment ça fonctionne ?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "itsme® en Belgique est une application d'identité numérique sécurisée permettant aux utilisateurs de confirmer leur identité, de se connecter à des services, d'approuver des transactions et de signer des documents électroniquement. Elle est largement utilisée à travers le pays pour divers services en ligne, y compris ceux du gouvernement, des banques, des soins de santé et des entreprises privées."
         },
         {
-          "question": "Qu'est-ce que la ligne d'assistance 1712 pour la violence, les abus et les abus envers les enfants ?",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "La ligne d'assistance 1712 offre un soutien pour les questions et préoccupations liées à toutes les formes de violence, d'abus et d'abus envers les enfants. Un conseiller professionnel écoute votre histoire, propose des informations et des conseils, et travaille avec vous pour trouver la meilleure solution possible."
-            },
-            {
-              "type": "paragraph",
-              "text": "Conditions : La ligne d'assistance est accessible à toute personne confrontée à la violence, aux abus ou aux abus envers les enfants, ou ayant des questions à ce sujet."
-            },
-            {
-              "type": "paragraph",
-              "text": "Procédure : Vous pouvez contacter la ligne d'assistance en appelant le 1712. Elle est disponible en semaine de 9h à 18h. Vous pouvez également envoyer un email et recevoir une réponse sous deux jours. Les services de chat sont accessibles du lundi au jeudi entre 13h et 17h et entre 18h et 22h. Les conversations avec la ligne d'assistance sont discrètes : les appels n'apparaissent pas sur votre facture téléphonique, et il n'est pas nécessaire de révéler votre identité."
-            },
-            {
-              "type": "image",
-              "url": "https://www.1712.be/sites/default/files/2022-02/1712-og.png"
-            },
-            {
-              "type": "paragraph",
-              "text": "En cas de danger immédiat, appelez la police au 101. Pour une assistance médicale urgente, composez le 112."
-            },
-            {
-              "type": "paragraph",
-              "text": "Coût : La ligne d'assistance 1712 est gratuite."
-            },
-            {
-              "type": "source",
-              "url": "https://www.1712.be"
-            },
-            {
-              "type": "image",
-              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Child_abuse_helpline.jpg"
-            }
-          ]
+          "type": "image",
+          "url": "https://www.belfius.be/common/NL/multimedia/MMDownloadableFile/Images/selfbanking/Rebranding/itsme/picto-logo-screenshot.png"
         },
         {
-          "question": "Qu'est-ce que itsme® en Belgique et comment ça fonctionne ?",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "itsme® en Belgique est une application d'identité numérique sécurisée permettant aux utilisateurs de confirmer leur identité, de se connecter à des services, d'approuver des transactions et de signer des documents électroniquement. Elle est largement utilisée dans tout le pays pour divers services en ligne, y compris les services gouvernementaux, bancaires, de santé et privés."
-            },
-            {
-              "type": "paragraph",
-              "text": "Caractéristiques principales de itsme® :\n\n1. **Authentification sécurisée** :\n   - Au lieu d'utiliser des mots de passe, vous pouvez vous connecter à des sites et applications avec votre compte itsme®. C'est plus sécurisé que les connexions traditionnelles grâce à la combinaison de votre téléphone, un code PIN unique et des données biométriques (empreinte digitale ou reconnaissance faciale).\n\n2. **Signature électronique** :\n   - Avec itsme®, vous pouvez signer des documents électroniquement avec une validité légale en Belgique et dans l'UE.\n\n3. **Transactions financières** :\n   - De nombreuses banques belges utilisent itsme® pour des connexions sécurisées et l'approbation des paiements.\n\n4. **Services gouvernementaux** :\n   - Permet l'accès sécurisé aux services administratifs publics (déclarations fiscales, dossiers de santé, etc.).\n\n5. **Protection des données personnelles** :\n   - Conforme aux normes RGPD pour garantir la protection des données personnelles."
-            },
-            {
-              "type": "image",
-              "url": "https://www.belfius.be/common/NL/multimedia/MMDownloadableFile/Images/selfbanking/Rebranding/itsme/picto-logo-screenshot.png"
-            },
-            {
-              "type": "paragraph",
-              "text": "Comment ça fonctionne ?\n\n1. **Télécharger l'application** :\n   - Disponible sur iOS et Android.\n\n2. **Associer votre identité** :\n   - Enregistrez-vous avec votre carte d'identité électronique belge (eID) ou via votre banque.\n\n3. **Utilisation sécurisée** :\n   - L'authentification nécessite :\n     - Votre smartphone.\n     - Un code PIN unique à 5 chiffres ou des données biométriques (si activé).\n\n4. **Intégration multi-plateforme** :\n   - itsme® est intégré à de nombreuses plateformes, facilitant son utilisation."
-            },
-            {
-              "type": "paragraph",
-              "text": "Pourquoi utiliser itsme® ?\n\n- **Commodité** : Une seule application pour plusieurs services.\n- **Sécurité** : Un cryptage fort garantit la sécurité de vos données.\n- **Validité légale** : Reconnu comme une signature numérique en vertu de la législation européenne.\n- **Contrôle utilisateur** : Vous contrôlez l'accès à vos données."
-            },
-            {
-              "type": "paragraph",
-              "text": "Ce dont vous avez besoin pour activer itsme® :\n\n1. Votre smartphone.\n2. Un ordinateur.\n3. Un lecteur de carte eID.\n4. Votre carte eID et son code PIN."
-            },
-            {
-              "type": "paragraph",
-              "text": "Étapes pour activer itsme® :\n\n1. **Téléchargez l'application itsme®** sur votre smartphone :\n   - [App Store](https://apps.apple.com/be/app/itsme/id1181309300?ls=1)\n   - [Play Store](https://play.google.com/store/apps/details?id=be.bmid.itsme&pli=1)\n\n2. Accédez via votre ordinateur à [ce lien](https://www.itsme.be).\n\n3. Entrez votre numéro de téléphone et votre adresse e-mail. Assurez-vous de sélectionner le bon indicatif de pays.\n\n4. Connectez votre lecteur de carte et insérez votre eID. Lisez et signez le contrat itsme® en entrant le code PIN de votre eID.\n\n5. Vous recevrez un jeton d'identification à saisir dans l'application."
-            },
-            {
-              "type": "paragraph",
-              "text": "Étapes finales sur le smartphone :\n\n1. Ouvrez l'application itsme® et entrez votre numéro de téléphone.\n2. Saisissez le jeton d'identification reçu à l'étape 4.\n3. Vous recevrez un code de vérification par SMS. Saisissez-le dans l'application.\n4. Choisissez votre code itsme® et confirmez. Activez Touch ID, empreinte digitale ou Face ID si souhaité.\n\nVotre identité numérique est activée ! Merci de votre confiance."
-            },
-            {
-              "type": "source",
-              "url": "https://www.itsme.be"
-            }
-          ]
-        },
+          "type": "source",
+          "url": "https://www.itsme.be"
+        }
+      ]
+    },
     {
-          "question": "Qu'est-ce que 'Mijn Burgerprofiel' en Belgique et comment cela fonctionne-t-il ?",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "En Belgique, 'Mijn Burgerprofiel' fait référence au profil personnel d'un citoyen ou à l'ensemble des informations détenues par les autorités gouvernementales, souvent dans le cadre des services d'e-gouvernement. Il s'agit d'une collection numérique de données sur un individu, accessible via des portails gouvernementaux sécurisés. Ce profil permet aux citoyens de consulter, gérer et interagir avec leurs informations personnelles et les services gouvernementaux en ligne."
-            },
-            {
-              "type": "paragraph",
-              "text": "Caractéristiques principales de Mijn Burgerprofiel :\n\n1. **Informations personnelles** : Inclut le nom, l'adresse, la date de naissance et le numéro d'identification national.\n2. **Dossiers administratifs** : Détails relatifs aux impôts, à l'assurance maladie et à la sécurité sociale.\n3. **Certificats et documents** : Accès à des documents officiels comme les actes de naissance et les certificats de résidence.\n4. **Informations sur l'emploi** : Historique professionnel, avantages ou statut de chômage.\n5. **Services gouvernementaux** : Outils pour demander des permis, payer des taxes ou s'inscrire à des services locaux."
-            },
-            {
-              "type": "paragraph",
-              "text": "En Flandre, le terme 'Mijn Burgerprofiel' (Mon Profil Citoyen) est couramment utilisé. Il intègre divers services gouvernementaux sur une plateforme en ligne. Les citoyens peuvent se connecter en toute sécurité (via itsme® ou eID) et effectuer des tâches administratives efficacement. La plateforme vise à simplifier les interactions avec le gouvernement, favorisant la transparence et l'accès facile."
-            },
-            {
-              "type": "paragraph",
-              "text": "Comment s'assurer de télécharger la bonne application :\n\n- L'application authentique 'Mijn Burgerprofiel' est publiée sous les comptes 'Digitaal Vlaanderen' dans le Google Store et 'Vlaamse Overheid' dans l'Apple Store.\n- Cela s'applique également aux applications municipales intégrées à Mijn Burgerprofiel. Recherchez 'Digitaal Vlaanderen' ou 'Vlaamse Overheid' comme développeurs dans les boutiques d'applications."
-            },
-            {
-              "type": "image",
-              "url": "https://www.burgerprofiel.be/img/mbpapp/illu-MBPapp.svg"
-            },
-            {
-              "type": "paragraph",
-              "text": "Utiliser l'application Mijn Burgerprofiel en toute sécurité :\n\n- Déconnectez-vous après avoir utilisé l'application en cliquant sur le bouton 'Afmelden' en haut à droite.\n- Configurez un code d'accès ou un verrouillage biométrique sur votre smartphone pour éviter tout accès non autorisé."
-            },
-            {
-              "type": "paragraph",
-              "text": "Pourquoi mon adresse est-elle demandée ?\n\n- Pour afficher des services tels que :\n  - Événements locaux via UiTkalender.\n  - Calendriers de collecte des déchets (actuellement uniquement pour les résidents du Limbourg).\n  - Offres d'emploi VDAB dans votre région."
-            },
-            {
-              "type": "paragraph",
-              "text": "Application vs version Web :\n\n- L'application offre toutes les fonctionnalités disponibles dans la version Web, sauf 'In uw buurt' (actuellement disponible uniquement sur le Web).\n- L'application propose des fonctionnalités supplémentaires telles que des notifications d'actualités, un portefeuille numérique et des calendriers d'événements locaux."
-            },
-            {
-              "type": "paragraph",
-              "text": "Qui peut accéder à Mijn Burgerprofiel ?\n\n- Accessible aux citoyens âgés de 12 ans et plus utilisant leur numéro d'identification pour la sécurité sociale (INSZ).\n- Les données pour les citoyens âgés de 12 à 18 ans sont actuellement limitées mais s'étendront au fil du temps.\n- Les agences gouvernementales, y compris Digitaal Vlaanderen, n'ont pas accès à votre profil ; il est personnel et privé."
-            },
-            {
-              "type": "paragraph",
-              "text": "Que faire si l'application ne s'ouvre pas ?\n\n- Assurez-vous que votre navigateur par défaut est défini sur Google Chrome (pour Android) ou Safari (pour iPhone) car l'application repose sur ces navigateurs pour un fonctionnement optimal."
-            },
-            {
-              "type": "source",
-              "url": "https://www.burgerprofiel.be"
-            }
-          ]
+      "question": "Qu'est-ce que 'Mijn Burgerprofiel' en Belgique et comment ça fonctionne ?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "En Belgique, 'Mijn Burgerprofiel' fait référence au profil personnel d'un citoyen ou à l'ensemble des informations détenues par les autorités gouvernementales, souvent dans le cadre des services d'e-gouvernement. C'est une collection numérique de données sur un individu, généralement accessible via des portails gouvernementaux sécurisés. Ce profil permet aux citoyens de consulter, gérer et interagir avec leurs informations personnelles et les services gouvernementaux en ligne."
         },
         {
-          "question": "Qu'est-ce que Mon eBox en Belgique et comment cela fonctionne-t-il ?",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "Mon eBox est une boîte aux lettres numérique sécurisée où les citoyens peuvent recevoir et gérer des messages provenant de diverses organisations gouvernementales et entités. Elle sert de hub électronique pour accéder en toute sécurité aux documents personnels et aux notifications liées à vos interactions avec les institutions publiques. Les entreprises peuvent également utiliser eBox Entreprise à des fins similaires."
-            },
-            {
-              "type": "paragraph",
-              "text": "Caractéristiques principales de Mon eBox :\n\n1. **Accès sécurisé** :\n   - Mon eBox offre une interface sécurisée pour consulter et gérer les documents partagés par les institutions gouvernementales et les organisations à responsabilité publique.\n\n2. **Communication efficace** :\n   - Elle aide à simplifier les processus administratifs en centralisant la communication, en réduisant les documents papier et en promouvant l'efficacité numérique.\n\n3. **Adoption large** :\n   - En octobre 2024, 757 organisations, y compris des entités gouvernementales fédérales et régionales, des municipalités, des institutions de santé et des agences de sécurité sociale, utilisent eBox pour envoyer des documents."
-            },
-            {
-              "type": "image",
-              "url": "https://financien.belgium.be/sites/default/files/scc/logo-ebox.png"
-            },
-            {
-              "type": "paragraph",
-              "text": "Comment accéder à Mon eBox :\n\n1. **Identification via CSAM** :\n   - Connectez-vous à l'interface utilisateur de Mon eBox à l'aide des clés numériques fournies par la plateforme CSAM.\n\n2. **Intégration avec d'autres plateformes** :\n   - Liez votre eBox à des services publics reconnus (par exemple, Mijn Burgerprofiel, IRISbox) ou à des prestataires privés pour accéder à vos documents via d'autres canaux."
-            },
-            {
-              "type": "paragraph",
-              "text": "Quels documents trouve-t-on dans Mon eBox ?\n\n- Les documents dans Mon eBox concernent généralement vos dossiers personnels auprès des institutions gouvernementales, tels que :\n  - Décisions relatives à votre dossier avec une institution gouvernementale.\n  - Explications des changements dans votre dossier.\n  - Réponses aux demandes effectuées via le portail de sécurité sociale ou d'autres sites gouvernementaux.\n  - Certificats officiels et attestations demandés par vous."
-            },
-            {
-              "type": "paragraph",
-              "text": "Exemples d'organisations participantes :\n\n- Services gouvernementaux fédéraux.\n- Institutions publiques de sécurité sociale.\n- Ministères régionaux (flamand, wallon, communauté germanophone, région de Bruxelles-Capitale).\n- Municipalités, provinces et organisations intercommunales.\n- Institutions de santé et services de soins infirmiers.\n- Organisations juridiques et services d'urgence.\n- Fonds de bien-être social et autres entités d'intérêt public."
-            },
-            {
-              "type": "paragraph",
-              "text": "Avantages de Mon eBox :\n\n- **Rapidité** : Les messages sont livrés instantanément, évitant les délais postaux.\n- **Commodité** : Accédez à toute votre correspondance officielle en un seul endroit.\n- **Écologique** : Réduit les déchets papier en promouvant la communication numérique.\n- **Sécurisé** : Protège les données personnelles grâce à des protocoles de sécurité avancés."
-            },
-            {
-              "type": "source",
-              "url": "https://www.mye-box.be"
-            }
-          ]
+          "type": "image",
+          "url": "https://www.burgerprofiel.be/img/mbpapp/illu-MBPapp.svg"
         },
         {
-          "question": "Qu'est-ce que Doccle en Belgique et comment cela fonctionne-t-il ?",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "Doccle est une plateforme numérique en Belgique conçue pour gérer les documents de manière sécurisée, centralisée et conviviale. Elle agit comme une boîte aux lettres et une solution de stockage numérique, permettant aux individus de recevoir, organiser et stocker des documents officiels provenant de divers prestataires de services."
-            },
-            {
-              "type": "paragraph",
-              "text": "Caractéristiques principales de Doccle :\n\n1. **Gestion des documents** :\n   - Les utilisateurs peuvent recevoir des versions numériques de factures, relevés de salaire, documents d'assurance, dossiers médicaux, etc., provenant des entreprises et organisations affiliées.\n   - Les documents sont stockés et organisés dans le compte Doccle de l'utilisateur pour un accès facile à tout moment.\n\n2. **Partenaires** :\n   - Doccle collabore avec un large éventail d'entreprises et d'institutions en Belgique, telles que des fournisseurs d'énergie, des entreprises de télécommunication, des banques, des compagnies d'assurance, des prestataires de soins de santé et des organismes gouvernementaux.\n   - Exemples de partenaires : Proximus, KBC, Acerta et Partena."
-            },
-            {
-              "type": "image",
-              "url": "https://accountancyvandaag.be/wp-content/uploads/2022/04/Doccle-en-Digitaal-Vlaanderen.jpeg"
-            },
-            {
-              "type": "paragraph",
-              "text": "3. **Plateforme centralisée** :\n   - Tous les documents sont stockés en un seul endroit, éliminant le besoin de gérer plusieurs e-mails ou correspondances papier de différents prestataires."
-            },
-            {
-              "type": "paragraph",
-              "text": "4. **Accès sécurisé** :\n   - Les utilisateurs peuvent se connecter en toute sécurité via des options telles que itsme, eID ou une combinaison nom d'utilisateur/mot de passe, garantissant la protection de leurs données personnelles et documents."
-            },
-            {
-              "type": "paragraph",
-              "text": "5. **Respect de l'environnement** :\n   - En promouvant la communication numérique, Doccle réduit la nécessité de correspondance papier, soutenant les efforts de durabilité."
-            },
-            {
-              "type": "paragraph",
-              "text": "6. **Intégration des paiements** :\n   - Les utilisateurs peuvent consulter leurs factures et les payer directement via la plateforme, simplifiant ainsi l'administration financière."
-            },
-            {
-              "type": "paragraph",
-              "text": "7. **Application mobile** :\n   - Doccle propose une application mobile, permettant aux utilisateurs d'accéder à leurs documents à tout moment et en tout lieu."
-            },
-            {
-              "type": "paragraph",
-              "text": "Avantages pour les individus :\n\n- Simplifie l'administration personnelle.\n- Réduit l'encombrement papier.\n- Fournit une plateforme unique et sécurisée pour gérer des documents importants.\n- Offre un stockage à long terme pour des dossiers critiques."
-            },
-            {
-              "type": "paragraph",
-              "text": "Comment cela fonctionne :\n\n1. **S'inscrire** : Créez un compte sur le site Web ou l'application Doccle.\n2. **Lier des comptes** : Connectez votre compte aux organisations affiliées (par exemple, fournisseur de télécommunication, banque ou employeur).\n3. **Gérer les documents** : Recevez et organisez vos documents numériquement en un seul endroit."
-            },
-            {
-              "type": "paragraph",
-              "text": "Doccle est largement utilisé en Belgique par les particuliers cherchant à simplifier l'administration personnelle et à rester organisés dans un monde de plus en plus numérique."
-            },
-            {
-              "type": "source",
-              "url": "https://www.doccle.be"
-            }
-          ]
-        },
-     {
-          "question": "Qu'est-ce que Payconiq by Bancontact en Belgique et comment cela fonctionne-t-il ?",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "Payconiq by Bancontact est une solution de paiement mobile largement utilisée en Belgique, permettant des paiements rapides, sécurisés et pratiques via des smartphones. Elle combine les fonctionnalités de Bancontact (le réseau national de cartes de débit) et de Payconiq (une plateforme de paiement numérique)."
-            },
-            {
-              "type": "paragraph",
-              "text": "Caractéristiques principales de Payconiq by Bancontact :\n\n1. **Paiements mobiles** :\n   - Les utilisateurs peuvent effectuer des paiements directement depuis leur smartphone à l'aide de l'application Payconiq by Bancontact.\n\n2. **Paiements par QR code** :\n   - Les paiements se font en scannant un code QR fourni par les commerçants, assurant des transactions rapides et fluides.\n\n3. **En ligne et en magasin** :\n   - Compatible avec les achats en ligne, en magasin, ainsi que pour le paiement de factures.\n\n4. **Transferts entre particuliers** :\n   - Permet aux utilisateurs d'envoyer de l'argent instantanément à des amis ou à la famille en sélectionnant un contact ou en saisissant leur IBAN.\n\n5. **Intégration bancaire** :\n   - Les utilisateurs peuvent lier leurs comptes bancaires belges pour des paiements directs sans carte de crédit.\n\n6. **Large acceptation** :\n   - Accepté par des milliers de commerçants en Belgique, y compris les petites entreprises, supermarchés et restaurants.\n\n7. **Intégration dans les applications bancaires** :\n   - De nombreuses banques belges ont intégré Payconiq dans leurs applications mobiles, facilitant les paiements directement depuis l'interface bancaire.\n\n8. **Gratuit pour les consommateurs** :\n   - Gratuit pour les utilisateurs individuels, sans frais supplémentaires pour les transactions."
-            },
-            {
-              "type": "paragraph",
-              "text": "Comment cela fonctionne :\n\n1. **Téléchargez l'application** :\n   - Installez l'application Payconiq by Bancontact sur votre smartphone (disponible pour iOS et Android).\n\n2. **Liez votre compte bancaire** :\n   - Connectez votre compte bancaire à l'aide du système d'authentification sécurisé de votre banque.\n\n3. **Effectuez des paiements** :\n   - Pour des transactions en magasin ou en ligne, scannez le code QR du commerçant.\n   - Pour des transferts entre particuliers, sélectionnez un destinataire ou saisissez ses coordonnées.\n\n4. **Confirmez le paiement** :\n   - Authentifiez le paiement à l'aide d'un code PIN, de votre empreinte digitale ou de la reconnaissance faciale, selon votre appareil."
-            },
-            {
-              "type": "image",
-              "url": "data:image/png;base64,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"
-            },
-            {
-              "type": "paragraph",
-              "text": "Avantages de Payconiq by Bancontact :\n\n- **Commodité** : Élimine le besoin de transporter de l'argent ou des cartes.\n- **Rapidité** : Les paiements sont traités instantanément.\n- **Sécurité** : Les transactions sont cryptées, et aucune donnée bancaire personnelle n'est partagée avec les commerçants.\n- **Écologique** : Réduit la dépendance aux reçus papier et à l'argent liquide."
-            },
-            {
-              "type": "paragraph",
-              "text": "Payconiq by Bancontact est une pierre angulaire de l'écosystème des paiements numériques en Belgique, offrant une solution fiable, rapide et sécurisée pour les transactions financières modernes."
-            },
-            {
-              "type": "source",
-              "url": "https://www.payconiq.be"
-            }
-          ]
+          "type": "source",
+          "url": "https://www.burgerprofiel.be"
+        }
+      ]
+    },
+    {
+      "question": "Qu'est-ce que My eBox en Belgique et comment ça fonctionne ?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "My eBox est une boîte aux lettres numérique sécurisée où les citoyens peuvent recevoir et gérer des messages provenant de diverses organisations et entités gouvernementales. Elle sert de hub électronique pour accéder en toute sécurité à des documents personnels et des notifications liés à vos interactions avec les institutions publiques. Les entreprises peuvent également utiliser eBox Enterprise à des fins similaires."
         },
         {
-          "question": "Qu'est-ce que Woolsocks en Belgique et comment cela fonctionne-t-il ?",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "Woolsocks est une application financière en Belgique conçue pour simplifier la gestion de l'argent et aider les utilisateurs à économiser sur leurs achats. Elle combine des récompenses de cashback, des informations financières et des opportunités d'investissement pour améliorer le bien-être financier des utilisateurs."
-            },
-            {
-              "type": "image",
-              "url": "https://play-lh.googleusercontent.com/2x_OmpJCvm2KwyYYGwAr52PRIm-ql96qAfukssLTaebN2huHXMgJcdVzMB0jhO5FlxY"
-            },
-            {
-              "type": "paragraph",
-              "text": "Caractéristiques principales de Woolsocks :\n\n1. **Récompenses de cashback** :\n   - **Cashback automatique** : Connectez votre compte bancaire pour recevoir automatiquement du cashback sur les achats effectués auprès de plus de 20 grandes marques. Les utilisateurs peuvent gagner jusqu'à 5 € de cashback tous les 30 jours, y compris sur les achats passés.\n   - **Cashback en ligne** : Achetez via l'application auprès de plus de 4 000 détaillants en ligne dans des catégories comme la mode, l'électronique et le voyage pour obtenir du cashback supplémentaire.\n   - **Cashback sur les courses** : Des offres hebdomadaires sur des produits alimentaires spécifiques permettent aux utilisateurs de gagner du cashback en scannant leurs reçus via l'application."
-            },
-            {
-              "type": "paragraph",
-              "text": "2. **Cartes-cadeaux** :\n   - Achetez des cartes-cadeaux numériques auprès de grandes marques directement dans l'application et gagnez du cashback instantanément. Ces cartes-cadeaux peuvent être utilisées personnellement ou offertes à d'autres."
-            },
-            {
-              "type": "paragraph",
-              "text": "3. **Informations financières** :\n   - En connectant leurs comptes bancaires, Woolsocks fournit un aperçu catégorisé des habitudes de dépenses pour aider à gérer efficacement les budgets.\n   - Identifie les abonnements récurrents, permettant aux utilisateurs d'annuler les services indésirables directement dans l'application."
-            },
-            {
-              "type": "paragraph",
-              "text": "4. **Opportunités d'investissement** :\n   - Offre des services d'investissement sans commission, des plans d'investissement automatisés et des comptes portant intérêt pour faire fructifier les économies efficacement."
-            },
-            {
-              "type": "paragraph",
-              "text": "5. **Disponibilité mobile** :\n   - L'application Woolsocks est disponible pour les appareils iOS et Android et peut être téléchargée depuis l'App Store ou le Google Play Store."
-            },
-            {
-              "type": "paragraph",
-              "text": "Popularité et avis :\n\n- Woolsocks compte plus de 750 000 utilisateurs actifs en 2024 et maintient une note de 4,8 étoiles sur l'App Store, soulignant son efficacité et la satisfaction des utilisateurs."
-            },
-            {
-              "type": "paragraph",
-              "text": "En résumé, Woolsocks est un outil financier complet en Belgique, offrant des récompenses de cashback, des informations financières et des options d'investissement pour aider les utilisateurs à gérer et optimiser leurs finances de manière efficace."
-            },
-            {
-              "type": "source",
-              "url": "https://woolsocks.be"
-            }
-          ]
+          "type": "image",
+          "url": "https://financien.belgium.be/sites/default/files/scc/logo-ebox.png"
         },
-     {
+        {
+          "type": "source",
+          "url": "https://www.mye-box.be"
+        }
+      ]
+    },
+    {
+      "question": "Qu'est-ce que Doccle en Belgique et comment ça fonctionne ?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Doccle est une plateforme numérique en Belgique conçue pour gérer les documents de manière sécurisée, centralisée et conviviale. Elle agit comme une boîte aux lettres et une solution de stockage numérique, permettant aux individus de recevoir, organiser et stocker des documents officiels provenant de divers prestataires de services."
+        },
+        {
+          "type": "image",
+          "url": "https://accountancyvandaag.be/wp-content/uploads/2022/04/Doccle-en-Digitaal-Vlaanderen.jpeg"
+        },
+        {
+          "type": "source",
+          "url": "https://www.doccle.be"
+        }
+      ]
+    },
+    {
+      "question": "Qu'est-ce que Payconiq by Bancontact en Belgique et comment ça fonctionne ?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Payconiq by Bancontact est une solution de paiement mobile largement utilisée en Belgique, permettant des paiements rapides, sécurisés et pratiques via des smartphones. Elle combine les fonctionnalités de Bancontact (le réseau de cartes de débit national) et de Payconiq (une plateforme de paiement numérique)."
+        },
+        {
+          "type": "image",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/20/37/f22037e8-d000-ec09-834a-a5e9101b1fe4/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/1200x630wa.png"
+        },
+        {
+          "type": "source",
+          "url": "https://www.payconiq.be"
+        }
+      ]
+    },
+    {
+      "question": "Qu'est-ce que Woolsocks en Belgique et comment ça fonctionne ?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Woolsocks est une application financière en Belgique conçue pour simplifier la gestion de l'argent et aider les utilisateurs à économiser sur leurs achats. Elle combine des récompenses de cashback, des informations financières et des opportunités d'investissement pour améliorer le bien-être financier des utilisateurs."
+        },
+        {
+          "type": "image",
+          "url": "https://play-lh.googleusercontent.com/2x_OmpJCvm2KwyYYGwAr52PRIm-ql96qAfukssLTaebN2huHXMgJcdVzMB0jhO5FlxY"
+        },
+        {
+          "type": "source",
+          "url": "https://woolsocks.be"
+        }
+      ]
+    },
+    {
           "question": "Quelles sont les applications les plus utiles pour vivre en Belgique ?",
           "content": [
             {
               "type": "paragraph",
-              "text": "Voici une description détaillée des applications qui peuvent simplifier votre quotidien en Belgique :"
+              "text": "Voici des descriptions détaillées d'applications qui peuvent simplifier votre vie quotidienne en Belgique :"
             },
             {
               "type": "paragraph",
-              "text": "**1. Burgerprofiel**\n\nDescription : Il s'agit du portail citoyen officiel de la Belgique. Il permet aux résidents d'accéder à des documents officiels, de mettre à jour leur adresse, de s'inscrire comme électeur et de gérer les tâches administratives.\n\nCaractéristiques :\n- Consulter les données personnelles (adresse, numéro national, etc.).\n- Demander des documents officiels (par exemple, actes de naissance ou de mariage).\n- Accès facile aux services d'e-gouvernement."
+              "text": "**1. Burgerprofiel**\n\nDescription : Il s'agit du portail officiel des citoyens en Belgique. Il permet aux résidents d'accéder à des documents officiels, de mettre à jour leur adresse, de s'inscrire comme électeurs et de gérer des tâches administratives.\n\nCaractéristiques :\n- Consulter des données personnelles (adresse, numéro de registre national, etc.).\n- Demander des documents officiels (par exemple, actes de naissance ou de mariage).\n- Accéder facilement aux services d'e-gouvernement."
             },
             {
               "type": "image",
-              "url": "data:image/png;base64,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"
+              "url": "https://play-lh.googleusercontent.com/cG4UhjIFSlWRZC0POJKEGNFNOvcF29neJrDj6PRr3TQLe4jhnj9NTZhcxZRKE8zUgV0"
             },
             {
               "type": "source",
@@ -377,7 +145,7 @@
             },
             {
               "type": "paragraph",
-              "text": "**2. Recycle**\n\nDescription : Une application facilitant le processus de recyclage en Belgique. Elle rappelle les jours de collecte des déchets et fournit des informations sur le tri approprié.\n\nCaractéristiques :\n- Affiche le calendrier de collecte des déchets dans votre région.\n- Rappels pour des jours spécifiques de collecte des déchets.\n- Guides sur les règles de recyclage et la gestion locale des déchets."
+              "text": "**2. Recycle**\n\nDescription : Une application facilitant les processus de recyclage en Belgique. Elle rappelle les jours de collecte des déchets et fournit des informations sur le tri approprié des déchets.\n\nCaractéristiques :\n- Affiche le calendrier de collecte des déchets dans votre région.\n- Rappels pour les jours spécifiques de collecte.\n- Guides sur les règles de recyclage et la gestion locale des déchets."
             },
             {
               "type": "image",
@@ -389,11 +157,11 @@
             },
             {
               "type": "paragraph",
-              "text": "**3. itsme®**\n\nDescription : Une application d'identité numérique et d'accès sécurisé largement utilisée en Belgique pour la banque, les services gouvernementaux et l'authentification des achats en ligne.\n\nCaractéristiques :\n- Connexion sécurisée (alternative à l'eID).\n- Signature numérique.\n- Accès aux comptes bancaires.\n- Connexion aux systèmes d'e-gouvernement."
+              "text": "**3. itsme®**\n\nDescription : Une application d'identité numérique sécurisée largement utilisée en Belgique pour les services bancaires, les services gouvernementaux et l'authentification des achats en ligne.\n\nCaractéristiques :\n- Connexion sécurisée (alternative à l'eID).\n- Signature numérique.\n- Accès aux comptes bancaires.\n- Connexion aux systèmes d'e-gouvernement."
             },
             {
               "type": "image",
-              "url": "https://michel.belgium.be/sites/default/files/styles/ece_max/public/ece_images/1200px-Itsme%C2%AE_logo_0.jpg?itok=HljA0qwB"
+              "url": "https://play-lh.googleusercontent.com/C9YmmJ8shCkiMZd01JD-qaO4m755aQvGTBg7WngxZdxtlxuHodj3kD0s_I2wufcQqXw"
             },
             {
               "type": "source",
@@ -401,7 +169,7 @@
             },
             {
               "type": "paragraph",
-              "text": "**4. mynexuzhealth**\n\nDescription : Une application de santé pour gérer les rendez-vous hospitaliers, les résultats d'analyse et les prescriptions en Belgique.\n\nCaractéristiques :\n- Programmer et consulter des rendez-vous.\n- Accéder aux résultats des tests.\n- Suivre l'historique médical.\n- Communiquer avec les médecins."
+              "text": "**4. mynexuzhealth**\n\nDescription : Une application de santé pour gérer les rendez-vous hospitaliers, les résultats de laboratoire et les prescriptions en Belgique.\n\nCaractéristiques :\n- Planification et consultation des rendez-vous.\n- Accès aux résultats d'analyse.\n- Suivi de l'historique médical.\n- Communication avec les médecins."
             },
             {
               "type": "image",
@@ -413,7 +181,7 @@
             },
             {
               "type": "paragraph",
-              "text": "**5. Payconiq**\n\nDescription : Une application de paiement mobile populaire en Belgique pour les achats quotidiens, les paiements dans les restaurants et les transferts d'argent entre particuliers.\n\nCaractéristiques :\n- Paiements rapides via QR code.\n- Envoi d'argent sans avoir besoin d'IBAN.\n- Paiement de factures et abonnements.\n- Transactions rapides et sécurisées."
+              "text": "**5. Payconiq**\n\nDescription : Une application de paiement mobile populaire en Belgique pour les achats quotidiens, les paiements au restaurant et les transferts d'argent entre particuliers.\n\nCaractéristiques :\n- Paiements rapides via QR code.\n- Envoi d'argent à des individus sans avoir besoin d'un IBAN.\n- Paiement des factures et abonnements.\n- Transactions rapides et sécurisées."
             },
             {
               "type": "image",
@@ -425,7 +193,7 @@
             },
             {
               "type": "paragraph",
-              "text": "**6. Doccle**\n\nDescription : Une plateforme pour stocker et gérer numériquement des documents officiels tels que les déclarations fiscales, les factures et les documents d'assurance en Belgique.\n\nCaractéristiques :\n- Stockage numérique de documents.\n- Réception et paiement des factures et notifications fiscales.\n- Partage et organisation des documents."
+              "text": "**6. Doccle**\n\nDescription : Une plateforme pour stocker et gérer numériquement des documents officiels tels que les relevés fiscaux, les factures et les documents d'assurance en Belgique.\n\nCaractéristiques :\n- Stockage numérique des documents.\n- Réception et paiement des factures et notifications fiscales.\n- Partage et organisation des documents."
             },
             {
               "type": "image",
@@ -437,7 +205,7 @@
             },
             {
               "type": "paragraph",
-              "text": "**7. De Lijn**\n\nDescription : Application officielle de De Lijn, qui gère les transports publics dans la région flamande. Elle fournit des informations sur les services de bus et de tram.\n\nCaractéristiques :\n- Consulter les horaires des bus et trams.\n- Acheter des billets.\n- Informations en temps réel sur les transports.\n- Planification d'itinéraires."
+              "text": "**7. De Lijn**\n\nDescription : L'application officielle de De Lijn, qui gère les transports publics dans la région flamande. Elle fournit des informations sur les services de bus et de tramway.\n\nCaractéristiques :\n- Consultation des horaires de bus et tramways.\n- Achat de billets.\n- Informations en temps réel sur les transports.\n- Planification d'itinéraires."
             },
             {
               "type": "image",
@@ -449,7 +217,7 @@
             },
             {
               "type": "paragraph",
-              "text": "**8. SNCB**\n\nDescription : Application officielle pour le réseau ferroviaire national belge (SNCB/NMBS). Elle fournit des informations sur les horaires de train en Belgique.\n\nCaractéristiques :\n- Consulter les horaires et itinéraires des trains.\n- Acheter des billets de train.\n- Informations sur les retards et annulations.\n- Enregistrer des itinéraires favoris."
+              "text": "**8. SNCB**\n\nDescription : L'application officielle du réseau ferroviaire national belge (SNCB/NMBS). Elle fournit des informations sur les horaires des trains en Belgique.\n\nCaractéristiques :\n- Consultation des horaires et itinéraires des trains.\n- Achat de billets de train.\n- Informations sur les retards et annulations.\n- Enregistrement des itinéraires favoris."
             },
             {
               "type": "image",
@@ -461,7 +229,7 @@
             },
             {
               "type": "paragraph",
-              "text": "**9. SNCB International**\n\nDescription : Une application pour réserver des voyages en train internationaux depuis la Belgique. Couvre des services comme Thalys, Eurostar et autres réseaux ferroviaires à grande vitesse.\n\nCaractéristiques :\n- Acheter des billets de train internationaux.\n- Créer des itinéraires de voyage.\n- Consulter les détails des trajets et temps de correspondance.\n- Accéder à des promotions et réductions spéciales."
+              "text": "**9. SNCB International**\n\nDescription : Une application pour réserver des voyages en train internationaux depuis la Belgique. Elle couvre des services comme Thalys, Eurostar et d'autres réseaux ferroviaires à grande vitesse.\n\nCaractéristiques :\n- Achat de billets de train internationaux.\n- Création d'itinéraires de voyage.\n- Consultation des détails des itinéraires et des temps de correspondance.\n- Accès à des réductions et promotions spéciales."
             },
             {
               "type": "image",
@@ -473,10 +241,25 @@
             },
             {
               "type": "paragraph",
-              "text": "Ces applications sont conçues pour faciliter la vie quotidienne en Belgique et vous aider à vous intégrer dans les systèmes locaux. Choisissez celles qui répondent le mieux à vos besoins !"
+              "text": "Ces applications sont conçues pour rendre la vie quotidienne en Belgique plus pratique et vous aider à intégrer les systèmes locaux. Choisissez celles qui répondent le mieux à vos besoins !"
+            }
+          ]
+        },
+        {
+          "question": "Comment les permis de conduire étrangers sont-ils reconnus en Belgique ?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Les permis de conduire étrangers sont reconnus en Belgique sous certaines conditions. Les permis des pays de l'UE/EEE sont valables sans nécessiter d'échange. Les permis non européens peuvent nécessiter une procédure d'échange, impliquant le respect de certains critères et la soumission d'une demande auprès de votre administration communale locale. Pour des directives détaillées, consultez le Service Public Fédéral Mobilité et Transports."
+            },
+            {
+              "type": "source",
+              "url": "https://mobilit.belgium.be/en/road/driving/driving-licences/foreign-driving-licences#:~:text=The%20exchange%20procedure%20can%20be,to%20comply%20with%20the%20procedure."
             }
           ]
         }
+
+
 
 
 

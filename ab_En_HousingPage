@@ -1,66 +1,6 @@
 {
   "questions": [
-    {
-      "question": "What is the judicial process for a crime in Belgium?",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "An offense is the lightest form of a crime, typically judged by the police court. Examples include noise disturbance at night, public intoxication, and traffic violations."
-        },
-        {
-                          "type": "image",
-                          "url": "https://globalaccesstojustice.com/wp-content/uploads/2020/11/belgium-graph02.jpg"
-                 },
-        {
-          "type": "paragraph",
-          "text": "A misdemeanor is a more serious crime than an offense and carries heavier penalties. The correctional court handles misdemeanors. Examples include theft, abuse of trust, fraud, and assault and battery."
-        },
-        {
-          "type": "paragraph",
-          "text": "Felonies are the most severe crimes and are adjudicated by the court of assizes. Examples include sexual assault of a minor, rape, and murder."
-        },
-        {
-          "type": "paragraph",
-          "text": "Several procedures can initiate a criminal prosecution: the police may detect a crime or catch someone in the act, individuals can file complaints with the police or public prosecutor, victims can become civil parties in the case, and injured parties can summon suspected offenders directly to court for minor offenses or misdemeanors."
-        },
-        {
-                          "type": "image",
-                          "url": "https://admin.expatica.com/be/wp-content/uploads/sites/4/1970/01/police-brussels-pointing.jpg"
-                 },
-        {
-          "type": "paragraph",
-          "text": "The criminal investigation serves to gather evidence and compile a case file. Two methods are available: an investigative inquiry led by the public prosecutor or a judicial inquiry conducted by an investigating judge."
-        },
-        {
-          "type": "paragraph",
-          "text": "During an investigative inquiry, the prosecutor collaborates with the police. If privacy-invasive measures are required (e.g., a house search), an investigating judge is involved. Afterward, the prosecutor decides on the case: close it, propose a settlement, initiate mediation, or prosecute the suspect."
-        },
-        {
-          "type": "paragraph",
-          "text": "In judicial inquiries, the investigating judge handles complex cases requiring special measures (e.g., wiretapping). The judge may place suspects under temporary detention or release them under specific conditions. A supervisory chamber oversees the process and decides the case's next steps."
-        },
-        {
-          "type": "paragraph",
-          "text": "Criminal trials typically occur in the police court for offenses, the correctional court for misdemeanors, or the court of assizes for felonies. At trial, the prosecutor presents the case, the defendant is represented, and victims may seek damages. The judge or jury determines guilt and issues a verdict."
-        },
-        {
-          "type": "paragraph",
-          "text": "Verdicts can include acquittal, monetary fines, or imprisonment. Sentences may involve electronic monitoring, probation, or suspension under conditions. The court can also rule on insanity, leading to institutionalization."
-        },
-        {
-          "type": "paragraph",
-          "text": "After the verdict, parties can appeal or seek a retrial in higher courts. In cases of legal errors or procedural mistakes, an appeal to the Court of Cassation is possible."
-        },
-        {
-          "type": "source",
-          "url": "https://www.justice.belgium.be"
-        },
-        {
-          "type": "image",
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Palais_de_Justice_Bruxelles.jpg"
-        }
-      ]
-    },
+
     {
       "question": "What is the 1712 Helpline for violence, abuse, and child abuse?",
       "content": [
@@ -69,25 +9,9 @@
           "text": "The 1712 helpline provides support for questions and concerns about all forms of violence, abuse, and child abuse. A professional counselor listens to your story, offers information and advice, and works with you to find the best possible solution."
         },
         {
-          "type": "paragraph",
-          "text": "Conditions: The helpline is available to anyone dealing with violence, abuse, or child abuse or who has questions about these issues."
-        },
-        {
-          "type": "paragraph",
-          "text": "Procedure: You can contact the helpline by calling 1712. It is available every weekday from 9 AM to 6 PM. Alternatively, you can send an email and expect a response within two days. Chat services are available from Monday to Thursday between 1 PM and 5 PM and from 6 PM to 10 PM. Conversations with the helpline are discreet; calls do not appear on your phone bill, and you do not need to disclose your identity."
-        },
-        {
                           "type": "image",
                           "url": "https://www.1712.be/sites/default/files/2022-02/1712-og.png"
                  },
-        {
-          "type": "paragraph",
-          "text": "In life-threatening situations, call the police at 101. For urgent medical assistance, call emergency services at 112."
-        },
-        {
-          "type": "paragraph",
-          "text": "Cost: The 1712 helpline is free of charge."
-        },
         {
           "type": "source",
           "url": "https://www.1712.be"
@@ -106,33 +30,9 @@
           "text": "itsme® in Belgium is a secure digital identity application that allows users to confirm their identity, log in to services, approve transactions, and sign documents electronically. It is widely used across the country for various online services, including government, banking, healthcare, and private businesses."
         },
         {
-          "type": "paragraph",
-          "text": "Key Features of itsme®:\n\n1. **Secure Authentication**:\n   - Instead of using passwords, you can log in to websites and apps using your itsme® account. It's more secure than traditional logins because it combines your phone, a unique PIN, and biometric data (fingerprint or face recognition).\n\n2. **Electronic Signing**:\n   - With itsme®, you can sign documents electronically with legal validity in Belgium and the EU. This is especially useful for official documents and contracts.\n\n3. **Banking and Financial Transactions**:\n   - Many Belgian banks support itsme® for secure authentication when accessing accounts or approving payments.\n\n4. **Government Services**:\n   - It allows users to access public administration services (e.g., tax declarations, health records) securely.\n\n5. **Personal Data Protection**:\n   - It complies with GDPR standards, ensuring your personal data is protected. Your identity is verified during registration to prevent fraud."
-        },
-        {
                           "type": "image",
                           "url": "https://www.belfius.be/common/NL/multimedia/MMDownloadableFile/Images/selfbanking/Rebranding/itsme/picto-logo-screenshot.png"
                  },
-        {
-          "type": "paragraph",
-          "text": "How it Works:\n\n1. **Download the App**:\n   - Available on iOS and Android.\n\n2. **Link Your Identity**:\n   - Register with your Belgian eID (electronic identity card) or through your bank.\n\n3. **Use itsme® Securely**:\n   - Authentication requires:\n     - Your smartphone.\n     - A unique 5-digit PIN or biometric data (if enabled).\n\n4. **Multi-Platform Integration**:\n   - itsme® is integrated into numerous platforms, making it easy to use across different services."
-        },
-        {
-          "type": "paragraph",
-          "text": "Why Use itsme®?\n\n- **Convenience**: One app for multiple services.\n- **Security**: Strong encryption ensures your data stays safe.\n- **Legal Validity**: Recognized as a digital signature under EU law.\n- **User Control**: You control who accesses your data and when.\n\nIt’s a trusted tool in Belgium for simplifying secure online interactions, whether for personal or professional purposes."
-        },
-        {
-          "type": "paragraph",
-          "text": "What do you need to activate itsme®?\n\n1. Your smartphone.\n2. A computer.\n3. An eID card reader.\n4. Your eID and PIN code."
-        },
-        {
-          "type": "paragraph",
-          "text": "Steps to Activate itsme®:\n\n1. **Download the itsme® app** on your smartphone:\n   - [App Store](https://apps.apple.com/be/app/itsme/id1181309300?ls=1)\n   - [Play Store](https://play.google.com/store/apps/details?id=be.bmid.itsme&pli=1)\n\n2. Surf via your computer to [this link](https://www.itsme.be).\n\n3. Enter your phone number and email address. Make sure to select the correct country code from the dropdown menu.\n\n4. Connect your card reader and insert your eID card. Read and sign the itsme® contract by entering the PIN code of your eID.\n\n5. You will receive your identification token. Enter it into the app later."
-        },
-        {
-          "type": "paragraph",
-          "text": "Final Steps on Smartphone:\n\n1. Open your itsme® app and enter your phone number.\n2. Enter the identification token you received in step 4 (make sure to include CAPITAL letters and punctuation).\n3. You will receive a text message with a verification code from the number 8836. Enter the 5 digits into the app.\n4. Choose your itsme® code and confirm. Activate Touch ID, fingerprint, or Face ID if you wish.\n\nYour digital identity has been successfully activated! Thanks for your trust."
-        },
         {
           "type": "source",
           "url": "https://www.itsme.be"
@@ -147,41 +47,10 @@
           "text": "In Belgium, 'burgerprofiel' refers to a citizen's personal profile or set of information held by government authorities, often in the context of e-government services. It is a digital collection of data about an individual, typically accessible via secure government portals. This profile allows citizens to view, manage, and interact with their personal information and governmental services online."
         },
         {
-          "type": "paragraph",
-          "text": "Key Features of Mijn Burgerprofiel:\n\n1. **Personal Information**: Includes name, address, date of birth, and national identification number.\n2. **Administrative Records**: Details related to taxes, health insurance, and social security.\n3. **Certificates and Documents**: Access to official documents like birth certificates and proof of residence.\n4. **Employment Information**: Information about employment history, benefits, or unemployment status.\n5. **Government Services**: Tools for applying for permits, paying taxes, or registering for local services."
-        },
-        {
-          "type": "paragraph",
-          "text": "In Flanders, the term 'Mijn Burgerprofiel' (My Citizen Profile) is commonly used. It integrates various governmental services into an online platform. Citizens can log in securely (via itsme® or eID) and handle administrative tasks efficiently. The platform aims to simplify interactions with the government, promoting transparency and ease of access."
-        },
-        {
-          "type": "paragraph",
-          "text": "How to Ensure You Download the Right App:\n\n- The authentic 'Mijn Burgerprofiel' app is published under the accounts 'Digitaal Vlaanderen' in the Google Store and 'Vlaamse Overheid' in the Apple Store.\n- The same applies to municipality apps integrated with Mijn Burgerprofiel. Look for 'Digitaal Vlaanderen' or 'Vlaamse Overheid' as the developers in the app stores."
-        },
-        {
                           "type": "image",
                           "url": "https://www.burgerprofiel.be/img/mbpapp/illu-MBPapp.svg"
                  },
-        {
-          "type": "paragraph",
-          "text": "Using the Mijn Burgerprofiel App Safely:\n\n- Log out after using the app by clicking the 'Afmelden' button in the top-right corner.\n- Set a passcode or biometric lock on your smartphone to prevent unauthorized access."
-        },
-        {
-          "type": "paragraph",
-          "text": "Why is My Address Requested?\n\n- To display services such as:\n  - Local events via UiTkalender.\n  - Waste collection schedules (currently only for Limburg residents).\n  - VDAB job listings in your area."
-        },
-        {
-          "type": "paragraph",
-          "text": "App vs. Web Version:\n\n- The app provides all functionalities available in the web version, except for 'In uw buurt' (currently web-only).\n- The app offers additional features like news notifications, a digital wallet, and local event calendars."
-        },
-        {
-          "type": "paragraph",
-          "text": "Who Can Access Mijn Burgerprofiel?\n\n- Accessible to citizens aged 12 and above using their Identification Number for Social Security (INSZ).\n- Data for citizens aged 12-18 is currently limited but will expand over time.\n- Government agencies, including Digitaal Vlaanderen, do not have access to your profile; it is personal and private."
-        },
-        {
-          "type": "paragraph",
-          "text": "What to Do If the App Does Not Open?\n\n- Ensure your default browser is set to Google Chrome (for Android) or Safari (for iPhones) as the app relies on these for optimal functionality."
-        },
+
         {
           "type": "source",
           "url": "https://www.burgerprofiel.be"
@@ -195,30 +64,12 @@
           "type": "paragraph",
           "text": "My eBox is a secure digital mailbox where citizens can receive and manage messages from various government organizations and entities. It serves as an electronic hub for securely accessing personal documents and notifications related to your interactions with public institutions. Companies can also use eBox Enterprise for similar purposes."
         },
-        {
-          "type": "paragraph",
-          "text": "Key Features of My eBox:\n\n1. **Secure Access**:\n   - My eBox provides a secure interface to view and manage documents shared by government institutions and organizations with public responsibilities.\n\n2. **Efficient Communication**:\n   - It helps streamline administrative processes by centralizing communication, reducing paper-based documentation, and promoting digital efficiency.\n\n3. **Wide Adoption**:\n   - As of October 2024, 757 organizations, including federal and regional government entities, municipalities, healthcare institutions, and social security agencies, use eBox to send documents."
-        },
+
         {
                           "type": "image",
                           "url": "https://financien.belgium.be/sites/default/files/scc/logo-ebox.png"
                  },
-        {
-          "type": "paragraph",
-          "text": "How to Access My eBox:\n\n1. **Identification via CSAM**:\n   - Log in to the My eBox user interface using digital keys provided by the CSAM platform.\n\n2. **Integration with Other Platforms**:\n   - Link your eBox to recognized public services (e.g., Mijn Burgerprofiel, IRISbox) or private providers to access your documents through other channels."
-        },
-        {
-          "type": "paragraph",
-          "text": "What Documents Can Be Found in My eBox?\n\n- Documents in My eBox typically pertain to your personal government records, such as:\n  - Decisions regarding your case with a government institution.\n  - Explanations of changes in your dossier.\n  - Responses to requests made via the social security portal or other government websites.\n  - Official certificates and attestations requested by you."
-        },
-        {
-          "type": "paragraph",
-          "text": "Examples of Participating Organizations:\n\n- Federal government services.\n- Public institutions for social security.\n- Regional ministries (Flemish, Walloon, German-speaking community, Brussels Capital Region).\n- Municipalities, provinces, and intercommunal organizations.\n- Healthcare institutions and nursing services.\n- Legal organizations and emergency services.\n- Funds for social welfare and other public benefit entities."
-        },
-        {
-          "type": "paragraph",
-          "text": "Benefits of Using My eBox:\n\n- **Speed**: Messages are delivered instantly, avoiding postal delays.\n- **Convenience**: Access all your official correspondence in one place.\n- **Eco-Friendly**: Reduces paper waste by promoting digital communication.\n- **Secure**: Ensures personal data protection through advanced security protocols."
-        },
+
         {
           "type": "source",
           "url": "https://www.mye-box.be"
@@ -233,45 +84,10 @@
           "text": "Doccle is a digital platform in Belgium designed for managing documents in a secure, centralized, and user-friendly way. It acts as a digital mailbox and storage solution, enabling individuals to receive, organize, and store official documents from various service providers."
         },
         {
-          "type": "paragraph",
-          "text": "Key Features of Doccle:\n\n1. **Document Management**:\n   - Users can receive digital versions of bills, invoices, pay slips, insurance documents, medical records, and more from affiliated companies and organizations.\n   - Documents are stored and organized within the user's Doccle account for easy access anytime.\n\n2. **Partners**:\n   - Doccle collaborates with a wide range of companies and institutions in Belgium, such as utility providers, telecom companies, banks, insurance firms, healthcare providers, and government bodies.\n   - Examples of partners include Proximus, KBC, Acerta, and Partena."
-        },
-        {
                           "type": "image",
                           "url": "https://accountancyvandaag.be/wp-content/uploads/2022/04/Doccle-en-Digitaal-Vlaanderen.jpeg"
                  },
-        {
-          "type": "paragraph",
-          "text": "3. **Centralized Platform**:\n   - All documents are stored in one location, eliminating the need to manage multiple emails or paper correspondence from different providers."
-        },
-        {
-          "type": "paragraph",
-          "text": "4. **Secure Access**:\n   - Users can log in securely via options like itsme, eID, or a username/password combination, ensuring their personal data and documents are protected."
-        },
-        {
-          "type": "paragraph",
-          "text": "5. **Environmentally Friendly**:\n   - By promoting digital communication, Doccle reduces the need for paper-based correspondence, supporting sustainability efforts."
-        },
-        {
-          "type": "paragraph",
-          "text": "6. **Payment Integration**:\n   - Users can view their invoices and directly pay them through the platform, simplifying financial administration."
-        },
-        {
-          "type": "paragraph",
-          "text": "7. **Mobile App**:\n   - Doccle offers a mobile app, making it convenient for users to access their documents anytime and anywhere."
-        },
-        {
-          "type": "paragraph",
-          "text": "Benefits for Individuals:\n\n- Simplifies personal administration.\n- Reduces paper clutter.\n- Provides a single, secure platform to manage important documents.\n- Offers long-term storage for critical records."
-        },
-        {
-          "type": "paragraph",
-          "text": "How It Works:\n\n1. **Sign Up**: Create an account on the Doccle website or app.\n2. **Link Accounts**: Connect your account to affiliated organizations (e.g., telecom provider, bank, or employer).\n3. **Manage Documents**: Receive and organize your documents digitally in one place."
-        },
-        {
-          "type": "paragraph",
-          "text": "Doccle is widely used in Belgium by individuals seeking to streamline personal administration and stay organized in an increasingly digital world."
-        },
+
         {
           "type": "source",
           "url": "https://www.doccle.be"
@@ -286,25 +102,9 @@
           "text": "Payconiq by Bancontact is a widely used mobile payment solution in Belgium, enabling fast, secure, and convenient payments through smartphones. It combines the functionalities of Bancontact (the national debit card network) and Payconiq (a digital payment platform)."
         },
         {
-          "type": "paragraph",
-          "text": "Key Features of Payconiq by Bancontact:\n\n1. **Mobile Payments**:\n   - Users can make payments directly from their smartphones using the Payconiq by Bancontact app.\n\n2. **QR Code Payments**:\n   - Payments are made by scanning a QR code provided by merchants, ensuring quick and seamless transactions.\n\n3. **Online and In-Store**:\n   - Supports both in-store and online purchases, as well as bill payments.\n\n4. **Peer-to-Peer Transfers**:\n   - Allows users to send money instantly to friends or family by selecting them from the contact list or entering their IBAN.\n\n5. **Bank Integration**:\n   - Users can link their Belgian bank accounts for direct payments without the need for a credit card.\n\n6. **Wide Acceptance**:\n   - Accepted by thousands of merchants across Belgium, including small businesses, supermarkets, and restaurants.\n\n7. **Banking App Integration**:\n   - Many Belgian banks have integrated Payconiq into their mobile apps, enabling seamless payments within the banking interface.\n\n8. **No Consumer Fees**:\n   - Free for individual users, with no additional costs for transactions."
-        },
-        {
-          "type": "paragraph",
-          "text": "How It Works:\n\n1. **Download the App**:\n   - Install the Payconiq by Bancontact app on your smartphone (available for iOS and Android).\n\n2. **Link Your Bank Account**:\n   - Connect your bank account using your bank's secure authentication system.\n\n3. **Make Payments**:\n   - For in-store or online transactions, scan the merchant’s QR code.\n   - For peer-to-peer transfers, select a recipient or enter their details.\n\n4. **Confirm Payment**:\n   - Authenticate the payment using a PIN, fingerprint, or facial recognition, depending on your device."
-        },
-        {
           "type": "image",
-          "url": "data:image/png;base64,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"
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/20/37/f22037e8-d000-ec09-834a-a5e9101b1fe4/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/1200x630wa.png"
           },
-        {
-          "type": "paragraph",
-          "text": "Benefits of Payconiq by Bancontact:\n\n- **Convenience**: Eliminates the need to carry cash or cards.\n- **Speed**: Payments are processed instantly.\n- **Security**: Transactions are encrypted, and no personal bank details are shared with merchants.\n- **Eco-Friendly**: Reduces reliance on paper receipts and cash."
-        },
-        {
-          "type": "paragraph",
-          "text": "Payconiq by Bancontact is a cornerstone of Belgium’s digital payment ecosystem, offering a reliable, fast, and secure solution for modern financial transactions."
-        },
         {
           "type": "source",
           "url": "https://www.payconiq.be"
@@ -322,34 +122,6 @@
                   "type": "image",
                   "url": "https://play-lh.googleusercontent.com/2x_OmpJCvm2KwyYYGwAr52PRIm-ql96qAfukssLTaebN2huHXMgJcdVzMB0jhO5FlxY"
          },
-        {
-          "type": "paragraph",
-          "text": "Key Features of Woolsocks:\n\n1. **Cashback Rewards**:\n   - **Automatic Cashback**: Connect your bank account to automatically receive cashback on purchases at over 20 major retail brands. Users can earn up to €5 cashback every 30 days, including on past purchases.\n   - **Online Cashback**: Shop through the app at more than 4,000 online retailers in categories like fashion, electronics, and travel to earn additional cashback.\n   - **Grocery Cashback**: Weekly deals on specific grocery items allow users to earn cashback by scanning their receipts through the app."
-        },
-        {
-          "type": "paragraph",
-          "text": "2. **Gift Cards**:\n   - Purchase digital gift cards from well-known brands directly within the app and earn instant cashback. These gift cards can be used personally or gifted to others."
-        },
-        {
-          "type": "paragraph",
-          "text": "3. **Financial Insights**:\n   - By linking bank accounts, Woolsocks provides a categorized overview of spending habits to help manage budgets effectively.\n   - Identifies recurring subscriptions, enabling users to cancel unwanted services directly within the app."
-        },
-        {
-          "type": "paragraph",
-          "text": "4. **Investment Opportunities**:\n   - Offers commission-free investment services, automated investment plans, and interest-bearing accounts to grow savings efficiently."
-        },
-        {
-          "type": "paragraph",
-          "text": "5. **Mobile Availability**:\n   - The Woolsocks app is available for both iOS and Android devices and can be downloaded from the App Store or Google Play Store."
-        },
-        {
-          "type": "paragraph",
-          "text": "Popularity and Ratings:\n\n- Woolsocks has over 750,000 active users as of 2024 and maintains a 4.8-star rating on the App Store, highlighting its effectiveness and user satisfaction."
-        },
-        {
-          "type": "paragraph",
-          "text": "In summary, Woolsocks serves as a comprehensive financial tool in Belgium, offering cashback rewards, financial insights, and investment options to help users manage and optimize their finances effectively."
-        },
         {
           "type": "source",
           "url": "https://woolsocks.be"
@@ -369,8 +141,7 @@
         },
         {
                           "type": "image",
-                          "url": "data:image/png;base64,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"
-                 },
+                          "url": "https://play-lh.googleusercontent.com/cG4UhjIFSlWRZC0POJKEGNFNOvcF29neJrDj6PRr3TQLe4jhnj9NTZhcxZRKE8zUgV0"},
         {
           "type": "source",
           "url": "https://burgerprofiel.vlaanderen.be"
@@ -394,7 +165,7 @@
         },
 {
                   "type": "image",
-                  "url": "https://michel.belgium.be/sites/default/files/styles/ece_max/public/ece_images/1200px-Itsme%C2%AE_logo_0.jpg?itok=HljA0qwB"
+                  "url": "https://play-lh.googleusercontent.com/C9YmmJ8shCkiMZd01JD-qaO4m755aQvGTBg7WngxZdxtlxuHodj3kD0s_I2wufcQqXw"
          },
 
         {
@@ -479,7 +250,21 @@
           "text": "These applications are designed to make daily life in Belgium more convenient and help you integrate into local systems. Choose the ones that best suit your needs!"
         }
       ]
+    },
+    {
+        "question": "How are foreign driving licenses recognized in Belgium?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Foreign driving licenses are recognized in Belgium under specific conditions. Licenses from EU/EEA countries are valid without the need for exchange. Non-EU licenses may require an exchange procedure, which involves meeting certain criteria and submitting an application through your local municipal office. For detailed guidelines, refer to the Federal Public Service Mobility and Transport."
+            },
+            {
+                "type": "source",
+                "url": "https://mobilit.belgium.be/en/road/driving/driving-licences/foreign-driving-licences#:~:text=The%20exchange%20procedure%20can%20be,to%20comply%20with%20the%20procedure."
+            }
+        ]
     }
+
 
 
 

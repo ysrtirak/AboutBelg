@@ -8,6 +8,15 @@
           "text": "To legally reside in Belgium, individuals must meet certain residency requirements..."
         },
         {
+                  "type": "list",
+                  "items": [
+                    "You rent a leased property from your housing association.",
+                    "You rent a dwelling after being homeless.",
+                    "You move from a substandard dwelling to a compliant private rental property.",
+                    "You move from an unsuitable rental property to a compliant and suitable private rental property."
+                  ]
+                },
+        {
           "type": "image",
           "url": "https://www.researchgate.net/publication/349059203/figure/fig7/AS:11431281274253369@1724877175735/Size-of-enrolled-student-group-or-cohort-per-year.tif"
         },
@@ -25,6 +34,8 @@
         }
       ]
     },
+    {
+
     "question": "What are the legal requirements to live in belgium?",
           "content": [
             {
