@@ -156,7 +156,7 @@
  {
                                "id": 10,
                                "title": "Museum Plantin-Moretus",
-                               "url": "https://www.museabrugge.be/volumes/general/_1200x630_crop_center-center_82_none/Belfort-met-panorama22_Musea-Brugge.f1664971276.jpg?mtime=1664971276",
+                               "url": "https://cheeseweb.eu/wp-content/uploads/2011/05/20110430_Antwerp_0185.jpg",
                                "details": {
                                  "place_name": "Museum Plantin-Moretus",
                                  "location": "https://www.google.com/maps/place/Plantin-Moretus+Museum/@51.2184457,4.3953822,547m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c3f6f6a3a0e9d9:0xde3e9c029a9f18ce!8m2!3d51.2184457!4d4.3979571!16zL20vMDlrc3Jz?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
@@ -190,7 +190,7 @@
 {
                               "id": 12,
                               "title": "Autoworld",
-                              "url": "https://brusselsmuseums-prod.imgix.net/images/Autoworld-1.jpeg?auto=compress%2Cformat&crop=faces&faceindex=1&fit=crop&q=80&w=2880",
+                              "url": "https://www.autoworld.be/media/cache/optimized/upload/media/default/05/3e90a597759ca93cfd9bb9a04f2d12e589859706.jpg",
                               "details": {
                                 "place_name": "Autoworld",
                                 "location": "https://www.google.com/maps/dir/Parc+du+Cinquantenaire/Parc+du+Cinquantenaire+11,+1000+Bruxelles/@50.8415367,4.3870426,886m/data=!3m1!1e3!4m13!4m12!1m5!1m1!1s0x47c3c4a429725b5f:0xaf02f3faf1c7325a!2m2!1d4.3904833!2d50.841393!1m5!1m1!1s0x47c3c4a615c17ca5:0x9c447024613c091b!2m2!1d4.3934238!2d50.8393417?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
@@ -356,7 +356,168 @@
    "video": "https://www.youtube.com/watch?v=YnVnBZZSgdc&ab_channel=VisitPlaces",
   "info": "https://www.citadellededinant.be/fr/"
   }
-   }
+   },
+       {
+      "id": 22,
+      "title": "St. Bavo's Cathedral",
+      "url": "https://visit.gent.be/sites/default/files/styles/photo_large/public/media/img/2020-09/VisitReeks72-DT009584.jpg?itok=FSZeCYtP",
+      "details": {
+      "place_name": "St. Bavo's Cathedral",
+      "location": "https://www.google.com/maps/place/Saint+Bavo's+Cathedral/@51.0531331,3.723933,549m/data=!3m1!1e3!4m6!3m5!1s0x47c371461b74e71b:0x94b399b9e5214552!8m2!3d51.0531331!4d3.7265133!16zL20vMDNoY181?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+      "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/78/Gent-Sint-Baafskathedraal_vom_Belfried_aus_gesehen.jpg",
+      "https://www.led-linear.com/fileadmin/user_upload/projects/st-bravo-kathedrale-haarlem/st-bravo-kathedrale-haarlem-01.jpg",
+      "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/82000/82851-Ghent.jpg",
+      "https://www.foamglas.com/-/media/project/foamglas/public/corporate/foamglascom/images/references/building/belgium/saint-bavos-cathedral/saint-bavos-cathedral.png?w=1000&hash=7652FD709D53DF723C00C03D3BDDAC31"
+      ],
+       "video": "https://www.youtube.com/watch?v=9q1jLIIqKQg&ab_channel=VISITFLANDERS",
+      "info": "https://www.sintbaafskathedraal.be/en/"
+      }
+       },
+               {
+              "id": 23,
+              "title": "Montagne De Bueren",
+              "url": "https://cherylhoward.com/wp-content/uploads/2021/08/Montagne-De-Bueren-Liege-Header.jpeg",
+              "details": {
+              "place_name": "Montagne De Bueren",
+              "location": "https://www.google.com/maps/place/Montagne+de+Bueren/@50.6481279,5.5747969,554m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c0fa0b816699d7:0x76a9dddbdf15cc40!8m2!3d50.6481279!4d5.5773772!16s%2Fg%2F1238y2ry?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "images": [
+              "https://www.todayinliege.be/wp-content/uploads/2021/08/tempo-34-scaled.jpg",
+              "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/82000/82941-Montagne-De-Beuren.jpg",
+              "https://fotogeniekbelgie.wordpress.com/wp-content/uploads/2008/03/luik-03.jpg?w=840",
+              "https://ardennen.nl/wp-content/uploads/2018/07/Montagne-de-Bueren-in-Luik.jpg"
+              ],
+               "video": "https://www.youtube.com/watch?v=xW2xgZr6-h4&ab_channel=Padjack",
+              "info": "https://en.wikipedia.org/wiki/Montagne_de_Bueren"
+              }
+               }
+,
+               {
+              "id": 24,
+              "title": "Bellewaerde Park",
+              "url": "https://www.bellewaerde.be/adobe/dynamicmedia/deliver/dm-aid--8eac6967-d631-4164-87f7-2c3f8813f971/mundo-amazonia-keyvisual-2024.jpg?preferwebp=true&quality=85",
+              "details": {
+              "place_name": "Bellewaerde Park",
+              "location": "https://www.google.com/maps/place/Bellewaerde/@50.84747,2.9475107,551m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47dccdcaf470035b:0xa0baa87ec882dfdf!8m2!3d50.84747!4d2.950091!16zL20vMDdmOTAw?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "images": [
+              "https://www.bellewaerde.be/adobe/dynamicmedia/deliver/dm-aid--972db3fc-8c47-471d-878a-dda593979c8a/wakala-trein-geel-piek.jpg?preferwebp=true&quality=85",
+              "https://bellewaerde-fun.be/img/articles/270/1200x628-zc/1707339616-concept-art-mundo-amazonia.jpg",
+              "https://www.bellewaerde.be/adobe/dynamicmedia/deliver/dm-aid--2383e3f7-2908-4006-8af4-76f94a9335ad/screaming-eagle-jongeren-hoog.jpg?quality=85&preferwebp=true",
+              "https://images.uitmetkinderen.nl/223/75095049ba5c2b715b0e369a20903f58f663fab1633c907f00bd1fa70fbb07f0.jpg"
+              ],
+               "video": "https://www.youtube.com/watch?v=iOHSi6v2rKQ&ab_channel=RollerCoastersandAmusementParks",
+              "info": "https://www.bellewaerde.be/park/nl"
+              }
+               }
+,
+               {
+              "id": 25,
+              "title": "Bouillon Castle",
+              "url": "https://cdn.wbtourisme.be/sites/default/files/AdobeStock_155773137.jpg",
+              "details": {
+              "place_name": "Bouillon Castle",
+              "location": "https://www.google.com/maps/place/Bouillon+Castle/@49.793107,2.4936335,563354m/data=!3m1!1e3!4m6!3m5!1s0x47ea7a518a6f9f25:0xb78f3afee691658b!8m2!3d49.7938959!4d5.066774!16zL20vMDlrc2o2?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/2/25/La_ville_de_Bouillon_et_son_ch%C3%A2teau-fort.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bouillon_Castle_34.jpg/2560px-Bouillon_Castle_34.jpg",
+              "https://www.visitardenne.com/sites/default/files/upload/Sites%20embl%C3%A9matiques/Abbaye%20Maredsous/chateau%20de%20bouillon/Bouillon_00_0000_vuedepuislecentredebouillon_Laetis.jpg",
+              "https://www.ardenneincoming.be/medias/images/prestataires/cha-teau-de-bouillon-site-125788.jpg"
+              ],
+               "video": "https://www.youtube.com/watch?v=ZRsEpoRcKzg&ab_channel=Proverbix",
+              "info": "https://www.chateaudebouillon.com/en"
+              }
+               }
+,
+               {
+              "id": 26,
+              "title": "Cathedral of Our Lady",
+              "url": "https://www.travelguide.net/media/liebfrauenkathedrale-antwerpen.jpg",
+              "details": {
+              "place_name": "Cathedral of Our Lady",
+              "location": "https://www.google.com/maps/place/Cathedral+of+Our+Lady/@51.2202678,4.3989354,547m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c3f6f7013e8c85:0x24c769544f0fe84a!8m2!3d51.2202678!4d4.4015157!16zL20vMDdjMnFm?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "images": [
+              "https://itinari-images.s3.eu-west-1.amazonaws.com/activity/images/original/ede6f577-9373-4c01-9b73-791e9537489c-900px-cathedral_of_our_lady-antwerp.jpg",
+              "https://www.mmnieuws.nl/wp-content/uploads/GATE15-Luc-Roymans-Front-%C2%A9-Onze-Lieve-Vrouwekathedraal-Antwerpen.jpg",
+              "https://www.gpsmycity.com/img/gd_sight/27759.jpg",
+              "https://photo620x400.mnstatic.com/541af72db9ec2fadf00c1577f4fab1e6/cathedral-of-our-lady.jpg"
+              ],
+               "video": "https://www.youtube.com/watch?v=8J8mcKKJ7EM&ab_channel=Tech49Photo%26VideoProductions",
+              "info": "https://en.wikipedia.org/wiki/Cathedral_of_Our_Lady_(Antwerp)"
+              }
+               }
+,
+               {
+              "id": 28,
+              "title": "In Flanders Fields Museum",
+              "url": "https://images-prod-uitdatabank.imgix.net/b19af97e-6889-4a91-a153-f9896c8cc0ee.jpeg?auto=compress&auto=format&w=1200&h=800",
+              "details": {
+              "place_name": "In Flanders Fields Museum",
+              "location": "https://www.google.com/maps/place/In+Flanders+Fields+Museum/@50.8512003,2.8832835,551m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47dcce56090996ed:0xd00b54be80777c25!8m2!3d50.8512003!4d2.8858638!16s%2Fm%2F02r3gj8?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "images": [
+              "https://www.visitflanders.com/sites/default/files/media/images/2022-10/In%20Flanders%20Fields%20museum%2017.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/5/5b/De_Lakenhal_met_het_Belfort%2C_Ieper.jpg",
+              "https://www.toerismeieper.be/files/uploads/imagecache/Origineel/images/AA_Toerisme/8-gezin-iff-2014-kl.jpg",
+              "https://www.inflandersfields.be/images/photolib/550x415c/65231/65231.jpg"
+              ],
+               "video": "https://www.youtube.com/watch?v=flf4BbWgRSo&ab_channel=InFlandersFieldsMuseum",
+              "info": "https://www.inflandersfields.be/"
+              }
+               }
+,
+               {
+              "id": 29,
+              "title": "Royal Museum of the Armed Forces",
+              "url": "https://brusselsmuseums-prod.imgix.net/images/luchtvaart-12-2015-03.jpg?auto=compress%2Cformat&crop=faces&faceindex=1&fit=crop&q=80&w=2880",
+              "details": {
+              "place_name": "Royal Museum of the Armed Forces",
+              "location": "https://www.google.com/maps/place/Royal+Museum+of+the+Armed+Forces+and+Military+History/@50.8408041,4.3907774,551m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4794ae8ca4bc2efb:0xff536c1e1c005262!8m2!3d50.8408041!4d4.3933577!16s%2Fm%2F04gn920?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "images": [
+              "https://agendabrussels2.imgix.net/d8b7944e80a93a59d04d3873a7a149be67a5693d.jpg",
+              "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/37/85/ed/royal-museum-of-the-armed.jpg?w=1200&h=-1&s=1",
+              "https://www.365.be/media/dyjm51xr/260-royal-military-museum-avec-copyright-publi%C3%A9e-dans-le-guide-a-ajouter.jpg?center=0.58701380646128942,0.51805583161705315&mode=crop&width=1920&height=550&rnd=132625594515930000",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Royal_Museum_of_the_Armed_Forces_and_Military_History%2C_Brussels%2C_Belgium_%2811448974515%29.jpg/1200px-Royal_Museum_of_the_Armed_Forces_and_Military_History%2C_Brussels%2C_Belgium_%2811448974515%29.jpg"
+              ],
+               "video": "https://www.youtube.com/watch?v=g1NDrU5hUXQ&ab_channel=Haytham4K",
+              "info": "https://klm-mra.be/en"
+              }
+               }
+,
+               {
+              "id": 30,
+              "title": "Francois Duesberg Museum",
+              "url": "https://medias.tourism-system.com/6/f/440350_muse-duesberg-ch-carpentier003.jpg",
+              "details": {
+              "place_name": "Francois Duesberg Museum",
+              "location": "https://www.google.com/maps/place/Royal+Museum+of+the+Armed+Forces+and+Military+History/@50.8408041,4.3907774,551m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4794ae8ca4bc2efb:0xff536c1e1c005262!8m2!3d50.8408041!4d4.3933577!16s%2Fm%2F04gn920?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "images": [
+              "https://www.365.be/media/djuozql3/1-mus-e-fran-ois-duesberg.jpg",
+              "https://image.wmsm.co/c493b0f86ef3105c2a38e6ec3f2ea638/francois-duesberg-museum-of-decorative-arts-1775-1825-mons-1.JPG?quality=80&width=1280",
+              "https://image.wmsm.co/adab1356ba9a37a0a67e72f78232e8f9/francois-duesberg-museum-of-decorative-arts-1775-1825-mons-9.jpg?quality=80&width=1280",
+              "https://cdn.wbtourisme.be/sites/default/files/Collection-Bon-et-Bonne-Francois-DUESBERG-nr_473.jpg"
+              ],
+               "video": "https://www.youtube.com/watch?v=nRHRi7pWv4s&ab_channel=visitMons",
+              "info": "https://musees-expos.mons.be/nos-lieux/musee-francois-duesberg/musee-francois-duesberg"
+              }
+               }
+,
+               {
+              "id": 31,
+              "title": "Manneken Pis",
+              "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/1c/a8/52/manneken-pis.jpg?w=1200&h=-1&s=1",
+              "details": {
+              "place_name": "Manneken Pis",
+              "location": "https://www.google.com/maps/search/Manneken+Pis/@50.845371,4.3470642,551m/data=!3m2!1e3!4b1?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "images": [
+              "https://top10bezienswaardigheden.nl/wp-content/uploads/2023/02/manneken-pis.jpg",
+              "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/c0/6a/2a/img-20170129-122953-986.jpg?w=1200&h=-1&s=1",
+              "https://brussels-express.eu/wp-content/uploads/2017/07/manneken-pis-obelix.jpg",
+              "https://www.brussels.be/sites/default/files/styles/agenda_detail_image/public/agendaimages/turquie_1.jpg?itok=0WM7Bn7G"
+              ],
+               "video": "https://www.youtube.com/watch?v=OCE8HezwqP4&ab_channel=asafscher",
+              "info": "https://nl.wikipedia.org/wiki/Manneken_Pis_van_Brussel"
+              }
+               }
+
 
 
 
