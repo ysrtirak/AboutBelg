@@ -257,7 +257,21 @@
               "url": "https://mobilit.belgium.be/en/road/driving/driving-licences/foreign-driving-licences#:~:text=The%20exchange%20procedure%20can%20be,to%20comply%20with%20the%20procedure."
             }
           ]
+        },
+        {
+            "question": "Quels sont les chaînes de télévision et de radio disponibles en Belgique ?",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "text": "La Belgique propose un large éventail de chaînes de télévision et de radio, reflétant sa culture multilingue. Ces chaînes sont disponibles en français, néerlandais et allemand, et incluent des options locales et internationales. Pour une liste détaillée des chaînes disponibles, vous pouvez consulter les documents fournis par votre opérateur, comme Orange, Proximus ou Telenet."
+                },
+                {
+                    "type": "source",
+                    "url": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.orange.be/sites/b2c/files/let_1803013_channels_list_sfr_bxl_fr.pdf"
+                }
+            ]
         }
+
 
 
 

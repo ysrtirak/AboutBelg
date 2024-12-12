@@ -263,7 +263,21 @@
                 "url": "https://mobilit.belgium.be/en/road/driving/driving-licences/foreign-driving-licences#:~:text=The%20exchange%20procedure%20can%20be,to%20comply%20with%20the%20procedure."
             }
         ]
+    },
+    {
+        "question": "What are the TV and radio channels available in Belgium?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Belgium offers a wide range of TV and radio channels catering to various languages and interests. These include channels in French, Dutch, and German, reflecting the country's multilingual culture. For a detailed list of available channels, including local and international options, refer to the channel list provided by your service provider or explore specific offerings through operators like Orange, Proximus, or Telenet."
+            },
+            {
+                "type": "source",
+                "url": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.orange.be/sites/b2c/files/let_1803013_channels_list_sfr_bxl_fr.pdf"
+            }
+        ]
     }
+
 
 
 
