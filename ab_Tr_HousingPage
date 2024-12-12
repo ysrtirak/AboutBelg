@@ -255,7 +255,21 @@
                           "url": "https://mobilit.belgium.be/en/road/driving/driving-licences/foreign-driving-licences#:~:text=The%20exchange%20procedure%20can%20be,to%20comply%20with%20the%20procedure."
                       }
                   ]
+              },
+              {
+                  "question": "Belçika'da hangi TV ve radyo kanalları mevcut?",
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "text": "Belçika, çok dilli kültürünü yansıtan geniş bir TV ve radyo kanalı yelpazesi sunmaktadır. Fransızca, Felemenkçe ve Almanca dahil olmak üzere çeşitli dillerde yerel ve uluslararası kanallar bulunmaktadır. Mevcut kanalların ayrıntılı bir listesi için Orange, Proximus veya Telenet gibi servis sağlayıcıların sunduğu belgeleri inceleyebilirsiniz."
+                      },
+                      {
+                          "type": "source",
+                          "url": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.orange.be/sites/b2c/files/let_1803013_channels_list_sfr_bxl_fr.pdf"
+                      }
+                  ]
               }
+
 
 
 

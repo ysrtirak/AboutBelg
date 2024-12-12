@@ -753,10 +753,10 @@
 ,
                {
               "id": 45,
-              "title": "Alden Biesen",
+              "title": "Les Jardins d’Annevoie",
               "url": "https://www.annevoie.be/wp-content/uploads/2018/03/les-jardins-d-annevoie.jpg",
               "details": {
-              "place_name": "Alden Biesen",
+              "place_name": "Les Jardins d’Annevoie",
               "location": "https://www.google.com/maps/place/Les+Jardins+d%E2%80%99Annevoie/@50.3465935,4.8427703,557m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c196be9d7c7889:0xc0b2b00e192283a2!8m2!3d50.3465935!4d4.8453506!16s%2Fg%2F11dykzf53?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
               "images": [
               "https://www.pajawa.be/images/jardin/jardin_147/annevoie__photo-daniel_fouss_210_-_accueil_jardins_dannevoie.jpg",
@@ -766,6 +766,204 @@
               ],
                "video": "https://www.youtube.com/watch?v=c37yg4TpSKY&ab_channel=PhilippeDeblir",
               "info": "https://www.annevoie.be/en/"
+              }
+               }
+,
+               {
+              "id": 46,
+              "title": "Parc Forestier Récréatif Chlorophylle",
+              "url": "https://medias.elloha.com/crop-1600x1000/0b020835-0fa1-4773-9ed5-13c0516f50ae/10520-Parcours2.jpg",
+              "details": {
+              "place_name": "Parc Forestier Récréatif Chlorophylle",
+              "location": "https://www.google.com/maps/place/Parc+Chlorophylle/@50.2419793,5.5940377,558m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c040b16aeb84a1:0xbd8616532683db46!8m2!3d50.2419793!4d5.596618!16s%2Fg%2F1z0spm1dh?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "images": [
+              "https://cdn.wbtourisme.be/sites/default/files/styles/facebook/public/10552.jpg?itok=-XNVDFQU",
+              "https://www.la-roche-tourisme.com/wp-content/uploads/2023/10/parc-chlorophylle.jpg",
+              "https://www.idelux.be/sites/default/files/2022-10/Parc-Clorophylle.61.JPG",
+              "https://cdn.wbtourisme.be/sites/default/files/2960.jpg"
+              ],
+               "video": "https://www.youtube.com/watch?v=fsn529NT8uM&ab_channel=VISITWallonia",
+              "info": "https://www.parcchlorophylle.com/"
+              }
+               }
+,
+               {
+              "id": 47,
+              "title": "Plantentuin Meise",
+              "url": "https://www.klasse.be/wp/wp-content/uploads/2016/02/plantentuinmeise.png",
+              "details": {
+              "place_name": "Plantentuin Meise",
+              "location": "https://www.google.com/maps/place/Plantentuin+Meise/@50.9269804,4.3351911,17z/data=!4m15!1m8!3m7!1s0x47c3c20895625671:0xd0240208d8828fec!2sPlantentuin+Meise!8m2!3d50.9269775!4d4.3351638!10e5!16zL20vMDYycDQz!3m5!1s0x47c3c20895625671:0xd0240208d8828fec!8m2!3d50.9269775!4d4.3351638!16zL20vMDYycDQz?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "images": [
+              "https://www.reisroutes.be/userfiles/fotos/plantentuin-meise_2634_xl.jpg",
+              "https://image.demorgen.be/9166019/width/2480/plantentuin-meise-wordt-eindelijk-vlaams",
+              "https://www.toerismevlaamsbrabant.be/Images/plantentuin-meise-galerij-3._tcm251-131149_w1024_n.jpg",
+              "https://gruun.be/wp-content/uploads/2021/11/20210303_134427-1024x768.jpg"
+              ],
+               "video": "https://www.youtube.com/watch?v=GnnwfegMzws&ab_channel=PlantentuinMeise",
+              "info": "https://www.plantentuinmeise.be/"
+              }
+               }
+,
+               {
+              "id": 48,
+              "title": "Gaasbeek Castle",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Gaasbeek_Castle_-_Kasteel_van_Gaasbeek_10.jpg/1200px-Gaasbeek_Castle_-_Kasteel_van_Gaasbeek_10.jpg",
+              "details": {
+              "place_name": "Gaasbeek Castle",
+              "location": "https://www.google.com/maps/place/Plantentuin+Meise/@50.9269804,4.3351911,17z/data=!4m15!1m8!3m7!1s0x47c3c20895625671:0xd0240208d8828fec!2sPlantentuin+Meise!8m2!3d50.9269775!4d4.3351638!10e5!16zL20vMDYycDQz!3m5!1s0x47c3c20895625671:0xd0240208d8828fec!8m2!3d50.9269775!4d4.3351638!16zL20vMDYycDQz?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/5/5c/Kasteel_van_Gaasbeek_106.jpg",
+              "https://www.amazing-belgium.com/cdn/shop/articles/DJI_0659-2_Gemiddeld.jpg?v=1683409133&width=1100",
+              "https://www.toerismevlaamsbrabant.be/en/Images/kastelenwandeling-gaasbeek-header_tcm265-114298.jpg",
+              "https://image.wmsm.co/16940a416eaa8de5904e755688a2ae11/gaasbeek-castle-lennik.jpg?quality=80&width=1200&height=630&aspect_ratio=1200%3A630"
+              ],
+               "video": "https://www.youtube.com/watch?v=1iS0wMhkX_w&ab_channel=AmazingBelgium",
+              "info": "https://www.kasteelvangaasbeek.be/"
+              }
+               }
+,
+               {
+              "id": 49,
+              "title": "St. Paul's Cathedral",
+              "url": "https://www.visitezliege.be/Photos/Plage450To1000/oth-a0-007k-0d1o.jpg",
+              "details": {
+              "place_name": "St. Paul's Cathedral",
+              "location": "https://www.google.com/maps/place/St.+Paul's+Cathedral+in+Liege/@50.6404245,5.5691336,17z/data=!3m1!4b1!4m6!3m5!1s0x47c0f099b96dd495:0x4003ddb3ba648731!8m2!3d50.6404245!4d5.5717139!16s%2Fm%2F09v9sqr?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "images": [
+              "https://openchurches.eu/img/739_1_1.jpg?h=800",
+              "https://openchurches.eu/img/739_1_1_1532367385.jpg?h=800",
+              "https://openchurches.eu/img/739_1_13.jpg?h=800",
+              "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/30/74/41/main-altar-saint-paul.jpg?w=900&h=500&s=1"
+              ],
+               "video": "https://www.youtube.com/watch?v=bSOTgIQwBtk&ab_channel=VisitPlaces",
+              "info": "https://en.wikipedia.org/wiki/Li%C3%A8ge_Cathedral"
+              }
+               }
+,
+               {
+              "id": 50,
+              "title": "Railbikes of the Molignee",
+              "url": "https://www.exploremeuse.be/wp-content/uploads/2021/09/000027602-WBT-Bruno-DAlimonte-Draisines-de-la-Molignee-1.jpg",
+              "details": {
+              "place_name": "Railbikes of the Molignee",
+              "location": "https://www.google.com/maps/search/Railbikes+of+the+Molignee/@50.3135388,4.831363,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "images": [
+              "https://www.klasse.be/wp/wp-content/uploads/2016/04/railbikes.jpg",
+              "https://cdn.wbtourisme.be/sites/default/files/feeds/phototheque/18680.JPG",
+              "https://media-cdn.tripadvisor.com/media/photo-s/0c/43/e5/6e/de-rail-bike-van-de-molignee.jpg",
+              "https://www.ishetnogver.nl/wp-content/uploads/2018/05/Railbikes-van-de-Molignee-rotswand.jpg"
+              ],
+               "video": "https://www.youtube.com/watch?v=4p7366_4o7Q&ab_channel=VISITWallonia",
+              "info": "https://draisines.online/index.php/en/home-en/"
+              }
+               }
+,
+               {
+              "id": 51,
+              "title": "Le Chateau de Lavaux Sainte-Anne",
+              "url": "https://en.ardennes-etape.be/experience/sites/default/files/2022-12/00032870-WBT%20-%20Vincent%20Ferooz-Chateau%20de%20Lavaux%20Saint-Anne.JPG",
+              "details": {
+              "place_name": "Le Chateau de Lavaux Sainte-Anne",
+              "location": "https://www.google.com/maps/place/Ch%C3%A2teau+de+Lavaux-Sainte-Anne/@50.115868,5.0899207,17z/data=!3m1!4b1!4m6!3m5!1s0x47c1cf79af963393:0xcedd7cfa468b3143!8m2!3d50.115868!4d5.092501!16zL20vMDZjYnN4?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LavauxSainteAnne_3.jpg/1200px-LavauxSainteAnne_3.jpg",
+              "https://www.mariage.be/imagesclients/photo-mariage-8217-IMG_1450.JPG",
+              "https://media.abcsalles.com/images/1/salles/900h/12905/chateau-de-lavaux-sainte-anne-2.jpg",
+              "https://static.wixstatic.com/media/54aef0_23a4481e35be490a87b7569ba63495d2~mv2_d_1272_1272_s_2.jpg/v1/fit/w_2500,h_1330,al_c/54aef0_23a4481e35be490a87b7569ba63495d2~mv2_d_1272_1272_s_2.jpg"
+              ],
+               "video": "https://www.youtube.com/watch?v=4YpTALAbmJE&ab_channel=epicglobe",
+              "info": "https://chateau-lavaux.com/"
+              }
+               }
+,
+               {
+              "id": 52,
+              "title": "Collégiale Sainte-Waudru",
+              "url": "https://www.visitmons.be/sites/visitmons/files/styles/gallery_lightbox/public/content/images/41635_mons-beffroietsainte-waudru_copt-josephjeanmartbis.jpg?itok=29ChwBJe",
+              "details": {
+              "place_name": "Collégiale Sainte-Waudru",
+              "location": "https://www.google.com/maps/place/Saint+Waltrude+Collegiate+Church/@50.6185526,3.1676372,8.74z/data=!4m6!3m5!1s0x47c25003ed015557:0xd3c049ca3135e825!8m2!3d50.453527!4d3.9474721!16s%2Fg%2F1td4j8ct?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "images": [
+              "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/9c/ac/04/collegiate-church-of.jpg?w=1200&h=-1&s=1",
+              "https://connaitrelawallonie.wallonie.be/sites/default/files/styles/patrimoine_detail/public/lieux-de-patrimoine/images/mons0001_g._focant_c_spw_0.jpg?h=b8551cf4&itok=GYtB0lzb",
+              "https://ds.static.rtbf.be/article/image/1920xAuto/f/7/c/d3537830154d84c68b88885edc71a9d4-1542369315.jpg",
+              "https://vhello.be/wp-content/uploads/2021/08/Collegiale_St_Waudru@Utopix-Geoffrey_003.jpg"
+              ],
+               "video": "https://www.youtube.com/watch?v=LjepknOUr1A&ab_channel=visitMons",
+              "info": "https://chateau-lavaux.com/"
+              }
+               }
+,
+               {
+              "id": 53,
+              "title": "Barrage de la Gileppe",
+              "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/84/52/59/vue-du-barrage.jpg?w=900&h=500&s=1",
+              "details": {
+              "place_name": "Barrage de la Gileppe",
+              "location": "https://www.google.com/maps/place/Dam+Gileppe,+4837+Baelen/@50.5891598,5.9718506,17z/data=!3m1!4b1!4m6!3m5!1s0x47c088a1f906d1ff:0x8cb411ba489b254d!8m2!3d50.5891598!4d5.9744309!16s%2Fm%2F0crh9rp?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "images": [
+              "https://ds.static.rtbf.be/article/image/1920xAuto/7/c/8/a47072176bca825aadacf648034e124b-1622720586.jpeg",
+              "https://tourismus-grossregion.eu/fr/wp-content/uploads/sites/3/2022/03/Prov-Liege-Jalhay-Lac-Gileppe-Gileppe-Gileppe-6-%C2%A9-FTPL-Gregor-Lengler.jpg",
+              "https://tourismus-grossregion.eu/fr/wp-content/uploads/sites/3/2022/03/Prov-Liege-Jalhay-Lac-Gileppe-Gileppe-Gileppe-3-%C2%A9-FTPL-Gregor-Lengler.jpg",
+              "https://images.squarespace-cdn.com/content/v1/5bb9f6f49b7d157f6f23eb5d/1564221399929-NM1G3R4Z1E56EGBJ5YAD/lac+vu+du+parking.JPG"
+              ],
+               "video": "https://www.youtube.com/watch?v=xz8rSpmnUuE&ab_channel=WallonieInfrastructures",
+              "info": "https://www.gileppe.com/fr/"
+              }
+               }
+,
+               {
+              "id": 54,
+              "title": "The Strepy-Thieu Funicular Lift",
+              "url": "https://cdn.wbtourisme.be/sites/default/files/styles/facebook/public/feeds/phototheque/19020.JPG?itok=k_sBFnXm",
+              "details": {
+              "place_name": "The Strepy-Thieu Funicular Lift",
+              "location": "https://www.google.com/maps/place/Str%C3%A9py-Thieu+Boat+Lift/@50.4774458,4.1067597,17z/data=!3m1!4b1!4m6!3m5!1s0x47c2485614ee33eb:0x120226c155cd056a!8m2!3d50.4774458!4d4.1093346!16zL20vMGQwOHc4?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "images": [
+              "https://cdn.wbtourisme.be/sites/default/files/asc-ST_CGT-A.-Siquet.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/a/ad/Upstream_view_of_Str%C3%A9py-Thieu_Ascenseur.jpg",
+              "https://images.divisare.com//images/c_limit,f_auto,h_2000,q_auto,w_3000/v1497700319/cxuvci7fsuwx5baj7cim/fabrice-fouillet-funicular-boat-lift-of-strepy-thieu.jpg",
+              "https://cdn.elebase.io/173fe953-8a63-4a8a-8ca3-1bacb56d78a5/116e0ca9-648f-4970-8924-1cef74033836--funiculaire-de-str-py-bateau-voiesdeau.hainaut.be.jpg?w=1000&h=500&fit=crop&q=75"
+              ],
+               "video": "https://www.youtube.com/watch?v=usUwiL2NJiQ&ab_channel=NEVdD",
+              "info": "https://visitwallonia.be/nl/content/kanaallift-van-strepy-thieu-rivierschat-wallonie?cookie_lang=nl"
+              }
+               }
+,
+               {
+              "id": 55,
+              "title": "Sint-Janshuismolen",
+              "url": "https://images-prod-uitdatabank.imgix.net/ab153b17-7729-4ce3-b2f0-c41442793908.jpeg?auto=compress&auto=format&w=1200&h=800",
+              "details": {
+              "place_name": "Sint-Janshuismolen",
+              "location": "https://www.google.com/maps/place/Sint-Janshuismolen/@51.2154587,3.2355726,17z/data=!3m1!4b1!4m6!3m5!1s0x47c350b5f6b292b7:0xdc09d92a746789a3!8m2!3d51.2154587!4d3.2381475!16s%2Fg%2F120txh2_?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "images": [
+              "https://www.museabrugge.be/volumes/general/_1200x630_crop_center-center_82_none/IngeKinnetMuseaBruggeSintJanshuismolen008.jpg?mtime=1572960539",
+              "https://www.visitbruges.be/sites/default/files/styles/og_image/public/media/tdms/392/card/230703_JAN2158%C2%A9jandarthet.jpg.webp?itok=2LRvSzvk",
+              "https://cms.westtoer.be/sites/default/files/images/Copyright%20Brugge%20Jan%20Darthet%20Sint-Janshuismolen.jpg",
+              "https://www.visitbruges.be/sites/default/files/styles/full_width_desktop/public/media/tdms/392/images/230703_JAN2173%C2%A9jandarthet.jpg.webp?itok=xDY4gDMI"
+              ],
+               "video": "https://www.youtube.com/watch?v=odvRq20IOBg&ab_channel=ProvincieWest-Vlaanderen",
+              "info": "https://www.museabrugge.be/bezoek-onze-musea/onze-musea-en-monumenten/sint-janshuismolen/bezoek-op-maat"
+              }
+               }
+,
+               {
+              "id": 56,
+              "title": "Opera Royal de Wallonie-Liège",
+              "url": "https://www.operaliege.be/app/uploads/2023/11/Salle-4-HDR-scaled.jpg",
+              "details": {
+              "place_name": "Opera Royal de Wallonie-Liège",
+              "location": "https://www.google.com/maps/place/Op%C3%A9ra+Royal+de+Wallonie-Li%C3%A8ge/@50.6435243,5.567983,17z/data=!3m1!4b1!4m6!3m5!1s0x47c0fa11cafa522b:0xf328eafe11ceb675!8m2!3d50.6435243!4d5.5705579!16s%2Fm%2F02vwq9m?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "images": [
+              "https://www.operaliege.be/app/uploads/2023/11/Salle-de-spectacle-%E2%92%B8-Aurelie-Remy-scaled.jpg",
+              "https://origin.eu/storage/files/8f6b5835-7632-4372-b589-c99e232dc923/full_widthorw-1260x580.png",
+              "https://www.forumopera.com/wp-content/uploads/liege2-1000x600.jpg",
+              "https://ds.static.rtbf.be/article/image/1920x1080/f/0/3/9ffafc23e28ec60ac3351ad57ad8575c-1725287669.jpg"
+              ],
+               "video": "https://www.youtube.com/watch?v=Ail22i1ffJ4&ab_channel=RTBF",
+              "info": "https://www.operaliege.be/en/"
               }
                }
 
