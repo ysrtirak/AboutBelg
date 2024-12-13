@@ -1,0 +1,188 @@
+{
+  "questions": [
+    {
+      "question": "O que fazer se seu cartão bancário for roubado na Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se o seu cartão bancário for roubado na Bélgica, entre imediatamente em contato com o Card Stop pelo número 078 170 170 para bloquear o cartão e evitar transações não autorizadas. Este serviço está disponível 24/7 para ajudar a proteger sua conta. Também é recomendável informar o incidente ao seu banco para suporte adicional e monitoramento."
+        },
+        {
+          "type": "source",
+          "url": "https://www.cardstop.be"
+        }
+      ]
+    },
+    {
+      "question": "O que fazer se seu documento de identidade for roubado na Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se seu documento de identidade for roubado na Bélgica, entre imediatamente em contato com o Doc Stop pelo número 00800 2123 2123 para bloquear o documento e prevenir seu uso indevido. Este serviço ajuda a proteger suas informações pessoais. Também é importante relatar o roubo à polícia local e seguir com as autoridades relevantes para obter um documento de substituição."
+        },
+        {
+          "type": "source",
+          "url": "https://www.checkdoc.be/"
+        }
+      ]
+    },
+    {
+      "question": "O que fazer em caso de um acidente de carro com apenas danos materiais na Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Na Bélgica, se você se envolver em um acidente de carro resultando apenas em danos materiais, não é necessário chamar a polícia. Em vez disso, você pode preencher um formulário de relatório de acidente com o outro motorista. No entanto, se houver desacordo com a outra parte sobre a causa do acidente, é recomendado envolver a polícia para documentar adequadamente o incidente."
+        },
+        {
+          "type": "source",
+          "url": "https://www.politie.be/5998/nl/contact"
+        }
+      ]
+    },
+    {
+      "question": "Como solicitar uma nova carteira de motorista na Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Na Bélgica, a carteira de motorista pode ser renovada quando o período de validade expirar, desde que todas as condições de emissão sejam atendidas. Um duplicado pode ser solicitado se o original for perdido, roubado, danificado ou ilegível. Para carteiras no modelo de cartão, uma nova carteira é emitida em vez de um duplicado. Residentes com uma carteira de motorista estrangeira não podem renová-la ou solicitar um duplicado, mas devem solicitar uma carteira belga. Belgas residentes fora do EEE e registrados em uma embaixada belga podem renovar sua carteira na última municipalidade belga onde foram registrados."
+        },
+        {
+          "type": "source",
+          "url": "https://mobilit.belgium.be/nl/weg/rijden/rijbewijzen"
+        }
+      ]
+    },
+    {
+      "question": "O que considerar ao comprar um veículo de segunda mão na Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Na Bélgica, você pode comprar um veículo de segunda mão de um revendedor profissional ou de um vendedor particular. Revendedores profissionais são obrigados a oferecer uma garantia de pelo menos um ano, enquanto vendedores particulares podem oferecer preços mais baixos, mas sem garantia. Antes de comprar, recomenda-se inspecionar o veículo cuidadosamente para sinais de ferrugem, acidentes anteriores ou problemas no motor. Esses fatores nem sempre são detectados na inspeção técnica obrigatória, mas podem impactar significativamente o preço e a qualidade do veículo."
+        },
+        {
+          "type": "source",
+          "url": "https://www.belgium.be/nl/mobiliteit/Voertuigen/een_voertuig_kopen_of_verkopen/tweedehands_kopen"
+        }
+      ]
+    },
+    {
+      "question": "Qual é o procedimento para vender um veículo na Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Ao vender um veículo na Bélgica para outro indivíduo, o procedimento depende da condição do veículo. Para veículos ainda aptos para uso em vias públicas, o vendedor deve fornecer documentos necessários, como o certificado de conformidade, prova de inspeção técnica (se aplicável) e um Car-Pass mostrando o histórico de quilometragem do veículo. Garantir que toda a documentação esteja completa e precisa é essencial para uma transação tranquila."
+        },
+        {
+          "type": "source",
+          "url": "https://www.belgium.be/nl/mobiliteit/Voertuigen/een_voertuig_kopen_of_verkopen/verkoopprocedure"
+        }
+      ]
+    },
+    {
+      "question": "Quais são os regulamentos e procedimentos para obter uma placa personalizada na Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Na Bélgica, uma placa personalizada permite que os proprietários de veículos escolham uma inscrição personalizada para sua placa. Veículos elegíveis incluem carros de passeio, motocicletas, reboques e carros clássicos com mais de 30 anos. A combinação escolhida deve seguir regras específicas: começar com o selo em relevo DIV, conter no máximo oito caracteres (letras, números ou hífens), incluir pelo menos uma letra e não pode consistir apenas em números. Certas combinações são proibidas para evitar confusões com placas oficiais ou por razões éticas. O custo para reservar uma placa personalizada é de €1.000, além de €30 para produção e entrega pela bpost. As solicitações podem ser enviadas online pelo site do FOD Mobiliteit en Vervoer."
+        },
+        {
+          "type": "source",
+          "url": "https://mobilit.belgium.be/nl/weg/inschrijven-en-schrappen/gepersonaliseerde-nummerplaat/introductie"
+        }
+      ]
+    },
+    {
+      "question": "Como solicitar uma substituição para uma placa danificada, perdida, roubada ou destruída na Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Para substituir uma placa danificada, perdida, roubada ou destruída na Bélgica, procedimentos específicos devem ser seguidos. Se você ainda tiver uma placa de formato antigo que não seja personalizada, deve solicitar um novo registro e receberá uma nova placa. Certifique-se de cancelar a placa antiga e incluir o certificado de registro com sua solicitação. Se o certificado estiver perdido, informe à polícia para obter um certificado de posse involuntária. Envie o arquivo completo (formulário e certificado) ao DIV por correio, agendando um atendimento em uma antena do DIV, ou em um escritório do DIV em Bruxelas."
+        },
+        {
+          "type": "source",
+          "url": "https://mobilit.belgium.be/nl/weg/inschrijven-en-schrappen/nummerplaten-en-inschrijvingsbewijzen/duplicata-kentekenplaat"
+        }
+      ]
+    },
+    {
+      "question": "Como registrar um veículo na Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Para registrar um veículo na Bélgica, é necessário o formulário rosa 'solicitação de registro'. Preencha-o com cuidado, e há duas opções para envio. O método mais rápido e obrigatório (se possível) é levar o formulário preenchido ao seu corretor ou seguradora, que registrará o veículo online usando o WebDIV. Você receberá seu certificado de registro e placa no próximo dia útil. Alternativamente, você pode enviar o formulário diretamente ao DIV e, após o processamento, receberá seu certificado de registro. Para cancelar o registro de um veículo, devolva a placa o mais rápido possível para parar de pagar impostos rodoviários."
+        },
+        {
+          "type": "source",
+          "url": "https://www.belgium.be/nl/mobiliteit/Voertuigen/inschrijving/inschrijving_voertuig"
+        }
+      ]
+    },
+    {
+      "question": "Como indivíduos com deficiência podem solicitar um cartão de estacionamento na Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Indivíduos com mobilidade reduzida devido a uma deficiência podem solicitar um cartão de estacionamento na Bélgica, garantindo acesso a vagas reservadas e áreas dentro da zona azul. A elegibilidade inclui deficiências permanentes nas pernas de 50% ou mais, outras deficiências de 80% ou mais, paralisia completa ou amputação de ambos os braços, ou uma condição que limita significativamente a autonomia ou mobilidade. As solicitações podem ser feitas no escritório municipal, com formulários enviados ao FOD Sociale Zekerheid. O cartão é geralmente válido por tempo indeterminado, a menos que especificado de outra forma, e é estritamente pessoal, utilizável apenas quando o titular estiver dirigindo ou viajando como passageiro."
+        },
+        {
+          "type": "source",
+          "url": "https://handicap.belgium.be/nl/andere-hulp/parkeerkaart"
+        }
+      ]
+    },    {
+            "question": "O que é a legalização de documentos na Bélgica?",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "A legalização é o processo pelo qual um funcionário público certifica a autenticidade de uma assinatura em um documento. Para atos públicos, o processo também confirma a capacidade do signatário e a autenticidade do selo ou carimbo oficial no documento. Este procedimento garante a validade do documento para uso doméstico ou no exterior."
+              },
+              {
+                "type": "source",
+                "url": "https://justice.belgium.be/fr/themes/personnes_et_familles/legalisation"
+              }
+            ]
+          },
+          {
+            "question": "Qual é o procedimento para mudar seu nome na Bélgica?",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Na Bélgica, a autoridade para aprovar mudanças voluntárias de nome cabe ao Rei, desde que o pedido não esteja exclusivamente vinculado a uma alteração de filiação ou adoção. Os requerentes devem demonstrar razões sérias por meio de evidências objetivas. O nome solicitado não deve causar confusão ou prejuízo a terceiros ou ao próprio requerente. Cada caso é analisado individualmente. Este procedimento está disponível para cidadãos belgas, bem como refugiados reconhecidos e apátridas."
+              },
+              {
+                "type": "source",
+                "url": "https://justice.belgium.be/fr/themes_et_dossiers/personnes_et_familles/changement_de_nom/changer_de_nom"
+              }
+            ]
+          },
+          {
+            "question": "Quais documentos estão disponíveis para refugiados?",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "O site oficial fornece vários documentos para refugiados, incluindo diretrizes, informações legais e detalhes processuais para auxiliá-los durante o processo de asilo na Bélgica. Esses recursos estão disponíveis em vários idiomas e são regularmente atualizados para garantir precisão."
+              },
+              {
+                "type": "source",
+                "url": "https://www.cgra.be/en/documents"
+              }
+            ]
+          },
+          {
+            "question": "Como solicitar um visto D (Reagrupamento Familiar)?",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Para solicitar um visto D para reagrupamento familiar, é necessário seguir os procedimentos descritos no site oficial de imigração. Isso inclui a apresentação dos documentos exigidos, o cumprimento dos critérios de elegibilidade e a adesão ao processo de inscrição conforme especificado."
+              },
+              {
+                "type": "source",
+                "url": "https://dofi.ibz.be/en/themes/third-country-nationals/family-reunification/visa-d-application-family-reunification"
+              }
+            ]
+          }
+
+
+
+  ]
+}

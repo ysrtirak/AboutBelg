@@ -966,6 +966,42 @@
               "info": "https://www.operaliege.be/en/"
               }
                }
+,
+               {
+              "id": 57,
+              "title": "Westfront Nieuwpoort",
+              "url": "https://cdn.s-pass.org/SPASSDATA/media/cache/portail_vignette_xl/SPASSDATA/attachments/2023_08/29/157118-img-5309.jpeg",
+              "details": {
+              "place_name": "Westfront Nieuwpoort",
+              "location": "https://www.google.com/maps/place/West+Front+Newport/@51.4226475,-0.2228302,7.43z/data=!4m6!3m5!1s0x47dcbca5e2d1ceb5:0x4a342713f9717054!8m2!3d51.1360054!4d2.7556629!16s%2Fg%2F122srx3r?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "images": [
+              "https://www.nieuwpoort.be/files/uploads/imagecache/aurumNexCoupledImageExtraSmall/images/Westfront/westfront-2.jpg",
+              "https://www.visit-nieuwpoort.be/sites/default/files/styles/original_ratio_zero/public/2024-07/Westfront_Stad%20Nieuwpoort_%20%C2%A9%202024%20Jan%20D%27Hondt%20Atelje%CC%81%20D%201G3A8238.jpg?itok=VS5eNsVq",
+              "https://www.visit-nieuwpoort.be/sites/default/files/styles/square_xl/public/2023-12/BezoekerscentrumWestfrontInkom.jpg?itok=eFjhM1uB",
+              "https://www.urbastyle.com/sites/default/files/styles/pdf_width_1300/public/westfront_01_0.jpg?itok=QYiohBDp"
+              ],
+               "video": "https://www.youtube.com/watch?v=iTMwSAL4iL4&ab_channel=VisitNieuwpoort",
+              "info": "https://www.nieuwpoort.be/westfrontnieuwpoort"
+              }
+               }
+,
+               {
+              "id": 58,
+              "title": "Mardasson Memorial",
+              "url": "https://www.landofmemory.eu/wp-content/uploads/2021/09/8-2.jpg",
+              "details": {
+              "place_name": "Mardasson Memorial",
+              "location": "https://www.google.com/maps/place/Mardasson+Memorial,+6600+Bastogne/@50.0104129,5.6989416,14z/data=!3m1!4b1!4m10!1m2!2m1!1sMardasson+Memorial!3m6!1s0x47c01999de77c725:0x78a183c386018868!8m2!3d50.01042!4d5.73791!15sChJNYXJkYXNzb24gTWVtb3JpYWySAQxzdWJsb2NhbGl0eTHgAQA!16s%2Fg%2F1hc3mdnpz?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "images": [
+              "https://www.liberationroute.com/pictures/3437/bastogne-war-museum-2_1280_1280_fit_90_1280_1280_fit_90.jpg",
+              "https://en.ardennes-etape.be/experience/sites/default/files/styles/1426_750/public/2022-12/MartinDellicour_2019_DJI_0591_0.jpg?itok=CldsoVpo",
+              "https://en.ardennes-etape.be/experience/sites/default/files/styles/1426_750/public/2022-12/MartinDellicour_2019__DSC6672.jpg?itok=l-KRfUu7",
+              "https://thebattlefieldexplorer.com/wp-content/uploads/2018/05/Untitled-design-19-1.jpg"
+              ],
+               "video": "https://www.youtube.com/watch?v=-6BQJDeGy0c&ab_channel=usembassybrussels",
+              "info": "https://www.regiedesbatiments.be/fr/projects/mardasson-memorial"
+              }
+               }
 
 
 

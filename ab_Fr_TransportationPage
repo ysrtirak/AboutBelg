@@ -91,7 +91,49 @@
           "url": "https://digital.belgium.be/iaf/hil/economie/soctar/?lng=nl"
         }
       ]
+    },
+    {
+        "question": "Quelles sont les allocations familiales et de naissance en Belgique ?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Presque tous les enfants vivant en Belgique ont droit aux allocations familiales et de naissance."
+            },
+            {
+                "type": "paragraph",
+                "text": "- Vlaanderen"
+            },
+            {
+                "type": "source",
+                "url": "http://www.groeipakket.be/"
+            },
+            {
+                "type": "paragraph",
+                "text": "- Bruxelles"
+            },
+            {
+                "type": "source",
+                "url": "http://www.iriscare.brussels/fr/citoyens/allocations-familiales/informations-generales/"
+            },
+            {
+                "type": "paragraph",
+                "text": "- Wallonie"
+            },
+            {
+                "type": "source",
+                "url": "http://www.aviq.be/"
+            },
+            {
+                "type": "paragraph",
+                "text": "- Germanophone"
+            },
+            {
+                "type": "source",
+                "url": "https://ostbelgienfamilie.be/desktopdefault.aspx/tabid-5886/10077_read-54689/"
+            }
+        ]
     }
+
 
 
 

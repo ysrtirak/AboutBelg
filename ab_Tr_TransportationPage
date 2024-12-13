@@ -91,7 +91,52 @@
                 "url": "https://digital.belgium.be/iaf/hil/economie/soctar/?lng=nl"
             }
         ]
+    },
+    {
+        "question": "Belçika'da aile ve doğum yardımları nelerdir?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Belçika'da yaşayan hemen hemen tüm çocuklar aile ve doğum yardımlarına hak kazanır."
+            },
+            {
+                "type": "paragraph",
+                "text": "- Vlaanderen"
+            },
+            {
+                "type": "source",
+                "url": "http://www.groeipakket.be/"
+            },
+            {
+                "type": "paragraph",
+                "text": "- Bruxelles"
+            },
+            {
+                "type": "source",
+                "url": "http://www.iriscare.brussels/fr/citoyens/allocations-familiales/informations-generales/"
+            },
+            {
+                "type": "paragraph",
+                "text": "- Wallonie"
+            },
+            {
+                "type": "source",
+                "url": "http://www.aviq.be/"
+            },
+            {
+                "type": "paragraph",
+                "text": "- Almanca Konuşulan Bölge"
+            },
+            {
+                "type": "source",
+                "url": "https://ostbelgienfamilie.be/desktopdefault.aspx/tabid-5886/10077_read-54689/"
+            }
+        ]
     }
+
+
+
+
 
 
 

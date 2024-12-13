@@ -1,0 +1,95 @@
+{
+  "questions": [
+    {
+        "question": "¿Cuáles son las reglas para la educación obligatoria en Bélgica?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "En Bélgica, la educación obligatoria comienza a los 5 años y continúa hasta los 18 años. Esto aplica a todos los niños que residen en Bélgica, independientemente de su nacionalidad. La educación puede cumplirse a través de la escolarización tradicional o formas reconocidas de educación en el hogar. Las regulaciones específicas pueden variar ligeramente entre las regiones flamenca, francófona y germanófona, reflejando las políticas educativas regionales."
+            },
+            {
+                "type": "paragraph",
+                "text": "- Vlaanderen"
+            },
+            {
+                "type": "source",
+                "url": "https://www.vlaanderen.be/onderwijs-en-vorming/leerplicht"
+            },
+            {
+                "type": "paragraph",
+                "text": "- Wallonie"
+            },
+            {
+                "type": "source",
+                "url": "http://www.enseignement.be/index.php?page=24546&navi=22"
+            },
+            {
+                "type": "paragraph",
+                "text": "- Deutsch"
+            },
+            {
+                "type": "source",
+                "url": "https://ostbelgienbildung.be/desktopdefault.aspx/tabid-2270//4284_read-31613/#:~:text=Alle%20Kinder%20sind%20ab%20dem,wird%2C%20nicht%20mehr%20der%20Schulpflicht."
+            }
+        ]
+    },
+    {
+        "question": "¿Cuál es la equivalencia de diplomas en Bélgica?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Una declaración de equivalencia es un documento que expresa el valor de los estudios realizados en el extranjero. Para la educación primaria y secundaria, puede ser necesario obtener una declaración de equivalencia si deseas continuar con la educación secundaria, superior, una formación o trabajar como autónomo en Bélgica. Los diplomas obtenidos en programas belgas en el extranjero o dentro de las comunidades francófona, flamenca o germanófona son reconocidos automáticamente como equivalentes."
+            },
+            {
+                "type": "paragraph",
+                "text": "- Wallonie"
+            },
+            {
+                "type": "source",
+                "url": "http://www.equivalences.cfwb.be/"
+            },
+            {
+                "type": "paragraph",
+                "text": "- Vlaanderen"
+            },
+            {
+                "type": "source",
+                "url": "https://www.vlaanderen.be/en/naric-vlaanderen"
+            },
+            {
+                "type": "paragraph",
+                "text": "- Deutsch"
+            },
+            {
+                "type": "source",
+                "url": "https://ostbelgienlive.be/"
+            }
+        ]
+    },
+    {
+        "question": "¿Cuáles son las opciones de cuidado infantil en Bélgica?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Si estás trabajando, después de tu licencia de maternidad (posiblemente extendida por otros tipos de licencias), necesitarás cuidado infantil. Hay varias opciones externas como guarderías y cuidadores de niños. Se recomienda empezar a buscar con anticipación ya que muchos lugares tienen largas listas de espera. Bajo ciertas condiciones, puedes beneficiarte de una deducción fiscal por los gastos de cuidado infantil."
+            },
+            {
+                "type": "paragraph",
+                "text": "- Wallonie y Bruselas"
+            },
+            {
+                "type": "source",
+                "url": "http://www.one.be/"
+            },
+            {
+                "type": "paragraph",
+                "text": "- Vlaanderen"
+            },
+            {
+                "type": "source",
+                "url": "http://www.kindengezin.be/"
+            }
+        ]
+    }
+  ]
+}

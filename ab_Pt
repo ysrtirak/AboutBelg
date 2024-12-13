@@ -1,0 +1,50 @@
+{
+  "homePage": {
+    "title": "Explore a Bélgica",
+    "description": "Aqui estão alguns tópicos-chave para explorar sobre a Bélgica:",
+    "menu": [
+        {
+            "title": "Legal",
+            "route": "LegalPage"
+          },
+      {
+        "title": "Educação",
+        "route": "EducationPage"
+      },
+      {
+        "title": "Emprego",
+        "route": "EmploymentPage"
+      },
+      {
+        "title": "Saúde",
+        "route": "HealthcarePage"
+      },
+      {
+        "title": "Vida Cotidiana",
+        "route": "HousingPage"
+      },
+      {
+        "title": "Suporte",
+        "route": "TransportationPage"
+      }
+    ]
+  },
+  "legalPage": {
+    "title": "Informações Legais"
+  },
+  "educationPage": {
+    "title": "Educação na Bélgica"
+  },
+  "employmentPage": {
+    "title": "Oportunidades de Emprego na Bélgica"
+  },
+  "healthcarePage": {
+    "title": "Sistema de Saúde na Bélgica"
+  },
+  "housingPage": {
+    "title": "Informações sobre Habitação"
+  },
+  "transportationPage": {
+    "title": "Transporte"
+  }
+}

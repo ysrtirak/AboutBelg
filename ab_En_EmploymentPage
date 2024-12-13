@@ -368,7 +368,35 @@
                 "url": "https://rjv.be/fr/ouvriers/mon-compte-de-vacances"
             }
         ]
+    },
+    {
+        "question": "What is mycareer.be?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "mycareer.be is an online service provided by the National Social Security Office (ONSS) that offers a clear and reliable overview of your professional career. It includes information about your past and current jobs (as an employee, self-employed person, or civil servant) as well as periods of inactivity. Additionally, mycareer.be shows your earned salary and the number of days worked."
+            },
+            {
+                "type": "source",
+                "url": "http://www.mycareer.be/?change_locale=fr_FR"
+            }
+        ]
+    },
+    {
+        "question": "What should I know about pensions if I reside in Belgium and have worked abroad?",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "If you have worked abroad in an EEA country, the UK, Switzerland, or a country with which Belgium has a bilateral social security agreement, your foreign employment can impact your pension. It can influence your retirement date and the amount of your Belgian pension. Your foreign career years are considered when determining your pension age and may positively affect your Belgian pension amount. Notify the authorities about your foreign employment when applying for your Belgian pension via mypension.be, by phone, at your local municipality, or via the Pension Service. If you are already receiving a Belgian pension but not a foreign pension, you can still apply for the latter through these methods. Note that you must apply directly to the foreign pension authority if no European regulations or bilateral agreements apply."
+            },
+            {
+                "type": "source",
+                "url": "https://www.sfpd.fgov.be/fr/etranger#resideenBelgique"
+            }
+        ]
     }
+
+
 
 
 

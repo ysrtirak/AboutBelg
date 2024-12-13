@@ -1,11 +1,11 @@
 {
   "questions": [
     {
-        "question": "What are the rules for compulsory education in Belgium?",
+        "question": "Quais são as regras para a educação obrigatória na Bélgica?",
         "content": [
             {
                 "type": "paragraph",
-                "text": "In Belgium, compulsory education starts at the age of 5 and continues until the age of 18. This applies to all children residing in Belgium, regardless of nationality. Education can be fulfilled through traditional schooling or recognized forms of home education. The specific regulations may vary slightly between the Flemish, French-speaking, and German-speaking regions, reflecting regional education policies."
+                "text": "Na Bélgica, a educação obrigatória começa aos 5 anos e continua até os 18 anos. Isso se aplica a todas as crianças que residem na Bélgica, independentemente da nacionalidade. A educação pode ser cumprida através do ensino tradicional ou formas reconhecidas de educação em casa. As regulamentações específicas podem variar ligeiramente entre as regiões de língua flamenga, francesa e alemã, refletindo as políticas educacionais regionais."
             },
             {
                             "type": "paragraph",
@@ -33,11 +33,11 @@
         ]
     },
     {
-        "question": "What is the equivalence of diplomas in Belgium?",
+        "question": "Qual é a equivalência de diplomas na Bélgica?",
         "content": [
             {
                 "type": "paragraph",
-                "text": "An equivalence statement is a document which expresses the value of the studies you have undertaken abroad. For primary and secondary education, an equivalence statement may be required if you wish to pursue secondary education, higher education, training, or work as a self-employed person in Belgium. Diplomas obtained from Belgian programmes abroad or within the French, Flemish, or German-speaking communities are automatically recognized as equivalent."
+                "text": "Uma declaração de equivalência é um documento que expressa o valor dos estudos realizados no exterior. Para o ensino primário e secundário, pode ser necessário obter uma declaração de equivalência caso deseje prosseguir no ensino secundário, superior, formação ou trabalhar como autônomo na Bélgica. Diplomas obtidos em programas belgas no exterior ou dentro das comunidades de língua francesa, flamenga ou alemã são automaticamente reconhecidos como equivalentes."
             },{
                                                         "type": "paragraph",
                                                         "text": "- Wallonie"
@@ -62,14 +62,14 @@
             }
         ]
     },{
-                 "question": "What are the childcare options in Belgium?",
+                 "question": "Quais são as opções de cuidado infantil na Bélgica?",
                  "content": [
                      {
                          "type": "paragraph",
-                         "text": "If you are working, after your maternity leave (possibly extended by other types of leave), you will need childcare. There are various external options such as nurseries and childminders. It is advisable to start looking early as many places have long waiting lists. Under certain conditions, you may benefit from a tax deduction for childcare expenses."
+                         "text": "Se você estiver trabalhando, após a licença maternidade (possivelmente estendida por outros tipos de licença), precisará de cuidados infantis. Existem várias opções externas, como creches e cuidadores de crianças. É aconselhável começar a procurar cedo, pois muitos locais têm longas listas de espera. Sob certas condições, você pode se beneficiar de uma dedução fiscal para despesas com cuidados infantis."
                      },{
                                                          "type": "paragraph",
-                                                         "text": "- Wallonie and Bruxelles"
+                                                         "text": "- Wallonie e Bruxelles"
                                                      },
                      {
                          "type": "source",
@@ -84,16 +84,5 @@
                      }
                  ]
              }
-
-
-
-
-
-
-
-
-
-
-
   ]
 }
