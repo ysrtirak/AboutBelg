@@ -1,0 +1,410 @@
+{
+  "questions": [
+    {
+      "question": "O que são as agências de emprego VDAB, Le Forem e Actiris na Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "VDAB, Le Forem e Actiris são agências oficiais de colocação e suporte de carreira que atendem diferentes regiões na Bélgica. Aqui estão os detalhes sobre cada agência:"
+        },
+        {
+          "type": "paragraph",
+          "text": "VDAB (Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding):"
+        },
+        {
+          "type": "source",
+          "url": "www.vdab.be"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le Forem:"
+        },
+        {
+          "type": "source",
+          "url": "www.leforem.be"
+        },
+        {
+          "type": "paragraph",
+          "text": "Actiris:"
+        },
+        {
+          "type": "source",
+          "url": "www.actiris.brussels"
+        },
+        {
+          "type": "paragraph",
+          "text": "Essas agências são organizações oficiais de emprego na Bélgica, oferecendo serviços na sua maioria gratuitos. O suporte está acessível com base na região onde você mora. Além disso, como cidadão da UE, você pode ter acesso facilitado a esses serviços."
+        }
+      ]
+    },
+    {
+      "question": "Quais são as disposições legais para trabalhadores estudantes na Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Um trabalhador estudante na Bélgica pode trabalhar até 600 horas por ano, durante as quais é aplicável uma contribuição solidária reduzida."
+        },
+        {
+          "type": "source",
+          "url": "https://www.studentatwork.be"
+        }
+      ]
+    },
+    {
+      "question": "Quais são as profissões em escassez na Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Os serviços regionais de emprego na Bélgica atualizam regularmente listas de profissões em escassez, que são empregos com falta significativa de trabalhadores qualificados. Se você deseja estudar em áreas relacionadas a essas profissões, pode ser isento de certas obrigações como candidato a emprego enquanto continua recebendo benefícios de desemprego sob condições específicas."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Vlaanderen"
+        },
+        {
+          "type": "source",
+          "url": "https://www.vdab.be/knelpuntberoepen"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Brussel"
+        },
+        {
+          "type": "source",
+          "url": "https://www.actiris.brussels/nl/burgers/beroepsreferentiecentra/"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Wallonie"
+        },
+        {
+          "type": "source",
+          "url": "https://www.leforem.be/citoyens/metiers-porteurs.html"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Duits"
+        },
+        {
+          "type": "source",
+          "url": "https://www.adg.be/"
+        }
+      ]
+    },
+    {
+      "question": "Como encontrar um emprego no governo federal belga?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Werkenvoor.be é a maior plataforma de empregos para posições no governo e serve como o portal central de vagas do governo federal belga. Oferece uma ampla gama de oportunidades de emprego no setor público em vários domínios, incluindo TI, RH, comunicação, administração, saúde e cuidados, pesquisa e desenvolvimento, e segurança. A plataforma publica vagas e organiza seleções para o governo federal, bem como para autoridades regionais, comunitárias e locais."
+        },
+        {
+          "type": "source",
+          "url": "https://werkenvoor.be/nl"
+        }
+      ]
+    },
+    {
+      "question": "Como funciona a rescisão de contrato de trabalho por tempo indeterminado na Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A rescisão de um contrato de trabalho por tempo indeterminado na Bélgica pode ocorrer por demissão do empregado ou dispensa pelo empregador. Deve ser dado aviso prévio de acordo com os prazos legais determinados, que variam com base no tempo de serviço e no status do empregado. Regras e condições específicas se aplicam para garantir a conformidade com as leis trabalhistas belgas."
+        },
+        {
+          "type": "source",
+          "url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/einde-van-de-arbeidsovereenkomst/einde-van-de-arbeidsovereenkomst-3"
+        }
+      ]
+    },
+    {
+      "question": "Quais são os prazos de aviso prévio para demissão por parte do empregado na Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Na Bélgica, os empregados que desejam se demitir devem respeitar prazos específicos de aviso prévio, determinados com base no tempo de serviço. Esses prazos garantem uma transição tranquila e variam conforme a duração do emprego. Os empregados devem fornecer aviso por escrito ao empregador, seguindo os procedimentos legais estabelecidos pelas leis trabalhistas belgas."
+        },
+        {
+          "type": "source",
+          "url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/einde-van-de-arbeidsovereenkomst/einde-van-de-arbeidsovereenkomst-1"
+        }
+      ]
+    },
+    {
+      "question": "O que acontece quando um contrato de trabalho por tempo indeterminado termina com pagamento de indenização na Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Na Bélgica, um contrato de trabalho por tempo indeterminado pode ser encerrado imediatamente se o empregador ou empregado optar por pagar uma indenização em vez de cumprir o período de aviso prévio. O valor da indenização corresponde aos salários que o empregado teria recebido durante o período de aviso prévio, garantindo a conformidade com as regulamentações trabalhistas."
+        },
+        {
+          "type": "source",
+          "url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/einde-van-de-arbeidsovereenkomst/einde-van-de-arbeidsovereenkomst-0"
+        }
+      ]
+    }, {
+            "question": "Quais são as regras especiais para encerrar um contrato de trabalho por tempo indeterminado na Bélgica?",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Na Bélgica, a rescisão de um contrato de trabalho por tempo indeterminado pode estar sujeita a regras especiais dependendo de circunstâncias específicas. Estas incluem proteções para empregados em certas situações, como gravidez, representação sindical ou durante doença. As regras visam equilibrar os direitos tanto do empregador quanto do empregado, em conformidade com as leis trabalhistas belgas."
+              },
+              {
+                "type": "source",
+                "url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/einde-van-de-arbeidsovereenkomst/einde-van-de-arbeidsovereenkomst-2"
+              }
+            ]
+          },
+          {
+            "question": "Quais são os feriados públicos na Bélgica?",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "A Bélgica reconhece dez feriados públicos oficiais por ano. Esses feriados são observados em todo o país e frequentemente oferecem aos empregados um dia de folga. Os empregadores são obrigados a compensar os empregados por esses dias, em conformidade com as regulamentações trabalhistas."
+              },
+              {
+                "type": "source",
+                "url": "https://www.belgium.be/nl/werk/verlof_en_loopbaanonderbrekingen/feestdagen"
+              }
+            ]
+          },
+          {
+            "question": "Quais são as regras para as férias anuais na Bélgica?",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Na Bélgica, os empregados em tempo integral geralmente têm direito a quatro semanas de férias anuais, conhecidas como 'férias ordinárias'. O cálculo dos dias de férias e do pagamento das férias varia dependendo da categoria do empregado, como operários, empregados, aprendizes, artistas ou funcionários públicos. Empregados que não trabalharam o suficiente no ano anterior para se qualificarem para quatro semanas de férias podem ser elegíveis para dias adicionais de férias, férias juvenis ou férias para idosos. O pagamento das férias pode ser um adiantamento sobre as férias do ano seguinte ou um pagamento do Escritório Nacional de Emprego (RVA)."
+              },
+              {
+                "type": "source",
+                "url": "https://www.socialsecurity.be/citizen/nl/verlof-tijdskrediet-en-loopbaanonderbreking/jaarlijkse-vakantie"
+              }
+            ]
+          },
+          {
+            "question": "Quais são as regras para licença-maternidade na Bélgica?",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Na Bélgica, a licença-maternidade inclui um total de 15 semanas, divididas em licença pré-natal e pós-natal. A licença pré-natal permite até 6 semanas antes da data prevista para o parto, com um mínimo de uma semana obrigatória. A licença pós-natal cobre as semanas restantes após o nascimento, e tempo adicional pode ser concedido em casos de múltiplos nascimentos ou condições médicas específicas. A licença-maternidade é protegida por lei para garantir a saúde e o bem-estar da mãe e da criança."
+              },
+              {
+                "type": "source",
+                "url": "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/moederschapsverlof"
+              }
+            ]
+          },
+          {
+            "question": "Quais são as regras para licença-paternidade ou licença de nascimento para empregados na Bélgica?",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Na Bélgica, os empregados têm direito a 15 dias de licença-paternidade ou licença de nascimento após o nascimento de seu filho. Esses dias podem ser tirados consecutivamente ou distribuídos dentro de quatro meses após o nascimento. Durante esse período, o empregado tem direito ao salário pelos três primeiros dias, enquanto os dias restantes são compensados pelo Instituto Nacional de Seguro de Saúde e Invalidez (RIZIV/INAMI)."
+              },
+              {
+                "type": "source",
+                "url": "https://www.inami.fgov.be/nl/thema-s/zwangerschap-en-geboorte/vaderschaps-of-geboorteverlof-en-adoptieverlof/vaderschaps-of-geboorteverlof-voor-werknemers#.WusbJKSFNyw"
+              }
+            ]
+          },
+          {
+            "question": "Quais são os motivos para suspensão de um contrato de trabalho pelo empregado na Bélgica?",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Na Bélgica, um contrato de trabalho pode ser suspenso por motivos relacionados ao empregado. Estes incluem doença ou acidente, licença-maternidade, licença parental, licença familiar, licença-paternidade ou de nascimento, ou participação em programas de formação específicos. A suspensão interrompe temporariamente as obrigações de ambas as partes, empregador e empregado, mantendo a relação de emprego."
+              },
+              {
+                "type": "source",
+                "url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/schorsing-van-de-arbeidsovereenkomst/schorsingen-van-de"
+              }
+            ]
+          },
+          {
+            "question": "Quais são as regras para licença política na Bélgica?",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Na Bélgica, a licença política permite que os empregados participem de funções públicas, como atuar como membro do parlamento ou de um conselho local. A duração e as condições da licença política dependem do tipo de função pública e são reguladas por lei. Os empregadores são obrigados a conceder essa licença, mantendo a posição do empregado, embora a compensação durante a licença possa variar."
+              },
+              {
+                "type": "source",
+                "url": "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/politiek-verlof?id=549"
+              }
+            ]
+          },
+          {
+            "question": "Quais são as regras sobre incapacidade para trabalhar, acidentes de trabalho e doenças ocupacionais na Bélgica?",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Na Bélgica, os empregados têm direito a proteções específicas em casos de incapacidade para trabalhar, acidentes de trabalho ou doenças ocupacionais. Os empregadores devem garantir a segurança e a saúde dos empregados, e os trabalhadores afetados têm direito a compensações ou benefícios durante a recuperação. Esses benefícios são fornecidos pela seguridade social e podem variar dependendo da natureza e gravidade da condição. Os trabalhadores devem informar imediatamente o empregador e seguir os procedimentos legais necessários para reivindicar esses benefícios."
+              },
+              {
+                "type": "source",
+                "url": "https://www.socialsecurity.be/citizen/nl/arbeidsongeschiktheid-ongeval-en-beroepsziekte"
+              }
+            ]
+          },
+          {
+            "question": "Quais são as regras para acidentes de trabalho na Bélgica?",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Na Bélgica, acidentes de trabalho são incidentes que ocorrem durante e devido à execução do trabalho, causando lesões ou danos ao empregado. Os empregadores são obrigados a ter seguro para cobrir acidentes de trabalho, garantindo a compensação por despesas médicas, invalidez temporária ou permanente e, em alguns casos, benefícios por morte aos dependentes. Os empregados devem relatar o acidente imediatamente ao empregador para garantir o tratamento adequado da reivindicação."
+              },
+              {
+                "type": "source",
+                "url": "https://www.socialsecurity.be/citizen/nl/arbeidsongeschiktheid-ongeval-en-beroepsziekte/arbeidsongeval"
+              }
+            ]
+          },{
+                  "question": "Quais são as regras para benefícios de desemprego total na Bélgica?",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "Na Bélgica, indivíduos que estão totalmente desempregados e atendem a certas condições podem se qualificar para benefícios de desemprego. Os requisitos incluem ter trabalhado um número mínimo de dias dentro de um período de referência específico, estar registrado como candidato a emprego e estar ativamente em busca de trabalho. O valor e a duração dos benefícios dependem do histórico de trabalho, situação familiar e ganhos anteriores do indivíduo. As solicitações devem ser feitas através do Escritório Nacional de Emprego (RVA)."
+                    },
+                    {
+                      "type": "source",
+                      "url": "https://www.rva.be/burgers/volledige-werkloosheid"
+                    }
+                  ]
+                },
+                {
+                  "question": "Quais são os principais sistemas de pensões na Bélgica?",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "A Bélgica possui três sistemas principais de pensões: o sistema para empregados, o sistema para autônomos e o sistema para funcionários públicos, aplicável a oficiais nomeados permanentemente. Cada sistema possui diferentes requisitos de contribuição e benefícios de pensão. Além disso, existem sistemas de pensão especiais para profissões específicas, como mineiros, marinheiros, pessoal de aviação civil e jornalistas profissionais. Para informações detalhadas sobre pensões para empregados e funcionários públicos estatutários, consulte o Serviço Federal de Pensões (FPD)."
+                    },
+                    {
+                      "type": "source",
+                      "url": "https://www.sfpd.fgov.be/nl"
+                    }
+                  ]
+                },
+                {
+                  "question": "Quais opções de formação estão disponíveis para empreendedores e aspirantes a autônomos na Bélgica?",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "Tornar-se autônomo na Bélgica requer o domínio de várias habilidades profissionais, como conhecimento técnico e gestão. Aspirantes a empreendedores podem seguir um programa de formação alternada que combina cursos teóricos com estágios práticos em negócios. Para autônomos e empregados de PME que desejam aprimorar suas habilidades ou se adaptar a desenvolvimentos tecnológicos, estão disponíveis formações especializadas através de várias organizações regionais."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Na Flandres, o SYNTRA oferece formação para empreendedores, empregados de PME e líderes empresariais através de seus 24 centros na Flandres e em Bruxelas."
+                    },
+                    {
+                      "type": "source",
+                      "url": "https://www.syntra.be/"
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Na Região de Bruxelas, o EFP oferece formação para líderes empresariais e cursos avançados para empregados especializados ou autônomos."
+                    },
+                    {
+                      "type": "source",
+                      "url": "https://www.efp.be/"
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Na Valônia, o IFAPME oferece formação para empreendedores e suporte educacional para aqueles interessados em iniciar um negócio."
+                    },
+                    {
+                      "type": "source",
+                      "url": "https://www.ifapme.be/"
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Na região germanófona, o IAWM gerencia formação para mais de 50 profissões, incluindo programas para líderes empresariais e formação avançada para trabalhadores especializados ou autônomos."
+                    },
+                    {
+                      "type": "source",
+                      "url": "https://www.iawm.be/home/"
+                    }
+                  ]
+                },
+                {
+                  "question": "Quais são os requisitos para ser autônomo na Bélgica?",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "Para se tornar autônomo na Bélgica, os indivíduos devem atender a condições específicas e completar vários procedimentos administrativos. Os requisitos principais incluem ter pelo menos 18 anos, possuir direitos civis e políticos, e ter capacidade legal para exercer a atividade pretendida. Cidadãos de fora da UE podem precisar obter uma carteira profissional, dependendo de sua nacionalidade e da região onde planejam operar. O registro na Crossroads Bank for Enterprises (CBE) é obrigatório, e, dependendo da estrutura do negócio, etapas adicionais, como a redação de estatutos, podem ser necessárias."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "- Vlaanderen"
+                    },
+                    {
+                      "type": "source",
+                      "url": "https://www.vlaanderen.be/departement-werk-sociale-economie/overzicht-dienstverlening/en/home"
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "- Brussels"
+                    },
+                    {
+                      "type": "source",
+                      "url": "https://economy-employment.brussels/"
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "- Wallonie"
+                    },
+                    {
+                      "type": "source",
+                      "url": "https://emploi.wallonie.be/en/home/travailleurs-etrangers/carte-professionnelle.html"
+                    }
+                  ]
+                },
+                {
+                  "question": "O que é 'Mijn vakantierekening' e como os trabalhadores podem acessá-lo na Bélgica?",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "'Mijn vakantierekening' é um serviço online que permite aos trabalhadores na Bélgica acessar informações detalhadas sobre seus direitos e pagamentos de férias. A plataforma foi recentemente atualizada para melhorar a experiência do usuário, fornecendo acesso claro e seguro aos dados de férias. Este serviço é particularmente útil para os trabalhadores acompanharem seus benefícios de férias e planejarem suas férias."
+                    },
+                    {
+                      "type": "source",
+                      "url": "https://rjv.be/fr/ouvriers/mon-compte-de-vacances"
+                    }
+                  ]
+                },
+                {
+                  "question": "O que é mycareer.be?",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "mycareer.be é um serviço online fornecido pelo Escritório Nacional de Seguridade Social (ONSS) que oferece uma visão clara e confiável da sua carreira profissional. Inclui informações sobre seus empregos passados e atuais (como empregado, autônomo ou funcionário público), bem como períodos de inatividade. Além disso, o mycareer.be mostra seu salário recebido e o número de dias trabalhados."
+                    },
+                    {
+                      "type": "source",
+                      "url": "http://www.mycareer.be/?change_locale=fr_FR"
+                    }
+                  ]
+                },
+                {
+                  "question": "O que devo saber sobre pensões se resido na Bélgica e trabalhei no exterior?",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "Se você trabalhou no exterior em um país do EEE, no Reino Unido, na Suíça ou em um país com o qual a Bélgica possui um acordo bilateral de seguridade social, seu emprego no exterior pode impactar sua pensão. Isso pode influenciar sua data de aposentadoria e o valor da sua pensão belga. Os anos de carreira no exterior são considerados ao determinar sua idade de aposentadoria e podem impactar positivamente o valor da sua pensão belga. Notifique as autoridades sobre seu emprego no exterior ao solicitar sua pensão belga através do mypension.be, por telefone, no município local ou através do Serviço de Pensões. Se você já estiver recebendo uma pensão belga, mas não uma pensão estrangeira, ainda poderá solicitá-la por esses métodos. Observe que, se não houver regulamentos europeus ou acordos bilaterais aplicáveis, você deve solicitar diretamente à autoridade de pensões estrangeira."
+                    },
+                    {
+                      "type": "source",
+                      "url": "https://www.sfpd.fgov.be/fr/etranger#resideenBelgique"
+                    }
+                  ]
+                }
+
+
+
+
+
+
+
+
+
+  ]
+}

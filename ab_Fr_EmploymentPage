@@ -372,7 +372,34 @@
               "url": "https://rjv.be/fr/ouvriers/mon-compte-de-vacances"
             }
           ]
+        },
+        {
+            "question": "Qu'est-ce que mycareer.be ?",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "text": "mycareer.be est un service en ligne fourni par l'Office National de Sécurité Sociale (ONSS) qui offre un aperçu clair et fiable de votre carrière professionnelle. Il inclut des informations sur vos emplois passés et actuels (en tant que salarié, indépendant ou fonctionnaire), ainsi que sur vos périodes d'inactivité. De plus, mycareer.be affiche votre salaire gagné et le nombre de jours travaillés."
+                },
+                {
+                    "type": "source",
+                    "url": "http://www.mycareer.be/?change_locale=fr_FR"
+                }
+            ]
+        },
+        {
+            "question": "Que dois-je savoir sur les pensions si je réside en Belgique et ai travaillé à l'étranger ?",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "text": "Si vous avez travaillé à l'étranger dans un pays de l'EEE, au Royaume-Uni, en Suisse ou dans un pays avec lequel la Belgique a conclu une convention bilatérale de sécurité sociale, votre emploi à l'étranger peut avoir un impact sur votre pension. Cela peut influencer votre date de départ à la retraite et le montant de votre pension belge. Les années de carrière à l'étranger sont prises en compte pour déterminer l'âge de votre pension et peuvent augmenter le montant de votre pension belge. Informez les autorités de votre emploi à l'étranger lors de votre demande de pension belge via mypension.be, par téléphone, à votre municipalité locale ou auprès du Service des Pensions. Si vous percevez déjà une pension belge mais pas de pension étrangère, vous pouvez toujours demander cette dernière par ces moyens. Notez que vous devez faire une demande directement auprès de l'autorité de pension étrangère si aucune réglementation européenne ou convention bilatérale ne s'applique."
+                },
+                {
+                    "type": "source",
+                    "url": "https://www.sfpd.fgov.be/fr/etranger#resideenBelgique"
+                }
+            ]
         }
+
 
 
 

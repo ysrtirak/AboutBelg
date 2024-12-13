@@ -1,0 +1,253 @@
+{
+  "questions": [
+    {
+      "question": "¿Qué es BE-Alert y cómo puedes registrarte en Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "BE-Alert es un sistema nacional de alerta en Bélgica que permite al gobierno notificar a los ciudadanos en caso de emergencias, como incendios, desastres naturales o incidentes ambientales. Complementa los medios tradicionales como la radio y la televisión, enviando alertas directamente a las personas a través de SMS, correo electrónico o mensajes hablados en teléfonos fijos."
+        },
+        {
+          "type": "image",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-XtRRbDsWBSrg-VfDa2NjIRQ2XGkv6VbFA&s"
+        },
+        {
+          "type": "source",
+          "url": "https://www.be-alert.be/"
+        }
+      ]
+    },
+    {
+      "question": "¿Cuáles son los números de emergencia y asistencia disponibles en Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "En caso de emergencias, puedes contactar a los servicios públicos de emergencia y líneas de asistencia en Bélgica. Aquí tienes una lista completa de los principales números de emergencia y líneas de apoyo."
+        },
+        {
+          "type": "image",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTykvHfsJ1JAMiQlPbHX03naVikGUOOgF1MVQ&s"
+        },
+        {
+          "type": "paragraph",
+          "text": "### Números de Emergencia\n- **Policía:** 101\n- **Ambulancia y Bomberos:** 112\n- **Número de Emergencia Europeo:** 112\n\nCuando llames a estos números, se te preguntará primero si necesitas una ambulancia, los bomberos o la policía. Puedes contactar estos números:\n- Desde una línea fija.\n- Usando un smartphone a través de la [aplicación 112](https://www.app112.be/).\n- Con un teléfono móvil (no se requiere una tarjeta SIM ni una suscripción activa)."
+        },
+        {
+          "type": "paragraph",
+          "text": "### Asistencia No Urgente de Bomberos Durante Clima Extremo\n- Llama al **1722** para asistencia no urgente del cuerpo de bomberos durante condiciones climáticas extremas.\n- También puedes hacer solicitudes a través de:\n  - El [e-loket 1722](https://www.1722.be/).\n  - El número pagado **1722**.\n  - Tu cuerpo de bomberos local."
+        },
+        {
+          "type": "paragraph",
+          "text": "### Otros Servicios de Asistencia y Líneas de Ayuda\n| **Servicio**                              | **Número**               |\n|------------------------------------------|--------------------------|\n| Centro de Control de Envenenamiento      | 070 245 245             |\n| Médico General de Guardia                | 1733                    |\n| Farmacias de Guardia                     | 0903 99 000             |\n| Transporte Médico No Urgente (Cruz Roja) | 105                     |\n| Child Focus                               | 116 000                 |\n| Tele-Onthaal (soporte emocional)         | 106                     |\n| Línea de Prevención del Suicidio         | 1813 o 02 649 95 55    |\n| Línea de Ayuda contra la Violencia       | 1712                    |\n| Awel (línea para niños y jóvenes)        | 102                     |\n| CAW (preguntas sobre bienestar)          | 0800 13 500             |\n| JAC (centro de asesoramiento juvenil)    | Contacto en línea       |\n| Nupraatikerover (chat para menores sobre abuso) | Solo chat en línea      |"
+        },
+        {
+          "type": "paragraph",
+          "text": "### ¿Qué Hacer en Caso de Emergencia?\nPara más información sobre qué hacer antes, durante y después de una emergencia, visita el sitio web del [Centro Nacional de Crisis](https://crisiscentrum.be/)."
+        }
+      ]
+    },
+    {
+      "question": "¿Es gratuita la intervención de una ambulancia en Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Los servicios de ambulancia en Bélgica no son completamente gratuitos. El costo depende de si la situación implica asistencia médica de emergencia o transporte médico no urgente."
+        },
+        {
+          "type": "image",
+          "url": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_644w/2024/08/14/node_727555/3775198/public/2024/08/14/ambulance_flandre.jpeg?itok=d5oz_Dms1723621259"
+        },
+        {
+          "type": "paragraph",
+          "text": "### Asistencia Médica de Emergencia\n- Cuando llamas al **112** para una persona en peligro, se envía una ambulancia o un equipo del Grupo Médico de Emergencia (MUG) para evaluar, tratar y transportar al paciente al hospital.\n- **Costo:**\n  - Los pacientes pagan una tarifa fija legal para las intervenciones de ambulancia, incluso si deciden no ser transportados.\n  - El seguro de salud **no** reembolsa esta tarifa.\n  - No se pueden cobrar costos adicionales más allá de la tarifa fija.\n- El equipo MUG proporciona intervenciones para salvar vidas y estabiliza al paciente antes del transporte al hospital.\n  - Los costos del médico del MUG son totalmente reembolsados por el seguro de salud.\n  - Algunos otros cargos pueden ser parcialmente asumidos por el paciente."
+        },
+        {
+          "type": "paragraph",
+          "text": "### Transporte Médico No Urgente\n- El transporte médico no urgente es un transporte médico planificado, como para diálisis renal o una admisión hospitalaria programada.\n- **Costo:**\n  - Este servicio no es reembolsado por el seguro de salud.\n  - Algunos fondos de seguro de salud o seguros de hospitalización pueden cubrir parcialmente los costos. Verifica los detalles con tu proveedor de seguros.\n  - Existen diferencias significativas de precio entre las empresas de transporte. Las empresas deben revelar una tarifa máxima al reservar el servicio, y esta tarifa debe mostrarse en la ambulancia.\n- Si no se proporciona información sobre precios, se pueden presentar quejas a la empresa o a tu fondo de seguro de salud."
+        },
+        {
+          "type": "source",
+          "url": "https://www.belgium.be/en"
+        }
+      ]
+    },
+    {
+      "question": "¿Son gratuitas o pagadas las intervenciones del cuerpo de bomberos en Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Las intervenciones del cuerpo de bomberos en Bélgica están reguladas por ley. Aunque la mayoría de los servicios son gratuitos, algunas intervenciones pueden tener costos dependiendo de su naturaleza y las regulaciones del municipio local."
+        },
+        {
+          "type": "image",
+          "url": "https://www.mensura.be/uploads/cache/hero/uploads/media/624ae33929048/brandveiligheid-preventie-en-bestrijding.png?v1"
+        },
+        {
+          "type": "paragraph",
+          "text": "### ¿Cuándo son gratuitos los servicios del cuerpo de bomberos?\nLos servicios de los bomberos son siempre gratuitos para:\n- Incendios.\n- Explosiones.\n- Rescate de personas en peligro (por ejemplo, salvar a una persona que se está ahogando)."
+        },
+        {
+          "type": "paragraph",
+          "text": "### ¿Cuándo se debe pagar por los servicios del cuerpo de bomberos?\n- Los municipios están obligados a cobrar por intervenciones no obligatorias realizadas por sus cuerpos de bomberos.\n- Algunas intervenciones obligatorias también pueden cobrarse, según las regulaciones tarifarias del municipio (retributiereglement).\n\nEjemplos de servicios pagados incluyen:\n- Asistencia médica urgente.\n- Contaminación ambiental (cargada al operador o propietario de los materiales contaminantes).\n- Rescate de animales.\n- Bombeo de agua de un sótano debido a un mal mantenimiento de las tuberías de agua.\n- Eliminación de nidos de avispas."
+        },
+        {
+          "type": "paragraph",
+          "text": "Para más información, contacta con tu municipio o cuerpo de bomberos local."
+        },
+        {
+          "type": "source",
+          "url": "https://www.belgium.be/en"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué es la Garantía de Ingresos para los Ancianos (IGO) en Bélgica y cómo puedes solicitarla?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La Garantía de Ingresos para los Ancianos (IGO) es un beneficio financiero proporcionado a las personas que han alcanzado la edad legal de jubilación pero no tienen los medios suficientes para mantenerse. Garantiza un nivel básico de ingresos para los residentes mayores en Bélgica."
+        },
+        {
+          "type": "paragraph",
+          "text": "### Criterios de Elegibilidad\nPara calificar para la IGO, se deben cumplir las siguientes condiciones:\n- **Medios Financieros:** Tus recursos totales, incluidos los de tu cónyuge o pareja legal, deben estar por debajo de un cierto umbral. Se realiza una evaluación detallada para determinar esto.\n- **Edad:** Debes haber alcanzado la edad legal de jubilación.\n- **Nacionalidad:** Debes ser ciudadano belga o estar en una situación equivalente.\n- **Residencia:** Tu residencia principal debe estar en Bélgica, y debes vivir allí de manera continua sin interrupciones.\n\nPara más detalles sobre el cálculo de recursos y los umbrales de ingresos, visita el sitio web del Servicio Federal de Pensiones."
+        },
+        {
+          "type": "paragraph",
+          "text": "### Procedimiento de Solicitud\nEn la mayoría de los casos, no necesitas solicitar la IGO. El proceso comienza automáticamente si:\n- Solicitas una pensión del Servicio Federal de Pensiones y el monto de tu pensión está por debajo del umbral mínimo.\n- Ya recibes una pensión y alcanzas la edad legal de jubilación.\n- Recibes una asignación por discapacidad y alcanzas la edad legal de jubilación.\n- Recibes asistencia social y alcanzas la edad legal de jubilación."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si ninguno de los casos anteriores aplica, debes presentar una solicitud:\n- **En Línea:** A través de [mypension.be](https://www.mypension.be/). Una vez enviada, recibirás un correo de confirmación si proporcionas tu dirección de correo electrónico. Tu solicitud aparecerá en ‘Mi Archivo’ durante visitas posteriores.\n- **Por Teléfono:** Llama a la Línea de Pensiones al **1765**, selecciona neerlandés y presiona 3 y luego 1.\n- **En Persona:** En tu oficina municipal local."
+        },
+        {
+          "type": "paragraph",
+          "text": "### Cronograma de Pago\n- Los pagos comienzan **el mes siguiente a que alcances la edad legal de jubilación** si el proceso es automático.\n- Si solicitas después de alcanzar la edad de jubilación, los pagos comienzan **el mes siguiente a tu solicitud.**\n- Para aquellos sin un mes de nacimiento registrado, los pagos comienzan el **1 de agosto del año en que alcanzas la edad legal de jubilación.**"
+        },
+        {
+          "type": "source",
+          "url": "https://www.mypension.be/"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué es el esquema de reembolso incrementado en Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El esquema de reembolso incrementado en Bélgica proporciona una mejor cobertura para costos médicos como consultas, medicamentos y hospitalización. Algunas personas son automáticamente elegibles según sus circunstancias, mientras que otras necesitan solicitar este beneficio a través de su fondo de seguro de salud. Este esquema tiene como objetivo hacer que la atención médica sea más accesible financieramente para quienes lo necesitan."
+        },
+        {
+          "type": "source",
+          "url": "https://www.inami.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/financiele-toegankelijkheid/de-verhoogde-tegemoetkoming#.Vrr_T_nhBpg"
+        }
+      ]
+    }, {
+            "question": "¿Qué asistencia financiera está disponible para los costos médicos en Bélgica?",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "En Bélgica, está disponible asistencia financiera para las personas que no pueden costear sus gastos médicos. Los fondos de seguro de salud o el Centro Público de Bienestar Social (OCMW/CPAS) pueden intervenir para proporcionar apoyo. Las personas vulnerables, como aquellas que reciben beneficios sociales o no tienen ingresos, pueden calificar para un reembolso incrementado que cubra los gastos médicos. Además, el Fondo de Solidaridad Especial ofrece apoyo financiero para procedimientos médicos específicos que no son reembolsables."
+              },
+              {
+                "type": "source",
+                "url": "https://www.socialsecurity.be/citizen/nl/gezondheid/financiele-hulp#topic62af4f5d7203db65672a5b3d51bcbcbe75bb46f5"
+              }
+            ]
+          },
+          {
+            "question": "¿Qué es un expediente médico global (GMD) y cómo beneficia a los pacientes en Bélgica?",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Un expediente médico global (GMD) es un historial médico personalizado mantenido por tu médico general (GP) en Bélgica. Permite una mejor gestión de la salud y coordinación entre los proveedores de atención médica. Al abrir un GMD con tu médico general, te beneficias de mayores reembolsos para consultas y visitas, haciendo que la atención médica sea más accesible mientras garantiza un cuidado integral y continuo."
+              },
+              {
+                "type": "source",
+                "url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/financiele-toegankelijkheid/dankzij-een-globaal-medisch-dossier-gmd-kan-u-goedkoper-naar-de-huisarts"
+              }
+            ]
+          },
+          {
+            "question": "¿Qué medidas existen para las personas con discapacidad en Bélgica?",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Bélgica ha implementado varias medidas en diferentes niveles de gobierno para apoyar a las personas con discapacidad. Estas medidas están diseñadas para abordar necesidades específicas e incluyen beneficios sociales, iniciativas de accesibilidad y apoyo al empleo. El gobierno federal, junto con las comunidades y regiones, desempeña un papel clave en garantizar el bienestar y la inclusión de las personas con discapacidad."
+              },
+              {
+                "type": "source",
+                "url": "https://www.handicap.belgium.be"
+              }
+            ]
+          },
+          {
+            "question": "¿Por qué es importante la vacunación y cómo se implementa en Bélgica?",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "La vacunación es crucial para prevenir complicaciones graves, de largo plazo o incluso fatales derivadas de enfermedades infecciosas. Al introducir una forma inactivada o debilitada de un patógeno, las vacunas estimulan el sistema inmunológico del cuerpo para reconocer y combatir la enfermedad antes de que se desarrolle. En Bélgica, las vacunas son altamente recomendadas, especialmente para los niños pequeños, y algunas se administran desde los dos meses de edad. Las autoridades nacionales y regionales de salud garantizan programas de vacunación accesibles."
+              },
+              {
+                "type": "paragraph",
+                "text": "- Vlaanderen"
+              },
+              {
+                "type": "source",
+                "url": "https://www.departementzorg.be/"
+              },
+              {
+                "type": "paragraph",
+                "text": "- Duitstalige"
+              },
+              {
+                "type": "source",
+                "url": "https://ostbelgienlive.be/"
+              },
+              {
+                "type": "paragraph",
+                "text": "- Wallonie"
+              },
+              {
+                "type": "source",
+                "url": "https://www.vaccination-info.be/"
+              }
+            ]
+          },
+          {
+            "question": "¿Cuál es el papel de las farmacias en Bélgica?",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Las farmacias en Bélgica son espacios esenciales de atención sanitaria abiertos al público. Proporcionan dos tipos de medicamentos: los preparados por el farmacéutico y los fabricados industrialmente. Las farmacias también ofrecen una gama de productos relacionados con la salud, como muletas, implantes, vitaminas y suplementos dietéticos. Los farmacéuticos deben cumplir con estrictas regulaciones, asegurando la calidad y conformidad de los medicamentos que dispensan. También brindan orientación sobre el uso adecuado de los medicamentos, posibles efectos secundarios y la adherencia al tratamiento."
+              },
+              {
+                "type": "source",
+                "url": "https://www.apotheek.be/"
+              },
+              {
+                "type": "source",
+                "url": "https://www.pharmacie.be/"
+              }
+            ]
+          },
+          {
+            "question": "¿Cuál es la importancia de la Tarjeta Sanitaria Europea (EHIC) para viajar al EEE o Suiza?",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Cuando viajas temporalmente a otro país dentro del Espacio Económico Europeo (EEE) o Suiza, es esencial llevar tu Tarjeta Sanitaria Europea (EHIC). Esta tarjeta garantiza que recibas atención médica necesaria durante tu estancia, con costos totalmente o parcialmente reembolsados. Ten en cuenta que para viajar a Noruega, Islandia, Liechtenstein, Suiza o Dinamarca, debes tener la nacionalidad de un país de la UE o de estas naciones específicas."
+              },
+              {
+                "type": "source",
+                "url": "https://www.inami.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/internationaal/vakantie/u-gaat-op-vakantie-in-de-europese-economische-ruimte-eer-of-zwitserland#.VoqFufnhBpg"
+              }
+            ]
+          }
+
+
+
+
+
+
+  ]
+}

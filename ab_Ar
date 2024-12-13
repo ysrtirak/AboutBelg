@@ -1,0 +1,50 @@
+{
+  "homePage": {
+    "title": "استكشاف بلجيكا",
+    "description": "إليك بعض المواضيع الرئيسية لاستكشاف بلجيكا:",
+    "menu": [
+      {
+        "title": "قانوني",
+        "route": "LegalPage"
+      },
+      {
+        "title": "التعليم",
+        "route": "EducationPage"
+      },
+      {
+        "title": "التوظيف",
+        "route": "EmploymentPage"
+      },
+      {
+        "title": "الرعاية الصحية",
+        "route": "HealthcarePage"
+      },
+      {
+        "title": "الحياة اليومية",
+        "route": "HousingPage"
+      },
+      {
+        "title": "الدعم",
+        "route": "TransportationPage"
+      }
+    ]
+  },
+  "legalPage": {
+    "title": "معلومات قانونية"
+  },
+  "educationPage": {
+    "title": "التعليم في بلجيكا"
+  },
+  "employmentPage": {
+    "title": "فرص العمل في بلجيكا"
+  },
+  "healthcarePage": {
+    "title": "نظام الرعاية الصحية في بلجيكا"
+  },
+  "housingPage": {
+    "title": "معلومات السكن"
+  },
+  "transportationPage": {
+    "title": "النقل"
+  }
+}

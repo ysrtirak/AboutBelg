@@ -1,0 +1,280 @@
+{
+  "questions": [
+    {
+      "question": "¿Qué es la Línea de Ayuda 1712 para violencia, abuso y abuso infantil?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La línea de ayuda 1712 brinda apoyo para preguntas y preocupaciones sobre todas las formas de violencia, abuso y abuso infantil. Un consejero profesional escucha tu historia, ofrece información y asesoramiento, y trabaja contigo para encontrar la mejor solución posible."
+        },
+        {
+          "type": "image",
+          "url": "https://www.1712.be/sites/default/files/2022-02/1712-og.png"
+        },
+        {
+          "type": "source",
+          "url": "https://www.1712.be"
+        },
+        {
+          "type": "image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Child_abuse_helpline.jpg"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué es itsme® en Bélgica y cómo funciona?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "itsme® en Bélgica es una aplicación de identidad digital segura que permite a los usuarios confirmar su identidad, iniciar sesión en servicios, aprobar transacciones y firmar documentos electrónicamente. Es ampliamente utilizada en todo el país para diversos servicios en línea, incluidos gobierno, banca, salud y negocios privados."
+        },
+        {
+          "type": "image",
+          "url": "https://www.belfius.be/common/NL/multimedia/MMDownloadableFile/Images/selfbanking/Rebranding/itsme/picto-logo-screenshot.png"
+        },
+        {
+          "type": "source",
+          "url": "https://www.itsme.be"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué es 'Mijn Burgerprofiel' en Bélgica y cómo funciona?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "En Bélgica, 'Mijn Burgerprofiel' se refiere al perfil personal de un ciudadano o conjunto de información gestionada por las autoridades gubernamentales, a menudo en el contexto de los servicios de gobierno electrónico. Es una colección digital de datos sobre un individuo, generalmente accesible a través de portales gubernamentales seguros. Este perfil permite a los ciudadanos ver, gestionar e interactuar con su información personal y los servicios gubernamentales en línea."
+        },
+        {
+          "type": "image",
+          "url": "https://www.burgerprofiel.be/img/mbpapp/illu-MBPapp.svg"
+        },
+        {
+          "type": "source",
+          "url": "https://www.burgerprofiel.be"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué es My eBox en Bélgica y cómo funciona?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "My eBox es un buzón digital seguro donde los ciudadanos pueden recibir y gestionar mensajes de diversas organizaciones gubernamentales y entidades. Sirve como un centro electrónico para acceder de manera segura a documentos personales y notificaciones relacionadas con tus interacciones con instituciones públicas. Las empresas también pueden usar eBox Enterprise para fines similares."
+        },
+        {
+          "type": "image",
+          "url": "https://financien.belgium.be/sites/default/files/scc/logo-ebox.png"
+        },
+        {
+          "type": "source",
+          "url": "https://www.mye-box.be"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué es Doccle en Bélgica y cómo funciona?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Doccle es una plataforma digital en Bélgica diseñada para gestionar documentos de manera segura, centralizada y fácil de usar. Actúa como un buzón y solución de almacenamiento digital, permitiendo a las personas recibir, organizar y almacenar documentos oficiales de varios proveedores de servicios."
+        },
+        {
+          "type": "image",
+          "url": "https://accountancyvandaag.be/wp-content/uploads/2022/04/Doccle-en-Digitaal-Vlaanderen.jpeg"
+        },
+        {
+          "type": "source",
+          "url": "https://www.doccle.be"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué es Payconiq by Bancontact en Bélgica y cómo funciona?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Payconiq by Bancontact es una solución de pago móvil ampliamente utilizada en Bélgica, que permite pagos rápidos, seguros y convenientes a través de teléfonos inteligentes. Combina las funcionalidades de Bancontact (la red nacional de tarjetas de débito) y Payconiq (una plataforma de pagos digitales)."
+        },
+        {
+          "type": "image",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/20/37/f22037e8-d000-ec09-834a-a5e9101b1fe4/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/1200x630wa.png"
+        },
+        {
+          "type": "source",
+          "url": "https://www.payconiq.be"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué es Woolsocks en Bélgica y cómo funciona?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Woolsocks es una aplicación financiera en Bélgica diseñada para simplificar la gestión del dinero y ayudar a los usuarios a ahorrar en compras. Combina recompensas de cashback, perspectivas financieras y oportunidades de inversión para mejorar el bienestar financiero de los usuarios."
+        },
+        {
+          "type": "image",
+          "url": "https://play-lh.googleusercontent.com/2x_OmpJCvm2KwyYYGwAr52PRIm-ql96qAfukssLTaebN2huHXMgJcdVzMB0jhO5FlxY"
+        },
+        {
+          "type": "source",
+          "url": "https://woolsocks.be"
+        }
+      ]
+    },  {
+            "question": "¿Cuáles son las aplicaciones más útiles para vivir en Bélgica?",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Aquí tienes descripciones detalladas de aplicaciones que pueden ayudarte a simplificar tu vida diaria en Bélgica:"
+              },
+              {
+                "type": "paragraph",
+                "text": "**1. Burgerprofiel**\n\nDescripción: Este es el portal ciudadano oficial de Bélgica. Permite a los residentes acceder a documentos oficiales, actualizar su dirección, registrarse como votantes y realizar tareas relacionadas con el gobierno.\n\nFunciones:\n- Ver datos personales (dirección, número de ciudadanía, etc.).\n- Solicitar documentos oficiales (por ejemplo, certificados de nacimiento o matrimonio).\n- Acceso fácil a servicios de e-gobierno."
+              },
+              {
+                "type": "image",
+                "url": "https://play-lh.googleusercontent.com/cG4UhjIFSlWRZC0POJKEGNFNOvcF29neJrDj6PRr3TQLe4jhnj9NTZhcxZRKE8zUgV0"
+              },
+              {
+                "type": "source",
+                "url": "https://burgerprofiel.vlaanderen.be"
+              },
+              {
+                "type": "paragraph",
+                "text": "**2. Recycle**\n\nDescripción: Una aplicación que facilita los procesos de reciclaje en Bélgica. Recuerda a los usuarios los días de recolección de residuos y proporciona información sobre el correcto reciclaje.\n\nFunciones:\n- Muestra el calendario de recolección de residuos en tu área.\n- Recordatorios para días específicos de recolección.\n- Guías sobre reglas de reciclaje y gestión local de residuos."
+              },
+              {
+                "type": "image",
+                "url": "https://play-lh.googleusercontent.com/fgNKGs9fR39RaxG85y0K1eDVftXkZuWGAzhMTbJvzcZ8Sp7wimUFVUQaAAKW3hvDQYo-"
+              },
+              {
+                "type": "source",
+                "url": "https://www.recycleapp.be"
+              },
+              {
+                "type": "paragraph",
+                "text": "**3. itsme®**\n\nDescripción: Una aplicación de identidad digital y acceso seguro ampliamente utilizada en Bélgica para servicios bancarios, gubernamentales y autenticación en compras en línea.\n\nFunciones:\n- Inicio de sesión seguro (como alternativa al eID).\n- Firma digital.\n- Acceso a cuentas bancarias.\n- Inicio de sesión en sistemas de e-gobierno."
+              },
+              {
+                "type": "image",
+                "url": "https://play-lh.googleusercontent.com/C9YmmJ8shCkiMZd01JD-qaO4m755aQvGTBg7WngxZdxtlxuHodj3kD0s_I2wufcQqXw"
+              },
+              {
+                "type": "source",
+                "url": "https://www.itsme.be"
+              },
+              {
+                "type": "paragraph",
+                "text": "**4. mynexuzhealth**\n\nDescripción: Una aplicación de salud para gestionar citas hospitalarias, resultados de laboratorio y recetas en Bélgica.\n\nFunciones:\n- Programar y ver citas.\n- Acceder a resultados de pruebas.\n- Rastrear historial médico.\n- Comunicarse con médicos."
+              },
+              {
+                "type": "image",
+                "url": "https://play-lh.googleusercontent.com/yBZ7se5ZXeoZ6HHe7ODfEYvrkYA7vWkDSVwA3KIGdVWVCLpcNKg3zR8vz6ROHMWuI2c"
+              },
+              {
+                "type": "source",
+                "url": "https://www.mynexuzhealth.be"
+              },
+              {
+                "type": "paragraph",
+                "text": "**5. Payconiq**\n\nDescripción: Una popular aplicación de pagos móviles en Bélgica para compras diarias, pagos en restaurantes y transferencias de dinero entre personas.\n\nFunciones:\n- Pagos rápidos mediante código QR.\n- Enviar dinero a individuos sin necesidad de un IBAN.\n- Pagar facturas y suscripciones.\n- Transacciones seguras y rápidas."
+              },
+              {
+                "type": "image",
+                "url": "https://play-lh.googleusercontent.com/GB9kVFntaEDw8jy2WeE7jYVXYHqVZABOzoQ8TgjhkW4rvOlI-r3LBiIGaEfZoqmU-U4"
+              },
+              {
+                "type": "source",
+                "url": "https://www.payconiq.be"
+              },
+              {
+                "type": "paragraph",
+                "text": "**6. Doccle**\n\nDescripción: Una plataforma para almacenar y gestionar digitalmente documentos oficiales como registros fiscales, facturas y documentos de seguros en Bélgica.\n\nFunciones:\n- Almacenamiento digital de documentos.\n- Recibir y pagar facturas y notificaciones fiscales.\n- Compartir y organizar documentos."
+              },
+              {
+                "type": "image",
+                "url": "https://www.ergo.be/nl_be/images/37-11663_logo%20doccle.png"
+              },
+              {
+                "type": "source",
+                "url": "https://www.doccle.be"
+              },
+              {
+                "type": "paragraph",
+                "text": "**7. De Lijn**\n\nDescripción: La aplicación oficial de De Lijn, que gestiona el transporte público en la región de Flandes. Proporciona información sobre servicios de autobuses y tranvías.\n\nFunciones:\n- Ver horarios de autobuses y tranvías.\n- Comprar boletos.\n- Información de transporte en tiempo real.\n- Planificación de rutas."
+              },
+              {
+                "type": "image",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/De_Lijn.svg/1200px-De_Lijn.svg.png"
+              },
+              {
+                "type": "source",
+                "url": "https://www.delijn.be"
+              },
+              {
+                "type": "paragraph",
+                "text": "**8. SNCB**\n\nDescripción: La aplicación oficial de la red ferroviaria nacional de Bélgica (SNCB/NMBS). Proporciona información sobre horarios de trenes dentro de Bélgica.\n\nFunciones:\n- Ver horarios y rutas de trenes.\n- Comprar boletos de tren.\n- Información sobre retrasos y cancelaciones.\n- Guardar rutas favoritas."
+              },
+              {
+                "type": "image",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/SNCB_logo.svg/1200px-SNCB_logo.svg.png"
+              },
+              {
+                "type": "source",
+                "url": "https://www.sncb.be"
+              },
+              {
+                "type": "paragraph",
+                "text": "**9. SNCB International**\n\nDescripción: Una aplicación para reservar viajes internacionales en tren desde Bélgica. Cubre servicios como Thalys, Eurostar y otras redes de alta velocidad.\n\nFunciones:\n- Comprar boletos de tren internacionales.\n- Crear itinerarios de viaje.\n- Consultar detalles de rutas y tiempos de transferencia.\n- Acceder a descuentos y promociones especiales."
+              },
+              {
+                "type": "image",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/SNCB_logo.svg/1200px-SNCB_logo.svg.png"
+              },
+              {
+                "type": "source",
+                "url": "https://www.sncb-international.com"
+              },
+              {
+                "type": "paragraph",
+                "text": "Estas aplicaciones están diseñadas para facilitar la vida diaria en Bélgica y ayudarte a integrarte en los sistemas locales. ¡Elige las que mejor se adapten a tus necesidades!"
+              }
+            ]
+          },
+          {
+            "question": "¿Cómo se reconocen las licencias de conducir extranjeras en Bélgica?",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Las licencias de conducir extranjeras se reconocen en Bélgica bajo condiciones específicas. Las licencias de países de la UE/EEE son válidas sin necesidad de intercambio. Las licencias de fuera de la UE pueden requerir un procedimiento de intercambio, que implica cumplir ciertos criterios y presentar una solicitud a través de tu oficina municipal local. Para guías detalladas, consulta el Servicio Público Federal de Movilidad y Transporte."
+              },
+              {
+                "type": "source",
+                "url": "https://mobilit.belgium.be/en/road/driving/driving-licences/foreign-driving-licences#:~:text=The%20exchange%20procedure%20can%20be,to%20comply%20with%20the%20procedure."
+              }
+            ]
+          },
+          {
+            "question": "¿Cuáles son los canales de TV y radio disponibles en Bélgica?",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Bélgica ofrece una amplia gama de canales de TV y radio que atienden a varios idiomas e intereses. Estos incluyen canales en francés, neerlandés y alemán, reflejando la cultura multilingüe del país. Para una lista detallada de canales disponibles, incluidas opciones locales e internacionales, consulta la lista de canales proporcionada por tu proveedor de servicios o explora ofertas específicas de operadores como Orange, Proximus o Telenet."
+              },
+              {
+                "type": "source",
+                "url": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.orange.be/sites/b2c/files/let_1803013_channels_list_sfr_bxl_fr.pdf"
+              }
+            ]
+          }
+
+
+
+
+
+
+
+  ]
+}

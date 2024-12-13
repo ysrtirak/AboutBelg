@@ -370,7 +370,34 @@
                                 "url": "https://rjv.be/fr/ouvriers/mon-compte-de-vacances"
                             }
                         ]
+                    },
+                    {
+                        "question": "mycareer.be nedir?",
+                        "content": [
+                            {
+                                "type": "paragraph",
+                                "text": "mycareer.be, Ulusal Sosyal Güvenlik Ofisi (ONSS) tarafından sunulan çevrimiçi bir hizmettir ve profesyonel kariyerinizin net ve güvenilir bir özetini sağlar. Bu hizmet, geçmişteki ve mevcut işleriniz (çalışan, serbest meslek sahibi veya memur olarak) ile birlikte, çalışmadığınız dönemlerle ilgili bilgileri de içerir. Ayrıca, mycareer.be üzerinden kazandığınız maaş ve çalıştığınız gün sayısını görebilirsiniz."
+                            },
+                            {
+                                "type": "source",
+                                "url": "http://www.mycareer.be/?change_locale=fr_FR"
+                            }
+                        ]
+                    },
+                    {
+                        "question": "Belçika'da ikamet edip yurt dışında çalışmışsam emeklilik hakkında neler bilmeliyim?",
+                        "content": [
+                            {
+                                "type": "paragraph",
+                                "text": "Eğer bir EEA ülkesinde, Birleşik Krallık'ta, İsviçre'de veya Belçika'nın ikili sosyal güvenlik anlaşması yaptığı bir ülkede çalıştıysanız, yurt dışındaki çalışma geçmişiniz emekliliğinizi etkileyebilir. Bu, emeklilik tarihinizi ve Belçika'dan alacağınız emeklilik miktarını etkileyebilir. Yurt dışındaki kariyer yıllarınız emeklilik yaşınız belirlenirken dikkate alınır ve Belçika emekli maaşınızın miktarını olumlu yönde etkileyebilir. Belçika emekliliği için başvuru yaparken yurt dışındaki çalışmalarınızı mypension.be üzerinden, telefonla, yerel belediyeniz aracılığıyla veya Emeklilik Hizmeti üzerinden yetkililere bildirin. Eğer Belçika emekliliği alıyorsanız ancak yurt dışı emekliliği almıyorsanız, bu ikinci emeklilik için hâlâ başvuruda bulunabilirsiniz. Ancak, Avrupa düzenlemeleri veya ikili anlaşmalar geçerli değilse, doğrudan yabancı emeklilik otoritesine başvurmanız gerekmektedir."
+                            },
+                            {
+                                "type": "source",
+                                "url": "https://www.sfpd.fgov.be/fr/etranger#resideenBelgique"
+                            }
+                        ]
                     }
+
 
 
 

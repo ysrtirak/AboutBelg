@@ -1,0 +1,278 @@
+{
+  "questions": [
+    {
+      "question": "ما هو خط المساعدة 1712 للعنف وسوء المعاملة وإساءة معاملة الأطفال؟",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "يوفر خط المساعدة 1712 الدعم للأسئلة والمخاوف المتعلقة بجميع أشكال العنف وسوء المعاملة وإساءة معاملة الأطفال. يستمع مستشار محترف إلى قصتك، ويقدم المعلومات والنصائح، ويعمل معك لإيجاد أفضل حل ممكن."
+        },
+        {
+          "type": "image",
+          "url": "https://www.1712.be/sites/default/files/2022-02/1712-og.png"
+        },
+        {
+          "type": "source",
+          "url": "https://www.1712.be"
+        },
+        {
+          "type": "image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Child_abuse_helpline.jpg"
+        }
+      ]
+    },
+    {
+      "question": "ما هو تطبيق itsme® في بلجيكا وكيف يعمل؟",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "itsme® هو تطبيق هوية رقمية آمن في بلجيكا يتيح للمستخدمين تأكيد هويتهم، تسجيل الدخول إلى الخدمات، الموافقة على المعاملات، وتوقيع الوثائق إلكترونيًا. يُستخدم التطبيق على نطاق واسع في جميع أنحاء البلاد لمجموعة متنوعة من الخدمات عبر الإنترنت، بما في ذلك الحكومة، البنوك، الرعاية الصحية، والأعمال الخاصة."
+        },
+        {
+          "type": "image",
+          "url": "https://www.belfius.be/common/NL/multimedia/MMDownloadableFile/Images/selfbanking/Rebranding/itsme/picto-logo-screenshot.png"
+        },
+        {
+          "type": "source",
+          "url": "https://www.itsme.be"
+        }
+      ]
+    },
+    {
+      "question": "ما هو 'Mijn Burgerprofiel' في بلجيكا وكيف يعمل؟",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "'Mijn Burgerprofiel' يشير إلى ملف المواطن الشخصي أو مجموعة المعلومات التي تحتفظ بها السلطات الحكومية في بلجيكا، وغالبًا ما تكون في سياق خدمات الحكومة الإلكترونية. إنه مجموعة رقمية من البيانات حول الفرد، يمكن الوصول إليها عادة عبر بوابات حكومية آمنة. يتيح هذا الملف للمواطنين عرض وإدارة والتفاعل مع معلوماتهم الشخصية وخدمات الحكومة عبر الإنترنت."
+        },
+        {
+          "type": "image",
+          "url": "https://www.burgerprofiel.be/img/mbpapp/illu-MBPapp.svg"
+        },
+        {
+          "type": "source",
+          "url": "https://www.burgerprofiel.be"
+        }
+      ]
+    },
+    {
+      "question": "ما هو My eBox في بلجيكا وكيف يعمل؟",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "My eBox هو صندوق بريد رقمي آمن حيث يمكن للمواطنين تلقي وإدارة الرسائل من مختلف المنظمات الحكومية والجهات. يعمل كحلقة وصل إلكترونية للوصول الآمن إلى المستندات الشخصية والإشعارات المتعلقة بتفاعلاتك مع المؤسسات العامة. يمكن للشركات أيضًا استخدام eBox Enterprise لأغراض مماثلة."
+        },
+        {
+          "type": "image",
+          "url": "https://financien.belgium.be/sites/default/files/scc/logo-ebox.png"
+        },
+        {
+          "type": "source",
+          "url": "https://www.mye-box.be"
+        }
+      ]
+    },
+    {
+      "question": "ما هو Doccle في بلجيكا وكيف يعمل؟",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Doccle هو منصة رقمية في بلجيكا مصممة لإدارة المستندات بطريقة آمنة ومركزية وسهلة الاستخدام. يعمل كصندوق بريد رقمي وحل تخزين، مما يتيح للأفراد استقبال وتنظيم وتخزين الوثائق الرسمية من مختلف مقدمي الخدمات."
+        },
+        {
+          "type": "image",
+          "url": "https://accountancyvandaag.be/wp-content/uploads/2022/04/Doccle-en-Digitaal-Vlaanderen.jpeg"
+        },
+        {
+          "type": "source",
+          "url": "https://www.doccle.be"
+        }
+      ]
+    },
+    {
+      "question": "ما هو Payconiq بواسطة Bancontact في بلجيكا وكيف يعمل؟",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Payconiq بواسطة Bancontact هو حل دفع عبر الهاتف المحمول يُستخدم على نطاق واسع في بلجيكا، يتيح إجراء مدفوعات سريعة وآمنة ومريحة عبر الهواتف الذكية. يجمع بين وظائف Bancontact (شبكة بطاقات الخصم الوطنية) وPayconiq (منصة دفع رقمية)."
+        },
+        {
+          "type": "image",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/20/37/f22037e8-d000-ec09-834a-a5e9101b1fe4/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/1200x630wa.png"
+        },
+        {
+          "type": "source",
+          "url": "https://www.payconiq.be"
+        }
+      ]
+    },
+    {
+      "question": "ما هو Woolsocks في بلجيكا وكيف يعمل؟",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Woolsocks هو تطبيق مالي في بلجيكا مصمم لتبسيط إدارة الأموال ومساعدة المستخدمين على التوفير في المشتريات. يجمع بين مكافآت استرداد النقود، رؤى مالية، وفرص استثمارية لتعزيز الرفاهية المالية للمستخدمين."
+        },
+        {
+          "type": "image",
+          "url": "https://play-lh.googleusercontent.com/2x_OmpJCvm2KwyYYGwAr52PRIm-ql96qAfukssLTaebN2huHXMgJcdVzMB0jhO5FlxY"
+        },
+        {
+          "type": "source",
+          "url": "https://woolsocks.be"
+        }
+      ]
+    },{
+            "question": "ما هي التطبيقات الأكثر فائدة للحياة في بلجيكا؟",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "فيما يلي وصف تفصيلي للتطبيقات التي يمكن أن تساعد في تبسيط حياتك اليومية في بلجيكا:"
+              },
+              {
+                "type": "paragraph",
+                "text": "**1. Burgerprofiel**\n\nالوصف: بوابة المواطنين الرسمية في بلجيكا. تتيح للمقيمين الوصول إلى الوثائق الرسمية، تحديث عنوانهم، التسجيل كناخب، والتعامل مع المهام الحكومية.\n\nالمزايا:\n- عرض البيانات الشخصية (العنوان، رقم الجنسية، إلخ).\n- طلب الوثائق الرسمية (مثل شهادات الميلاد أو الزواج).\n- الوصول السهل إلى خدمات الحكومة الإلكترونية."
+              },
+              {
+                "type": "image",
+                "url": "https://play-lh.googleusercontent.com/cG4UhjIFSlWRZC0POJKEGNFNOvcF29neJrDj6PRr3TQLe4jhnj9NTZhcxZRKE8zUgV0"
+              },
+              {
+                "type": "source",
+                "url": "https://burgerprofiel.vlaanderen.be"
+              },
+              {
+                "type": "paragraph",
+                "text": "**2. Recycle**\n\nالوصف: تطبيق يسهل عمليات إعادة التدوير في بلجيكا. يذكّر المستخدمين بأيام جمع النفايات ويوفر معلومات حول الفرز السليم للنفايات.\n\nالمزايا:\n- عرض جدول جمع النفايات في منطقتك.\n- تذكيرات بأيام جمع النفايات.\n- أدلة حول قواعد إعادة التدوير وإدارة النفايات المحلية."
+              },
+              {
+                "type": "image",
+                "url": "https://play-lh.googleusercontent.com/fgNKGs9fR39RaxG85y0K1eDVftXkZuWGAzhMTbJvzcZ8Sp7wimUFVUQaAAKW3hvDQYo-"
+              },
+              {
+                "type": "source",
+                "url": "https://www.recycleapp.be"
+              },
+              {
+                "type": "paragraph",
+                "text": "**3. itsme®**\n\nالوصف: تطبيق هوية رقمية وآمن يستخدم على نطاق واسع في بلجيكا للخدمات المصرفية، والخدمات الحكومية، والتسوق عبر الإنترنت.\n\nالمزايا:\n- تسجيل دخول آمن (بديل عن eID).\n- توقيع رقمي.\n- الوصول إلى الحسابات المصرفية.\n- تسجيل الدخول إلى أنظمة الحكومة الإلكترونية."
+              },
+              {
+                "type": "image",
+                "url": "https://play-lh.googleusercontent.com/C9YmmJ8shCkiMZd01JD-qaO4m755aQvGTBg7WngxZdxtlxuHodj3kD0s_I2wufcQqXw"
+              },
+              {
+                "type": "source",
+                "url": "https://www.itsme.be"
+              },
+              {
+                "type": "paragraph",
+                "text": "**4. mynexuzhealth**\n\nالوصف: تطبيق صحي لإدارة المواعيد في المستشفيات، نتائج المختبرات، والوصفات الطبية في بلجيكا.\n\nالمزايا:\n- جدولة وعرض المواعيد.\n- الوصول إلى نتائج الاختبارات.\n- متابعة السجل الطبي.\n- التواصل مع الأطباء."
+              },
+              {
+                "type": "image",
+                "url": "https://play-lh.googleusercontent.com/yBZ7se5ZXeoZ6HHe7ODfEYvrkYA7vWkDSVwA3KIGdVWVCLpcNKg3zR8vz6ROHMWuI2c"
+              },
+              {
+                "type": "source",
+                "url": "https://www.mynexuzhealth.be"
+              },
+              {
+                "type": "paragraph",
+                "text": "**5. Payconiq**\n\nالوصف: تطبيق دفع شائع في بلجيكا للشراء اليومي، ودفع المطاعم، وتحويل الأموال بين الأفراد.\n\nالمزايا:\n- دفع سريع عبر رمز QR.\n- إرسال الأموال للأفراد دون الحاجة إلى IBAN.\n- دفع الفواتير والاشتراكات.\n- معاملات آمنة وسريعة."
+              },
+              {
+                "type": "image",
+                "url": "https://play-lh.googleusercontent.com/GB9kVFntaEDw8jy2WeE7jYVXYHqVZABOzoQ8TgjhkW4rvOlI-r3LBiIGaEfZoqmU-U4"
+              },
+              {
+                "type": "source",
+                "url": "https://www.payconiq.be"
+              },
+              {
+                "type": "paragraph",
+                "text": "**6. Doccle**\n\nالوصف: منصة لإدارة الوثائق رقميًا مثل السجلات الضريبية، الفواتير، ومستندات التأمين في بلجيكا.\n\nالمزايا:\n- تخزين الوثائق رقميًا.\n- استلام ودفع الفواتير والإشعارات الضريبية.\n- مشاركة وتنظيم الوثائق."
+              },
+              {
+                "type": "image",
+                "url": "https://www.ergo.be/nl_be/images/37-11663_logo%20doccle.png"
+              },
+              {
+                "type": "source",
+                "url": "https://www.doccle.be"
+              },
+              {
+                "type": "paragraph",
+                "text": "**7. De Lijn**\n\nالوصف: التطبيق الرسمي لشركة De Lijn، المسؤولة عن النقل العام في منطقة فلاندرز. يقدم معلومات عن خدمات الحافلات والترام.\n\nالمزايا:\n- عرض جداول الحافلات والترام.\n- شراء التذاكر.\n- معلومات النقل في الوقت الفعلي.\n- تخطيط المسارات."
+              },
+              {
+                "type": "image",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/De_Lijn.svg/1200px-De_Lijn.svg.png"
+              },
+              {
+                "type": "source",
+                "url": "https://www.delijn.be"
+              },
+              {
+                "type": "paragraph",
+                "text": "**8. SNCB**\n\nالوصف: التطبيق الرسمي لشبكة السكك الحديدية الوطنية البلجيكية (SNCB/NMBS). يوفر معلومات عن جداول القطارات داخل بلجيكا.\n\nالمزايا:\n- عرض جداول ومسارات القطارات.\n- شراء تذاكر القطارات.\n- معلومات عن التأخيرات والإلغاءات.\n- حفظ المسارات المفضلة."
+              },
+              {
+                "type": "image",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/SNCB_logo.svg/1200px-SNCB_logo.svg.png"
+              },
+              {
+                "type": "source",
+                "url": "https://www.sncb.be"
+              },
+              {
+                "type": "paragraph",
+                "text": "**9. SNCB International**\n\nالوصف: تطبيق لحجز رحلات القطارات الدولية من بلجيكا. يغطي خدمات مثل Thalys وEurostar وغيرها من شبكات القطارات عالية السرعة.\n\nالمزايا:\n- شراء تذاكر القطارات الدولية.\n- إنشاء خطط السفر.\n- التحقق من تفاصيل المسارات وأوقات الانتقال.\n- الوصول إلى الخصومات والعروض الخاصة."
+              },
+              {
+                "type": "image",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/SNCB_logo.svg/1200px-SNCB_logo.svg.png"
+              },
+              {
+                "type": "source",
+                "url": "https://www.sncb-international.com"
+              },
+              {
+                "type": "paragraph",
+                "text": "تم تصميم هذه التطبيقات لجعل الحياة اليومية في بلجيكا أكثر سهولة ولمساعدتك على الاندماج في الأنظمة المحلية. اختر ما يناسب احتياجاتك!"
+              }
+            ]
+          },
+          {
+            "question": "كيف يتم الاعتراف برخص القيادة الأجنبية في بلجيكا؟",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "يتم الاعتراف برخص القيادة الأجنبية في بلجيكا وفقًا لشروط محددة. الرخص الصادرة عن دول الاتحاد الأوروبي/المنطقة الاقتصادية الأوروبية صالحة دون الحاجة إلى التبديل. قد تتطلب الرخص غير التابعة للاتحاد الأوروبي إجراء تبادل، والذي يتضمن استيفاء معايير معينة وتقديم طلب عبر مكتب البلدية المحلي. للحصول على إرشادات مفصلة، يرجى الرجوع إلى الخدمة العامة الفيدرالية للتنقل والنقل."
+              },
+              {
+                "type": "source",
+                "url": "https://mobilit.belgium.be/en/road/driving/driving-licences/foreign-driving-licences#:~:text=The%20exchange%20procedure%20can%20be,to%20comply%20with%20the%20procedure."
+              }
+            ]
+          },
+          {
+            "question": "ما هي قنوات التلفزيون والراديو المتوفرة في بلجيكا؟",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "توفر بلجيكا مجموعة واسعة من قنوات التلفزيون والراديو التي تلبي مختلف اللغات والاهتمامات. تشمل هذه القنوات برامج باللغات الفرنسية، الهولندية، والألمانية، مما يعكس التنوع اللغوي في البلاد. للحصول على قائمة مفصلة بالقنوات المتوفرة، بما في ذلك الخيارات المحلية والدولية، يُرجى الرجوع إلى قائمة القنوات المقدمة من مزود الخدمة الخاص بك أو استكشاف العروض المحددة من مشغلين مثل Orange، Proximus، أو Telenet."
+              },
+              {
+                "type": "source",
+                "url": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.orange.be/sites/b2c/files/let_1803013_channels_list_sfr_bxl_fr.pdf"
+              }
+            ]
+          }
+
+
+
+
+
+  ]
+}

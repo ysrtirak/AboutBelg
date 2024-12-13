@@ -1,0 +1,137 @@
+{
+  "questions": [
+    {
+      "question": "Como solicitar habitação social na Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A habitação social na Bélgica inclui casas de aluguel acessíveis, propriedades para venda e terrenos sociais. Para acessar habitação social, os candidatos devem atender a condições específicas. Os programas de habitação social são gerenciados em nível regional, provincial, municipal ou da cidade. Recomenda-se entrar em contato com a organização de habitação social apropriada em sua região para obter informações detalhadas e procedimentos de registro."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Bruxelas"
+        },
+        {
+          "type": "source",
+          "url": "https://be.brussels/fr/propos-de-la-region/structure-et-organisation/administrations-et-institutions-de-la-region/bruxelles-logement"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Valônia"
+        },
+        {
+          "type": "source",
+          "url": "https://www.swl.be/"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Flandres"
+        },
+        {
+          "type": "source",
+          "url": "https://www.vlaanderen.be/wonen-in-vlaanderen"
+        }
+      ]
+    },
+    {
+      "question": "O que é o subsídio de aluguel na Bélgica e como solicitá-lo?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "O subsídio de aluguel é uma ajuda financeira que cobre parte do aluguel enquanto se aguarda a alocação de habitação social. Os critérios de elegibilidade e procedimentos de solicitação variam por região. Os candidatos devem entrar em contato com a autoridade de habitação apropriada em sua região para obter informações detalhadas sobre como se inscrever e as condições específicas para se qualificar."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Bruxelas"
+        },
+        {
+          "type": "source",
+          "url": "https://be.brussels/fr/logement/location/aides-la-location/aides-financieres/allocation-loyer"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Flandres"
+        },
+        {
+          "type": "source",
+          "url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/huren-en-verhuren/tegemoetkoming-in-de-huurprijs-vlaamse-huursubsidie"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Valônia"
+        },
+        {
+          "type": "source",
+          "url": "https://logement.wallonie.be/fr/page/info-conseils-logement"
+        }
+      ]
+    },
+    {
+      "question": "Como obter um desconto de €250 para a compra de um eletrodoméstico eficiente em energia se você for elegível para a tarifa social na Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se você for elegível para a tarifa social de gás natural e eletricidade na Bélgica, pode receber um desconto de €250 ao adquirir uma nova máquina de lavar, secadora, geladeira ou freezer eficiente em energia. Para obter esse desconto, você deve solicitar um voucher personalizado antes de realizar a compra. O voucher é estritamente pessoal e deve ser apresentado em varejistas participantes para receber o desconto imediato no ponto de venda. Note que, a partir de 1º de janeiro de 2025, o processo de solicitação e os critérios de elegibilidade mudarão, com as solicitações sendo tratadas pelo Governo Flamengo. É recomendável consultar o site oficial da Fluvius ou contatá-los diretamente para obter as informações mais atualizadas e garantir que você atenda a todas as condições necessárias."
+        },
+        {
+          "type": "source",
+          "url": "https://www.fluvius.be/nl/premies/kortingsbonnen/kortingsbon-klanten-sociaal-tarief"
+        }
+      ]
+    },
+    {
+      "question": "Como verificar se você está na tarifa social?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Você pode verificar se está se beneficiando da tarifa social visitando o site oficial do governo. Esta plataforma fornece informações detalhadas e permite verificar sua elegibilidade e status atual em relação à tarifa social."
+        },
+        {
+          "type": "source",
+          "url": "https://digital.belgium.be/iaf/hil/economie/soctar/?lng=nl"
+        }
+      ]
+    },
+    {
+      "question": "Quais são as alocações familiares e de nascimento na Bélgica?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Quase todas as crianças que vivem na Bélgica têm direito a alocações familiares e de nascimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Flandres"
+        },
+        {
+          "type": "source",
+          "url": "http://www.groeipakket.be/"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Bruxelas"
+        },
+        {
+          "type": "source",
+          "url": "http://www.iriscare.brussels/fr/citoyens/allocations-familiales/informations-generales/"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Valônia"
+        },
+        {
+          "type": "source",
+          "url": "http://www.aviq.be/"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Germanófono"
+        },
+        {
+          "type": "source",
+          "url": "https://ostbelgienfamilie.be/desktopdefault.aspx/tabid-5886/10077_read-54689/"
+        }
+      ]
+    }
+  ]
+}

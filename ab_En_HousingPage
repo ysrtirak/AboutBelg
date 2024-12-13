@@ -1,6 +1,5 @@
 {
   "questions": [
-
     {
       "question": "What is the 1712 Helpline for violence, abuse, and child abuse?",
       "content": [
@@ -9,9 +8,9 @@
           "text": "The 1712 helpline provides support for questions and concerns about all forms of violence, abuse, and child abuse. A professional counselor listens to your story, offers information and advice, and works with you to find the best possible solution."
         },
         {
-                          "type": "image",
-                          "url": "https://www.1712.be/sites/default/files/2022-02/1712-og.png"
-                 },
+          "type": "image",
+          "url": "https://www.1712.be/sites/default/files/2022-02/1712-og.png"
+        },
         {
           "type": "source",
           "url": "https://www.1712.be"
@@ -30,9 +29,9 @@
           "text": "itsme® in Belgium is a secure digital identity application that allows users to confirm their identity, log in to services, approve transactions, and sign documents electronically. It is widely used across the country for various online services, including government, banking, healthcare, and private businesses."
         },
         {
-                          "type": "image",
-                          "url": "https://www.belfius.be/common/NL/multimedia/MMDownloadableFile/Images/selfbanking/Rebranding/itsme/picto-logo-screenshot.png"
-                 },
+          "type": "image",
+          "url": "https://www.belfius.be/common/NL/multimedia/MMDownloadableFile/Images/selfbanking/Rebranding/itsme/picto-logo-screenshot.png"
+        },
         {
           "type": "source",
           "url": "https://www.itsme.be"
@@ -47,10 +46,9 @@
           "text": "In Belgium, 'burgerprofiel' refers to a citizen's personal profile or set of information held by government authorities, often in the context of e-government services. It is a digital collection of data about an individual, typically accessible via secure government portals. This profile allows citizens to view, manage, and interact with their personal information and governmental services online."
         },
         {
-                          "type": "image",
-                          "url": "https://www.burgerprofiel.be/img/mbpapp/illu-MBPapp.svg"
-                 },
-
+          "type": "image",
+          "url": "https://www.burgerprofiel.be/img/mbpapp/illu-MBPapp.svg"
+        },
         {
           "type": "source",
           "url": "https://www.burgerprofiel.be"
@@ -64,12 +62,10 @@
           "type": "paragraph",
           "text": "My eBox is a secure digital mailbox where citizens can receive and manage messages from various government organizations and entities. It serves as an electronic hub for securely accessing personal documents and notifications related to your interactions with public institutions. Companies can also use eBox Enterprise for similar purposes."
         },
-
         {
-                          "type": "image",
-                          "url": "https://financien.belgium.be/sites/default/files/scc/logo-ebox.png"
-                 },
-
+          "type": "image",
+          "url": "https://financien.belgium.be/sites/default/files/scc/logo-ebox.png"
+        },
         {
           "type": "source",
           "url": "https://www.mye-box.be"
@@ -84,10 +80,9 @@
           "text": "Doccle is a digital platform in Belgium designed for managing documents in a secure, centralized, and user-friendly way. It acts as a digital mailbox and storage solution, enabling individuals to receive, organize, and store official documents from various service providers."
         },
         {
-                          "type": "image",
-                          "url": "https://accountancyvandaag.be/wp-content/uploads/2022/04/Doccle-en-Digitaal-Vlaanderen.jpeg"
-                 },
-
+          "type": "image",
+          "url": "https://accountancyvandaag.be/wp-content/uploads/2022/04/Doccle-en-Digitaal-Vlaanderen.jpeg"
+        },
         {
           "type": "source",
           "url": "https://www.doccle.be"
@@ -104,7 +99,7 @@
         {
           "type": "image",
           "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/20/37/f22037e8-d000-ec09-834a-a5e9101b1fe4/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/1200x630wa.png"
-          },
+        },
         {
           "type": "source",
           "url": "https://www.payconiq.be"
@@ -119,9 +114,9 @@
           "text": "Woolsocks is a financial application in Belgium designed to simplify money management and help users save on purchases. It combines cashback rewards, financial insights, and investment opportunities to enhance users' financial well-being."
         },
         {
-                  "type": "image",
-                  "url": "https://play-lh.googleusercontent.com/2x_OmpJCvm2KwyYYGwAr52PRIm-ql96qAfukssLTaebN2huHXMgJcdVzMB0jhO5FlxY"
-         },
+          "type": "image",
+          "url": "https://play-lh.googleusercontent.com/2x_OmpJCvm2KwyYYGwAr52PRIm-ql96qAfukssLTaebN2huHXMgJcdVzMB0jhO5FlxY"
+        },
         {
           "type": "source",
           "url": "https://woolsocks.be"
@@ -140,8 +135,9 @@
           "text": "**1. Burgerprofiel**\n\nDescription: This is Belgium's official citizen portal. It allows residents to access official documents, update their address, register as a voter, and handle government-related tasks.\n\nFeatures:\n- View personal data (address, citizenship number, etc.).\n- Request official documents (e.g., birth or marriage certificates).\n- Easy access to e-government services."
         },
         {
-                          "type": "image",
-                          "url": "https://play-lh.googleusercontent.com/cG4UhjIFSlWRZC0POJKEGNFNOvcF29neJrDj6PRr3TQLe4jhnj9NTZhcxZRKE8zUgV0"},
+          "type": "image",
+          "url": "https://play-lh.googleusercontent.com/cG4UhjIFSlWRZC0POJKEGNFNOvcF29neJrDj6PRr3TQLe4jhnj9NTZhcxZRKE8zUgV0"
+        },
         {
           "type": "source",
           "url": "https://burgerprofiel.vlaanderen.be"
@@ -150,11 +146,10 @@
           "type": "paragraph",
           "text": "**2. Recycle**\n\nDescription: An app that facilitates recycling processes in Belgium. It reminds users of waste collection days and provides information on proper waste sorting.\n\nFeatures:\n- Displays waste collection schedule in your area.\n- Reminders for specific waste collection days.\n- Guides on recycling rules and local waste management."
         },
-{
-                  "type": "image",
-                  "url": "https://play-lh.googleusercontent.com/fgNKGs9fR39RaxG85y0K1eDVftXkZuWGAzhMTbJvzcZ8Sp7wimUFVUQaAAKW3hvDQYo-"
-         },
-
+        {
+          "type": "image",
+          "url": "https://play-lh.googleusercontent.com/fgNKGs9fR39RaxG85y0K1eDVftXkZuWGAzhMTbJvzcZ8Sp7wimUFVUQaAAKW3hvDQYo-"
+        },
         {
           "type": "source",
           "url": "https://www.recycleapp.be"
@@ -163,11 +158,10 @@
           "type": "paragraph",
           "text": "**3. itsme®**\n\nDescription: A digital identity and secure access app widely used in Belgium for banking, government services, and online shopping authentication.\n\nFeatures:\n- Secure login (as an alternative to eID).\n- Digital signature.\n- Access to bank accounts.\n- Login to e-government systems."
         },
-{
-                  "type": "image",
-                  "url": "https://play-lh.googleusercontent.com/C9YmmJ8shCkiMZd01JD-qaO4m755aQvGTBg7WngxZdxtlxuHodj3kD0s_I2wufcQqXw"
-         },
-
+        {
+          "type": "image",
+          "url": "https://play-lh.googleusercontent.com/C9YmmJ8shCkiMZd01JD-qaO4m755aQvGTBg7WngxZdxtlxuHodj3kD0s_I2wufcQqXw"
+        },
         {
           "type": "source",
           "url": "https://www.itsme.be"
@@ -177,9 +171,9 @@
           "text": "**4. mynexuzhealth**\n\nDescription: A health app for managing hospital appointments, lab results, and prescriptions in Belgium.\n\nFeatures:\n- Schedule and view appointments.\n- Access test results.\n- Track medical history.\n- Communicate with doctors."
         },
         {
-                          "type": "image",
-                          "url": "https://play-lh.googleusercontent.com/yBZ7se5ZXeoZ6HHe7ODfEYvrkYA7vWkDSVwA3KIGdVWVCLpcNKg3zR8vz6ROHMWuI2c"
-                 },
+          "type": "image",
+          "url": "https://play-lh.googleusercontent.com/yBZ7se5ZXeoZ6HHe7ODfEYvrkYA7vWkDSVwA3KIGdVWVCLpcNKg3zR8vz6ROHMWuI2c"
+        },
         {
           "type": "source",
           "url": "https://www.mynexuzhealth.be"
@@ -189,9 +183,9 @@
           "text": "**5. Payconiq**\n\nDescription: A popular mobile payment app in Belgium for daily purchases, restaurant payments, and person-to-person money transfers.\n\nFeatures:\n- Fast payments via QR code.\n- Send money to individuals without needing an IBAN.\n- Pay bills and subscriptions.\n- Secure and quick transactions."
         },
         {
-                          "type": "image",
-                          "url": "https://play-lh.googleusercontent.com/GB9kVFntaEDw8jy2WeE7jYVXYHqVZABOzoQ8TgjhkW4rvOlI-r3LBiIGaEfZoqmU-U4"
-                 },
+          "type": "image",
+          "url": "https://play-lh.googleusercontent.com/GB9kVFntaEDw8jy2WeE7jYVXYHqVZABOzoQ8TgjhkW4rvOlI-r3LBiIGaEfZoqmU-U4"
+        },
         {
           "type": "source",
           "url": "https://www.payconiq.be"
@@ -201,22 +195,21 @@
           "text": "**6. Doccle**\n\nDescription: A platform for digitally storing and managing official documents such as tax records, invoices, and insurance documents in Belgium.\n\nFeatures:\n- Digital document storage.\n- Receive and pay invoices and tax notifications.\n- Share and organize documents."
         },
         {
-                          "type": "image",
-                          "url": "https://www.ergo.be/nl_be/images/37-11663_logo%20doccle.png"
-                 },
+          "type": "image",
+          "url": "https://www.ergo.be/nl_be/images/37-11663_logo%20doccle.png"
+        },
         {
           "type": "source",
           "url": "https://www.doccle.be"
         },
-
         {
           "type": "paragraph",
           "text": "**7. De Lijn**\n\nDescription: The official app of De Lijn, which manages public transportation in the Flanders region. It provides information about bus and tram services.\n\nFeatures:\n- View bus and tram schedules.\n- Purchase tickets.\n- Real-time transport information.\n- Route planning."
         },
         {
-                          "type": "image",
-                          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/De_Lijn.svg/1200px-De_Lijn.svg.png"
-                 },
+          "type": "image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/De_Lijn.svg/1200px-De_Lijn.svg.png"
+        },
         {
           "type": "source",
           "url": "https://www.delijn.be"
@@ -226,9 +219,9 @@
           "text": "**8. SNCB**\n\nDescription: The official app for Belgium's national railway network (SNCB/NMBS). It provides information about train schedules within Belgium.\n\nFeatures:\n- View train schedules and routes.\n- Purchase train tickets.\n- Information on delays and cancellations.\n- Save favorite routes."
         },
         {
-                          "type": "image",
-                          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/SNCB_logo.svg/1200px-SNCB_logo.svg.png"
-                 },
+          "type": "image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/SNCB_logo.svg/1200px-SNCB_logo.svg.png"
+        },
         {
           "type": "source",
           "url": "https://www.sncb.be"
@@ -238,9 +231,9 @@
           "text": "**9. SNCB International**\n\nDescription: An app for booking international train journeys from Belgium. Covers services like Thalys, Eurostar, and other high-speed rail networks.\n\nFeatures:\n- Purchase international train tickets.\n- Create travel itineraries.\n- Check route details and transfer times.\n- Access special discounts and promotions."
         },
         {
-                          "type": "image",
-                          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/SNCB_logo.svg/1200px-SNCB_logo.svg.png"
-                 },
+          "type": "image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/SNCB_logo.svg/1200px-SNCB_logo.svg.png"
+        },
         {
           "type": "source",
           "url": "https://www.sncb-international.com"
@@ -252,31 +245,35 @@
       ]
     },
     {
-        "question": "How are foreign driving licenses recognized in Belgium?",
-        "content": [
-            {
-                "type": "paragraph",
-                "text": "Foreign driving licenses are recognized in Belgium under specific conditions. Licenses from EU/EEA countries are valid without the need for exchange. Non-EU licenses may require an exchange procedure, which involves meeting certain criteria and submitting an application through your local municipal office. For detailed guidelines, refer to the Federal Public Service Mobility and Transport."
-            },
-            {
-                "type": "source",
-                "url": "https://mobilit.belgium.be/en/road/driving/driving-licences/foreign-driving-licences#:~:text=The%20exchange%20procedure%20can%20be,to%20comply%20with%20the%20procedure."
-            }
-        ]
+      "question": "How are foreign driving licenses recognized in Belgium?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Foreign driving licenses are recognized in Belgium under specific conditions. Licenses from EU/EEA countries are valid without the need for exchange. Non-EU licenses may require an exchange procedure, which involves meeting certain criteria and submitting an application through your local municipal office. For detailed guidelines, refer to the Federal Public Service Mobility and Transport."
+        },
+        {
+          "type": "source",
+          "url": "https://mobilit.belgium.be/en/road/driving/driving-licences/foreign-driving-licences#:~:text=The%20exchange%20procedure%20can%20be,to%20comply%20with%20the%20procedure."
+        }
+      ]
     },
     {
-        "question": "What are the TV and radio channels available in Belgium?",
-        "content": [
-            {
-                "type": "paragraph",
-                "text": "Belgium offers a wide range of TV and radio channels catering to various languages and interests. These include channels in French, Dutch, and German, reflecting the country's multilingual culture. For a detailed list of available channels, including local and international options, refer to the channel list provided by your service provider or explore specific offerings through operators like Orange, Proximus, or Telenet."
-            },
-            {
-                "type": "source",
-                "url": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.orange.be/sites/b2c/files/let_1803013_channels_list_sfr_bxl_fr.pdf"
-            }
-        ]
+      "question": "What are the TV and radio channels available in Belgium?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Belgium offers a wide range of TV and radio channels catering to various languages and interests. These include channels in French, Dutch, and German, reflecting the country's multilingual culture. For a detailed list of available channels, including local and international options, refer to the channel list provided by your service provider or explore specific offerings through operators like Orange, Proximus, or Telenet."
+        },
+        {
+          "type": "source",
+          "url": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.orange.be/sites/b2c/files/let_1803013_channels_list_sfr_bxl_fr.pdf"
+        }
+      ]
     }
+
+
+
+
 
 
 
