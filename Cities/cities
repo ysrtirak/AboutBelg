@@ -6,7 +6,7 @@
       "url": "https://cdn.uc.assets.prezly.com/388e1593-3c7a-4fd6-9530-dffde10bd0e2/27_Mastershoot.jpg",
       "details": {
         "place_name": "Grand Place",
-        "location": "https://www.google.com/maps/place/Grand+Place/@50.8467887,4.3498607,1103m/data=!3m1!1e3!4m15!1m8!3m7!1s0x47c3c47f4614f1f1:0xb03c355d8fe2cfb6!2sGrand+Place!8m2!3d50.8467887!4d4.3524356!10e1!16zL20vMGx5OWc!3m5!1s0x47c3c47f4614f1f1:0xb03c355d8fe2cfb6!8m2!3d50.8467887!4d4.3524356!16zL20vMGx5OWc?entry=ttu&g_ep=EgoyMDI0MTIwNC4wIKXMDSoASAFQAw%3D%3D",
+        "location": "50.8467887, 4.352435620470572",
         "images": [
           "https://res.cloudinary.com/hzekpb1cg/image/upload/q_95,f_auto/s3/public/prod/media_images/2023-04/emerveillez_vous_devant_la_grand_place_de_bruxelles.jpg",
           "https://www.sophiesworld.net/wp-content/uploads/2018/06/Optimized-12272018785_2fc4c51279_b.jpg",
@@ -23,7 +23,7 @@
       "url": "https://cms.pairidaiza.eu/thumbor/JaGxMefhqRi4kaeqNMEbuDnbr9g=/fit-in/1024x/filters:quality(92)/--/uploads/2024/06/BL4A9174-copie-e1718633528555.jpg",
       "details": {
         "place_name": "Pairi Daiza",
-        "location": "https://www.google.com/maps/place/Pairi+Daiza/@50.6440875,3.2829848,220696m/data=!3m1!1e3!4m6!3m5!1s0x47c25368a97eac47:0x103b807be4316746!8m2!3d50.5852283!4d3.8863593!16s%2Fm%2F0gwz4rz?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+        "location": "50.58523540975872, 3.886363322842655",
         "images": [
           "https://cms.pairidaiza.eu/thumbor/OaKPB503or-I9dr_56ZvShZPI5M=/fit-in/1024x/filters:quality(92)/--/uploads/2024/04/Large-IMG_2604.jpg",
           "https://cms.pairidaiza.eu/thumbor/lpP7uzxZ0SdlWkL4TS0PwIU2nho=/fit-in/1024x/filters:quality(92)/--/uploads/2024/06/BL4A7684-copie-2-e1718722144724.jpg",
@@ -40,7 +40,7 @@
       "url": "https://media.tacdn.com/media/attractions-content--1x-1/10/5a/52/ea.jpg",
       "details": {
         "place_name": "Historic Centre of Brugge",
-        "location": "https://www.google.com/maps/place/51%C2%B012'30.7%22N+3%C2%B013'35.9%22E/@51.20853,3.2240641,547m/data=!3m2!1e3!4b1!4m10!1m5!8m4!1e2!2s117604383434011529833!3m1!1e1!3m3!8m2!3d51.20853!4d3.226639?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+        "location": "51.20853958710553, 3.2266372163028834",
         "images": [
           "https://www.travelguide.net/media/bruegge-view-2.jpg",
           "https://www.nordicexperience.com/wp-content/uploads/2018/03/AdobeStock_104288483.jpeg",
@@ -57,7 +57,7 @@
           "url": "https://www.grsh.be/wp-content/uploads/2018/09/BEN5901.jpg",
           "details": {
             "place_name": "Les Galeries Royales Saint-Hubert",
-            "location": "https://www.google.com/maps/place/Royal+Gallery+of+Saint+Hubert/@50.8480832,4.3526757,551m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c3c47f6ec755bb:0x131e072ac2a7d730!8m2!3d50.8480832!4d4.3552506!16zL20vMGI3X2dj?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+            "location": "50.848085140968244, 4.3552511014968704",
             "images": [
               "https://www.members-only.be/wp-content/uploads/2023/07/hubert.jpg",
               "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Galeries_royales_Saint-Hubert%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-14%2C_DD_04-06_HDR.jpg/640px-Galeries_royales_Saint-Hubert%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-14%2C_DD_04-06_HDR.jpg",
@@ -74,7 +74,7 @@
               "url": "https://www.atomium.be/Content/Images/Atomium_Style.html.jpg",
               "details": {
                 "place_name": "Atomium",
-                "location": "https://www.google.com/maps/place/Atomium/@50.8948787,4.3389798,551m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c3c3ac00000001:0x5293071d68a63709!8m2!3d50.8948787!4d4.3415547!16zL20vMGtmaG0?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+                "location": "50.89489002929671, 4.341553651852512",
                 "images": [
                   "https://atomium.be/flexpage/gallerythumbimage?path=/Content/Images/User/atomium-todayin-237%20-%20Version%202_ltsmall.jpg&slider=0",
                   "https://static.wixstatic.com/media/fc8939_1709941ce12a4ccda3e5fc2e3c02b624~mv2.png/v1/fill/w_980,h_651,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/fc8939_1709941ce12a4ccda3e5fc2e3c02b624~mv2.png",
@@ -91,7 +91,7 @@
                   "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Gravensteen%2C_Ghent_%28DSCF0191%29.jpg",
                   "details": {
                     "place_name": "Gravensteen",
-                    "location": "https://www.google.com/maps/place/Gravensteen/@51.0571769,3.7181476,1098m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c3714094eeb071:0x2dff56bd1f6adbbe!8m2!3d51.0571769!4d3.7207225!16zL20vMDIxZ3lw?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+                    "location": "51.057180984464296, 3.720722195906932",
                     "images": [
                       "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/82000/82895-Gravensteen.jpg",
                       "https://images.squarespace-cdn.com/content/5ff3362096a9ec7fa142ac78/1667723823212-H6X63ELZIYSHQAO66O0F/P1619+DHOOGE+MEGANCK+Gravensteen+Gent_ExtraBeeld02_HR_20210716+%28Groot%29.jpg?format=1500w&content-type=image%2Fjpeg",
@@ -108,7 +108,7 @@
                       "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Antwerpen_-_Station_Antwerpen-Centraal_%2811%29.jpg",
                       "details": {
                         "place_name": "Antwerpen-Centraal",
-                        "location": "https://www.google.com/maps/place/Antwerpen-Centraal+station/@51.217244,4.4211511,547m/data=!3m1!1e3!4m10!1m2!2m1!1santwerpen-centraal!3m6!1s0x47c3f703e7404c69:0x270b07bbe1f68aa6!8m2!3d51.21686!4d4.421242!15sChJhbnR3ZXJwZW4tY2VudHJhYWxaFCISYW50d2VycGVuIGNlbnRyYWFskgEPdHJhbnNpdF9zdGF0aW9u4AEA!16zL20vMGYxNXFr?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+                        "location": "51.21645745203479, 4.4210227079792475",
                         "images": [
                           "https://www.axioma-lighting.be/uploads/images/Antwerpen-Centraal-Station-Antwerpen_2-ok.jpg",
                           "https://www.green-care-professional.com/app/uploads/2020/07/gcp-antwerpen-centraal.jpg",
@@ -125,7 +125,7 @@
                           "url": "https://www.minieurope.com/wp-content/uploads/2023/03/panoramic20141-scaled.jpg",
                           "details": {
                             "place_name": "Mini-Europe",
-                            "location": "https://www.google.com/maps/place/Mini-Europe/@50.8940497,4.3363873,551m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c3c235b8a07371:0x570cb43d0bf3e5f9!8m2!3d50.8940497!4d4.3389622!16zL20vMDl6eWwx?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+                            "location": "50.89404984881696, 4.338961761950051",
                             "images": [
                               "https://www.travelguide.net/media/bruegge-view-2.jpg",
                               "https://www.nordicexperience.com/wp-content/uploads/2018/03/AdobeStock_104288483.jpeg",
@@ -142,7 +142,7 @@
                               "url": "https://www.museabrugge.be/volumes/general/_1200x630_crop_center-center_82_none/Belfort-met-panorama22_Musea-Brugge.f1664971276.jpg?mtime=1664971276",
                               "details": {
                                 "place_name": "Belfort",
-                                "location": "https://www.google.com/maps/place/Belfry+of+Bruges/@51.2081466,3.2222262,547m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c350daa9690e8b:0x69546ff963bd8158!8m2!3d51.2081466!4d3.2248011!16zL20vMGRyamQy?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+                                "location": "51.20814666187264, 3.2248001587841237",
                                 "images": [
                                   "https://portinari.be/assets/uploads/images/_1440xAUTO_fit_center-center_none/Jan-DHondt_973_copyright.jpg",
                                   "https://thartjevanbrugge.be/wp-content/uploads/2020/03/belfort-brugge-1.jpg",
@@ -159,7 +159,7 @@
                                "url": "https://cheeseweb.eu/wp-content/uploads/2011/05/20110430_Antwerp_0185.jpg",
                                "details": {
                                  "place_name": "Museum Plantin-Moretus",
-                                 "location": "https://www.google.com/maps/place/Plantin-Moretus+Museum/@51.2184457,4.3953822,547m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c3f6f6a3a0e9d9:0xde3e9c029a9f18ce!8m2!3d51.2184457!4d4.3979571!16zL20vMDlrc3Jz?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+                                 "location": "51.21844619716692, 4.397958250385047",
                                  "images": [
                                    "https://museumplantinmoretus.be/sites/plantinmoretus/files/styles/teaser_2_3/public/2022-06/LOW_%C2%A9LUCID_PlantinMoretus_006.jpg?itok=ybus_T2i",
                                    "https://experienceantwerp.be/wp-content/uploads/2020/10/ans-brys-binnentuin-plantin-moretus.jpg",
@@ -176,7 +176,7 @@
                                                            "url": "https://visit.gent.be/sites/default/files/styles/social_media/public/media/img/2022-11/VisitReeks203-DT16819.jpg?itok=XXu6xPZg",
                                                            "details": {
                                                              "place_name": "Graslei and Korenlei",
-                                                             "location": "https://www.google.com/maps/place/Graslei,+9000+Gent/@51.0547129,3.7181679,549m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c371412b7a2a5f:0x5435a3ad04a37e60!8m2!3d51.0547129!4d3.7207428!16s%2Fg%2F12125938?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+                                                             "location": "51.05476925719276, 3.7207486380453454",
                                                              "images": [
                                                                "https://visit.gent.be/sites/default/files/styles/photo_large/public/img/poi/photos/VisitReeks48-DT007383.jpg?itok=2vMwzLPj",
                                                                "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/39/8e/8b.jpg",
@@ -193,7 +193,7 @@
                               "url": "https://www.autoworld.be/media/cache/optimized/upload/media/default/05/3e90a597759ca93cfd9bb9a04f2d12e589859706.jpg",
                               "details": {
                                 "place_name": "Autoworld",
-                                "location": "https://www.google.com/maps/dir/Parc+du+Cinquantenaire/Parc+du+Cinquantenaire+11,+1000+Bruxelles/@50.8415367,4.3870426,886m/data=!3m1!1e3!4m13!4m12!1m5!1m1!1s0x47c3c4a429725b5f:0xaf02f3faf1c7325a!2m2!1d4.3904833!2d50.841393!1m5!1m1!1s0x47c3c4a615c17ca5:0x9c447024613c091b!2m2!1d4.3934238!2d50.8393417?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+                                "location": "50.83935522212339, 4.3934130682894805",
                                 "images": [
                                   "https://www.autoworld.be/media/cache/optimized/upload/media/default/51/4b44edf2eb5f319e28fe88e308dd52c3a653067b.jpg",
                                   "https://www.autoworld.be/media/cache/optimized/upload/media/default/bf/822fb1e0cc2b790c14e7e231bbf48559172bf4bc.jpg",
@@ -210,7 +210,7 @@
                               "url": "https://mapleventurous.com/wp-content/uploads/2024/05/The-classic-gothic-design-of-Cathedral-of-St.-Michael-and-St.-Gudula.jpg",
                               "details": {
                                 "place_name": "St. Michael and St. Gudula Cathedral",
-                                "location": "https://www.google.com/maps/place/St.+Michael+%26+St.+Gudula+Cathedral/@50.8479083,4.3575748,594m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c3c37fff7836bd:0x84857a9ed38423cd!8m2!3d50.8479083!4d4.3601497!16zL20vMDRoeGwx?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+                                "location": "50.84790998324725, 4.360151269085213",
                                 "images": [
                                   "https://farm4.staticflickr.com/3865/14757647399_a53a8aa1a9_c.jpg",
                                   "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUXvxME-7KCESojyPsR5deIxEhWGiTs8ZXD2hO9E5d9nj9uDjD-fMgzuDbpV28mdz5_1ceCnA0a_DV7wqFHcEviO4ply5hTdS0oMTptZJI7sQEOkAYUcdFjZim-lHI8VkbQYxmSaGTQpPX/s1600/belgium-3588126_1920.jpg",
@@ -227,7 +227,7 @@
                               "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Basilica_of_the_Holy_Blood_-_Saint-Baselius_Chapel%2C_Bruges%2C_Belgium..jpg",
                               "details": {
                                 "place_name": "Basilica of the Holy Blood",
-                                "location": "https://www.google.com/maps/place/Basilica+of+the+Holy+Blood/@51.2081343,3.2239699,1178m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c350cf8e1421ed:0x543542d38741d758!8m2!3d51.2081343!4d3.2265448!16s%2Fm%2F04cx235?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+                                "location": "51.20813454614884, 3.2265455129368115",
                                 "images": [
                                   "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/9d/f7/f1/inside-the-basilica.jpg?w=1200&h=-1&s=1",
                                   "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/39/7f/58.jpg",
@@ -244,7 +244,7 @@
                               "url": "https://fr.schreder.com/sites/default/files/2021-09/Monuments-Squares-CinquantenairePark-Brussel-Belgium-SCULPFLOOD-SHUFFLE-Schr%C3%A9der-SCULPSHUFCINQUANT-11_0.jpg",
                               "details": {
                                 "place_name": "Parc Du Cinquantenaire",
-                                "location": "https://www.google.com/maps/place/Parc+du+Cinquantenaire/@50.841393,4.3879084,1103m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c3c4a429725b5f:0xaf02f3faf1c7325a!8m2!3d50.841393!4d4.3904833!16zL20vMDRfNDkx?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+                                "location": "50.84139697857486, 4.390483860957434",
                                 "images": [
                                   "https://gardens.brussels/sites/default/files/styles/gallery_fallback/public/2023-08/Cin_Cinquantenaire_Photos_2023%20%2819%29_0.jpg?itok=1NJBrr2A",
                                   "https://upload.wikimedia.org/wikipedia/commons/5/54/Brussels_Cinquantenaire_R03.jpg",
@@ -261,7 +261,7 @@
                                                           "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/3e/52/7d/solo-por-el-recibo-merece.jpg?w=1200&h=-1&s=1",
                                                           "details": {
                                                             "place_name": "Museum of Natural Sciences",
-                                                            "location": "https://www.google.com/maps/place/Royal+Belgian+institute+of+Natural+Sciences/@50.8366595,4.3740571,552m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c3c499e2765757:0x98bf01ce38cc213e!8m2!3d50.8366595!4d4.376632!16zL20vMDN6X3lr?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+                                                            "location": "50.83665910798799, 4.376632461091078",
                                                             "images": [
                                                               "https://museu.ms/remote.jpg.ashx?format=jpg&mode=crop&404=no_image.gif&urlb64=aHR0cHM6Ly9tdXNldW1zLmJsb2IuY29yZS53aW5kb3dzLm5ldC9kYXRhL0RvY3VtZW50cy9NVVNFVU1TL2JlYnJtZHNuZGIvNDMyNTgvY2ExYzdkZTdhY2NiNDU2Y2IxNDIyNGFkYzJmMTMyODkuanBn&hmac=Z_aie-gJvJU",
                                                               "https://upload.wikimedia.org/wikipedia/commons/f/fa/Mus%C3%A9um_des_Sciences_naturelles_de_Belgique_%28entr%C3%A9e%29.JPG",
@@ -278,7 +278,7 @@
                                                           "url": "https://illusionantwerpen.be/gallery/3060380249207366957.jpg",
                                                           "details": {
                                                             "place_name": "Illusion Antwerpen",
-                                                            "location": "https://www.google.com/maps/place/illusion+Antwerpen+(illusion+Museum)/@51.2189593,4.4126162,547m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c3f73c86858b71:0xef1d4c4c241fe898!8m2!3d51.2189593!4d4.4151911!16s%2Fg%2F11tt5wjnp3?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+                                                            "location": "51.218936287294206, 4.415312854771857",
                                                             "images": [
                                                               "https://illusionantwerpen.be/gallery/3061885592328718123.jpg",
                                                               "https://illusionantwerpen.be/gallery/3061876342629872077.jpg",
@@ -295,7 +295,7 @@
          "url": "https://www.raversyde.be/sites/default/files/public/styles/paragraph_slider_image/public/2020-03/1-24_0.jpg?itok=aoJapvhA",
        "details": {
            "place_name": "Atlantikwall Raversyde",
- "location": "https://www.google.com/maps/place/Atlantikwall+Raversyde/@51.1986734,2.8464619,547m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47dca596cfb08c53:0x70d6e4334c4bdb52!8m2!3d51.1986734!4d2.8490368!16s%2Fm%2F0p795b1?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+ "location": "51.19867432395656, 2.849036296947507",
          "images": [
     "https://www.liberationroute.com/pictures/1078/atlantikwall-raversyde-oostende-c-paul-hermans-via-wiki-commons_1280_1280_fit_90.jpg",
       "https://belgiumbattlefield.be/sites/default/files/styles/gallery_full/public/2021-11/Atlantikwall_header.jpeg?itok=eheJCLRi",
@@ -312,7 +312,7 @@
                         "url": "https://mim.org/wp-content/uploads/2023/03/orientation-gallery_1920x936-1024x499.jpg",
                       "details": {
                           "place_name": "Musical Instruments Museum (MIM)",
-                "location": "https://www.google.com/maps/place/Musical+Instruments+Museum/@50.8428875,4.3564289,551m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c3c480b41468cf:0x2521d2012cf3e663!8m2!3d50.8428875!4d4.3590038!16s%2Fm%2F02q1jb_?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+                "location": "50.842889031091055, 4.359001244336473",
                         "images": [
                    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/d1/01/b3/mim-musical-instruments.jpg?w=1200&h=-1&s=1",
                      "https://mim.org/wp-content/uploads/2024/05/2024-galleries_1920x962-1280x641.jpg",
@@ -329,7 +329,7 @@
 "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Mus%C3%A9es_Royaux_des_Beaux-Arts_Belgique_1101.jpg",
 "details": {
 "place_name": "Royal Museums of Fine Arts of Belgium",
-"location": "https://www.google.com/maps/place/Royal+Museums+of+Fine+Arts+of+Belgium/@50.8416199,4.3556044,551m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c3c4875b01966b:0x3337c76a9a44475c!8m2!3d50.8416199!4d4.3581793!16s%2Fm%2F026mqy3?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+"location": "50.84161845484897, 4.358175991293275",
 "images": [
 "https://brusselsmuseums-prod.imgix.net/images/KMSKBMRBAB_forum-Philippe-van-Gelooven-2015.jpg?auto=compress%2Cformat&crop=faces&faceindex=1&fit=crop&q=80&w=2880",
 "https://www.maisonarya.com/sites/maisonarya/files/items/30.jpg",
@@ -346,7 +346,7 @@
   "url": "https://cdn.wbtourisme.be/sites/default/files/000003886-WBT-Anibal-Trejo-Dinant-Meuse-Citadel-Notre-Dame-Collegiale.jpg",
   "details": {
   "place_name": "Citadelle de Dinant",
-  "location": "https://www.google.com/maps/place/Citadelle+de+Dinant/@50.2617271,4.9105346,558m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c1bfe17760ba27:0xfa179bd598bcb8b6!8m2!3d50.2617271!4d4.9131095!16s%2Fm%2F010x5rd3?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+  "location": "50.261728324392855, 4.913107719220348",
   "images": [
   "https://fr.ardennes-etape.be/experience/sites/default/files/styles/1426_750/public/2022-12/Laetis_-_VisitArdenne_Johan.Barrot_-_Laetis_-_VisitArdenne_Dinant_-_Citadelle_et_teleferique_209-1600px.JPG?itok=taIFvnId",
   "https://pivotweb.tourismewallonie.be/PivotWeb-3.1/img/ALD-01-00099J;w=;h=",
@@ -363,7 +363,7 @@
       "url": "https://visit.gent.be/sites/default/files/styles/photo_large/public/media/img/2020-09/VisitReeks72-DT009584.jpg?itok=FSZeCYtP",
       "details": {
       "place_name": "St. Bavo's Cathedral",
-      "location": "https://www.google.com/maps/place/Saint+Bavo's+Cathedral/@51.0531331,3.723933,549m/data=!3m1!1e3!4m6!3m5!1s0x47c371461b74e71b:0x94b399b9e5214552!8m2!3d51.0531331!4d3.7265133!16zL20vMDNoY181?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+      "location": "51.053133422361654, 3.726513992481312",
       "images": [
       "https://upload.wikimedia.org/wikipedia/commons/7/78/Gent-Sint-Baafskathedraal_vom_Belfried_aus_gesehen.jpg",
       "https://www.led-linear.com/fileadmin/user_upload/projects/st-bravo-kathedrale-haarlem/st-bravo-kathedrale-haarlem-01.jpg",
@@ -380,7 +380,7 @@
               "url": "https://cherylhoward.com/wp-content/uploads/2021/08/Montagne-De-Bueren-Liege-Header.jpeg",
               "details": {
               "place_name": "Montagne De Bueren",
-              "location": "https://www.google.com/maps/place/Montagne+de+Bueren/@50.6481279,5.5747969,554m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c0fa0b816699d7:0x76a9dddbdf15cc40!8m2!3d50.6481279!4d5.5773772!16s%2Fg%2F1238y2ry?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.648128863355495, 5.577377267315643",
               "images": [
               "https://www.todayinliege.be/wp-content/uploads/2021/08/tempo-34-scaled.jpg",
               "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/82000/82941-Montagne-De-Beuren.jpg",
@@ -398,7 +398,7 @@
               "url": "https://www.bellewaerde.be/adobe/dynamicmedia/deliver/dm-aid--8eac6967-d631-4164-87f7-2c3f8813f971/mundo-amazonia-keyvisual-2024.jpg?preferwebp=true&quality=85",
               "details": {
               "place_name": "Bellewaerde Park",
-              "location": "https://www.google.com/maps/place/Bellewaerde/@50.84747,2.9475107,551m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47dccdcaf470035b:0xa0baa87ec882dfdf!8m2!3d50.84747!4d2.950091!16zL20vMDdmOTAw?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.847469782931896, 2.9500900148431133",
               "images": [
               "https://www.bellewaerde.be/adobe/dynamicmedia/deliver/dm-aid--972db3fc-8c47-471d-878a-dda593979c8a/wakala-trein-geel-piek.jpg?preferwebp=true&quality=85",
               "https://bellewaerde-fun.be/img/articles/270/1200x628-zc/1707339616-concept-art-mundo-amazonia.jpg",
@@ -416,7 +416,7 @@
               "url": "https://cdn.wbtourisme.be/sites/default/files/AdobeStock_155773137.jpg",
               "details": {
               "place_name": "Bouillon Castle",
-              "location": "https://www.google.com/maps/place/Bouillon+Castle/@49.793107,2.4936335,563354m/data=!3m1!1e3!4m6!3m5!1s0x47ea7a518a6f9f25:0xb78f3afee691658b!8m2!3d49.7938959!4d5.066774!16zL20vMDlrc2o2?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "location": "49.79389869705016, 5.066772590218738",
               "images": [
               "https://upload.wikimedia.org/wikipedia/commons/2/25/La_ville_de_Bouillon_et_son_ch%C3%A2teau-fort.JPG",
               "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bouillon_Castle_34.jpg/2560px-Bouillon_Castle_34.jpg",
@@ -434,7 +434,7 @@
               "url": "https://www.travelguide.net/media/liebfrauenkathedrale-antwerpen.jpg",
               "details": {
               "place_name": "Cathedral of Our Lady",
-              "location": "https://www.google.com/maps/place/Cathedral+of+Our+Lady/@51.2202678,4.3989354,547m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c3f6f7013e8c85:0x24c769544f0fe84a!8m2!3d51.2202678!4d4.4015157!16zL20vMDdjMnFm?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "location": "51.220268026561186, 4.401514100413123",
               "images": [
               "https://itinari-images.s3.eu-west-1.amazonaws.com/activity/images/original/ede6f577-9373-4c01-9b73-791e9537489c-900px-cathedral_of_our_lady-antwerp.jpg",
               "https://www.mmnieuws.nl/wp-content/uploads/GATE15-Luc-Roymans-Front-%C2%A9-Onze-Lieve-Vrouwekathedraal-Antwerpen.jpg",
@@ -452,7 +452,7 @@
               "url": "https://images-prod-uitdatabank.imgix.net/b19af97e-6889-4a91-a153-f9896c8cc0ee.jpeg?auto=compress&auto=format&w=1200&h=800",
               "details": {
               "place_name": "In Flanders Fields Museum",
-              "location": "https://www.google.com/maps/place/In+Flanders+Fields+Museum/@50.8512003,2.8832835,551m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47dcce56090996ed:0xd00b54be80777c25!8m2!3d50.8512003!4d2.8858638!16s%2Fm%2F02r3gj8?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.85120166415008, 2.885861595811295",
               "images": [
               "https://www.visitflanders.com/sites/default/files/media/images/2022-10/In%20Flanders%20Fields%20museum%2017.jpg",
               "https://upload.wikimedia.org/wikipedia/commons/5/5b/De_Lakenhal_met_het_Belfort%2C_Ieper.jpg",
@@ -470,7 +470,7 @@
               "url": "https://brusselsmuseums-prod.imgix.net/images/luchtvaart-12-2015-03.jpg?auto=compress%2Cformat&crop=faces&faceindex=1&fit=crop&q=80&w=2880",
               "details": {
               "place_name": "Royal Museum of the Armed Forces",
-              "location": "https://www.google.com/maps/place/Royal+Museum+of+the+Armed+Forces+and+Military+History/@50.8408041,4.3907774,551m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4794ae8ca4bc2efb:0xff536c1e1c005262!8m2!3d50.8408041!4d4.3933577!16s%2Fm%2F04gn920?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.84080650410736, 4.393358026109362",
               "images": [
               "https://agendabrussels2.imgix.net/d8b7944e80a93a59d04d3873a7a149be67a5693d.jpg",
               "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/37/85/ed/royal-museum-of-the-armed.jpg?w=1200&h=-1&s=1",
@@ -488,7 +488,7 @@
               "url": "https://medias.tourism-system.com/6/f/440350_muse-duesberg-ch-carpentier003.jpg",
               "details": {
               "place_name": "Francois Duesberg Museum",
-              "location": "https://www.google.com/maps/place/Royal+Museum+of+the+Armed+Forces+and+Military+History/@50.8408041,4.3907774,551m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4794ae8ca4bc2efb:0xff536c1e1c005262!8m2!3d50.8408041!4d4.3933577!16s%2Fm%2F04gn920?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.453715888490514, 3.9452338969377467",
               "images": [
               "https://www.365.be/media/djuozql3/1-mus-e-fran-ois-duesberg.jpg",
               "https://image.wmsm.co/c493b0f86ef3105c2a38e6ec3f2ea638/francois-duesberg-museum-of-decorative-arts-1775-1825-mons-1.JPG?quality=80&width=1280",
@@ -506,7 +506,7 @@
               "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/1c/a8/52/manneken-pis.jpg?w=1200&h=-1&s=1",
               "details": {
               "place_name": "Manneken Pis",
-              "location": "https://www.google.com/maps/search/Manneken+Pis/@50.845371,4.3470642,551m/data=!3m2!1e3!4b1?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.84499154219624, 4.349988555522468",
               "images": [
               "https://top10bezienswaardigheden.nl/wp-content/uploads/2023/02/manneken-pis.jpg",
               "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/c0/6a/2a/img-20170129-122953-986.jpg?w=1200&h=-1&s=1",
@@ -523,7 +523,7 @@
               "url": "https://cdn.uc.assets.prezly.com/ab39470c-28f6-4fa3-a089-1d09f07597de/-/format/auto/Untitled",
               "details": {
               "place_name": "Red Star Line Museum",
-              "location": "https://www.google.com/maps/place/Red+Star+Line+Museum/@51.2330564,4.4007791,547m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c3f6454a454659:0x8ed43ffc54a7b2c2!8m2!3d51.2330564!4d4.4033594!16s%2Fg%2F11c3ymw150?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "location": "51.23302952837508, 4.403423773011765",
               "images": [
               "https://ads-oneluxstay.s3.us-east-2.amazonaws.com/wp-content/uploads/2023/02/16180112/Red-Star-Line-Museum.jpg",
               "https://www.fosfari.be/sites/default/files/styles/referentie_header/public/2020-11/2%20redstar_0.jpg?h=c83774b9&itok=jQsELhpD",
@@ -541,7 +541,7 @@
               "url": "https://www.zooplanckendael.be/assets/planckendael/images/facebook-share-image.jpg",
               "details": {
               "place_name": "ZOO Planckendael",
-              "location": "https://www.google.com/maps/place/ZOO+Planckendael/@50.8770488,3.9765269,176798m/data=!3m1!1e3!4m6!3m5!1s0x47c3e6af76970227:0x1e2d70317b3259e1!8m2!3d51.0002234!4d4.5178478!16s%2Fm%2F012g4b19?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "location": "51.00022410412887, 4.517847855971625",
               "images": [
               "https://www.zooplanckendael.be/images/lightbox/ringstaartmaki-lemuur-planckendael-jonas-verhulst-15042015-11-2.jpg",
               "https://www.riebedebie.be/sites/default/files/styles/basic_1_image/public/uploads/images/olifant%20Kanvar%2C%20May%20Tagu%20ZOO%20Planckendael%20Jonas%20Verhulst%2008082021.jpg?itok=yVENSWCV",
@@ -559,7 +559,7 @@
               "url": "https://photographe-polet.com/wp-content/uploads/2023/04/photos-des-serres-royales-de-laeken-15.jpg",
               "details": {
               "place_name": "Serres Royales De Laeken",
-              "location": "https://www.google.com/maps/place/Royal+Greenhouses+of+Laeken/@50.8907986,4.3564439,551m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c3c3adb9ec4437:0xda3a364e66ebc167!8m2!3d50.8907986!4d4.3590242!16s%2Fm%2F02q5vqx?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.89079787370327, 4.359016819507185",
               "images": [
               "https://www.lequotidien.lu/wp-content/uploads/2019/04/AFP_1FS10X.jpg",
               "https://cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/44F3YHKAWVDR7KMJYHHZNFGUKQ.jpg",
@@ -577,7 +577,7 @@
               "url": "https://agendabrussels2.imgix.net/70c59a4fcd831732a26411143ff8415c95b54f56.jpg?w=654&max-h=664&fit=crop&crop=faces&auto=format",
               "details": {
               "place_name": "Serres Royales De Laeken",
-              "location": "https://www.google.com/maps/place/Mount+of+the+Arts/@50.8443746,4.3533419,551m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c3c47ae74ac9e1:0xb3bee3c82b85dc79!8m2!3d50.8443746!4d4.3559222!16s%2Fm%2F02vz5k4?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.84437445897296, 4.35592264324975",
               "images": [
               "https://agendabrussels2.imgix.net/f6fe4a3fa195eec41643e5a56332d1bd7bec382b.jpg?w=654&max-h=664&fit=crop&crop=faces&auto=format",
               "https://d3w13n53foase7.cloudfront.net/medium_Mont_des_Arts_Najib_Samatar_Unsplash_b17626547b.jpg",
@@ -595,7 +595,7 @@
               "url": "https://cdn.wbtourisme.be/sites/default/files/2964.jpg",
               "details": {
               "place_name": "Réserve Naturelle De Furfooz",
-              "location": "https://www.google.com/maps/place/Furfooz+Nature+Reserve/@50.2162579,4.9541899,559m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c1c0f6b090865f:0xe1a85a71d148283f!8m2!3d50.2162579!4d4.9567702!16s%2Fg%2F11b6vw269x?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.21625679092705, 4.9567702356078405",
               "images": [
               "https://soandbia.com/wp-content/uploads/2020/06/DSC07136-scaled.jpeg",
               "https://www.reservedefurfooz.be/wp-content/uploads/2024/03/Furfooz-%C2%A9-Christophe-Danaux-20230919140032.jpg",
@@ -613,7 +613,7 @@
               "url": "https://www.ardenneincoming.be/medias/images/prestataires/euro-space-center-117485.jpg",
               "details": {
               "place_name": "Euro Space Center",
-              "location": "https://www.google.com/maps/search/Euro+Space+Center/@50.0089833,5.2162683,561m/data=!3m2!1e3!4b1?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.00826640922989, 5.218952971700134",
               "images": [
               "https://cdn.wbtourisme.be/sites/default/files/27%2009%2020-251%20Euro%20Space%20Center-dbcreation.be_.jpg",
               "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/12/31/31/space-flight-unit-survolez.jpg?w=1200&h=1200&s=1",
@@ -631,7 +631,7 @@
               "url": "https://bastognebarracks.be/sites/default/files/styles/gallery_big_thumbnail/public/2022-10/Capture%20d%E2%80%99%C3%A9cran%202022-10-11%20%C3%A0%2016.54.44.png?h=975a0abb&itok=s5rktY4b",
               "details": {
               "place_name": "BASTOGNE BARRACKS",
-              "location": "https://www.google.com/maps/place/Bastogne+Barracks/@50.0083779,5.7157991,561m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c019b29bd451fb:0x4df1d204614bb910!8m2!3d50.0083779!4d5.7183794!16s%2Fg%2F11gh32bnz0?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.00837332670414, 5.718366971634082",
               "images": [
               "https://belgiumbattlefield.be/sites/default/files/styles/gallery_full/public/2023-11/Bastogne%20Barracks_ill%203%20nieuw.jpg?itok=l6EfokVX",
               "https://cdn.wbtourisme.be/sites/default/files/61209.jpg",
@@ -649,7 +649,7 @@
               "url": "https://cdn.uc.assets.prezly.com/fe193220-6aa9-47fa-83bc-51d0d5d12e49/-/resize/1108x/-/quality/best/-/format/auto/",
               "details": {
               "place_name": "Tomorrowland Belgium",
-              "location": "https://www.google.com/maps/place/Tomorrowland+Belgium/@51.091631,4.383096,548m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c3ef0077f66e81:0x8d79404e88297021!8m2!3d51.091631!4d4.3856763!16s%2Fg%2F11lp7bzy04?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "location": "51.09163109400953, 4.385676129694128",
               "images": [
               "https://www.furrociousfurr.com/cdn/shop/articles/Tomorrowland_2023_jpg.webp?v=1686733062",
               "https://image.hurimg.com/i/hurriyet/75/0x0/5ed9ece8c9de3d2890d3a93f.jpg",
@@ -667,7 +667,7 @@
               "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/86/e7/2b/photo2jpg.jpg?w=1200&h=-1&s=1",
               "details": {
               "place_name": "De Panne Beach",
-              "location": "https://www.google.com/maps/search/De+Panne+Beach/@51.1007493,2.5380912,8774m/data=!3m2!1e3!4b1?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "location": "51.10669030691339, 2.5953257134073424",
               "images": [
               "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/De_Panne_Beach_R04.jpg/640px-De_Panne_Beach_R04.jpg",
               "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/De_Panne_Beach_R01.jpg/1024px-De_Panne_Beach_R01.jpg",
@@ -685,7 +685,7 @@
               "url": "https://soandbia.com/wp-content/uploads/2021/04/DSC08359-scaled.jpg",
               "details": {
               "place_name": "Chateau de la Hulpe",
-              "location": "https://www.google.com/maps/search/Chateau+de+la+Hulpe/@50.7360528,4.4610729,1105m/data=!3m2!1e3!4b1?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.734158301592416, 4.460254745959918",
               "images": [
               "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/17/45/a9/chateau-de-la-hulpe.jpg?w=1200&h=-1&s=1",
               "https://www.houseofweddings.com/files/cache/large/files/chateau-de-la-hulpe-feestzaal-te-la-hulpe-house-of-weddings-20-5cb09a03d264a.jpg",
@@ -703,7 +703,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bruxelles-Koekelberg%2C_kathedraal_foto4_2011-09-23_17.15.JPG",
               "details": {
               "place_name": "National Basilica of the Sacred Heart",
-              "location": "https://www.google.com/maps/place/National+Basilica+of+the+Sacred+Heart+in+Koekelberg/@50.810759,4.1129581,43279m/data=!3m1!1e3!4m6!3m5!1s0x47c3c3e102980c17:0xd31b0d5aaf46554c!8m2!3d50.8672216!4d4.3169473!16zL20vMDQ3MW4y?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.867221968052114, 4.316943666176602",
               "images": [
               "https://belgium-travel.com/wp-content/uploads/koekelberg-flanders-from-above-810x608.jpg",
               "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/9b/f3/b7/exhibition-crossroads.jpg?w=900&h=500&s=1",
@@ -721,7 +721,7 @@
               "url": "https://experienceantwerp.be/wp-content/uploads/2020/10/ans-brys-mayer-van-den-bergh-10.jpg",
               "details": {
               "place_name": "Museum Mayer van den Bergh",
-              "location": "https://www.google.com/maps/place/Museum+Mayer+van+den+Bergh/@51.2155166,4.4027361,547m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c3f6fa68229215:0xb1b5f78ddecf2344!8m2!3d51.2155166!4d4.4053164!16s%2Fm%2F05p7n0g?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "location": "51.2155165171085, 4.405315770585135",
               "images": [
               "https://experienceantwerp.be/wp-content/uploads/2021/07/ans-brys-mayer-van-den-bergh-29.jpg",
               "https://www.okv.be/sites/default/files/styles/social_media_image/public/2022-08/Mayer%20van%20den%20Bergh%20binnenzicht.b.jpg?h=fc6e1666&itok=0cZU0y9V",
@@ -739,7 +739,7 @@
               "url": "https://static.wixstatic.com/media/bd5b13_91119affa2d54c3baa8b549926fbfe8d~mv2.jpg/v1/fit/w_2500,h_1330,al_c/bd5b13_91119affa2d54c3baa8b549926fbfe8d~mv2.jpg",
               "details": {
               "place_name": "Alden Biesen",
-              "location": "https://www.google.com/maps/place/Alden+Biesen/@50.8416844,5.5181809,551m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c0e0d540f2d539:0x6dc188b6f974710c!8m2!3d50.8416844!4d5.5207612!16zL20vMGNmdzY1?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.841685364776104, 5.520760175202513",
               "images": [
               "https://static.wixstatic.com/media/bd5b13_02c945e3436c4cb68c0b6c0c0ecd2971~mv2.jpg/v1/crop/x_871,y_834,w_3032,h_1895/fill/w_508,h_318,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Waterburcht_2021.jpg",
               "https://www.discoveringbelgium.com/wp-content/uploads/2020/09/Alden-Biesem-new-1024x577.jpg",
@@ -757,7 +757,7 @@
               "url": "https://www.annevoie.be/wp-content/uploads/2018/03/les-jardins-d-annevoie.jpg",
               "details": {
               "place_name": "Les Jardins d’Annevoie",
-              "location": "https://www.google.com/maps/place/Les+Jardins+d%E2%80%99Annevoie/@50.3465935,4.8427703,557m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c196be9d7c7889:0xc0b2b00e192283a2!8m2!3d50.3465935!4d4.8453506!16s%2Fg%2F11dykzf53?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.34659685401272, 4.845349602433283",
               "images": [
               "https://www.pajawa.be/images/jardin/jardin_147/annevoie__photo-daniel_fouss_210_-_accueil_jardins_dannevoie.jpg",
               "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/e7/3f/94/les-jardins-d-annevoie.jpg?w=1200&h=1200&s=1",
@@ -775,7 +775,7 @@
               "url": "https://medias.elloha.com/crop-1600x1000/0b020835-0fa1-4773-9ed5-13c0516f50ae/10520-Parcours2.jpg",
               "details": {
               "place_name": "Parc Forestier Récréatif Chlorophylle",
-              "location": "https://www.google.com/maps/place/Parc+Chlorophylle/@50.2419793,5.5940377,558m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c040b16aeb84a1:0xbd8616532683db46!8m2!3d50.2419793!4d5.596618!16s%2Fg%2F1z0spm1dh?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.2419794867646, 5.59661773342427",
               "images": [
               "https://cdn.wbtourisme.be/sites/default/files/styles/facebook/public/10552.jpg?itok=-XNVDFQU",
               "https://www.la-roche-tourisme.com/wp-content/uploads/2023/10/parc-chlorophylle.jpg",
@@ -793,7 +793,7 @@
               "url": "https://www.klasse.be/wp/wp-content/uploads/2016/02/plantentuinmeise.png",
               "details": {
               "place_name": "Plantentuin Meise",
-              "location": "https://www.google.com/maps/place/Plantentuin+Meise/@50.9269804,4.3351911,17z/data=!4m15!1m8!3m7!1s0x47c3c20895625671:0xd0240208d8828fec!2sPlantentuin+Meise!8m2!3d50.9269775!4d4.3351638!10e5!16zL20vMDYycDQz!3m5!1s0x47c3c20895625671:0xd0240208d8828fec!8m2!3d50.9269775!4d4.3351638!16zL20vMDYycDQz?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.926978060786425, 4.335165272778112",
               "images": [
               "https://www.reisroutes.be/userfiles/fotos/plantentuin-meise_2634_xl.jpg",
               "https://image.demorgen.be/9166019/width/2480/plantentuin-meise-wordt-eindelijk-vlaams",
@@ -811,7 +811,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Gaasbeek_Castle_-_Kasteel_van_Gaasbeek_10.jpg/1200px-Gaasbeek_Castle_-_Kasteel_van_Gaasbeek_10.jpg",
               "details": {
               "place_name": "Gaasbeek Castle",
-              "location": "https://www.google.com/maps/place/Plantentuin+Meise/@50.9269804,4.3351911,17z/data=!4m15!1m8!3m7!1s0x47c3c20895625671:0xd0240208d8828fec!2sPlantentuin+Meise!8m2!3d50.9269775!4d4.3351638!10e5!16zL20vMDYycDQz!3m5!1s0x47c3c20895625671:0xd0240208d8828fec!8m2!3d50.9269775!4d4.3351638!16zL20vMDYycDQz?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.79675538569525, 4.1972798781702245",
               "images": [
               "https://upload.wikimedia.org/wikipedia/commons/5/5c/Kasteel_van_Gaasbeek_106.jpg",
               "https://www.amazing-belgium.com/cdn/shop/articles/DJI_0659-2_Gemiddeld.jpg?v=1683409133&width=1100",
@@ -829,7 +829,7 @@
               "url": "https://www.visitezliege.be/Photos/Plage450To1000/oth-a0-007k-0d1o.jpg",
               "details": {
               "place_name": "St. Paul's Cathedral",
-              "location": "https://www.google.com/maps/place/St.+Paul's+Cathedral+in+Liege/@50.6404245,5.5691336,17z/data=!3m1!4b1!4m6!3m5!1s0x47c0f099b96dd495:0x4003ddb3ba648731!8m2!3d50.6404245!4d5.5717139!16s%2Fm%2F09v9sqr?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.640424980334075, 5.5717144125771325",
               "images": [
               "https://openchurches.eu/img/739_1_1.jpg?h=800",
               "https://openchurches.eu/img/739_1_1_1532367385.jpg?h=800",
@@ -847,7 +847,7 @@
               "url": "https://www.exploremeuse.be/wp-content/uploads/2021/09/000027602-WBT-Bruno-DAlimonte-Draisines-de-la-Molignee-1.jpg",
               "details": {
               "place_name": "Railbikes of the Molignee",
-              "location": "https://www.google.com/maps/search/Railbikes+of+the+Molignee/@50.3135388,4.831363,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.313585400368424, 4.833865927370823",
               "images": [
               "https://www.klasse.be/wp/wp-content/uploads/2016/04/railbikes.jpg",
               "https://cdn.wbtourisme.be/sites/default/files/feeds/phototheque/18680.JPG",
@@ -865,7 +865,7 @@
               "url": "https://en.ardennes-etape.be/experience/sites/default/files/2022-12/00032870-WBT%20-%20Vincent%20Ferooz-Chateau%20de%20Lavaux%20Saint-Anne.JPG",
               "details": {
               "place_name": "Le Chateau de Lavaux Sainte-Anne",
-              "location": "https://www.google.com/maps/place/Ch%C3%A2teau+de+Lavaux-Sainte-Anne/@50.115868,5.0899207,17z/data=!3m1!4b1!4m6!3m5!1s0x47c1cf79af963393:0xcedd7cfa468b3143!8m2!3d50.115868!4d5.092501!16zL20vMDZjYnN4?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.11586703897414, 5.092498151687822",
               "images": [
               "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LavauxSainteAnne_3.jpg/1200px-LavauxSainteAnne_3.jpg",
               "https://www.mariage.be/imagesclients/photo-mariage-8217-IMG_1450.JPG",
@@ -883,7 +883,7 @@
               "url": "https://www.visitmons.be/sites/visitmons/files/styles/gallery_lightbox/public/content/images/41635_mons-beffroietsainte-waudru_copt-josephjeanmartbis.jpg?itok=29ChwBJe",
               "details": {
               "place_name": "Collégiale Sainte-Waudru",
-              "location": "https://www.google.com/maps/place/Saint+Waltrude+Collegiate+Church/@50.6185526,3.1676372,8.74z/data=!4m6!3m5!1s0x47c25003ed015557:0xd3c049ca3135e825!8m2!3d50.453527!4d3.9474721!16s%2Fg%2F1td4j8ct?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.45367611882804, 3.9476029906279386",
               "images": [
               "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/9c/ac/04/collegiate-church-of.jpg?w=1200&h=-1&s=1",
               "https://connaitrelawallonie.wallonie.be/sites/default/files/styles/patrimoine_detail/public/lieux-de-patrimoine/images/mons0001_g._focant_c_spw_0.jpg?h=b8551cf4&itok=GYtB0lzb",
@@ -901,7 +901,7 @@
               "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/84/52/59/vue-du-barrage.jpg?w=900&h=500&s=1",
               "details": {
               "place_name": "Barrage de la Gileppe",
-              "location": "https://www.google.com/maps/place/Dam+Gileppe,+4837+Baelen/@50.5891598,5.9718506,17z/data=!3m1!4b1!4m6!3m5!1s0x47c088a1f906d1ff:0x8cb411ba489b254d!8m2!3d50.5891598!4d5.9744309!16s%2Fm%2F0crh9rp?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.58917364426251, 5.974418336532293",
               "images": [
               "https://ds.static.rtbf.be/article/image/1920xAuto/7/c/8/a47072176bca825aadacf648034e124b-1622720586.jpeg",
               "https://tourismus-grossregion.eu/fr/wp-content/uploads/sites/3/2022/03/Prov-Liege-Jalhay-Lac-Gileppe-Gileppe-Gileppe-6-%C2%A9-FTPL-Gregor-Lengler.jpg",
@@ -919,7 +919,7 @@
               "url": "https://cdn.wbtourisme.be/sites/default/files/styles/facebook/public/feeds/phototheque/19020.JPG?itok=k_sBFnXm",
               "details": {
               "place_name": "The Strepy-Thieu Funicular Lift",
-              "location": "https://www.google.com/maps/place/Str%C3%A9py-Thieu+Boat+Lift/@50.4774458,4.1067597,17z/data=!3m1!4b1!4m6!3m5!1s0x47c2485614ee33eb:0x120226c155cd056a!8m2!3d50.4774458!4d4.1093346!16zL20vMGQwOHc4?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.47744981019987, 4.109335248430331",
               "images": [
               "https://cdn.wbtourisme.be/sites/default/files/asc-ST_CGT-A.-Siquet.jpg",
               "https://upload.wikimedia.org/wikipedia/commons/a/ad/Upstream_view_of_Str%C3%A9py-Thieu_Ascenseur.jpg",
@@ -937,7 +937,7 @@
               "url": "https://images-prod-uitdatabank.imgix.net/ab153b17-7729-4ce3-b2f0-c41442793908.jpeg?auto=compress&auto=format&w=1200&h=800",
               "details": {
               "place_name": "Sint-Janshuismolen",
-              "location": "https://www.google.com/maps/place/Sint-Janshuismolen/@51.2154587,3.2355726,17z/data=!3m1!4b1!4m6!3m5!1s0x47c350b5f6b292b7:0xdc09d92a746789a3!8m2!3d51.2154587!4d3.2381475!16s%2Fg%2F120txh2_?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "location": "51.215458700000006, 3.238158228835295",
               "images": [
               "https://www.museabrugge.be/volumes/general/_1200x630_crop_center-center_82_none/IngeKinnetMuseaBruggeSintJanshuismolen008.jpg?mtime=1572960539",
               "https://www.visitbruges.be/sites/default/files/styles/og_image/public/media/tdms/392/card/230703_JAN2158%C2%A9jandarthet.jpg.webp?itok=2LRvSzvk",
@@ -955,7 +955,7 @@
               "url": "https://www.operaliege.be/app/uploads/2023/11/Salle-4-HDR-scaled.jpg",
               "details": {
               "place_name": "Opera Royal de Wallonie-Liège",
-              "location": "https://www.google.com/maps/place/Op%C3%A9ra+Royal+de+Wallonie-Li%C3%A8ge/@50.6435243,5.567983,17z/data=!3m1!4b1!4m6!3m5!1s0x47c0fa11cafa522b:0xf328eafe11ceb675!8m2!3d50.6435243!4d5.5705579!16s%2Fm%2F02vwq9m?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.64352412931972, 5.5705568425889815",
               "images": [
               "https://www.operaliege.be/app/uploads/2023/11/Salle-de-spectacle-%E2%92%B8-Aurelie-Remy-scaled.jpg",
               "https://origin.eu/storage/files/8f6b5835-7632-4372-b589-c99e232dc923/full_widthorw-1260x580.png",
@@ -973,7 +973,7 @@
               "url": "https://cdn.s-pass.org/SPASSDATA/media/cache/portail_vignette_xl/SPASSDATA/attachments/2023_08/29/157118-img-5309.jpeg",
               "details": {
               "place_name": "Westfront Nieuwpoort",
-              "location": "https://www.google.com/maps/place/West+Front+Newport/@51.4226475,-0.2228302,7.43z/data=!4m6!3m5!1s0x47dcbca5e2d1ceb5:0x4a342713f9717054!8m2!3d51.1360054!4d2.7556629!16s%2Fg%2F122srx3r?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.643520382081, 5.570555365305305",
               "images": [
               "https://www.nieuwpoort.be/files/uploads/imagecache/aurumNexCoupledImageExtraSmall/images/Westfront/westfront-2.jpg",
               "https://www.visit-nieuwpoort.be/sites/default/files/styles/original_ratio_zero/public/2024-07/Westfront_Stad%20Nieuwpoort_%20%C2%A9%202024%20Jan%20D%27Hondt%20Atelje%CC%81%20D%201G3A8238.jpg?itok=VS5eNsVq",
@@ -991,7 +991,7 @@
               "url": "https://www.landofmemory.eu/wp-content/uploads/2021/09/8-2.jpg",
               "details": {
               "place_name": "Mardasson Memorial",
-              "location": "https://www.google.com/maps/place/Mardasson+Memorial,+6600+Bastogne/@50.0104129,5.6989416,14z/data=!3m1!4b1!4m10!1m2!2m1!1sMardasson+Memorial!3m6!1s0x47c01999de77c725:0x78a183c386018868!8m2!3d50.01042!4d5.73791!15sChJNYXJkYXNzb24gTWVtb3JpYWySAQxzdWJsb2NhbGl0eTHgAQA!16s%2Fg%2F1hc3mdnpz?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+              "location": "50.00940695820585, 5.739048796895154",
               "images": [
               "https://www.liberationroute.com/pictures/3437/bastogne-war-museum-2_1280_1280_fit_90_1280_1280_fit_90.jpg",
               "https://en.ardennes-etape.be/experience/sites/default/files/styles/1426_750/public/2022-12/MartinDellicour_2019_DJI_0591_0.jpg?itok=CldsoVpo",
